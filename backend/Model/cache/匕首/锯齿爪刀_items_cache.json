@@ -1,0 +1,872 @@
+{
+  "knife_type": "锯齿爪刀",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:06:15.708691",
+  "total_items": 144,
+  "items": {
+    "8558": {
+      "good_id": "8558",
+      "name": "锯齿爪刀（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Scorched (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8560": {
+      "good_id": "8560",
+      "name": "锯齿爪刀（★）",
+      "market_hash_name": "★ Talon Knife",
+      "keyword": "锯齿爪刀"
+    },
+    "8561": {
+      "good_id": "8561",
+      "name": "锯齿爪刀（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Crimson Web (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8562": {
+      "good_id": "8562",
+      "name": "锯齿爪刀（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Urban Masked (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8593": {
+      "good_id": "8593",
+      "name": "锯齿爪刀（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8598": {
+      "good_id": "8598",
+      "name": "锯齿爪刀（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Case Hardened (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8599": {
+      "good_id": "8599",
+      "name": "锯齿爪刀（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8600": {
+      "good_id": "8600",
+      "name": "锯齿爪刀（★） | 夜色 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Night Stripe (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8601": {
+      "good_id": "8601",
+      "name": "锯齿爪刀（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Scorched (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8612": {
+      "good_id": "8612",
+      "name": "锯齿爪刀（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8639": {
+      "good_id": "8639",
+      "name": "锯齿爪刀（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Crimson Web (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8669": {
+      "good_id": "8669",
+      "name": "锯齿爪刀（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Crimson Web (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8670": {
+      "good_id": "8670",
+      "name": "锯齿爪刀（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Fade (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "8671": {
+      "good_id": "8671",
+      "name": "锯齿爪刀（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8672": {
+      "good_id": "8672",
+      "name": "锯齿爪刀（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Scorched (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8673": {
+      "good_id": "8673",
+      "name": "锯齿爪刀（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Stained (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8674": {
+      "good_id": "8674",
+      "name": "锯齿爪刀（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Urban Masked (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8699": {
+      "good_id": "8699",
+      "name": "锯齿爪刀（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8700": {
+      "good_id": "8700",
+      "name": "锯齿爪刀（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8701": {
+      "good_id": "8701",
+      "name": "锯齿爪刀（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8702": {
+      "good_id": "8702",
+      "name": "锯齿爪刀（★） | 夜色 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Night Stripe (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8703": {
+      "good_id": "8703",
+      "name": "锯齿爪刀（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Slaughter (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "8704": {
+      "good_id": "8704",
+      "name": "锯齿爪刀（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Stained (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8705": {
+      "good_id": "8705",
+      "name": "锯齿爪刀（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8711": {
+      "good_id": "8711",
+      "name": "锯齿爪刀（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Talon Knife",
+      "keyword": "锯齿爪刀"
+    },
+    "8712": {
+      "good_id": "8712",
+      "name": "锯齿爪刀（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Boreal Forest (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8713": {
+      "good_id": "8713",
+      "name": "锯齿爪刀（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Case Hardened (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8714": {
+      "good_id": "8714",
+      "name": "锯齿爪刀（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8715": {
+      "good_id": "8715",
+      "name": "锯齿爪刀（★） | 夜色 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8716": {
+      "good_id": "8716",
+      "name": "锯齿爪刀（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8717": {
+      "good_id": "8717",
+      "name": "锯齿爪刀（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Stained (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8718": {
+      "good_id": "8718",
+      "name": "锯齿爪刀（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Stained (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8727": {
+      "good_id": "8727",
+      "name": "锯齿爪刀（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Case Hardened (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8729": {
+      "good_id": "8729",
+      "name": "锯齿爪刀（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Blue Steel (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8734": {
+      "good_id": "8734",
+      "name": "锯齿爪刀（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Blue Steel (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8735": {
+      "good_id": "8735",
+      "name": "锯齿爪刀（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8736": {
+      "good_id": "8736",
+      "name": "锯齿爪刀（★ StatTrak™） | 夜色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Night Stripe (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8737": {
+      "good_id": "8737",
+      "name": "锯齿爪刀（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8743": {
+      "good_id": "8743",
+      "name": "锯齿爪刀（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Blue Steel (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8744": {
+      "good_id": "8744",
+      "name": "锯齿爪刀（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Safari Mesh (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8751": {
+      "good_id": "8751",
+      "name": "锯齿爪刀（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Boreal Forest (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8752": {
+      "good_id": "8752",
+      "name": "锯齿爪刀（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Slaughter (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8764": {
+      "good_id": "8764",
+      "name": "锯齿爪刀（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8765": {
+      "good_id": "8765",
+      "name": "锯齿爪刀（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Scorched (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8766": {
+      "good_id": "8766",
+      "name": "锯齿爪刀（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Slaughter (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8777": {
+      "good_id": "8777",
+      "name": "锯齿爪刀（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Blue Steel (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8781": {
+      "good_id": "8781",
+      "name": "锯齿爪刀（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Stained (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8782": {
+      "good_id": "8782",
+      "name": "锯齿爪刀（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8786": {
+      "good_id": "8786",
+      "name": "锯齿爪刀（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Slaughter (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "8787": {
+      "good_id": "8787",
+      "name": "锯齿爪刀（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Stained (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8790": {
+      "good_id": "8790",
+      "name": "锯齿爪刀（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Safari Mesh (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8791": {
+      "good_id": "8791",
+      "name": "锯齿爪刀（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Scorched (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8792": {
+      "good_id": "8792",
+      "name": "锯齿爪刀（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Stained (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "8800": {
+      "good_id": "8800",
+      "name": "锯齿爪刀（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Case Hardened (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "8806": {
+      "good_id": "8806",
+      "name": "锯齿爪刀（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Blue Steel (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8807": {
+      "good_id": "8807",
+      "name": "锯齿爪刀（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Fade (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "8815": {
+      "good_id": "8815",
+      "name": "锯齿爪刀（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8816": {
+      "good_id": "8816",
+      "name": "锯齿爪刀（★） | 夜色 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Night Stripe (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8817": {
+      "good_id": "8817",
+      "name": "锯齿爪刀（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Forest DDPAT (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "8824": {
+      "good_id": "8824",
+      "name": "锯齿爪刀（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8825": {
+      "good_id": "8825",
+      "name": "锯齿爪刀（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Crimson Web (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8826": {
+      "good_id": "8826",
+      "name": "锯齿爪刀（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8828": {
+      "good_id": "8828",
+      "name": "锯齿爪刀（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Case Hardened (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8832": {
+      "good_id": "8832",
+      "name": "锯齿爪刀（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Scorched (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "8842": {
+      "good_id": "8842",
+      "name": "锯齿爪刀（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Crimson Web (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8844": {
+      "good_id": "8844",
+      "name": "锯齿爪刀（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8845": {
+      "good_id": "8845",
+      "name": "锯齿爪刀（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Slaughter (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8847": {
+      "good_id": "8847",
+      "name": "锯齿爪刀（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "8851": {
+      "good_id": "8851",
+      "name": "锯齿爪刀（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Stained (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "8855": {
+      "good_id": "8855",
+      "name": "锯齿爪刀（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Blue Steel (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "8859": {
+      "good_id": "8859",
+      "name": "锯齿爪刀（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Case Hardened (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "8861": {
+      "good_id": "8861",
+      "name": "锯齿爪刀（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Safari Mesh (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "8863": {
+      "good_id": "8863",
+      "name": "锯齿爪刀（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "9212": {
+      "good_id": "9212",
+      "name": "锯齿爪刀（★ StatTrak™） | 夜色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Night Stripe (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "9311": {
+      "good_id": "9311",
+      "name": "锯齿爪刀（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Scorched (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "9312": {
+      "good_id": "9312",
+      "name": "锯齿爪刀（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Urban Masked (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "9322": {
+      "good_id": "9322",
+      "name": "锯齿爪刀（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "9323": {
+      "good_id": "9323",
+      "name": "锯齿爪刀（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Urban Masked (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "9473": {
+      "good_id": "9473",
+      "name": "锯齿爪刀（★ StatTrak™） | 夜色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "9479": {
+      "good_id": "9479",
+      "name": "锯齿爪刀（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Scorched (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "9481": {
+      "good_id": "9481",
+      "name": "锯齿爪刀（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Fade (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "9484": {
+      "good_id": "9484",
+      "name": "锯齿爪刀（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Safari Mesh (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "9486": {
+      "good_id": "9486",
+      "name": "锯齿爪刀（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Case Hardened (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "9487": {
+      "good_id": "9487",
+      "name": "锯齿爪刀（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "9665": {
+      "good_id": "9665",
+      "name": "锯齿爪刀（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Crimson Web (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "9666": {
+      "good_id": "9666",
+      "name": "锯齿爪刀（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "9677": {
+      "good_id": "9677",
+      "name": "锯齿爪刀（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Safari Mesh (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "9681": {
+      "good_id": "9681",
+      "name": "锯齿爪刀（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "9706": {
+      "good_id": "9706",
+      "name": "锯齿爪刀（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Fade (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "9707": {
+      "good_id": "9707",
+      "name": "锯齿爪刀（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Stained (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "9708": {
+      "good_id": "9708",
+      "name": "锯齿爪刀（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Slaughter (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "9858": {
+      "good_id": "9858",
+      "name": "锯齿爪刀（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "9862": {
+      "good_id": "9862",
+      "name": "锯齿爪刀（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "9863": {
+      "good_id": "9863",
+      "name": "锯齿爪刀（★） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Night Stripe (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "9864": {
+      "good_id": "9864",
+      "name": "锯齿爪刀（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Case Hardened (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "9870": {
+      "good_id": "9870",
+      "name": "锯齿爪刀（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Stained (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "9871": {
+      "good_id": "9871",
+      "name": "锯齿爪刀（★ StatTrak™） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "9881": {
+      "good_id": "9881",
+      "name": "锯齿爪刀（★ StatTrak™） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Crimson Web (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10324": {
+      "good_id": "10324",
+      "name": "锯齿爪刀（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Blue Steel (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10476": {
+      "good_id": "10476",
+      "name": "锯齿爪刀（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Crimson Web (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10489": {
+      "good_id": "10489",
+      "name": "锯齿爪刀（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Damascus Steel (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "10490": {
+      "good_id": "10490",
+      "name": "锯齿爪刀（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Doppler (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10491": {
+      "good_id": "10491",
+      "name": "锯齿爪刀（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Doppler (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "10492": {
+      "good_id": "10492",
+      "name": "锯齿爪刀（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Talon Knife | Ultraviolet (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "10502": {
+      "good_id": "10502",
+      "name": "锯齿爪刀（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Marble Fade (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10503": {
+      "good_id": "10503",
+      "name": "锯齿爪刀（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "10513": {
+      "good_id": "10513",
+      "name": "锯齿爪刀（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "10514": {
+      "good_id": "10514",
+      "name": "锯齿爪刀（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Rust Coat (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "10519": {
+      "good_id": "10519",
+      "name": "锯齿爪刀（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "10524": {
+      "good_id": "10524",
+      "name": "锯齿爪刀（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Damascus Steel (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10529": {
+      "good_id": "10529",
+      "name": "锯齿爪刀（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Marble Fade (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10533": {
+      "good_id": "10533",
+      "name": "锯齿爪刀（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Tiger Tooth (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10543": {
+      "good_id": "10543",
+      "name": "锯齿爪刀（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Damascus Steel (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "10544": {
+      "good_id": "10544",
+      "name": "锯齿爪刀（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "10545": {
+      "good_id": "10545",
+      "name": "锯齿爪刀（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "10558": {
+      "good_id": "10558",
+      "name": "锯齿爪刀（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Ultraviolet (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "10562": {
+      "good_id": "10562",
+      "name": "锯齿爪刀（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Ultraviolet (Field-Tested)",
+      "keyword": "锯齿爪刀"
+    },
+    "10596": {
+      "good_id": "10596",
+      "name": "锯齿爪刀（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Doppler (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10601": {
+      "good_id": "10601",
+      "name": "锯齿爪刀（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "10602": {
+      "good_id": "10602",
+      "name": "锯齿爪刀（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Marble Fade (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "10603": {
+      "good_id": "10603",
+      "name": "锯齿爪刀（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Damascus Steel (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10604": {
+      "good_id": "10604",
+      "name": "锯齿爪刀（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Talon Knife | Damascus Steel (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "10605": {
+      "good_id": "10605",
+      "name": "锯齿爪刀（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Talon Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "10608": {
+      "good_id": "10608",
+      "name": "锯齿爪刀（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "10612": {
+      "good_id": "10612",
+      "name": "锯齿爪刀（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Tiger Tooth (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10614": {
+      "good_id": "10614",
+      "name": "锯齿爪刀（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "10617": {
+      "good_id": "10617",
+      "name": "锯齿爪刀（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Talon Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "10620": {
+      "good_id": "10620",
+      "name": "锯齿爪刀（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "10625": {
+      "good_id": "10625",
+      "name": "锯齿爪刀（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Rust Coat (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "10632": {
+      "good_id": "10632",
+      "name": "锯齿爪刀（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Boreal Forest (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10635": {
+      "good_id": "10635",
+      "name": "锯齿爪刀（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Doppler (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "10639": {
+      "good_id": "10639",
+      "name": "锯齿爪刀（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Talon Knife | Ultraviolet (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "10641": {
+      "good_id": "10641",
+      "name": "锯齿爪刀（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "11129": {
+      "good_id": "11129",
+      "name": "锯齿爪刀（★ StatTrak™） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "11139": {
+      "good_id": "11139",
+      "name": "锯齿爪刀（★ StatTrak™） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Ultraviolet (Factory New)",
+      "keyword": "锯齿爪刀"
+    },
+    "11399": {
+      "good_id": "11399",
+      "name": "锯齿爪刀（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Damascus Steel (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "18917": {
+      "good_id": "18917",
+      "name": "锯齿爪刀（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Blue Steel (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "18954": {
+      "good_id": "18954",
+      "name": "锯齿爪刀（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "锯齿爪刀"
+    },
+    "18973": {
+      "good_id": "18973",
+      "name": "锯齿爪刀（★ StatTrak™） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "锯齿爪刀"
+    },
+    "18998": {
+      "good_id": "18998",
+      "name": "锯齿爪刀（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Scorched (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "19049": {
+      "good_id": "19049",
+      "name": "锯齿爪刀（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Ultraviolet (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "19054": {
+      "good_id": "19054",
+      "name": "锯齿爪刀（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "19088": {
+      "good_id": "19088",
+      "name": "锯齿爪刀（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    },
+    "19140": {
+      "good_id": "19140",
+      "name": "锯齿爪刀（★ StatTrak™） | 夜色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Talon Knife | Night Stripe (Well-Worn)",
+      "keyword": "锯齿爪刀"
+    }
+  }
+}

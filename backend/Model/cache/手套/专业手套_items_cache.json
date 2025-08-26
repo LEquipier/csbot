@@ -1,0 +1,368 @@
+{
+  "knife_type": "专业手套",
+  "category": "手套",
+  "cache_time": "2025-08-25T01:27:31.760583",
+  "total_items": 60,
+  "items": {
+    "6617": {
+      "good_id": "6617",
+      "name": "专业手套（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Crimson Web (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "7447": {
+      "good_id": "7447",
+      "name": "专业手套（★） | 深红和服 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Crimson Kimono (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "7448": {
+      "good_id": "7448",
+      "name": "专业手套（★） | 深红和服 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Crimson Kimono (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "7449": {
+      "good_id": "7449",
+      "name": "专业手套（★） | 深红和服 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Crimson Kimono (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "7450": {
+      "good_id": "7450",
+      "name": "专业手套（★） | 深红和服 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Crimson Kimono (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "7451": {
+      "good_id": "7451",
+      "name": "专业手套（★） | 翠绿之网 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Emerald Web (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "7452": {
+      "good_id": "7452",
+      "name": "专业手套（★） | 翠绿之网 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Emerald Web (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "7453": {
+      "good_id": "7453",
+      "name": "专业手套（★） | 翠绿之网 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Emerald Web (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "7454": {
+      "good_id": "7454",
+      "name": "专业手套（★） | 翠绿之网 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Emerald Web (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "7455": {
+      "good_id": "7455",
+      "name": "专业手套（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "7456": {
+      "good_id": "7456",
+      "name": "专业手套（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Factory New)",
+      "keyword": "专业手套"
+    },
+    "7457": {
+      "good_id": "7457",
+      "name": "专业手套（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "7458": {
+      "good_id": "7458",
+      "name": "专业手套（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "7459": {
+      "good_id": "7459",
+      "name": "专业手套（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "7460": {
+      "good_id": "7460",
+      "name": "专业手套（★） | 元勋 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Foundation (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "7461": {
+      "good_id": "7461",
+      "name": "专业手套（★） | 元勋 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Foundation (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "7462": {
+      "good_id": "7462",
+      "name": "专业手套（★） | 元勋 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Foundation (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "7463": {
+      "good_id": "7463",
+      "name": "专业手套（★） | 元勋 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Foundation (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "8086": {
+      "good_id": "8086",
+      "name": "专业手套（★） | 元勋 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Foundation (Factory New)",
+      "keyword": "专业手套"
+    },
+    "8198": {
+      "good_id": "8198",
+      "name": "专业手套（★） | 大腕 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Mogul (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "8226": {
+      "good_id": "8226",
+      "name": "专业手套（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Crimson Web (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "8263": {
+      "good_id": "8263",
+      "name": "专业手套（★） | 翠绿之网 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Emerald Web (Factory New)",
+      "keyword": "专业手套"
+    },
+    "8280": {
+      "good_id": "8280",
+      "name": "专业手套（★） | 狩鹿 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Buckshot (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "8281": {
+      "good_id": "8281",
+      "name": "专业手套（★） | 大腕 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Mogul (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "8286": {
+      "good_id": "8286",
+      "name": "专业手套（★） | 渐变之色 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Fade (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "8297": {
+      "good_id": "8297",
+      "name": "专业手套（★） | 渐变之色 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Fade (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "8323": {
+      "good_id": "8323",
+      "name": "专业手套（★） | 狩鹿 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Buckshot (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "8324": {
+      "good_id": "8324",
+      "name": "专业手套（★） | 狩鹿 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Buckshot (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "8325": {
+      "good_id": "8325",
+      "name": "专业手套（★） | 渐变之色 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Fade (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "8326": {
+      "good_id": "8326",
+      "name": "专业手套（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Fade (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "8327": {
+      "good_id": "8327",
+      "name": "专业手套（★） | 大腕 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Mogul (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "8348": {
+      "good_id": "8348",
+      "name": "专业手套（★） | 大腕 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Mogul (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "8350": {
+      "good_id": "8350",
+      "name": "专业手套（★） | 狩鹿 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Buckshot (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "8359": {
+      "good_id": "8359",
+      "name": "专业手套（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Crimson Web (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "8365": {
+      "good_id": "8365",
+      "name": "专业手套（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Crimson Web (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "8398": {
+      "good_id": "8398",
+      "name": "专业手套（★） | 大腕 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Mogul (Factory New)",
+      "keyword": "专业手套"
+    },
+    "8404": {
+      "good_id": "8404",
+      "name": "专业手套（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Crimson Web (Factory New)",
+      "keyword": "专业手套"
+    },
+    "8440": {
+      "good_id": "8440",
+      "name": "专业手套（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Fade (Factory New)",
+      "keyword": "专业手套"
+    },
+    "8656": {
+      "good_id": "8656",
+      "name": "专业手套（★） | 狩鹿 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Buckshot (Factory New)",
+      "keyword": "专业手套"
+    },
+    "9306": {
+      "good_id": "9306",
+      "name": "专业手套（★） | 深红和服 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Crimson Kimono (Factory New)",
+      "keyword": "专业手套"
+    },
+    "12853": {
+      "good_id": "12853",
+      "name": "专业手套（★） | 老虎精英 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Tiger Strike (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "12909": {
+      "good_id": "12909",
+      "name": "专业手套（★） | 渐变大理石 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Marble Fade (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "12917": {
+      "good_id": "12917",
+      "name": "专业手套（★） | 渐变大理石 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Marble Fade (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "12936": {
+      "good_id": "12936",
+      "name": "专业手套（★） | 渐变大理石 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Marble Fade (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "12944": {
+      "good_id": "12944",
+      "name": "专业手套（★） | 陆军少尉长官 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Lt. Commander (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "12949": {
+      "good_id": "12949",
+      "name": "专业手套（★） | 陆军少尉长官 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Lt. Commander (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "12951": {
+      "good_id": "12951",
+      "name": "专业手套（★） | 一线特工 (久经沙场)",
+      "market_hash_name": "★ Specialist Gloves | Field Agent (Field-Tested)",
+      "keyword": "专业手套"
+    },
+    "12952": {
+      "good_id": "12952",
+      "name": "专业手套（★） | 一线特工 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Field Agent (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "12983": {
+      "good_id": "12983",
+      "name": "专业手套（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Marble Fade (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "12991": {
+      "good_id": "12991",
+      "name": "专业手套（★） | 老虎精英 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Tiger Strike (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "12992": {
+      "good_id": "12992",
+      "name": "专业手套（★） | 一线特工 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Field Agent (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "12996": {
+      "good_id": "12996",
+      "name": "专业手套（★） | 老虎精英 (略有磨损)",
+      "market_hash_name": "★ Specialist Gloves | Tiger Strike (Minimal Wear)",
+      "keyword": "专业手套"
+    },
+    "12998": {
+      "good_id": "12998",
+      "name": "专业手套（★） | 陆军少尉长官 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Lt. Commander (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "13007": {
+      "good_id": "13007",
+      "name": "专业手套（★） | 一线特工 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Field Agent (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "13017": {
+      "good_id": "13017",
+      "name": "专业手套（★） | 老虎精英 (破损不堪)",
+      "market_hash_name": "★ Specialist Gloves | Tiger Strike (Well-Worn)",
+      "keyword": "专业手套"
+    },
+    "13020": {
+      "good_id": "13020",
+      "name": "专业手套（★） | 陆军少尉长官 (战痕累累)",
+      "market_hash_name": "★ Specialist Gloves | Lt. Commander (Battle-Scarred)",
+      "keyword": "专业手套"
+    },
+    "13028": {
+      "good_id": "13028",
+      "name": "专业手套（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Marble Fade (Factory New)",
+      "keyword": "专业手套"
+    },
+    "13038": {
+      "good_id": "13038",
+      "name": "专业手套（★） | 老虎精英 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Tiger Strike (Factory New)",
+      "keyword": "专业手套"
+    },
+    "13041": {
+      "good_id": "13041",
+      "name": "专业手套（★） | 陆军少尉长官 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Lt. Commander (Factory New)",
+      "keyword": "专业手套"
+    },
+    "13043": {
+      "good_id": "13043",
+      "name": "专业手套（★） | 一线特工 (崭新出厂)",
+      "market_hash_name": "★ Specialist Gloves | Field Agent (Factory New)",
+      "keyword": "专业手套"
+    }
+  }
+}

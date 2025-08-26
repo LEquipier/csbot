@@ -1,0 +1,860 @@
+{
+  "knife_type": "折刀",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:05:45.675837",
+  "total_items": 142,
+  "items": {
+    "8557": {
+      "good_id": "8557",
+      "name": "折刀（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Slaughter (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8581": {
+      "good_id": "8581",
+      "name": "折刀（★）",
+      "market_hash_name": "★ Navaja Knife",
+      "keyword": "折刀"
+    },
+    "8582": {
+      "good_id": "8582",
+      "name": "折刀（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Crimson Web (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8583": {
+      "good_id": "8583",
+      "name": "折刀（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Fade (Factory New)",
+      "keyword": "折刀"
+    },
+    "8584": {
+      "good_id": "8584",
+      "name": "折刀（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8585": {
+      "good_id": "8585",
+      "name": "折刀（★） | 夜色 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Night Stripe (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "8586": {
+      "good_id": "8586",
+      "name": "折刀（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8587": {
+      "good_id": "8587",
+      "name": "折刀（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Slaughter (Factory New)",
+      "keyword": "折刀"
+    },
+    "8588": {
+      "good_id": "8588",
+      "name": "折刀（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Urban Masked (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8589": {
+      "good_id": "8589",
+      "name": "折刀（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Urban Masked (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "8590": {
+      "good_id": "8590",
+      "name": "折刀（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Crimson Web (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8619": {
+      "good_id": "8619",
+      "name": "折刀（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8620": {
+      "good_id": "8620",
+      "name": "折刀（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Blue Steel (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8621": {
+      "good_id": "8621",
+      "name": "折刀（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Boreal Forest (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8622": {
+      "good_id": "8622",
+      "name": "折刀（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Case Hardened (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8623": {
+      "good_id": "8623",
+      "name": "折刀（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Case Hardened (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "8624": {
+      "good_id": "8624",
+      "name": "折刀（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Crimson Web (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8625": {
+      "good_id": "8625",
+      "name": "折刀（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Crimson Web (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "8626": {
+      "good_id": "8626",
+      "name": "折刀（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Safari Mesh (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "8627": {
+      "good_id": "8627",
+      "name": "折刀（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Stained (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8628": {
+      "good_id": "8628",
+      "name": "折刀（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Boreal Forest (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8629": {
+      "good_id": "8629",
+      "name": "折刀（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Slaughter (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8648": {
+      "good_id": "8648",
+      "name": "折刀（★） | 夜色 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Night Stripe (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8653": {
+      "good_id": "8653",
+      "name": "折刀（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Blue Steel (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8654": {
+      "good_id": "8654",
+      "name": "折刀（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Safari Mesh (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8655": {
+      "good_id": "8655",
+      "name": "折刀（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Scorched (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8657": {
+      "good_id": "8657",
+      "name": "折刀（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Navaja Knife",
+      "keyword": "折刀"
+    },
+    "8658": {
+      "good_id": "8658",
+      "name": "折刀（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Blue Steel (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8686": {
+      "good_id": "8686",
+      "name": "折刀（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8687": {
+      "good_id": "8687",
+      "name": "折刀（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Case Hardened (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8688": {
+      "good_id": "8688",
+      "name": "折刀（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8689": {
+      "good_id": "8689",
+      "name": "折刀（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Scorched (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8690": {
+      "good_id": "8690",
+      "name": "折刀（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Slaughter (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8691": {
+      "good_id": "8691",
+      "name": "折刀（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8692": {
+      "good_id": "8692",
+      "name": "折刀（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Urban Masked (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8693": {
+      "good_id": "8693",
+      "name": "折刀（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Urban Masked (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8724": {
+      "good_id": "8724",
+      "name": "折刀（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8725": {
+      "good_id": "8725",
+      "name": "折刀（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Stained (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8726": {
+      "good_id": "8726",
+      "name": "折刀（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Fade (Factory New)",
+      "keyword": "折刀"
+    },
+    "8731": {
+      "good_id": "8731",
+      "name": "折刀（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Blue Steel (Factory New)",
+      "keyword": "折刀"
+    },
+    "8732": {
+      "good_id": "8732",
+      "name": "折刀（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8746": {
+      "good_id": "8746",
+      "name": "折刀（★） | 夜色 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8747": {
+      "good_id": "8747",
+      "name": "折刀（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Scorched (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8756": {
+      "good_id": "8756",
+      "name": "折刀（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8757": {
+      "good_id": "8757",
+      "name": "折刀（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Blue Steel (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8758": {
+      "good_id": "8758",
+      "name": "折刀（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Scorched (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8771": {
+      "good_id": "8771",
+      "name": "折刀（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Slaughter (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8784": {
+      "good_id": "8784",
+      "name": "折刀（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Scorched (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "8793": {
+      "good_id": "8793",
+      "name": "折刀（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "8794": {
+      "good_id": "8794",
+      "name": "折刀（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8802": {
+      "good_id": "8802",
+      "name": "折刀（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Blue Steel (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "8803": {
+      "good_id": "8803",
+      "name": "折刀（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8804": {
+      "good_id": "8804",
+      "name": "折刀（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Safari Mesh (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8811": {
+      "good_id": "8811",
+      "name": "折刀（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Stained (Factory New)",
+      "keyword": "折刀"
+    },
+    "8812": {
+      "good_id": "8812",
+      "name": "折刀（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Stained (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8821": {
+      "good_id": "8821",
+      "name": "折刀（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Stained (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "8822": {
+      "good_id": "8822",
+      "name": "折刀（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Case Hardened (Factory New)",
+      "keyword": "折刀"
+    },
+    "8823": {
+      "good_id": "8823",
+      "name": "折刀（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Scorched (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "8827": {
+      "good_id": "8827",
+      "name": "折刀（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Case Hardened (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8829": {
+      "good_id": "8829",
+      "name": "折刀（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8834": {
+      "good_id": "8834",
+      "name": "折刀（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Case Hardened (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8835": {
+      "good_id": "8835",
+      "name": "折刀（★ StatTrak™） | 夜色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "8849": {
+      "good_id": "8849",
+      "name": "折刀（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Stained (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "8856": {
+      "good_id": "8856",
+      "name": "折刀（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "8860": {
+      "good_id": "8860",
+      "name": "折刀（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "9315": {
+      "good_id": "9315",
+      "name": "折刀（★） | 夜色 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Night Stripe (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "9316": {
+      "good_id": "9316",
+      "name": "折刀（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "9317": {
+      "good_id": "9317",
+      "name": "折刀（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "9321": {
+      "good_id": "9321",
+      "name": "折刀（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Boreal Forest (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "9493": {
+      "good_id": "9493",
+      "name": "折刀（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Boreal Forest (Factory New)",
+      "keyword": "折刀"
+    },
+    "9494": {
+      "good_id": "9494",
+      "name": "折刀（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Case Hardened (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "9495": {
+      "good_id": "9495",
+      "name": "折刀（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Crimson Web (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "9507": {
+      "good_id": "9507",
+      "name": "折刀（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Fade (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "9508": {
+      "good_id": "9508",
+      "name": "折刀（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "9651": {
+      "good_id": "9651",
+      "name": "折刀（★ StatTrak™） | 夜色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "9663": {
+      "good_id": "9663",
+      "name": "折刀（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Slaughter (Factory New)",
+      "keyword": "折刀"
+    },
+    "9667": {
+      "good_id": "9667",
+      "name": "折刀（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Urban Masked (Factory New)",
+      "keyword": "折刀"
+    },
+    "9670": {
+      "good_id": "9670",
+      "name": "折刀（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Urban Masked (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "9672": {
+      "good_id": "9672",
+      "name": "折刀（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Forest DDPAT (Factory New)",
+      "keyword": "折刀"
+    },
+    "9675": {
+      "good_id": "9675",
+      "name": "折刀（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Fade (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "9705": {
+      "good_id": "9705",
+      "name": "折刀（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Stained (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "9852": {
+      "good_id": "9852",
+      "name": "折刀（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Scorched (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "9869": {
+      "good_id": "9869",
+      "name": "折刀（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Scorched (Factory New)",
+      "keyword": "折刀"
+    },
+    "9872": {
+      "good_id": "9872",
+      "name": "折刀（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Crimson Web (Factory New)",
+      "keyword": "折刀"
+    },
+    "9876": {
+      "good_id": "9876",
+      "name": "折刀（★ StatTrak™） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Factory New)",
+      "keyword": "折刀"
+    },
+    "10322": {
+      "good_id": "10322",
+      "name": "折刀（★ StatTrak™） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Urban Masked (Factory New)",
+      "keyword": "折刀"
+    },
+    "10475": {
+      "good_id": "10475",
+      "name": "折刀（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Doppler (Factory New)",
+      "keyword": "折刀"
+    },
+    "10484": {
+      "good_id": "10484",
+      "name": "折刀（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "10485": {
+      "good_id": "10485",
+      "name": "折刀（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Tiger Tooth (Factory New)",
+      "keyword": "折刀"
+    },
+    "10486": {
+      "good_id": "10486",
+      "name": "折刀（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "10497": {
+      "good_id": "10497",
+      "name": "折刀（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "10505": {
+      "good_id": "10505",
+      "name": "折刀（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Damascus Steel (Factory New)",
+      "keyword": "折刀"
+    },
+    "10506": {
+      "good_id": "10506",
+      "name": "折刀（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Damascus Steel (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "10507": {
+      "good_id": "10507",
+      "name": "折刀（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Marble Fade (Factory New)",
+      "keyword": "折刀"
+    },
+    "10508": {
+      "good_id": "10508",
+      "name": "折刀（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "10509": {
+      "good_id": "10509",
+      "name": "折刀（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Navaja Knife | Ultraviolet (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "10522": {
+      "good_id": "10522",
+      "name": "折刀（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Tiger Tooth (Factory New)",
+      "keyword": "折刀"
+    },
+    "10526": {
+      "good_id": "10526",
+      "name": "折刀（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "10527": {
+      "good_id": "10527",
+      "name": "折刀（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Ultraviolet (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "10541": {
+      "good_id": "10541",
+      "name": "折刀（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Ultraviolet (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "10542": {
+      "good_id": "10542",
+      "name": "折刀（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Marble Fade (Factory New)",
+      "keyword": "折刀"
+    },
+    "10553": {
+      "good_id": "10553",
+      "name": "折刀（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Marble Fade (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "10564": {
+      "good_id": "10564",
+      "name": "折刀（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Damascus Steel (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "10566": {
+      "good_id": "10566",
+      "name": "折刀（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Damascus Steel (Factory New)",
+      "keyword": "折刀"
+    },
+    "10567": {
+      "good_id": "10567",
+      "name": "折刀（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Doppler (Factory New)",
+      "keyword": "折刀"
+    },
+    "10571": {
+      "good_id": "10571",
+      "name": "折刀（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "10595": {
+      "good_id": "10595",
+      "name": "折刀（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Navaja Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "10597": {
+      "good_id": "10597",
+      "name": "折刀（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "10606": {
+      "good_id": "10606",
+      "name": "折刀（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Rust Coat (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "10610": {
+      "good_id": "10610",
+      "name": "折刀（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "10613": {
+      "good_id": "10613",
+      "name": "折刀（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Ultraviolet (Factory New)",
+      "keyword": "折刀"
+    },
+    "10618": {
+      "good_id": "10618",
+      "name": "折刀（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Doppler (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "10622": {
+      "good_id": "10622",
+      "name": "折刀（★） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Night Stripe (Factory New)",
+      "keyword": "折刀"
+    },
+    "10627": {
+      "good_id": "10627",
+      "name": "折刀（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Navaja Knife | Doppler (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "10628": {
+      "good_id": "10628",
+      "name": "折刀（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Marble Fade (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "10640": {
+      "good_id": "10640",
+      "name": "折刀（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Rust Coat (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "12133": {
+      "good_id": "12133",
+      "name": "折刀（★ StatTrak™） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Crimson Web (Factory New)",
+      "keyword": "折刀"
+    },
+    "13044": {
+      "good_id": "13044",
+      "name": "折刀（★ StatTrak™） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Boreal Forest (Factory New)",
+      "keyword": "折刀"
+    },
+    "18952": {
+      "good_id": "18952",
+      "name": "折刀（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "18961": {
+      "good_id": "18961",
+      "name": "折刀（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Navaja Knife | Damascus Steel (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "18962": {
+      "good_id": "18962",
+      "name": "折刀（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "18963": {
+      "good_id": "18963",
+      "name": "折刀（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "18997": {
+      "good_id": "18997",
+      "name": "折刀（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "19020": {
+      "good_id": "19020",
+      "name": "折刀（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Case Hardened (Factory New)",
+      "keyword": "折刀"
+    },
+    "19022": {
+      "good_id": "19022",
+      "name": "折刀（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Stained (Field-Tested)",
+      "keyword": "折刀"
+    },
+    "19024": {
+      "good_id": "19024",
+      "name": "折刀（★ StatTrak™） | 夜色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "19047": {
+      "good_id": "19047",
+      "name": "折刀（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "19048": {
+      "good_id": "19048",
+      "name": "折刀（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Ultraviolet (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "19051": {
+      "good_id": "19051",
+      "name": "折刀（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Boreal Forest (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "19052": {
+      "good_id": "19052",
+      "name": "折刀（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Stained (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "19053": {
+      "good_id": "19053",
+      "name": "折刀（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Stained (Factory New)",
+      "keyword": "折刀"
+    },
+    "19087": {
+      "good_id": "19087",
+      "name": "折刀（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Navaja Knife | Safari Mesh (Factory New)",
+      "keyword": "折刀"
+    },
+    "19089": {
+      "good_id": "19089",
+      "name": "折刀（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Blue Steel (Factory New)",
+      "keyword": "折刀"
+    },
+    "19090": {
+      "good_id": "19090",
+      "name": "折刀（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Blue Steel (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "19138": {
+      "good_id": "19138",
+      "name": "折刀（★ StatTrak™） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "折刀"
+    },
+    "19139": {
+      "good_id": "19139",
+      "name": "折刀（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Safari Mesh (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "19142": {
+      "good_id": "19142",
+      "name": "折刀（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Urban Masked (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "19144": {
+      "good_id": "19144",
+      "name": "折刀（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Scorched (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "19147": {
+      "good_id": "19147",
+      "name": "折刀（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Crimson Web (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "19148": {
+      "good_id": "19148",
+      "name": "折刀（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "折刀"
+    },
+    "19149": {
+      "good_id": "19149",
+      "name": "折刀（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "折刀"
+    },
+    "19150": {
+      "good_id": "19150",
+      "name": "折刀（★ StatTrak™） | 夜色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "折刀"
+    }
+  }
+}

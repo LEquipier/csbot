@@ -1,0 +1,680 @@
+{
+  "knife_type": "廓尔喀刀",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:08:06.900529",
+  "total_items": 112,
+  "items": {
+    "19621": {
+      "good_id": "19621",
+      "name": "廓尔喀刀（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Kukri Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "19622": {
+      "good_id": "19622",
+      "name": "廓尔喀刀（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Kukri Knife | Safari Mesh (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "19623": {
+      "good_id": "19623",
+      "name": "廓尔喀刀（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Safari Mesh (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19624": {
+      "good_id": "19624",
+      "name": "廓尔喀刀（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Kukri Knife | Urban Masked (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "19625": {
+      "good_id": "19625",
+      "name": "廓尔喀刀（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Kukri Knife | Scorched (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "19626": {
+      "good_id": "19626",
+      "name": "廓尔喀刀（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Urban Masked (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19627": {
+      "good_id": "19627",
+      "name": "廓尔喀刀（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Boreal Forest (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19628": {
+      "good_id": "19628",
+      "name": "廓尔喀刀（★） | 夜色 (破损不堪)",
+      "market_hash_name": "★ Kukri Knife | Night Stripe (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "19629": {
+      "good_id": "19629",
+      "name": "廓尔喀刀（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19630": {
+      "good_id": "19630",
+      "name": "廓尔喀刀（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Scorched (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19631": {
+      "good_id": "19631",
+      "name": "廓尔喀刀（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Kukri Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "19632": {
+      "good_id": "19632",
+      "name": "廓尔喀刀（★） | 夜色 (战痕累累)",
+      "market_hash_name": "★ Kukri Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "19633": {
+      "good_id": "19633",
+      "name": "廓尔喀刀（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Kukri Knife | Scorched (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "19634": {
+      "good_id": "19634",
+      "name": "廓尔喀刀（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19635": {
+      "good_id": "19635",
+      "name": "廓尔喀刀（★） | 夜色 (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Night Stripe (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19636": {
+      "good_id": "19636",
+      "name": "廓尔喀刀（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Scorched (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "19637": {
+      "good_id": "19637",
+      "name": "廓尔喀刀（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "19638": {
+      "good_id": "19638",
+      "name": "廓尔喀刀（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19639": {
+      "good_id": "19639",
+      "name": "廓尔喀刀（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19640": {
+      "good_id": "19640",
+      "name": "廓尔喀刀（★ StatTrak™） | 夜色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Night Stripe (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19641": {
+      "good_id": "19641",
+      "name": "廓尔喀刀（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Scorched (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19642": {
+      "good_id": "19642",
+      "name": "廓尔喀刀（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Kukri Knife | Stained (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "19643": {
+      "good_id": "19643",
+      "name": "廓尔喀刀（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Urban Masked (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "19644": {
+      "good_id": "19644",
+      "name": "廓尔喀刀（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Scorched (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19646": {
+      "good_id": "19646",
+      "name": "廓尔喀刀（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Stained (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "19647": {
+      "good_id": "19647",
+      "name": "廓尔喀刀（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19649": {
+      "good_id": "19649",
+      "name": "廓尔喀刀（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Urban Masked (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19650": {
+      "good_id": "19650",
+      "name": "廓尔喀刀（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Kukri Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "19651": {
+      "good_id": "19651",
+      "name": "廓尔喀刀（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Stained (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19652": {
+      "good_id": "19652",
+      "name": "廓尔喀刀（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Kukri Knife | Stained (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "19655": {
+      "good_id": "19655",
+      "name": "廓尔喀刀（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Stained (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19656": {
+      "good_id": "19656",
+      "name": "廓尔喀刀（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Boreal Forest (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "19657": {
+      "good_id": "19657",
+      "name": "廓尔喀刀（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Urban Masked (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19658": {
+      "good_id": "19658",
+      "name": "廓尔喀刀（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Kukri Knife | Blue Steel (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "19659": {
+      "good_id": "19659",
+      "name": "廓尔喀刀（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Blue Steel (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19660": {
+      "good_id": "19660",
+      "name": "廓尔喀刀（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Kukri Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "19661": {
+      "good_id": "19661",
+      "name": "廓尔喀刀（★） | 夜色 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Night Stripe (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19662": {
+      "good_id": "19662",
+      "name": "廓尔喀刀（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Kukri Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "19663": {
+      "good_id": "19663",
+      "name": "廓尔喀刀（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Kukri Knife | Case Hardened (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "19664": {
+      "good_id": "19664",
+      "name": "廓尔喀刀（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Case Hardened (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19665": {
+      "good_id": "19665",
+      "name": "廓尔喀刀（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "19666": {
+      "good_id": "19666",
+      "name": "廓尔喀刀（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Crimson Web (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19667": {
+      "good_id": "19667",
+      "name": "廓尔喀刀（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Blue Steel (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19668": {
+      "good_id": "19668",
+      "name": "廓尔喀刀（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Case Hardened (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19669": {
+      "good_id": "19669",
+      "name": "廓尔喀刀（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19670": {
+      "good_id": "19670",
+      "name": "廓尔喀刀（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Blue Steel (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19671": {
+      "good_id": "19671",
+      "name": "廓尔喀刀（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Crimson Web (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19672": {
+      "good_id": "19672",
+      "name": "廓尔喀刀（★ StatTrak™） | 夜色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Night Stripe (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19673": {
+      "good_id": "19673",
+      "name": "廓尔喀刀（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Scorched (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "19674": {
+      "good_id": "19674",
+      "name": "廓尔喀刀（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Slaughter (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19675": {
+      "good_id": "19675",
+      "name": "廓尔喀刀（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Case Hardened (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "19676": {
+      "good_id": "19676",
+      "name": "廓尔喀刀（★）",
+      "market_hash_name": "★ Kukri Knife",
+      "keyword": "廓尔喀刀"
+    },
+    "19677": {
+      "good_id": "19677",
+      "name": "廓尔喀刀（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Slaughter (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "19678": {
+      "good_id": "19678",
+      "name": "廓尔喀刀（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Slaughter (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19681": {
+      "good_id": "19681",
+      "name": "廓尔喀刀（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Slaughter (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "19682": {
+      "good_id": "19682",
+      "name": "廓尔喀刀（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Crimson Web (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19683": {
+      "good_id": "19683",
+      "name": "廓尔喀刀（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Crimson Web (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19684": {
+      "good_id": "19684",
+      "name": "廓尔喀刀（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Kukri Knife | Fade (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19685": {
+      "good_id": "19685",
+      "name": "廓尔喀刀（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Case Hardened (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "19686": {
+      "good_id": "19686",
+      "name": "廓尔喀刀（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Fade (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "19687": {
+      "good_id": "19687",
+      "name": "廓尔喀刀（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Case Hardened (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "19688": {
+      "good_id": "19688",
+      "name": "廓尔喀刀（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Fade (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "19689": {
+      "good_id": "19689",
+      "name": "廓尔喀刀（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Kukri Knife",
+      "keyword": "廓尔喀刀"
+    },
+    "19690": {
+      "good_id": "19690",
+      "name": "廓尔喀刀（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Crimson Web (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21432": {
+      "good_id": "21432",
+      "name": "廓尔喀刀（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Kukri Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "21433": {
+      "good_id": "21433",
+      "name": "廓尔喀刀（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Kukri Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "21434": {
+      "good_id": "21434",
+      "name": "廓尔喀刀（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Kukri Knife | Slaughter (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "21435": {
+      "good_id": "21435",
+      "name": "廓尔喀刀（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Stained (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "21436": {
+      "good_id": "21436",
+      "name": "廓尔喀刀（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Kukri Knife | Crimson Web (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "21437": {
+      "good_id": "21437",
+      "name": "廓尔喀刀（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Case Hardened (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "21438": {
+      "good_id": "21438",
+      "name": "廓尔喀刀（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Boreal Forest (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "21439": {
+      "good_id": "21439",
+      "name": "廓尔喀刀（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Blue Steel (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21440": {
+      "good_id": "21440",
+      "name": "廓尔喀刀（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Safari Mesh (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "21441": {
+      "good_id": "21441",
+      "name": "廓尔喀刀（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Blue Steel (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "21442": {
+      "good_id": "21442",
+      "name": "廓尔喀刀（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Stained (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "21443": {
+      "good_id": "21443",
+      "name": "廓尔喀刀（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Blue Steel (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "21444": {
+      "good_id": "21444",
+      "name": "廓尔喀刀（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Stained (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21445": {
+      "good_id": "21445",
+      "name": "廓尔喀刀（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "21446": {
+      "good_id": "21446",
+      "name": "廓尔喀刀（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Urban Masked (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "21447": {
+      "good_id": "21447",
+      "name": "廓尔喀刀（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Stained (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "21448": {
+      "good_id": "21448",
+      "name": "廓尔喀刀（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Scorched (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "21449": {
+      "good_id": "21449",
+      "name": "廓尔喀刀（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Kukri Knife | Boreal Forest (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "21450": {
+      "good_id": "21450",
+      "name": "廓尔喀刀（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Kukri Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "21451": {
+      "good_id": "21451",
+      "name": "廓尔喀刀（★ StatTrak™） | 夜色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "21452": {
+      "good_id": "21452",
+      "name": "廓尔喀刀（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "21453": {
+      "good_id": "21453",
+      "name": "廓尔喀刀（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Slaughter (Field-Tested)",
+      "keyword": "廓尔喀刀"
+    },
+    "21454": {
+      "good_id": "21454",
+      "name": "廓尔喀刀（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "21455": {
+      "good_id": "21455",
+      "name": "廓尔喀刀（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "21456": {
+      "good_id": "21456",
+      "name": "廓尔喀刀（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "21457": {
+      "good_id": "21457",
+      "name": "廓尔喀刀（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "21458": {
+      "good_id": "21458",
+      "name": "廓尔喀刀（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Safari Mesh (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21459": {
+      "good_id": "21459",
+      "name": "廓尔喀刀（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Fade (Minimal Wear)",
+      "keyword": "廓尔喀刀"
+    },
+    "21460": {
+      "good_id": "21460",
+      "name": "廓尔喀刀（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "廓尔喀刀"
+    },
+    "21461": {
+      "good_id": "21461",
+      "name": "廓尔喀刀（★） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Night Stripe (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21462": {
+      "good_id": "21462",
+      "name": "廓尔喀刀（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Crimson Web (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "21463": {
+      "good_id": "21463",
+      "name": "廓尔喀刀（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Safari Mesh (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "21464": {
+      "good_id": "21464",
+      "name": "廓尔喀刀（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "21465": {
+      "good_id": "21465",
+      "name": "廓尔喀刀（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Case Hardened (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21466": {
+      "good_id": "21466",
+      "name": "廓尔喀刀（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Boreal Forest (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "21467": {
+      "good_id": "21467",
+      "name": "廓尔喀刀（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Urban Masked (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21468": {
+      "good_id": "21468",
+      "name": "廓尔喀刀（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Blue Steel (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21469": {
+      "good_id": "21469",
+      "name": "廓尔喀刀（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Kukri Knife | Forest DDPAT (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21470": {
+      "good_id": "21470",
+      "name": "廓尔喀刀（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Scorched (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "21471": {
+      "good_id": "21471",
+      "name": "廓尔喀刀（★ StatTrak™） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Urban Masked (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21472": {
+      "good_id": "21472",
+      "name": "廓尔喀刀（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Stained (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21473": {
+      "good_id": "21473",
+      "name": "廓尔喀刀（★ StatTrak™） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Boreal Forest (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21474": {
+      "good_id": "21474",
+      "name": "廓尔喀刀（★ StatTrak™） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Crimson Web (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21475": {
+      "good_id": "21475",
+      "name": "廓尔喀刀（★ StatTrak™） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Forest DDPAT (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21476": {
+      "good_id": "21476",
+      "name": "廓尔喀刀（★ StatTrak™） | 夜色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Night Stripe (Well-Worn)",
+      "keyword": "廓尔喀刀"
+    },
+    "21477": {
+      "good_id": "21477",
+      "name": "廓尔喀刀（★ StatTrak™） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Scorched (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21478": {
+      "good_id": "21478",
+      "name": "廓尔喀刀（★ StatTrak™） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Safari Mesh (Factory New)",
+      "keyword": "廓尔喀刀"
+    },
+    "21479": {
+      "good_id": "21479",
+      "name": "廓尔喀刀（★ StatTrak™） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Kukri Knife | Night Stripe (Factory New)",
+      "keyword": "廓尔喀刀"
+    }
+  }
+}

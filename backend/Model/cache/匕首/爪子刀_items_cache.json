@@ -1,0 +1,1178 @@
+{
+  "knife_type": "爪子刀",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:04:24.976327",
+  "total_items": 195,
+  "items": {
+    "7197": {
+      "good_id": "7197",
+      "name": "爪子刀（★）",
+      "market_hash_name": "★ Karambit",
+      "keyword": "爪子刀"
+    },
+    "7198": {
+      "good_id": "7198",
+      "name": "爪子刀（★） | 自动化 (战痕累累)",
+      "market_hash_name": "★ Karambit | Autotronic (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7199": {
+      "good_id": "7199",
+      "name": "爪子刀（★） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Autotronic (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7200": {
+      "good_id": "7200",
+      "name": "爪子刀（★） | 自动化 (久经沙场)",
+      "market_hash_name": "★ Karambit | Autotronic (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7201": {
+      "good_id": "7201",
+      "name": "爪子刀（★） | 自动化 (略有磨损)",
+      "market_hash_name": "★ Karambit | Autotronic (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7202": {
+      "good_id": "7202",
+      "name": "爪子刀（★） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ Karambit | Black Laminate (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7203": {
+      "good_id": "7203",
+      "name": "爪子刀（★） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ Karambit | Black Laminate (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7204": {
+      "good_id": "7204",
+      "name": "爪子刀（★） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ Karambit | Black Laminate (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7205": {
+      "good_id": "7205",
+      "name": "爪子刀（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Karambit | Blue Steel (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7206": {
+      "good_id": "7206",
+      "name": "爪子刀（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Karambit | Blue Steel (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7207": {
+      "good_id": "7207",
+      "name": "爪子刀（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Karambit | Blue Steel (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7208": {
+      "good_id": "7208",
+      "name": "爪子刀（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Karambit | Boreal Forest (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7209": {
+      "good_id": "7209",
+      "name": "爪子刀（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Boreal Forest (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7210": {
+      "good_id": "7210",
+      "name": "爪子刀（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Karambit | Boreal Forest (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7211": {
+      "good_id": "7211",
+      "name": "爪子刀（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Karambit | Boreal Forest (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7212": {
+      "good_id": "7212",
+      "name": "爪子刀（★） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Bright Water (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7213": {
+      "good_id": "7213",
+      "name": "爪子刀（★） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ Karambit | Bright Water (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7214": {
+      "good_id": "7214",
+      "name": "爪子刀（★） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ Karambit | Bright Water (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7215": {
+      "good_id": "7215",
+      "name": "爪子刀（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Karambit | Case Hardened (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7216": {
+      "good_id": "7216",
+      "name": "爪子刀（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Case Hardened (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7217": {
+      "good_id": "7217",
+      "name": "爪子刀（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Karambit | Case Hardened (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7218": {
+      "good_id": "7218",
+      "name": "爪子刀（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Karambit | Case Hardened (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7219": {
+      "good_id": "7219",
+      "name": "爪子刀（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Karambit | Case Hardened (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7220": {
+      "good_id": "7220",
+      "name": "爪子刀（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Karambit | Crimson Web (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7221": {
+      "good_id": "7221",
+      "name": "爪子刀（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Karambit | Crimson Web (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7222": {
+      "good_id": "7222",
+      "name": "爪子刀（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Karambit | Crimson Web (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7223": {
+      "good_id": "7223",
+      "name": "爪子刀（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Karambit | Damascus Steel (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7224": {
+      "good_id": "7224",
+      "name": "爪子刀（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Damascus Steel (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7225": {
+      "good_id": "7225",
+      "name": "爪子刀（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Karambit | Damascus Steel (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7226": {
+      "good_id": "7226",
+      "name": "爪子刀（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Karambit | Damascus Steel (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7227": {
+      "good_id": "7227",
+      "name": "爪子刀（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Karambit | Damascus Steel (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7228": {
+      "good_id": "7228",
+      "name": "爪子刀（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Doppler (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7229": {
+      "good_id": "7229",
+      "name": "爪子刀（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Karambit | Doppler (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7230": {
+      "good_id": "7230",
+      "name": "爪子刀（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Karambit | Fade (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7231": {
+      "good_id": "7231",
+      "name": "爪子刀（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Karambit | Forest DDPAT (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7232": {
+      "good_id": "7232",
+      "name": "爪子刀（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Karambit | Forest DDPAT (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7233": {
+      "good_id": "7233",
+      "name": "爪子刀（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Karambit | Forest DDPAT (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7234": {
+      "good_id": "7234",
+      "name": "爪子刀（★） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ Karambit | Freehand (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7235": {
+      "good_id": "7235",
+      "name": "爪子刀（★） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ Karambit | Freehand (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7236": {
+      "good_id": "7236",
+      "name": "爪子刀（★） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Gamma Doppler (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7237": {
+      "good_id": "7237",
+      "name": "爪子刀（★） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ Karambit | Gamma Doppler (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7238": {
+      "good_id": "7238",
+      "name": "爪子刀（★） | 传说 (战痕累累)",
+      "market_hash_name": "★ Karambit | Lore (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7239": {
+      "good_id": "7239",
+      "name": "爪子刀（★） | 传说 (久经沙场)",
+      "market_hash_name": "★ Karambit | Lore (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7240": {
+      "good_id": "7240",
+      "name": "爪子刀（★） | 传说 (略有磨损)",
+      "market_hash_name": "★ Karambit | Lore (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7241": {
+      "good_id": "7241",
+      "name": "爪子刀（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Marble Fade (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7242": {
+      "good_id": "7242",
+      "name": "爪子刀（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Karambit | Marble Fade (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7243": {
+      "good_id": "7243",
+      "name": "爪子刀（★） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ Karambit | Night (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7244": {
+      "good_id": "7244",
+      "name": "爪子刀（★） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ Karambit | Night (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7245": {
+      "good_id": "7245",
+      "name": "爪子刀（★） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ Karambit | Night (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7246": {
+      "good_id": "7246",
+      "name": "爪子刀（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Karambit | Rust Coat (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7247": {
+      "good_id": "7247",
+      "name": "爪子刀（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Karambit | Rust Coat (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7248": {
+      "good_id": "7248",
+      "name": "爪子刀（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Karambit | Safari Mesh (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7249": {
+      "good_id": "7249",
+      "name": "爪子刀（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Karambit | Safari Mesh (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7250": {
+      "good_id": "7250",
+      "name": "爪子刀（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Karambit | Safari Mesh (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7251": {
+      "good_id": "7251",
+      "name": "爪子刀（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Karambit | Safari Mesh (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7252": {
+      "good_id": "7252",
+      "name": "爪子刀（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Karambit | Scorched (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7253": {
+      "good_id": "7253",
+      "name": "爪子刀（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Karambit | Scorched (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7254": {
+      "good_id": "7254",
+      "name": "爪子刀（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Slaughter (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7255": {
+      "good_id": "7255",
+      "name": "爪子刀（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Karambit | Slaughter (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7256": {
+      "good_id": "7256",
+      "name": "爪子刀（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Karambit | Slaughter (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7257": {
+      "good_id": "7257",
+      "name": "爪子刀（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Karambit | Stained (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7258": {
+      "good_id": "7258",
+      "name": "爪子刀（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Stained (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7259": {
+      "good_id": "7259",
+      "name": "爪子刀（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Karambit | Stained (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7260": {
+      "good_id": "7260",
+      "name": "爪子刀（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Karambit | Stained (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7261": {
+      "good_id": "7261",
+      "name": "爪子刀（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Tiger Tooth (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7262": {
+      "good_id": "7262",
+      "name": "爪子刀（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Karambit | Tiger Tooth (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7263": {
+      "good_id": "7263",
+      "name": "爪子刀（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Karambit | Ultraviolet (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7264": {
+      "good_id": "7264",
+      "name": "爪子刀（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Ultraviolet (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7265": {
+      "good_id": "7265",
+      "name": "爪子刀（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Karambit | Ultraviolet (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7266": {
+      "good_id": "7266",
+      "name": "爪子刀（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Karambit | Ultraviolet (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7267": {
+      "good_id": "7267",
+      "name": "爪子刀（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Karambit | Ultraviolet (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7268": {
+      "good_id": "7268",
+      "name": "爪子刀（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Karambit | Urban Masked (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7269": {
+      "good_id": "7269",
+      "name": "爪子刀（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Karambit | Urban Masked (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7270": {
+      "good_id": "7270",
+      "name": "爪子刀（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Karambit | Urban Masked (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7806": {
+      "good_id": "7806",
+      "name": "爪子刀（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Karambit",
+      "keyword": "爪子刀"
+    },
+    "7807": {
+      "good_id": "7807",
+      "name": "爪子刀（★ StatTrak™） | 自动化 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Autotronic (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7808": {
+      "good_id": "7808",
+      "name": "爪子刀（★ StatTrak™） | 自动化 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Autotronic (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7809": {
+      "good_id": "7809",
+      "name": "爪子刀（★ StatTrak™） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Black Laminate (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7810": {
+      "good_id": "7810",
+      "name": "爪子刀（★ StatTrak™） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Black Laminate (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7811": {
+      "good_id": "7811",
+      "name": "爪子刀（★ StatTrak™） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Black Laminate (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7812": {
+      "good_id": "7812",
+      "name": "爪子刀（★ StatTrak™） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Black Laminate (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7813": {
+      "good_id": "7813",
+      "name": "爪子刀（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Blue Steel (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7814": {
+      "good_id": "7814",
+      "name": "爪子刀（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Blue Steel (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7815": {
+      "good_id": "7815",
+      "name": "爪子刀（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Blue Steel (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7816": {
+      "good_id": "7816",
+      "name": "爪子刀（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Blue Steel (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7817": {
+      "good_id": "7817",
+      "name": "爪子刀（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Boreal Forest (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7818": {
+      "good_id": "7818",
+      "name": "爪子刀（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Boreal Forest (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7819": {
+      "good_id": "7819",
+      "name": "爪子刀（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Boreal Forest (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7820": {
+      "good_id": "7820",
+      "name": "爪子刀（★ StatTrak™） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Bright Water (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7821": {
+      "good_id": "7821",
+      "name": "爪子刀（★ StatTrak™） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Bright Water (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7822": {
+      "good_id": "7822",
+      "name": "爪子刀（★ StatTrak™） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Bright Water (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7823": {
+      "good_id": "7823",
+      "name": "爪子刀（★ StatTrak™） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Bright Water (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7824": {
+      "good_id": "7824",
+      "name": "爪子刀（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Case Hardened (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7825": {
+      "good_id": "7825",
+      "name": "爪子刀（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Case Hardened (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7826": {
+      "good_id": "7826",
+      "name": "爪子刀（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Case Hardened (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7827": {
+      "good_id": "7827",
+      "name": "爪子刀（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Case Hardened (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7828": {
+      "good_id": "7828",
+      "name": "爪子刀（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Crimson Web (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7829": {
+      "good_id": "7829",
+      "name": "爪子刀（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Crimson Web (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7830": {
+      "good_id": "7830",
+      "name": "爪子刀（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Crimson Web (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7831": {
+      "good_id": "7831",
+      "name": "爪子刀（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Damascus Steel (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7832": {
+      "good_id": "7832",
+      "name": "爪子刀（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Damascus Steel (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7833": {
+      "good_id": "7833",
+      "name": "爪子刀（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Damascus Steel (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7834": {
+      "good_id": "7834",
+      "name": "爪子刀（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7835": {
+      "good_id": "7835",
+      "name": "爪子刀（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Fade (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7836": {
+      "good_id": "7836",
+      "name": "爪子刀（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Forest DDPAT (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7837": {
+      "good_id": "7837",
+      "name": "爪子刀（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Forest DDPAT (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7838": {
+      "good_id": "7838",
+      "name": "爪子刀（★ StatTrak™） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Freehand (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7839": {
+      "good_id": "7839",
+      "name": "爪子刀（★ StatTrak™） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Freehand (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7840": {
+      "good_id": "7840",
+      "name": "爪子刀（★ StatTrak™） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Freehand (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7841": {
+      "good_id": "7841",
+      "name": "爪子刀（★ StatTrak™） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Gamma Doppler (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7842": {
+      "good_id": "7842",
+      "name": "爪子刀（★ StatTrak™） | 传说 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Lore (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7843": {
+      "good_id": "7843",
+      "name": "爪子刀（★ StatTrak™） | 传说 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Lore (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7844": {
+      "good_id": "7844",
+      "name": "爪子刀（★ StatTrak™） | 传说 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Lore (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7845": {
+      "good_id": "7845",
+      "name": "爪子刀（★ StatTrak™） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Night (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7846": {
+      "good_id": "7846",
+      "name": "爪子刀（★ StatTrak™） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Night (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7847": {
+      "good_id": "7847",
+      "name": "爪子刀（★ StatTrak™） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Night (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7848": {
+      "good_id": "7848",
+      "name": "爪子刀（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Rust Coat (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7849": {
+      "good_id": "7849",
+      "name": "爪子刀（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Safari Mesh (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7850": {
+      "good_id": "7850",
+      "name": "爪子刀（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Safari Mesh (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7851": {
+      "good_id": "7851",
+      "name": "爪子刀（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Safari Mesh (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7852": {
+      "good_id": "7852",
+      "name": "爪子刀（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Scorched (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7853": {
+      "good_id": "7853",
+      "name": "爪子刀（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Scorched (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7854": {
+      "good_id": "7854",
+      "name": "爪子刀（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Scorched (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7855": {
+      "good_id": "7855",
+      "name": "爪子刀（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Slaughter (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7856": {
+      "good_id": "7856",
+      "name": "爪子刀（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Slaughter (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7857": {
+      "good_id": "7857",
+      "name": "爪子刀（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Stained (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7858": {
+      "good_id": "7858",
+      "name": "爪子刀（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Stained (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7859": {
+      "good_id": "7859",
+      "name": "爪子刀（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Stained (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7860": {
+      "good_id": "7860",
+      "name": "爪子刀（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Stained (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "7861": {
+      "good_id": "7861",
+      "name": "爪子刀（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Tiger Tooth (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "7862": {
+      "good_id": "7862",
+      "name": "爪子刀（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Ultraviolet (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7863": {
+      "good_id": "7863",
+      "name": "爪子刀（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Ultraviolet (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7864": {
+      "good_id": "7864",
+      "name": "爪子刀（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Ultraviolet (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "7865": {
+      "good_id": "7865",
+      "name": "爪子刀（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Urban Masked (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "7866": {
+      "good_id": "7866",
+      "name": "爪子刀（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Karambit | Urban Masked (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "7867": {
+      "good_id": "7867",
+      "name": "爪子刀（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Urban Masked (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "8015": {
+      "good_id": "8015",
+      "name": "爪子刀（★） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ Karambit | Bright Water (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "8016": {
+      "good_id": "8016",
+      "name": "爪子刀（★） | 传说 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Lore (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "8030": {
+      "good_id": "8030",
+      "name": "爪子刀（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Crimson Web (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "8055": {
+      "good_id": "8055",
+      "name": "爪子刀（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Karambit | Forest DDPAT (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "8060": {
+      "good_id": "8060",
+      "name": "爪子刀（★ StatTrak™） | 自动化 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Autotronic (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "8079": {
+      "good_id": "8079",
+      "name": "爪子刀（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Urban Masked (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "8081": {
+      "good_id": "8081",
+      "name": "爪子刀（★ StatTrak™） | 传说 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Lore (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "8083": {
+      "good_id": "8083",
+      "name": "爪子刀（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Scorched (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "8085": {
+      "good_id": "8085",
+      "name": "爪子刀（★ StatTrak™） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Black Laminate (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "8230": {
+      "good_id": "8230",
+      "name": "爪子刀（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Crimson Web (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "8349": {
+      "good_id": "8349",
+      "name": "爪子刀（★） | 噩梦之夜 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Night (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "8361": {
+      "good_id": "8361",
+      "name": "爪子刀（★ StatTrak™） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Freehand (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "8377": {
+      "good_id": "8377",
+      "name": "爪子刀（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Case Hardened (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "8387": {
+      "good_id": "8387",
+      "name": "爪子刀（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Scorched (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "8392": {
+      "good_id": "8392",
+      "name": "爪子刀（★ StatTrak™） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Gamma Doppler (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "8400": {
+      "good_id": "8400",
+      "name": "爪子刀（★ StatTrak™） | 传说 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Lore (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "8405": {
+      "good_id": "8405",
+      "name": "爪子刀（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Damascus Steel (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "8406": {
+      "good_id": "8406",
+      "name": "爪子刀（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Urban Masked (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "8407": {
+      "good_id": "8407",
+      "name": "爪子刀（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Safari Mesh (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "8417": {
+      "good_id": "8417",
+      "name": "爪子刀（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Damascus Steel (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "8444": {
+      "good_id": "8444",
+      "name": "爪子刀（★ StatTrak™） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Freehand (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "17242": {
+      "good_id": "17242",
+      "name": "爪子刀（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Fade (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "18816": {
+      "good_id": "18816",
+      "name": "爪子刀（★） | 传说 (破损不堪)",
+      "market_hash_name": "★ Karambit | Lore (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "18818": {
+      "good_id": "18818",
+      "name": "爪子刀（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Karambit | Scorched (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "18819": {
+      "good_id": "18819",
+      "name": "爪子刀（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Karambit | Scorched (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "18854": {
+      "good_id": "18854",
+      "name": "爪子刀（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "18855": {
+      "good_id": "18855",
+      "name": "爪子刀（★） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Freehand (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "18857": {
+      "good_id": "18857",
+      "name": "爪子刀（★） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ Karambit | Black Laminate (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "18859": {
+      "good_id": "18859",
+      "name": "爪子刀（★） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ Karambit | Freehand (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "18860": {
+      "good_id": "18860",
+      "name": "爪子刀（★） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ Karambit | Bright Water (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "18868": {
+      "good_id": "18868",
+      "name": "爪子刀（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Marble Fade (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "18870": {
+      "good_id": "18870",
+      "name": "爪子刀（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Karambit | Urban Masked (Field-Tested)",
+      "keyword": "爪子刀"
+    },
+    "18875": {
+      "good_id": "18875",
+      "name": "爪子刀（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Karambit | Blue Steel (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "18884": {
+      "good_id": "18884",
+      "name": "爪子刀（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Karambit | Boreal Forest (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "18888": {
+      "good_id": "18888",
+      "name": "爪子刀（★） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ Karambit | Night (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "18893": {
+      "good_id": "18893",
+      "name": "爪子刀（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Karambit | Stained (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "18896": {
+      "good_id": "18896",
+      "name": "爪子刀（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Karambit | Forest DDPAT (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "18899": {
+      "good_id": "18899",
+      "name": "爪子刀（★） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ Karambit | Freehand (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "18901": {
+      "good_id": "18901",
+      "name": "爪子刀（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Karambit | Crimson Web (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "18904": {
+      "good_id": "18904",
+      "name": "爪子刀（★） | 自动化 (破损不堪)",
+      "market_hash_name": "★ Karambit | Autotronic (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "18909": {
+      "good_id": "18909",
+      "name": "爪子刀（★） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Black Laminate (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "18918": {
+      "good_id": "18918",
+      "name": "爪子刀（★ StatTrak™） | 自动化 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Autotronic (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "18933": {
+      "good_id": "18933",
+      "name": "爪子刀（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Slaughter (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "18940": {
+      "good_id": "18940",
+      "name": "爪子刀（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Ultraviolet (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "18941": {
+      "good_id": "18941",
+      "name": "爪子刀（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Forest DDPAT (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "18946": {
+      "good_id": "18946",
+      "name": "爪子刀（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Karambit | Blue Steel (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "18982": {
+      "good_id": "18982",
+      "name": "爪子刀（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Karambit | Forest DDPAT (Battle-Scarred)",
+      "keyword": "爪子刀"
+    },
+    "19000": {
+      "good_id": "19000",
+      "name": "爪子刀（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Boreal Forest (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "19025": {
+      "good_id": "19025",
+      "name": "爪子刀（★ StatTrak™） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Autotronic (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "19026": {
+      "good_id": "19026",
+      "name": "爪子刀（★ StatTrak™） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Night (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "19027": {
+      "good_id": "19027",
+      "name": "爪子刀（★ StatTrak™） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Bright Water (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "19028": {
+      "good_id": "19028",
+      "name": "爪子刀（★ StatTrak™） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Tiger Tooth (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "19030": {
+      "good_id": "19030",
+      "name": "爪子刀（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Stained (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "19031": {
+      "good_id": "19031",
+      "name": "爪子刀（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Safari Mesh (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "19055": {
+      "good_id": "19055",
+      "name": "爪子刀（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Karambit | Rust Coat (Well-Worn)",
+      "keyword": "爪子刀"
+    },
+    "19151": {
+      "good_id": "19151",
+      "name": "爪子刀（★ StatTrak™） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Crimson Web (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "19158": {
+      "good_id": "19158",
+      "name": "爪子刀（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Marble Fade (Minimal Wear)",
+      "keyword": "爪子刀"
+    },
+    "19173": {
+      "good_id": "19173",
+      "name": "爪子刀（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Karambit | Blue Steel (Factory New)",
+      "keyword": "爪子刀"
+    },
+    "19185": {
+      "good_id": "19185",
+      "name": "爪子刀（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Karambit | Fade (Minimal Wear)",
+      "keyword": "爪子刀"
+    }
+  }
+}

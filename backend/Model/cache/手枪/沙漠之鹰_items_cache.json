@@ -1,0 +1,1736 @@
+{
+  "knife_type": "沙漠之鹰",
+  "category": "手枪",
+  "cache_time": "2025-08-25T01:47:01.886358",
+  "total_items": 288,
+  "items": {
+    "19": {
+      "good_id": "19",
+      "name": "沙漠之鹰 | 泥地杀手 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Mudder (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "22": {
+      "good_id": "22",
+      "name": "沙漠之鹰 | 泥地杀手 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Mudder (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "24": {
+      "good_id": "24",
+      "name": "沙漠之鹰 | 锈蚀烈焰 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Oxide Blaze (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "25": {
+      "good_id": "25",
+      "name": "沙漠之鹰 | 都市瓦砾 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Urban Rubble (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "534": {
+      "good_id": "534",
+      "name": "沙漠之鹰 | 炽烈之炎 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Blaze (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "535": {
+      "good_id": "535",
+      "name": "沙漠之鹰 | 炽烈之炎 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Blaze (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "536": {
+      "good_id": "536",
+      "name": "沙漠之鹰 | 青铜装饰 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Bronze Deco (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "537": {
+      "good_id": "537",
+      "name": "沙漠之鹰 | 青铜装饰 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Bronze Deco (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "538": {
+      "good_id": "538",
+      "name": "沙漠之鹰 | 青铜装饰 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Bronze Deco (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "539": {
+      "good_id": "539",
+      "name": "沙漠之鹰 | 青铜装饰 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Bronze Deco (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "540": {
+      "good_id": "540",
+      "name": "沙漠之鹰 | 青铜装饰 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Bronze Deco (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "541": {
+      "good_id": "541",
+      "name": "沙漠之鹰 | 钴蓝禁锢 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Cobalt Disruption (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "542": {
+      "good_id": "542",
+      "name": "沙漠之鹰 | 钴蓝禁锢 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Cobalt Disruption (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "543": {
+      "good_id": "543",
+      "name": "沙漠之鹰 | 钴蓝禁锢 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Cobalt Disruption (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "544": {
+      "good_id": "544",
+      "name": "沙漠之鹰 | 阴谋者 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Conspiracy (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "545": {
+      "good_id": "545",
+      "name": "沙漠之鹰 | 阴谋者 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Conspiracy (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "546": {
+      "good_id": "546",
+      "name": "沙漠之鹰 | 阴谋者 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Conspiracy (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "547": {
+      "good_id": "547",
+      "name": "沙漠之鹰 | 科林斯遗产 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Corinthian (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "548": {
+      "good_id": "548",
+      "name": "沙漠之鹰 | 科林斯遗产 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Corinthian (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "549": {
+      "good_id": "549",
+      "name": "沙漠之鹰 | 科林斯遗产 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Corinthian (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "550": {
+      "good_id": "550",
+      "name": "沙漠之鹰 | 科林斯遗产 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Corinthian (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "551": {
+      "good_id": "551",
+      "name": "沙漠之鹰 | 深红之网 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Crimson Web (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "552": {
+      "good_id": "552",
+      "name": "沙漠之鹰 | 深红之网 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Crimson Web (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "553": {
+      "good_id": "553",
+      "name": "沙漠之鹰 | 深红之网 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Crimson Web (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "554": {
+      "good_id": "554",
+      "name": "沙漠之鹰 | 深红之网 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Crimson Web (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "555": {
+      "good_id": "555",
+      "name": "沙漠之鹰 | 深红之网 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Crimson Web (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "556": {
+      "good_id": "556",
+      "name": "沙漠之鹰 | 指挥 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Directive (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "557": {
+      "good_id": "557",
+      "name": "沙漠之鹰 | 指挥 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Directive (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "558": {
+      "good_id": "558",
+      "name": "沙漠之鹰 | 指挥 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Directive (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "559": {
+      "good_id": "559",
+      "name": "沙漠之鹰 | 指挥 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Directive (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "560": {
+      "good_id": "560",
+      "name": "沙漠之鹰 | 指挥 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Directive (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "561": {
+      "good_id": "561",
+      "name": "沙漠之鹰 | 黄金锦鲤 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Golden Koi (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "562": {
+      "good_id": "562",
+      "name": "沙漠之鹰 | 黄金锦鲤 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Golden Koi (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "563": {
+      "good_id": "563",
+      "name": "沙漠之鹰 | 手上加农炮 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Hand Cannon (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "564": {
+      "good_id": "564",
+      "name": "沙漠之鹰 | 手上加农炮 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Hand Cannon (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "565": {
+      "good_id": "565",
+      "name": "沙漠之鹰 | 手上加农炮 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Hand Cannon (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "566": {
+      "good_id": "566",
+      "name": "沙漠之鹰 | 手上加农炮 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Hand Cannon (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "567": {
+      "good_id": "567",
+      "name": "沙漠之鹰 | 遗产 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Heirloom (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "568": {
+      "good_id": "568",
+      "name": "沙漠之鹰 | 遗产 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Heirloom (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "569": {
+      "good_id": "569",
+      "name": "沙漠之鹰 | 遗产 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Heirloom (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "570": {
+      "good_id": "570",
+      "name": "沙漠之鹰 | 遗产 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Heirloom (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "571": {
+      "good_id": "571",
+      "name": "沙漠之鹰 | 遗产 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Heirloom (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "572": {
+      "good_id": "572",
+      "name": "沙漠之鹰 | 蛊惑之色 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Hypnotic (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "573": {
+      "good_id": "573",
+      "name": "沙漠之鹰 | 大佬龙 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Kumicho Dragon (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "574": {
+      "good_id": "574",
+      "name": "沙漠之鹰 | 大佬龙 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Kumicho Dragon (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "575": {
+      "good_id": "575",
+      "name": "沙漠之鹰 | 大佬龙 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Kumicho Dragon (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "576": {
+      "good_id": "576",
+      "name": "沙漠之鹰 | 大佬龙 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Kumicho Dragon (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "577": {
+      "good_id": "577",
+      "name": "沙漠之鹰 | 大佬龙 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Kumicho Dragon (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "578": {
+      "good_id": "578",
+      "name": "沙漠之鹰 | 陨星 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Meteorite (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "579": {
+      "good_id": "579",
+      "name": "沙漠之鹰 | 陨星 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Meteorite (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "580": {
+      "good_id": "580",
+      "name": "沙漠之鹰 | 陨星 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Meteorite (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "581": {
+      "good_id": "581",
+      "name": "沙漠之鹰 | 午夜风暴 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Midnight Storm (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "582": {
+      "good_id": "582",
+      "name": "沙漠之鹰 | 午夜风暴 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Midnight Storm (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "583": {
+      "good_id": "583",
+      "name": "沙漠之鹰 | 午夜风暴 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Midnight Storm (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "584": {
+      "good_id": "584",
+      "name": "沙漠之鹰 | 午夜风暴 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Midnight Storm (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "585": {
+      "good_id": "585",
+      "name": "沙漠之鹰 | 午夜风暴 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Midnight Storm (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "586": {
+      "good_id": "586",
+      "name": "沙漠之鹰 | 泥地杀手 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Mudder (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "587": {
+      "good_id": "587",
+      "name": "沙漠之鹰 | 泥地杀手 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Mudder (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "588": {
+      "good_id": "588",
+      "name": "沙漠之鹰 | 泥地杀手 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Mudder (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "589": {
+      "good_id": "589",
+      "name": "沙漠之鹰 | 纳迦蛇神 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Naga (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "590": {
+      "good_id": "590",
+      "name": "沙漠之鹰 | 纳迦蛇神 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Naga (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "591": {
+      "good_id": "591",
+      "name": "沙漠之鹰 | 纳迦蛇神 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Naga (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "592": {
+      "good_id": "592",
+      "name": "沙漠之鹰 | 纳迦蛇神 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Naga (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "593": {
+      "good_id": "593",
+      "name": "沙漠之鹰 | 纳迦蛇神 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Naga (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "594": {
+      "good_id": "594",
+      "name": "沙漠之鹰 | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Night (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "595": {
+      "good_id": "595",
+      "name": "沙漠之鹰 | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Night (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "596": {
+      "good_id": "596",
+      "name": "沙漠之鹰 | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Night (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "597": {
+      "good_id": "597",
+      "name": "沙漠之鹰 | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Night (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "598": {
+      "good_id": "598",
+      "name": "沙漠之鹰 | 锈蚀烈焰 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Oxide Blaze (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "599": {
+      "good_id": "599",
+      "name": "沙漠之鹰 | 锈蚀烈焰 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Oxide Blaze (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "600": {
+      "good_id": "600",
+      "name": "沙漠之鹰 | 飞行员 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Pilot (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "601": {
+      "good_id": "601",
+      "name": "沙漠之鹰 | 飞行员 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Pilot (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "602": {
+      "good_id": "602",
+      "name": "沙漠之鹰 | 飞行员 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Pilot (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "603": {
+      "good_id": "603",
+      "name": "沙漠之鹰 | 飞行员 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Pilot (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "604": {
+      "good_id": "604",
+      "name": "沙漠之鹰 | 日落风暴 壱 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Sunset Storm 壱 (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "605": {
+      "good_id": "605",
+      "name": "沙漠之鹰 | 日落风暴 壱 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Sunset Storm 壱 (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "606": {
+      "good_id": "606",
+      "name": "沙漠之鹰 | 日落风暴 壱 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Sunset Storm 壱 (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "607": {
+      "good_id": "607",
+      "name": "沙漠之鹰 | 日落风暴 弐 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Sunset Storm 弐 (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "608": {
+      "good_id": "608",
+      "name": "沙漠之鹰 | 日落风暴 弐 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Sunset Storm 弐 (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "609": {
+      "good_id": "609",
+      "name": "沙漠之鹰 | 日落风暴 弐 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Sunset Storm 弐 (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "610": {
+      "good_id": "610",
+      "name": "沙漠之鹰 | 日落风暴 弐 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Sunset Storm 弐 (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "611": {
+      "good_id": "611",
+      "name": "沙漠之鹰 | 都市 DDPAT (战痕累累)",
+      "market_hash_name": "Desert Eagle | Urban DDPAT (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "612": {
+      "good_id": "612",
+      "name": "沙漠之鹰 | 都市 DDPAT (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Urban DDPAT (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "613": {
+      "good_id": "613",
+      "name": "沙漠之鹰 | 都市 DDPAT (久经沙场)",
+      "market_hash_name": "Desert Eagle | Urban DDPAT (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "614": {
+      "good_id": "614",
+      "name": "沙漠之鹰 | 都市 DDPAT (略有磨损)",
+      "market_hash_name": "Desert Eagle | Urban DDPAT (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "615": {
+      "good_id": "615",
+      "name": "沙漠之鹰 | 都市 DDPAT (破损不堪)",
+      "market_hash_name": "Desert Eagle | Urban DDPAT (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "616": {
+      "good_id": "616",
+      "name": "沙漠之鹰 | 都市瓦砾 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Urban Rubble (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "617": {
+      "good_id": "617",
+      "name": "沙漠之鹰 | 都市瓦砾 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Urban Rubble (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "618": {
+      "good_id": "618",
+      "name": "沙漠之鹰 | 都市瓦砾 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Urban Rubble (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "619": {
+      "good_id": "619",
+      "name": "沙漠之鹰 | 都市瓦砾 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Urban Rubble (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "2399": {
+      "good_id": "2399",
+      "name": "沙漠之鹰（纪念品） | 手上加农炮 (战痕累累)",
+      "market_hash_name": "Souvenir Desert Eagle | Hand Cannon (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "2400": {
+      "good_id": "2400",
+      "name": "沙漠之鹰（纪念品） | 手上加农炮 (崭新出厂)",
+      "market_hash_name": "Souvenir Desert Eagle | Hand Cannon (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "2401": {
+      "good_id": "2401",
+      "name": "沙漠之鹰（纪念品） | 手上加农炮 (久经沙场)",
+      "market_hash_name": "Souvenir Desert Eagle | Hand Cannon (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "2402": {
+      "good_id": "2402",
+      "name": "沙漠之鹰（纪念品） | 手上加农炮 (略有磨损)",
+      "market_hash_name": "Souvenir Desert Eagle | Hand Cannon (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "2403": {
+      "good_id": "2403",
+      "name": "沙漠之鹰（纪念品） | 手上加农炮 (破损不堪)",
+      "market_hash_name": "Souvenir Desert Eagle | Hand Cannon (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "2404": {
+      "good_id": "2404",
+      "name": "沙漠之鹰（纪念品） | 泥地杀手 (战痕累累)",
+      "market_hash_name": "Souvenir Desert Eagle | Mudder (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "2405": {
+      "good_id": "2405",
+      "name": "沙漠之鹰（纪念品） | 泥地杀手 (久经沙场)",
+      "market_hash_name": "Souvenir Desert Eagle | Mudder (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "2406": {
+      "good_id": "2406",
+      "name": "沙漠之鹰（纪念品） | 泥地杀手 (略有磨损)",
+      "market_hash_name": "Souvenir Desert Eagle | Mudder (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "2407": {
+      "good_id": "2407",
+      "name": "沙漠之鹰（纪念品） | 都市 DDPAT (战痕累累)",
+      "market_hash_name": "Souvenir Desert Eagle | Urban DDPAT (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "2408": {
+      "good_id": "2408",
+      "name": "沙漠之鹰（纪念品） | 都市 DDPAT (崭新出厂)",
+      "market_hash_name": "Souvenir Desert Eagle | Urban DDPAT (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "2409": {
+      "good_id": "2409",
+      "name": "沙漠之鹰（纪念品） | 都市 DDPAT (久经沙场)",
+      "market_hash_name": "Souvenir Desert Eagle | Urban DDPAT (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "2410": {
+      "good_id": "2410",
+      "name": "沙漠之鹰（纪念品） | 都市 DDPAT (略有磨损)",
+      "market_hash_name": "Souvenir Desert Eagle | Urban DDPAT (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "2411": {
+      "good_id": "2411",
+      "name": "沙漠之鹰（纪念品） | 都市 DDPAT (破损不堪)",
+      "market_hash_name": "Souvenir Desert Eagle | Urban DDPAT (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "2412": {
+      "good_id": "2412",
+      "name": "沙漠之鹰（纪念品） | 都市瓦砾 (战痕累累)",
+      "market_hash_name": "Souvenir Desert Eagle | Urban Rubble (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "2413": {
+      "good_id": "2413",
+      "name": "沙漠之鹰（纪念品） | 都市瓦砾 (崭新出厂)",
+      "market_hash_name": "Souvenir Desert Eagle | Urban Rubble (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "2414": {
+      "good_id": "2414",
+      "name": "沙漠之鹰（纪念品） | 都市瓦砾 (久经沙场)",
+      "market_hash_name": "Souvenir Desert Eagle | Urban Rubble (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "2415": {
+      "good_id": "2415",
+      "name": "沙漠之鹰（纪念品） | 都市瓦砾 (略有磨损)",
+      "market_hash_name": "Souvenir Desert Eagle | Urban Rubble (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "2416": {
+      "good_id": "2416",
+      "name": "沙漠之鹰（纪念品） | 都市瓦砾 (破损不堪)",
+      "market_hash_name": "Souvenir Desert Eagle | Urban Rubble (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "3084": {
+      "good_id": "3084",
+      "name": "沙漠之鹰（StatTrak™） | 青铜装饰 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Bronze Deco (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "3085": {
+      "good_id": "3085",
+      "name": "沙漠之鹰（StatTrak™） | 青铜装饰 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Bronze Deco (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3086": {
+      "good_id": "3086",
+      "name": "沙漠之鹰（StatTrak™） | 青铜装饰 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Bronze Deco (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "3087": {
+      "good_id": "3087",
+      "name": "沙漠之鹰（StatTrak™） | 青铜装饰 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Bronze Deco (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3088": {
+      "good_id": "3088",
+      "name": "沙漠之鹰（StatTrak™） | 青铜装饰 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Bronze Deco (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "3089": {
+      "good_id": "3089",
+      "name": "沙漠之鹰（StatTrak™） | 钴蓝禁锢 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Cobalt Disruption (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3090": {
+      "good_id": "3090",
+      "name": "沙漠之鹰（StatTrak™） | 钴蓝禁锢 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Cobalt Disruption (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "3091": {
+      "good_id": "3091",
+      "name": "沙漠之鹰（StatTrak™） | 钴蓝禁锢 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Cobalt Disruption (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3092": {
+      "good_id": "3092",
+      "name": "沙漠之鹰（StatTrak™） | 阴谋者 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Conspiracy (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3093": {
+      "good_id": "3093",
+      "name": "沙漠之鹰（StatTrak™） | 阴谋者 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Conspiracy (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "3094": {
+      "good_id": "3094",
+      "name": "沙漠之鹰（StatTrak™） | 阴谋者 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Conspiracy (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3095": {
+      "good_id": "3095",
+      "name": "沙漠之鹰（StatTrak™） | 科林斯遗产 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Corinthian (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3096": {
+      "good_id": "3096",
+      "name": "沙漠之鹰（StatTrak™） | 科林斯遗产 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Corinthian (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "3097": {
+      "good_id": "3097",
+      "name": "沙漠之鹰（StatTrak™） | 科林斯遗产 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Corinthian (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3098": {
+      "good_id": "3098",
+      "name": "沙漠之鹰（StatTrak™） | 深红之网 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Crimson Web (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3099": {
+      "good_id": "3099",
+      "name": "沙漠之鹰（StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Crimson Web (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "3100": {
+      "good_id": "3100",
+      "name": "沙漠之鹰（StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Crimson Web (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3101": {
+      "good_id": "3101",
+      "name": "沙漠之鹰（StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Crimson Web (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "3102": {
+      "good_id": "3102",
+      "name": "沙漠之鹰（StatTrak™） | 指挥 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Directive (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "3103": {
+      "good_id": "3103",
+      "name": "沙漠之鹰（StatTrak™） | 指挥 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Directive (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3104": {
+      "good_id": "3104",
+      "name": "沙漠之鹰（StatTrak™） | 指挥 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Directive (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "3105": {
+      "good_id": "3105",
+      "name": "沙漠之鹰（StatTrak™） | 指挥 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Directive (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3106": {
+      "good_id": "3106",
+      "name": "沙漠之鹰（StatTrak™） | 指挥 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Directive (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "3107": {
+      "good_id": "3107",
+      "name": "沙漠之鹰（StatTrak™） | 黄金锦鲤 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Golden Koi (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3108": {
+      "good_id": "3108",
+      "name": "沙漠之鹰（StatTrak™） | 黄金锦鲤 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Golden Koi (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3109": {
+      "good_id": "3109",
+      "name": "沙漠之鹰（StatTrak™） | 遗产 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Heirloom (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "3110": {
+      "good_id": "3110",
+      "name": "沙漠之鹰（StatTrak™） | 遗产 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Heirloom (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3111": {
+      "good_id": "3111",
+      "name": "沙漠之鹰（StatTrak™） | 遗产 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Heirloom (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "3112": {
+      "good_id": "3112",
+      "name": "沙漠之鹰（StatTrak™） | 遗产 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Heirloom (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3113": {
+      "good_id": "3113",
+      "name": "沙漠之鹰（StatTrak™） | 遗产 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Heirloom (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "3114": {
+      "good_id": "3114",
+      "name": "沙漠之鹰（StatTrak™） | 蛊惑之色 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Hypnotic (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3115": {
+      "good_id": "3115",
+      "name": "沙漠之鹰（StatTrak™） | 蛊惑之色 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Hypnotic (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3116": {
+      "good_id": "3116",
+      "name": "沙漠之鹰（StatTrak™） | 大佬龙 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Kumicho Dragon (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "3117": {
+      "good_id": "3117",
+      "name": "沙漠之鹰（StatTrak™） | 大佬龙 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Kumicho Dragon (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3118": {
+      "good_id": "3118",
+      "name": "沙漠之鹰（StatTrak™） | 大佬龙 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Kumicho Dragon (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "3119": {
+      "good_id": "3119",
+      "name": "沙漠之鹰（StatTrak™） | 大佬龙 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Kumicho Dragon (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3120": {
+      "good_id": "3120",
+      "name": "沙漠之鹰（StatTrak™） | 大佬龙 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Kumicho Dragon (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "3121": {
+      "good_id": "3121",
+      "name": "沙漠之鹰（StatTrak™） | 纳迦蛇神 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Naga (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "3122": {
+      "good_id": "3122",
+      "name": "沙漠之鹰（StatTrak™） | 纳迦蛇神 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Naga (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3123": {
+      "good_id": "3123",
+      "name": "沙漠之鹰（StatTrak™） | 纳迦蛇神 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Naga (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "3124": {
+      "good_id": "3124",
+      "name": "沙漠之鹰（StatTrak™） | 纳迦蛇神 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Naga (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "3125": {
+      "good_id": "3125",
+      "name": "沙漠之鹰（StatTrak™） | 纳迦蛇神 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Naga (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "3126": {
+      "good_id": "3126",
+      "name": "沙漠之鹰（StatTrak™） | 锈蚀烈焰 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Oxide Blaze (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "3127": {
+      "good_id": "3127",
+      "name": "沙漠之鹰（StatTrak™） | 锈蚀烈焰 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Oxide Blaze (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "3128": {
+      "good_id": "3128",
+      "name": "沙漠之鹰（StatTrak™） | 锈蚀烈焰 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Oxide Blaze (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "3129": {
+      "good_id": "3129",
+      "name": "沙漠之鹰（StatTrak™） | 锈蚀烈焰 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Oxide Blaze (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "8488": {
+      "good_id": "8488",
+      "name": "沙漠之鹰 | 红色代号 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Code Red (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "8489": {
+      "good_id": "8489",
+      "name": "沙漠之鹰 | 红色代号 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Code Red (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "8490": {
+      "good_id": "8490",
+      "name": "沙漠之鹰 | 红色代号 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Code Red (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "8491": {
+      "good_id": "8491",
+      "name": "沙漠之鹰 | 红色代号 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Code Red (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "8492": {
+      "good_id": "8492",
+      "name": "沙漠之鹰 | 红色代号 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Code Red (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "8570": {
+      "good_id": "8570",
+      "name": "沙漠之鹰（StatTrak™） | 红色代号 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Code Red (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "8609": {
+      "good_id": "8609",
+      "name": "沙漠之鹰（StatTrak™） | 红色代号 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Code Red (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "8755": {
+      "good_id": "8755",
+      "name": "沙漠之鹰（StatTrak™） | 红色代号 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Code Red (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "9723": {
+      "good_id": "9723",
+      "name": "沙漠之鹰 | 机械工业 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Mecha Industries (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "9725": {
+      "good_id": "9725",
+      "name": "沙漠之鹰 | 机械工业 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Mecha Industries (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "9747": {
+      "good_id": "9747",
+      "name": "沙漠之鹰 | 机械工业 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Mecha Industries (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "9800": {
+      "good_id": "9800",
+      "name": "沙漠之鹰（StatTrak™） | 机械工业 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "9823": {
+      "good_id": "9823",
+      "name": "沙漠之鹰（StatTrak™） | 机械工业 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "9826": {
+      "good_id": "9826",
+      "name": "沙漠之鹰 | 机械工业 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Mecha Industries (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "9829": {
+      "good_id": "9829",
+      "name": "沙漠之鹰（StatTrak™） | 机械工业 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "9831": {
+      "good_id": "9831",
+      "name": "沙漠之鹰 | 机械工业 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Mecha Industries (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "9841": {
+      "good_id": "9841",
+      "name": "沙漠之鹰（StatTrak™） | 机械工业 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "9857": {
+      "good_id": "9857",
+      "name": "沙漠之鹰（StatTrak™） | 机械工业 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "10360": {
+      "good_id": "10360",
+      "name": "沙漠之鹰 | 轻轨 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Light Rail (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "10362": {
+      "good_id": "10362",
+      "name": "沙漠之鹰 | 轻轨 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Light Rail (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "10391": {
+      "good_id": "10391",
+      "name": "沙漠之鹰 | 轻轨 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Light Rail (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "10402": {
+      "good_id": "10402",
+      "name": "沙漠之鹰（StatTrak™） | 轻轨 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Light Rail (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "10409": {
+      "good_id": "10409",
+      "name": "沙漠之鹰 | 轻轨 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Light Rail (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "10412": {
+      "good_id": "10412",
+      "name": "沙漠之鹰 | 轻轨 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Light Rail (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "10423": {
+      "good_id": "10423",
+      "name": "沙漠之鹰（StatTrak™） | 轻轨 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Light Rail (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "10449": {
+      "good_id": "10449",
+      "name": "沙漠之鹰（StatTrak™） | 轻轨 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Light Rail (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "10450": {
+      "good_id": "10450",
+      "name": "沙漠之鹰（StatTrak™） | 轻轨 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Light Rail (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "11553": {
+      "good_id": "11553",
+      "name": "沙漠之鹰 | 翡翠巨蟒 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "11677": {
+      "good_id": "11677",
+      "name": "沙漠之鹰 | 翡翠巨蟒 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "11680": {
+      "good_id": "11680",
+      "name": "沙漠之鹰 | 翡翠巨蟒 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "11734": {
+      "good_id": "11734",
+      "name": "沙漠之鹰 | 翡翠巨蟒 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "11770": {
+      "good_id": "11770",
+      "name": "沙漠之鹰 | 翡翠巨蟒 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "12188": {
+      "good_id": "12188",
+      "name": "沙漠之鹰 | 蓝色层压板 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Blue Ply (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "12190": {
+      "good_id": "12190",
+      "name": "沙漠之鹰 | 蓝色层压板 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Blue Ply (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "12196": {
+      "good_id": "12196",
+      "name": "沙漠之鹰 | 蓝色层压板 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Blue Ply (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "12219": {
+      "good_id": "12219",
+      "name": "沙漠之鹰 | 蓝色层压板 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Blue Ply (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "12234": {
+      "good_id": "12234",
+      "name": "沙漠之鹰 | 蓝色层压板 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Blue Ply (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "12238": {
+      "good_id": "12238",
+      "name": "沙漠之鹰（StatTrak™） | 蓝色层压板 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Blue Ply (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "12242": {
+      "good_id": "12242",
+      "name": "沙漠之鹰（StatTrak™） | 蓝色层压板 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Blue Ply (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "12256": {
+      "good_id": "12256",
+      "name": "沙漠之鹰（StatTrak™） | 蓝色层压板 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Blue Ply (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "12284": {
+      "good_id": "12284",
+      "name": "沙漠之鹰（StatTrak™） | 蓝色层压板 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Blue Ply (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "12287": {
+      "good_id": "12287",
+      "name": "沙漠之鹰（StatTrak™） | 蓝色层压板 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Blue Ply (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "12519": {
+      "good_id": "12519",
+      "name": "沙漠之鹰 | 古铜密码 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | The Bronze (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "12534": {
+      "good_id": "12534",
+      "name": "沙漠之鹰 | 古铜密码 (久经沙场)",
+      "market_hash_name": "Desert Eagle | The Bronze (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "12554": {
+      "good_id": "12554",
+      "name": "沙漠之鹰 | 古铜密码 (略有磨损)",
+      "market_hash_name": "Desert Eagle | The Bronze (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "12695": {
+      "good_id": "12695",
+      "name": "沙漠之鹰 | 午夜凶匪 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Night Heist (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "12738": {
+      "good_id": "12738",
+      "name": "沙漠之鹰 | 午夜凶匪 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Night Heist (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "12884": {
+      "good_id": "12884",
+      "name": "沙漠之鹰 | 午夜凶匪 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Night Heist (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "12915": {
+      "good_id": "12915",
+      "name": "沙漠之鹰 | 午夜凶匪 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Night Heist (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "13196": {
+      "good_id": "13196",
+      "name": "沙漠之鹰 | 后发制人 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Trigger Discipline (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "13198": {
+      "good_id": "13198",
+      "name": "沙漠之鹰 | 后发制人 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Trigger Discipline (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "13205": {
+      "good_id": "13205",
+      "name": "沙漠之鹰 | 后发制人 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Trigger Discipline (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "13207": {
+      "good_id": "13207",
+      "name": "沙漠之鹰 | 后发制人 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Trigger Discipline (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "13224": {
+      "good_id": "13224",
+      "name": "沙漠之鹰 | 后发制人 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Trigger Discipline (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "13258": {
+      "good_id": "13258",
+      "name": "沙漠之鹰（StatTrak™） | 后发制人 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Trigger Discipline (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "13260": {
+      "good_id": "13260",
+      "name": "沙漠之鹰（StatTrak™） | 后发制人 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Trigger Discipline (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "13267": {
+      "good_id": "13267",
+      "name": "沙漠之鹰（StatTrak™） | 后发制人 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Trigger Discipline (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "13280": {
+      "good_id": "13280",
+      "name": "沙漠之鹰（StatTrak™） | 后发制人 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Trigger Discipline (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "13286": {
+      "good_id": "13286",
+      "name": "沙漠之鹰（StatTrak™） | 后发制人 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Trigger Discipline (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "13342": {
+      "good_id": "13342",
+      "name": "沙漠之鹰 | 人造卫星 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Sputnik (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "13386": {
+      "good_id": "13386",
+      "name": "沙漠之鹰 | 人造卫星 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Sputnik (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "13410": {
+      "good_id": "13410",
+      "name": "沙漠之鹰 | 人造卫星 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Sputnik (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "13484": {
+      "good_id": "13484",
+      "name": "沙漠之鹰 | 纵横波涛 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Ocean Drive (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "13656": {
+      "good_id": "13656",
+      "name": "沙漠之鹰 | 纵横波涛 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Ocean Drive (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "13668": {
+      "good_id": "13668",
+      "name": "沙漠之鹰 | 沙漠之狐 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Fennec Fox (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "13704": {
+      "good_id": "13704",
+      "name": "沙漠之鹰 | 纵横波涛 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Ocean Drive (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "13717": {
+      "good_id": "13717",
+      "name": "沙漠之鹰 | 纵横波涛 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Ocean Drive (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "13736": {
+      "good_id": "13736",
+      "name": "沙漠之鹰 | 沙漠之狐 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Fennec Fox (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "13742": {
+      "good_id": "13742",
+      "name": "沙漠之鹰 | 沙漠之狐 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Fennec Fox (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "13799": {
+      "good_id": "13799",
+      "name": "沙漠之鹰 | 人造卫星 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Sputnik (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "13827": {
+      "good_id": "13827",
+      "name": "沙漠之鹰 | 人造卫星 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Sputnik (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "13857": {
+      "good_id": "13857",
+      "name": "沙漠之鹰 | 纵横波涛 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Ocean Drive (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "13861": {
+      "good_id": "13861",
+      "name": "沙漠之鹰（StatTrak™） | 纵横波涛 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Ocean Drive (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "13898": {
+      "good_id": "13898",
+      "name": "沙漠之鹰（StatTrak™） | 纵横波涛 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Ocean Drive (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "13926": {
+      "good_id": "13926",
+      "name": "沙漠之鹰 | 沙漠之狐 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Fennec Fox (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "13936": {
+      "good_id": "13936",
+      "name": "沙漠之鹰（StatTrak™） | 纵横波涛 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Ocean Drive (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "13951": {
+      "good_id": "13951",
+      "name": "沙漠之鹰（StatTrak™） | 纵横波涛 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Ocean Drive (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "13960": {
+      "good_id": "13960",
+      "name": "沙漠之鹰（StatTrak™） | 纵横波涛 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Ocean Drive (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "14281": {
+      "good_id": "14281",
+      "name": "沙漠之鹰（纪念品） | 沙漠之狐 (久经沙场)",
+      "market_hash_name": "Souvenir Desert Eagle | Fennec Fox (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "14344": {
+      "good_id": "14344",
+      "name": "沙漠之鹰（纪念品） | 沙漠之狐 (略有磨损)",
+      "market_hash_name": "Souvenir Desert Eagle | Fennec Fox (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "14346": {
+      "good_id": "14346",
+      "name": "沙漠之鹰（纪念品） | 沙漠之狐 (战痕累累)",
+      "market_hash_name": "Souvenir Desert Eagle | Fennec Fox (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "14400": {
+      "good_id": "14400",
+      "name": "沙漠之鹰（纪念品） | 沙漠之狐 (破损不堪)",
+      "market_hash_name": "Souvenir Desert Eagle | Fennec Fox (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "14415": {
+      "good_id": "14415",
+      "name": "沙漠之鹰（纪念品） | 沙漠之狐 (崭新出厂)",
+      "market_hash_name": "Souvenir Desert Eagle | Fennec Fox (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "19271": {
+      "good_id": "19271",
+      "name": "沙漠之鹰 | 锈蚀烈焰 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Oxide Blaze (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "19275": {
+      "good_id": "19275",
+      "name": "沙漠之鹰 | 锈蚀烈焰 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Oxide Blaze (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "19284": {
+      "good_id": "19284",
+      "name": "沙漠之鹰 | 噩梦之夜 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Night (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "19285": {
+      "good_id": "19285",
+      "name": "沙漠之鹰 | 飞行员 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Pilot (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "19288": {
+      "good_id": "19288",
+      "name": "沙漠之鹰（StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Crimson Web (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "19289": {
+      "good_id": "19289",
+      "name": "沙漠之鹰 | 沙漠之狐 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Fennec Fox (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "19291": {
+      "good_id": "19291",
+      "name": "沙漠之鹰（StatTrak™） | 锈蚀烈焰 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Oxide Blaze (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "19296": {
+      "good_id": "19296",
+      "name": "沙漠之鹰（StatTrak™） | 轻轨 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Light Rail (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "19297": {
+      "good_id": "19297",
+      "name": "沙漠之鹰（StatTrak™） | 红色代号 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Code Red (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "19302": {
+      "good_id": "19302",
+      "name": "沙漠之鹰（StatTrak™） | 红色代号 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Code Red (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "19308": {
+      "good_id": "19308",
+      "name": "沙漠之鹰（StatTrak™） | 科林斯遗产 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Corinthian (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "19312": {
+      "good_id": "19312",
+      "name": "沙漠之鹰 | 蛊惑之色 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Hypnotic (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "19317": {
+      "good_id": "19317",
+      "name": "沙漠之鹰 | 午夜凶匪 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Night Heist (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "19333": {
+      "good_id": "19333",
+      "name": "沙漠之鹰 | 日落风暴 弐 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Sunset Storm 弐 (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "19337": {
+      "good_id": "19337",
+      "name": "沙漠之鹰（纪念品） | 泥地杀手 (破损不堪)",
+      "market_hash_name": "Souvenir Desert Eagle | Mudder (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "19348": {
+      "good_id": "19348",
+      "name": "沙漠之鹰 | 日落风暴 壱 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Sunset Storm 壱 (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "20469": {
+      "good_id": "20469",
+      "name": "沙漠之鹰 | 星尘拱廊 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Starcade (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "20470": {
+      "good_id": "20470",
+      "name": "沙漠之鹰 | 星尘拱廊 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Starcade (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "20471": {
+      "good_id": "20471",
+      "name": "沙漠之鹰 | 星尘拱廊 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Starcade (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "20472": {
+      "good_id": "20472",
+      "name": "沙漠之鹰 | 星尘拱廊 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Starcade (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "20473": {
+      "good_id": "20473",
+      "name": "沙漠之鹰 | 星尘拱廊 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Starcade (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "20607": {
+      "good_id": "20607",
+      "name": "沙漠之鹰 | 跷跷板 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Tilted (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "20608": {
+      "good_id": "20608",
+      "name": "沙漠之鹰 | 跷跷板 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Tilted (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "20609": {
+      "good_id": "20609",
+      "name": "沙漠之鹰 | 跷跷板 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Tilted (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "20610": {
+      "good_id": "20610",
+      "name": "沙漠之鹰 | 跷跷板 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Tilted (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "20611": {
+      "good_id": "20611",
+      "name": "沙漠之鹰 | 跷跷板 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Tilted (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "20680": {
+      "good_id": "20680",
+      "name": "沙漠之鹰 | 热处理 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Heat Treated (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "20681": {
+      "good_id": "20681",
+      "name": "沙漠之鹰 | 热处理 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Heat Treated (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "20682": {
+      "good_id": "20682",
+      "name": "沙漠之鹰 | 热处理 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Heat Treated (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "20683": {
+      "good_id": "20683",
+      "name": "沙漠之鹰 | 热处理 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Heat Treated (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "20684": {
+      "good_id": "20684",
+      "name": "沙漠之鹰 | 热处理 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Heat Treated (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "21586": {
+      "good_id": "21586",
+      "name": "沙漠之鹰 | 薄荷折扇 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Mint Fan (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "21587": {
+      "good_id": "21587",
+      "name": "沙漠之鹰 | 薄荷折扇 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Mint Fan (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "21588": {
+      "good_id": "21588",
+      "name": "沙漠之鹰 | 薄荷折扇 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Mint Fan (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "21636": {
+      "good_id": "21636",
+      "name": "沙漠之鹰 | 玛珀丽 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Mulberry (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "21744": {
+      "good_id": "21744",
+      "name": "沙漠之鹰 | 巨蟒冲击 (崭新出厂)",
+      "market_hash_name": "Desert Eagle | Serpent Strike (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "21972": {
+      "good_id": "21972",
+      "name": "沙漠之鹰 | 薄荷折扇 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Mint Fan (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "21973": {
+      "good_id": "21973",
+      "name": "沙漠之鹰 | 薄荷折扇 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Mint Fan (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "22022": {
+      "good_id": "22022",
+      "name": "沙漠之鹰 | 玛珀丽 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Mulberry (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "22023": {
+      "good_id": "22023",
+      "name": "沙漠之鹰 | 玛珀丽 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Mulberry (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "22024": {
+      "good_id": "22024",
+      "name": "沙漠之鹰 | 玛珀丽 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Mulberry (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "22025": {
+      "good_id": "22025",
+      "name": "沙漠之鹰 | 玛珀丽 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Mulberry (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "22157": {
+      "good_id": "22157",
+      "name": "沙漠之鹰 | 巨蟒冲击 (略有磨损)",
+      "market_hash_name": "Desert Eagle | Serpent Strike (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "22158": {
+      "good_id": "22158",
+      "name": "沙漠之鹰 | 巨蟒冲击 (久经沙场)",
+      "market_hash_name": "Desert Eagle | Serpent Strike (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "22159": {
+      "good_id": "22159",
+      "name": "沙漠之鹰 | 巨蟒冲击 (破损不堪)",
+      "market_hash_name": "Desert Eagle | Serpent Strike (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    },
+    "22160": {
+      "good_id": "22160",
+      "name": "沙漠之鹰 | 巨蟒冲击 (战痕累累)",
+      "market_hash_name": "Desert Eagle | Serpent Strike (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "22161": {
+      "good_id": "22161",
+      "name": "沙漠之鹰（StatTrak™） | 巨蟒冲击 (战痕累累)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Serpent Strike (Battle-Scarred)",
+      "keyword": "沙漠之鹰"
+    },
+    "22162": {
+      "good_id": "22162",
+      "name": "沙漠之鹰（StatTrak™） | 巨蟒冲击 (崭新出厂)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Serpent Strike (Factory New)",
+      "keyword": "沙漠之鹰"
+    },
+    "22163": {
+      "good_id": "22163",
+      "name": "沙漠之鹰（StatTrak™） | 巨蟒冲击 (略有磨损)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Serpent Strike (Minimal Wear)",
+      "keyword": "沙漠之鹰"
+    },
+    "22164": {
+      "good_id": "22164",
+      "name": "沙漠之鹰（StatTrak™） | 巨蟒冲击 (久经沙场)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Serpent Strike (Field-Tested)",
+      "keyword": "沙漠之鹰"
+    },
+    "22165": {
+      "good_id": "22165",
+      "name": "沙漠之鹰（StatTrak™） | 巨蟒冲击 (破损不堪)",
+      "market_hash_name": "StatTrak™ Desert Eagle | Serpent Strike (Well-Worn)",
+      "keyword": "沙漠之鹰"
+    }
+  }
+}

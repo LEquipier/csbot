@@ -1,0 +1,28 @@
+# Web框架和API
+Flask==2.3.3
+flask-cors==6.0.1
+Werkzeug==2.3.7
+
+# HTTP请求和重试机制
+requests==2.31.0
+tenacity==8.2.3
+
+# 数据处理和分析
+pandas>=1.3.0
+numpy>=1.21.0
+pyarrow>=6.0.0
+fastparquet>=0.8.0
+
+# 进度条和用户界面
+tqdm>=4.62.0
+
+# 时间处理
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# 任务调度
+apscheduler>=3.11.0
+schedule>=1.2.0
+
+# 数据可视化（基础图表功能）
+matplotlib>=3.4.0

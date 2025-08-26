@@ -1,0 +1,350 @@
+{
+  "knife_type": "探员",
+  "category": "探员",
+  "cache_time": "2025-08-25T01:45:18.300457",
+  "total_items": 57,
+  "items": {
+    "12669": {
+      "good_id": "12669",
+      "name": "残酷的达里尔爵士（迈阿密）| 专业人士",
+      "market_hash_name": "Sir Bloody Miami Darryl | The Professionals",
+      "keyword": "残酷的达里尔爵士（迈阿密）"
+    },
+    "13591": {
+      "good_id": "13591",
+      "name": "指挥官黛维达·费尔南德斯（护目镜） | 海豹蛙人",
+      "market_hash_name": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman",
+      "keyword": "指挥官黛维达·费尔南德斯（护目镜）"
+    },
+    "12592": {
+      "good_id": "12592",
+      "name": "出逃的萨莉 | 专业人士",
+      "market_hash_name": "Getaway Sally | The Professionals",
+      "keyword": "出逃的萨莉"
+    },
+    "13564": {
+      "good_id": "13564",
+      "name": "指挥官弗兰克·巴鲁德（湿袜） | 海豹蛙人",
+      "market_hash_name": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman",
+      "keyword": "指挥官弗兰克·巴鲁德（湿袜）"
+    },
+    "12531": {
+      "good_id": "12531",
+      "name": "残酷的达里尔爵士（聒噪）| 专业人士",
+      "market_hash_name": "Sir Bloody Loudmouth Darryl | The Professionals",
+      "keyword": "残酷的达里尔爵士（聒噪）"
+    },
+    "12672": {
+      "good_id": "12672",
+      "name": "残酷的达里尔爵士（皇家）| 专业人士",
+      "market_hash_name": "Sir Bloody Darryl Royale | The Professionals",
+      "keyword": "残酷的达里尔爵士（皇家）"
+    },
+    "13475": {
+      "good_id": "13475",
+      "name": "薇帕姐（革新派） | 游击队",
+      "market_hash_name": "Vypa Sista of the Revolution | Guerrilla Warfare",
+      "keyword": "薇帕姐（革新派）"
+    },
+    "13745": {
+      "good_id": "13745",
+      "name": "D 中队军官 | 新西兰特种空勤团",
+      "market_hash_name": "D Squadron Officer | NZSAS",
+      "keyword": "D 中队军官"
+    },
+    "12555": {
+      "good_id": "12555",
+      "name": "残酷的达里尔爵士（头盖骨）| 专业人士",
+      "market_hash_name": "Sir Bloody Skullhead Darryl | The Professionals",
+      "keyword": "残酷的达里尔爵士（头盖骨）"
+    },
+    "13786": {
+      "good_id": "13786",
+      "name": "陆军中尉普里米罗 | 巴西第一营",
+      "market_hash_name": "Primeiro Tenente | Brazilian 1st Battalion",
+      "keyword": "陆军中尉普里米罗"
+    },
+    "13560": {
+      "good_id": "13560",
+      "name": "残酷的达里尔（穷鬼）| 专业人士",
+      "market_hash_name": "Bloody Darryl The Strapped | The Professionals",
+      "keyword": "残酷的达里尔（穷鬼）"
+    },
+    "12628": {
+      "good_id": "12628",
+      "name": "残酷的达里尔爵士（沉默）| 专业人士",
+      "market_hash_name": "Sir Bloody Silent Darryl | The Professionals",
+      "keyword": "残酷的达里尔爵士（沉默）"
+    },
+    "12820": {
+      "good_id": "12820",
+      "name": "小凯夫 | 专业人士",
+      "market_hash_name": "Little Kev | The Professionals",
+      "keyword": "小凯夫"
+    },
+    "13811": {
+      "good_id": "13811",
+      "name": "上校曼戈斯·达比西 | 游击队",
+      "market_hash_name": "Col. Mangos Dabisi | Guerrilla Warfare",
+      "keyword": "上校曼戈斯·达比西"
+    },
+    "13479": {
+      "good_id": "13479",
+      "name": "克拉斯沃特（三分熟） | 游击队",
+      "market_hash_name": "'Medium Rare' Crasswater | Guerrilla Warfare",
+      "keyword": "克拉斯沃特（三分熟）"
+    },
+    "13519": {
+      "good_id": "13519",
+      "name": "精锐捕兽者索尔曼 | 游击队",
+      "market_hash_name": "Elite Trapper Solman | Guerrilla Warfare",
+      "keyword": "捕兽者"
+    },
+    "11431": {
+      "good_id": "11431",
+      "name": "爱娃特工 | 联邦调查局（FBI）",
+      "market_hash_name": "Special Agent Ava | FBI",
+      "keyword": "爱娃特工"
+    },
+    "13562": {
+      "good_id": "13562",
+      "name": "中队长鲁沙尔·勒库托 | 法国宪兵特勤队",
+      "market_hash_name": "Chef d'Escadron Rouchard | Gendarmerie Nationale",
+      "keyword": "中队长鲁沙尔·勒库托"
+    },
+    "13671": {
+      "good_id": "13671",
+      "name": "化学防害上尉| 法国宪兵特勤队",
+      "market_hash_name": "Chem-Haz Capitaine | Gendarmerie Nationale",
+      "keyword": "化学防害上尉"
+    },
+    "13579": {
+      "good_id": "13579",
+      "name": "捕兽者 | 游击队",
+      "market_hash_name": "Trapper | Guerrilla Warfare",
+      "keyword": "捕兽者"
+    },
+    "13662": {
+      "good_id": "13662",
+      "name": "捕兽者（挑衅者） | 游击队",
+      "market_hash_name": "Trapper Aggressor | Guerrilla Warfare",
+      "keyword": "捕兽者（挑衅者）"
+    },
+    "12720": {
+      "good_id": "12720",
+      "name": "飞贼波兹曼 | 专业人士",
+      "market_hash_name": "Safecracker Voltzmann | The Professionals",
+      "keyword": "飞贼波兹曼"
+    },
+    "13502": {
+      "good_id": "13502",
+      "name": "遗忘者克拉斯沃特 | 游击队",
+      "market_hash_name": "Crasswater The Forgotten | Guerrilla Warfare",
+      "keyword": "遗忘者克拉斯沃特"
+    },
+    "14060": {
+      "good_id": "14060",
+      "name": "丛林反抗者 | 精锐分子",
+      "market_hash_name": "Jungle Rebel | Elite Crew",
+      "keyword": "丛林反抗者"
+    },
+    "11424": {
+      "good_id": "11424",
+      "name": "海军上尉里克索尔 | 海军水面战中心海豹部队",
+      "market_hash_name": "Lt. Commander Ricksaw | NSWC SEAL",
+      "keyword": "海军上尉里克索尔"
+    },
+    "13803": {
+      "good_id": "13803",
+      "name": "军官雅克·贝尔特朗 | 法国宪兵特勤队",
+      "market_hash_name": "Officer Jacques Beltram | Gendarmerie Nationale",
+      "keyword": "军官雅克·贝尔特朗"
+    },
+    "13875": {
+      "good_id": "13875",
+      "name": "中尉法洛（抱树人） | 特警",
+      "market_hash_name": "Lieutenant 'Tree Hugger' Farlow | SWAT",
+      "keyword": "中尉法洛（抱树人）"
+    },
+    "11423": {
+      "good_id": "11423",
+      "name": "第三特种兵连 | 德国特种部队突击队",
+      "market_hash_name": "3rd Commando Company | KSK",
+      "keyword": "德国特种部队突击队"
+    },
+    "13605": {
+      "good_id": "13605",
+      "name": "中尉雷克斯·克里奇 | 海豹蛙人",
+      "market_hash_name": "Lieutenant Rex Krikey | SEAL Frogman",
+      "keyword": "中尉雷克斯·克里奇"
+    },
+    "12770": {
+      "good_id": "12770",
+      "name": "化学防害专家 | 特警",
+      "market_hash_name": "Chem-Haz Specialist | SWAT",
+      "keyword": "化学防害专家"
+    },
+    "12594": {
+      "good_id": "12594",
+      "name": "生物防害专家 | 特警",
+      "market_hash_name": "Bio-Haz Specialist | SWAT",
+      "keyword": "生物防害专家"
+    },
+    "11443": {
+      "good_id": "11443",
+      "name": "海豹突击队第六分队士兵 | 海军水面战中心海豹部队",
+      "market_hash_name": "Seal Team 6 Soldier | NSWC SEAL",
+      "keyword": "海豹突击队第六分队士兵"
+    },
+    "13470": {
+      "good_id": "13470",
+      "name": "亚诺（野草） | 游击队",
+      "market_hash_name": "Arno The Overgrown | Guerrilla Warfare",
+      "keyword": "亚诺（野草）"
+    },
+    "12846": {
+      "good_id": "12846",
+      "name": "街头士兵 | 凤凰战士",
+      "market_hash_name": "Street Soldier | Phoenix",
+      "keyword": "凤凰战士"
+    },
+    "12717": {
+      "good_id": "12717",
+      "name": "军士长炸弹森 | 特警",
+      "market_hash_name": "Sergeant Bombson | SWAT",
+      "keyword": "军士长炸弹森"
+    },
+    "12515": {
+      "good_id": "12515",
+      "name": "第一中尉法洛 | 特警",
+      "market_hash_name": "1st Lieutenant Farlow | SWAT",
+      "keyword": "第一中尉法洛"
+    },
+    "11461": {
+      "good_id": "11461",
+      "name": "特种兵 | 联邦调查局（FBI）特警",
+      "market_hash_name": "Operator | FBI SWAT",
+      "keyword": "联邦调查局（FBI）特警"
+    },
+    "11462": {
+      "good_id": "11462",
+      "name": "精英穆哈里克先生 | 精锐分子",
+      "market_hash_name": "The Elite Mr. Muhlik | Elite Crew",
+      "keyword": "精英穆哈里克先生"
+    },
+    "13580": {
+      "good_id": "13580",
+      "name": "军医少尉 | 法国宪兵特勤队",
+      "market_hash_name": "Sous-Lieutenant Medic | Gendarmerie Nationale",
+      "keyword": "军医少尉"
+    },
+    "11498": {
+      "good_id": "11498",
+      "name": "B 中队指挥官 | 英国空军特别部队",
+      "market_hash_name": "B Squadron Officer | SAS",
+      "keyword": "B 中队指挥官"
+    },
+    "13819": {
+      "good_id": "13819",
+      "name": "准尉 | 法国宪兵特勤队",
+      "market_hash_name": "Aspirant | Gendarmerie Nationale",
+      "keyword": "准尉"
+    },
+    "11454": {
+      "good_id": "11454",
+      "name": "迈克·赛弗斯 | 联邦调查局（FBI）狙击手",
+      "market_hash_name": "Michael Syfers  | FBI Sniper",
+      "keyword": "迈克·赛弗斯"
+    },
+    "11471": {
+      "good_id": "11471",
+      "name": "黑狼 | 军刀",
+      "market_hash_name": "Blackwolf | Sabre",
+      "keyword": "黑狼"
+    },
+    "12552": {
+      "good_id": "12552",
+      "name": "红衫列赞 | 军刀",
+      "market_hash_name": "Rezan the Redshirt | Sabre",
+      "keyword": "红衫列赞"
+    },
+    "11483": {
+      "good_id": "11483",
+      "name": "德拉戈米尔 | 军刀",
+      "market_hash_name": "Dragomir | Sabre",
+      "keyword": "德拉戈米尔"
+    },
+    "12791": {
+      "good_id": "12791",
+      "name": "德拉戈米尔 | 军刀勇士",
+      "market_hash_name": "Dragomir | Sabre Footsoldier",
+      "keyword": "德拉戈米尔"
+    },
+    "11458": {
+      "good_id": "11458",
+      "name": "准备就绪的列赞 | 军刀",
+      "market_hash_name": "Rezan The Ready | Sabre",
+      "keyword": "准备就绪的列赞"
+    },
+    "11436": {
+      "good_id": "11436",
+      "name": "铅弹 | 海军水面战中心海豹部队",
+      "market_hash_name": "Buckshot | NSWC SEAL",
+      "keyword": "铅弹"
+    },
+    "12731": {
+      "good_id": "12731",
+      "name": "“蓝莓” 铅弹 | 海军水面战中心海豹部队",
+      "market_hash_name": "'Blueberries' Buckshot | NSWC SEAL",
+      "keyword": "铅弹"
+    },
+    "11442": {
+      "good_id": "11442",
+      "name": "马尔库斯·戴劳 | 联邦调查局（FBI）人质营救队",
+      "market_hash_name": "Markus Delrow | FBI HRT",
+      "keyword": "马尔库斯·戴劳"
+    },
+    "11450": {
+      "good_id": "11450",
+      "name": "执行者 | 凤凰战士",
+      "market_hash_name": "Enforcer | Phoenix",
+      "keyword": "凤凰战士"
+    },
+    "11457": {
+      "good_id": "11457",
+      "name": "弹弓 | 凤凰战士",
+      "market_hash_name": "Slingshot | Phoenix",
+      "keyword": "凤凰战士"
+    },
+    "11499": {
+      "good_id": "11499",
+      "name": "枪手 | 凤凰战士",
+      "market_hash_name": "Soldier | Phoenix",
+      "keyword": "凤凰战士"
+    },
+    "11474": {
+      "good_id": "11474",
+      "name": "奥西瑞斯 | 精锐分子",
+      "market_hash_name": "Osiris | Elite Crew",
+      "keyword": "奥西瑞斯"
+    },
+    "11419": {
+      "good_id": "11419",
+      "name": "马克西姆斯 | 军刀",
+      "market_hash_name": "Maximus | Sabre",
+      "keyword": "马克西姆斯"
+    },
+    "11488": {
+      "good_id": "11488",
+      "name": "沙哈马特教授 | 精锐分子",
+      "market_hash_name": "Prof. Shahmat | Elite Crew",
+      "keyword": "沙哈马特教授"
+    },
+    "11465": {
+      "good_id": "11465",
+      "name": "地面叛军 | 精锐分子",
+      "market_hash_name": "Ground Rebel  | Elite Crew",
+      "keyword": "地面叛军"
+    }
+  }
+}

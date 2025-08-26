@@ -1,0 +1,1178 @@
+{
+  "knife_type": "M9刺刀",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:13:17.928225",
+  "total_items": 195,
+  "items": {
+    "5": {
+      "good_id": "5",
+      "name": "M9 刺刀（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Fade (Factory New)",
+      "keyword": "M9"
+    },
+    "7271": {
+      "good_id": "7271",
+      "name": "M9 刺刀（★）",
+      "market_hash_name": "★ M9 Bayonet",
+      "keyword": "M9"
+    },
+    "7272": {
+      "good_id": "7272",
+      "name": "M9 刺刀（★） | 自动化 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Autotronic (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7273": {
+      "good_id": "7273",
+      "name": "M9 刺刀（★） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Autotronic (Factory New)",
+      "keyword": "M9"
+    },
+    "7274": {
+      "good_id": "7274",
+      "name": "M9 刺刀（★） | 自动化 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Autotronic (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7275": {
+      "good_id": "7275",
+      "name": "M9 刺刀（★） | 自动化 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Autotronic (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7276": {
+      "good_id": "7276",
+      "name": "M9 刺刀（★） | 自动化 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Autotronic (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7277": {
+      "good_id": "7277",
+      "name": "M9 刺刀（★） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Black Laminate (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7278": {
+      "good_id": "7278",
+      "name": "M9 刺刀（★） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Black Laminate (Factory New)",
+      "keyword": "M9"
+    },
+    "7279": {
+      "good_id": "7279",
+      "name": "M9 刺刀（★） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Black Laminate (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7280": {
+      "good_id": "7280",
+      "name": "M9 刺刀（★） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Black Laminate (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7281": {
+      "good_id": "7281",
+      "name": "M9 刺刀（★） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Black Laminate (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7282": {
+      "good_id": "7282",
+      "name": "M9 刺刀（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Blue Steel (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7283": {
+      "good_id": "7283",
+      "name": "M9 刺刀（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Blue Steel (Factory New)",
+      "keyword": "M9"
+    },
+    "7284": {
+      "good_id": "7284",
+      "name": "M9 刺刀（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Blue Steel (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7285": {
+      "good_id": "7285",
+      "name": "M9 刺刀（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Blue Steel (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7286": {
+      "good_id": "7286",
+      "name": "M9 刺刀（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Blue Steel (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7287": {
+      "good_id": "7287",
+      "name": "M9 刺刀（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Boreal Forest (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7288": {
+      "good_id": "7288",
+      "name": "M9 刺刀（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Boreal Forest (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7289": {
+      "good_id": "7289",
+      "name": "M9 刺刀（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Boreal Forest (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7290": {
+      "good_id": "7290",
+      "name": "M9 刺刀（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Boreal Forest (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7291": {
+      "good_id": "7291",
+      "name": "M9 刺刀（★） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Bright Water (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7292": {
+      "good_id": "7292",
+      "name": "M9 刺刀（★） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Bright Water (Factory New)",
+      "keyword": "M9"
+    },
+    "7293": {
+      "good_id": "7293",
+      "name": "M9 刺刀（★） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Bright Water (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7294": {
+      "good_id": "7294",
+      "name": "M9 刺刀（★） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Bright Water (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7295": {
+      "good_id": "7295",
+      "name": "M9 刺刀（★） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Bright Water (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7296": {
+      "good_id": "7296",
+      "name": "M9 刺刀（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Case Hardened (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7297": {
+      "good_id": "7297",
+      "name": "M9 刺刀（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Case Hardened (Factory New)",
+      "keyword": "M9"
+    },
+    "7298": {
+      "good_id": "7298",
+      "name": "M9 刺刀（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Case Hardened (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7299": {
+      "good_id": "7299",
+      "name": "M9 刺刀（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Case Hardened (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7300": {
+      "good_id": "7300",
+      "name": "M9 刺刀（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Case Hardened (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7301": {
+      "good_id": "7301",
+      "name": "M9 刺刀（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Crimson Web (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7302": {
+      "good_id": "7302",
+      "name": "M9 刺刀（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Crimson Web (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7303": {
+      "good_id": "7303",
+      "name": "M9 刺刀（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Crimson Web (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7304": {
+      "good_id": "7304",
+      "name": "M9 刺刀（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Crimson Web (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7305": {
+      "good_id": "7305",
+      "name": "M9 刺刀（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Damascus Steel (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7306": {
+      "good_id": "7306",
+      "name": "M9 刺刀（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Damascus Steel (Factory New)",
+      "keyword": "M9"
+    },
+    "7307": {
+      "good_id": "7307",
+      "name": "M9 刺刀（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Damascus Steel (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7308": {
+      "good_id": "7308",
+      "name": "M9 刺刀（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Damascus Steel (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7309": {
+      "good_id": "7309",
+      "name": "M9 刺刀（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Damascus Steel (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7310": {
+      "good_id": "7310",
+      "name": "M9 刺刀（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Doppler (Factory New)",
+      "keyword": "M9"
+    },
+    "7311": {
+      "good_id": "7311",
+      "name": "M9 刺刀（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Doppler (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7312": {
+      "good_id": "7312",
+      "name": "M9 刺刀（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Fade (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7313": {
+      "good_id": "7313",
+      "name": "M9 刺刀（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Forest DDPAT (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7314": {
+      "good_id": "7314",
+      "name": "M9 刺刀（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Forest DDPAT (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7315": {
+      "good_id": "7315",
+      "name": "M9 刺刀（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Forest DDPAT (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7316": {
+      "good_id": "7316",
+      "name": "M9 刺刀（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Forest DDPAT (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7317": {
+      "good_id": "7317",
+      "name": "M9 刺刀（★） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Freehand (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7318": {
+      "good_id": "7318",
+      "name": "M9 刺刀（★） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Freehand (Factory New)",
+      "keyword": "M9"
+    },
+    "7319": {
+      "good_id": "7319",
+      "name": "M9 刺刀（★） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Freehand (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7320": {
+      "good_id": "7320",
+      "name": "M9 刺刀（★） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Freehand (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7321": {
+      "good_id": "7321",
+      "name": "M9 刺刀（★） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Freehand (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7322": {
+      "good_id": "7322",
+      "name": "M9 刺刀（★） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Gamma Doppler (Factory New)",
+      "keyword": "M9"
+    },
+    "7323": {
+      "good_id": "7323",
+      "name": "M9 刺刀（★） | 传说 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Lore (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7324": {
+      "good_id": "7324",
+      "name": "M9 刺刀（★） | 传说 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Lore (Factory New)",
+      "keyword": "M9"
+    },
+    "7325": {
+      "good_id": "7325",
+      "name": "M9 刺刀（★） | 传说 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Lore (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7326": {
+      "good_id": "7326",
+      "name": "M9 刺刀（★） | 传说 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Lore (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7327": {
+      "good_id": "7327",
+      "name": "M9 刺刀（★） | 传说 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Lore (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7328": {
+      "good_id": "7328",
+      "name": "M9 刺刀（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Marble Fade (Factory New)",
+      "keyword": "M9"
+    },
+    "7329": {
+      "good_id": "7329",
+      "name": "M9 刺刀（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Marble Fade (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7330": {
+      "good_id": "7330",
+      "name": "M9 刺刀（★） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Night (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7331": {
+      "good_id": "7331",
+      "name": "M9 刺刀（★） | 噩梦之夜 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Night (Factory New)",
+      "keyword": "M9"
+    },
+    "7332": {
+      "good_id": "7332",
+      "name": "M9 刺刀（★） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Night (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7333": {
+      "good_id": "7333",
+      "name": "M9 刺刀（★） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Night (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7334": {
+      "good_id": "7334",
+      "name": "M9 刺刀（★） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Night (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7335": {
+      "good_id": "7335",
+      "name": "M9 刺刀（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Rust Coat (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7336": {
+      "good_id": "7336",
+      "name": "M9 刺刀（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Rust Coat (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7337": {
+      "good_id": "7337",
+      "name": "M9 刺刀（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Safari Mesh (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7338": {
+      "good_id": "7338",
+      "name": "M9 刺刀（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Safari Mesh (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7339": {
+      "good_id": "7339",
+      "name": "M9 刺刀（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Safari Mesh (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7340": {
+      "good_id": "7340",
+      "name": "M9 刺刀（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Safari Mesh (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7341": {
+      "good_id": "7341",
+      "name": "M9 刺刀（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Scorched (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7342": {
+      "good_id": "7342",
+      "name": "M9 刺刀（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Scorched (Factory New)",
+      "keyword": "M9"
+    },
+    "7343": {
+      "good_id": "7343",
+      "name": "M9 刺刀（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Scorched (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7344": {
+      "good_id": "7344",
+      "name": "M9 刺刀（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Scorched (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7345": {
+      "good_id": "7345",
+      "name": "M9 刺刀（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Scorched (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7346": {
+      "good_id": "7346",
+      "name": "M9 刺刀（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Slaughter (Factory New)",
+      "keyword": "M9"
+    },
+    "7347": {
+      "good_id": "7347",
+      "name": "M9 刺刀（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Slaughter (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7348": {
+      "good_id": "7348",
+      "name": "M9 刺刀（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Slaughter (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7349": {
+      "good_id": "7349",
+      "name": "M9 刺刀（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Stained (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7350": {
+      "good_id": "7350",
+      "name": "M9 刺刀（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Stained (Factory New)",
+      "keyword": "M9"
+    },
+    "7351": {
+      "good_id": "7351",
+      "name": "M9 刺刀（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Stained (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7352": {
+      "good_id": "7352",
+      "name": "M9 刺刀（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Stained (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7353": {
+      "good_id": "7353",
+      "name": "M9 刺刀（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Stained (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7354": {
+      "good_id": "7354",
+      "name": "M9 刺刀（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Tiger Tooth (Factory New)",
+      "keyword": "M9"
+    },
+    "7355": {
+      "good_id": "7355",
+      "name": "M9 刺刀（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Tiger Tooth (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7356": {
+      "good_id": "7356",
+      "name": "M9 刺刀（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Ultraviolet (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7357": {
+      "good_id": "7357",
+      "name": "M9 刺刀（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Ultraviolet (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7358": {
+      "good_id": "7358",
+      "name": "M9 刺刀（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Ultraviolet (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7359": {
+      "good_id": "7359",
+      "name": "M9 刺刀（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Ultraviolet (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7360": {
+      "good_id": "7360",
+      "name": "M9 刺刀（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ M9 Bayonet | Urban Masked (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7361": {
+      "good_id": "7361",
+      "name": "M9 刺刀（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ M9 Bayonet | Urban Masked (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7362": {
+      "good_id": "7362",
+      "name": "M9 刺刀（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Urban Masked (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7363": {
+      "good_id": "7363",
+      "name": "M9 刺刀（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ M9 Bayonet | Urban Masked (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7868": {
+      "good_id": "7868",
+      "name": "M9 刺刀（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet",
+      "keyword": "M9"
+    },
+    "7869": {
+      "good_id": "7869",
+      "name": "M9 刺刀（★ StatTrak™） | 自动化 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Autotronic (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7870": {
+      "good_id": "7870",
+      "name": "M9 刺刀（★ StatTrak™） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Autotronic (Factory New)",
+      "keyword": "M9"
+    },
+    "7871": {
+      "good_id": "7871",
+      "name": "M9 刺刀（★ StatTrak™） | 自动化 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Autotronic (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7872": {
+      "good_id": "7872",
+      "name": "M9 刺刀（★ StatTrak™） | 自动化 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Autotronic (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7873": {
+      "good_id": "7873",
+      "name": "M9 刺刀（★ StatTrak™） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Black Laminate (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7874": {
+      "good_id": "7874",
+      "name": "M9 刺刀（★ StatTrak™） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Black Laminate (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7875": {
+      "good_id": "7875",
+      "name": "M9 刺刀（★ StatTrak™） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Black Laminate (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7876": {
+      "good_id": "7876",
+      "name": "M9 刺刀（★ StatTrak™） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Black Laminate (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7877": {
+      "good_id": "7877",
+      "name": "M9 刺刀（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Blue Steel (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7878": {
+      "good_id": "7878",
+      "name": "M9 刺刀（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Blue Steel (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7879": {
+      "good_id": "7879",
+      "name": "M9 刺刀（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Blue Steel (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7880": {
+      "good_id": "7880",
+      "name": "M9 刺刀（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Blue Steel (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7881": {
+      "good_id": "7881",
+      "name": "M9 刺刀（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Boreal Forest (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7882": {
+      "good_id": "7882",
+      "name": "M9 刺刀（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Boreal Forest (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7883": {
+      "good_id": "7883",
+      "name": "M9 刺刀（★ StatTrak™） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Factory New)",
+      "keyword": "M9"
+    },
+    "7884": {
+      "good_id": "7884",
+      "name": "M9 刺刀（★ StatTrak™） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7885": {
+      "good_id": "7885",
+      "name": "M9 刺刀（★ StatTrak™） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7886": {
+      "good_id": "7886",
+      "name": "M9 刺刀（★ StatTrak™） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7887": {
+      "good_id": "7887",
+      "name": "M9 刺刀（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Case Hardened (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7888": {
+      "good_id": "7888",
+      "name": "M9 刺刀（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Case Hardened (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7889": {
+      "good_id": "7889",
+      "name": "M9 刺刀（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Case Hardened (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7890": {
+      "good_id": "7890",
+      "name": "M9 刺刀（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Crimson Web (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7891": {
+      "good_id": "7891",
+      "name": "M9 刺刀（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Crimson Web (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7892": {
+      "good_id": "7892",
+      "name": "M9 刺刀（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Damascus Steel (Factory New)",
+      "keyword": "M9"
+    },
+    "7893": {
+      "good_id": "7893",
+      "name": "M9 刺刀（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Damascus Steel (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7894": {
+      "good_id": "7894",
+      "name": "M9 刺刀（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Damascus Steel (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7895": {
+      "good_id": "7895",
+      "name": "M9 刺刀（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Doppler (Factory New)",
+      "keyword": "M9"
+    },
+    "7896": {
+      "good_id": "7896",
+      "name": "M9 刺刀（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Doppler (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7897": {
+      "good_id": "7897",
+      "name": "M9 刺刀（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Fade (Factory New)",
+      "keyword": "M9"
+    },
+    "7898": {
+      "good_id": "7898",
+      "name": "M9 刺刀（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Forest DDPAT (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7899": {
+      "good_id": "7899",
+      "name": "M9 刺刀（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Forest DDPAT (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7900": {
+      "good_id": "7900",
+      "name": "M9 刺刀（★ StatTrak™） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7901": {
+      "good_id": "7901",
+      "name": "M9 刺刀（★ StatTrak™） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Factory New)",
+      "keyword": "M9"
+    },
+    "7902": {
+      "good_id": "7902",
+      "name": "M9 刺刀（★ StatTrak™） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7903": {
+      "good_id": "7903",
+      "name": "M9 刺刀（★ StatTrak™） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7904": {
+      "good_id": "7904",
+      "name": "M9 刺刀（★ StatTrak™） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Gamma Doppler (Factory New)",
+      "keyword": "M9"
+    },
+    "7905": {
+      "good_id": "7905",
+      "name": "M9 刺刀（★ StatTrak™） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Gamma Doppler (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7906": {
+      "good_id": "7906",
+      "name": "M9 刺刀（★ StatTrak™） | 传说 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Lore (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7907": {
+      "good_id": "7907",
+      "name": "M9 刺刀（★ StatTrak™） | 传说 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Lore (Factory New)",
+      "keyword": "M9"
+    },
+    "7908": {
+      "good_id": "7908",
+      "name": "M9 刺刀（★ StatTrak™） | 传说 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Lore (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7909": {
+      "good_id": "7909",
+      "name": "M9 刺刀（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Marble Fade (Factory New)",
+      "keyword": "M9"
+    },
+    "7910": {
+      "good_id": "7910",
+      "name": "M9 刺刀（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Marble Fade (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7911": {
+      "good_id": "7911",
+      "name": "M9 刺刀（★ StatTrak™） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Night (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7912": {
+      "good_id": "7912",
+      "name": "M9 刺刀（★ StatTrak™） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Night (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7913": {
+      "good_id": "7913",
+      "name": "M9 刺刀（★ StatTrak™） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Night (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7914": {
+      "good_id": "7914",
+      "name": "M9 刺刀（★ StatTrak™） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Night (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7915": {
+      "good_id": "7915",
+      "name": "M9 刺刀（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Rust Coat (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7916": {
+      "good_id": "7916",
+      "name": "M9 刺刀（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Safari Mesh (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7917": {
+      "good_id": "7917",
+      "name": "M9 刺刀（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Safari Mesh (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7918": {
+      "good_id": "7918",
+      "name": "M9 刺刀（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Safari Mesh (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7919": {
+      "good_id": "7919",
+      "name": "M9 刺刀（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Scorched (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7920": {
+      "good_id": "7920",
+      "name": "M9 刺刀（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Scorched (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7921": {
+      "good_id": "7921",
+      "name": "M9 刺刀（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Scorched (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7922": {
+      "good_id": "7922",
+      "name": "M9 刺刀（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Slaughter (Factory New)",
+      "keyword": "M9"
+    },
+    "7923": {
+      "good_id": "7923",
+      "name": "M9 刺刀（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Slaughter (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7924": {
+      "good_id": "7924",
+      "name": "M9 刺刀（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Slaughter (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7925": {
+      "good_id": "7925",
+      "name": "M9 刺刀（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Stained (Factory New)",
+      "keyword": "M9"
+    },
+    "7926": {
+      "good_id": "7926",
+      "name": "M9 刺刀（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Stained (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7927": {
+      "good_id": "7927",
+      "name": "M9 刺刀（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Stained (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7928": {
+      "good_id": "7928",
+      "name": "M9 刺刀（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Stained (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7929": {
+      "good_id": "7929",
+      "name": "M9 刺刀（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Tiger Tooth (Factory New)",
+      "keyword": "M9"
+    },
+    "7930": {
+      "good_id": "7930",
+      "name": "M9 刺刀（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "7931": {
+      "good_id": "7931",
+      "name": "M9 刺刀（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7932": {
+      "good_id": "7932",
+      "name": "M9 刺刀（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7933": {
+      "good_id": "7933",
+      "name": "M9 刺刀（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Well-Worn)",
+      "keyword": "M9"
+    },
+    "7934": {
+      "good_id": "7934",
+      "name": "M9 刺刀（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Urban Masked (Field-Tested)",
+      "keyword": "M9"
+    },
+    "7935": {
+      "good_id": "7935",
+      "name": "M9 刺刀（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Urban Masked (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "7936": {
+      "good_id": "7936",
+      "name": "M9 刺刀（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Urban Masked (Well-Worn)",
+      "keyword": "M9"
+    },
+    "8017": {
+      "good_id": "8017",
+      "name": "M9 刺刀（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Urban Masked (Factory New)",
+      "keyword": "M9"
+    },
+    "8031": {
+      "good_id": "8031",
+      "name": "M9 刺刀（★ StatTrak™） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "8032": {
+      "good_id": "8032",
+      "name": "M9 刺刀（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Crimson Web (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "8047": {
+      "good_id": "8047",
+      "name": "M9 刺刀（★） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ M9 Bayonet | Gamma Doppler (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "8052": {
+      "good_id": "8052",
+      "name": "M9 刺刀（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Boreal Forest (Field-Tested)",
+      "keyword": "M9"
+    },
+    "8053": {
+      "good_id": "8053",
+      "name": "M9 刺刀（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Forest DDPAT (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "8061": {
+      "good_id": "8061",
+      "name": "M9 刺刀（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Stained (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "8068": {
+      "good_id": "8068",
+      "name": "M9 刺刀（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Forest DDPAT (Well-Worn)",
+      "keyword": "M9"
+    },
+    "8089": {
+      "good_id": "8089",
+      "name": "M9 刺刀（★ StatTrak™） | 传说 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Lore (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "8093": {
+      "good_id": "8093",
+      "name": "M9 刺刀（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Urban Masked (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "8097": {
+      "good_id": "8097",
+      "name": "M9 刺刀（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Safari Mesh (Factory New)",
+      "keyword": "M9"
+    },
+    "8100": {
+      "good_id": "8100",
+      "name": "M9 刺刀（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Boreal Forest (Factory New)",
+      "keyword": "M9"
+    },
+    "8231": {
+      "good_id": "8231",
+      "name": "M9 刺刀（★ StatTrak™） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Crimson Web (Factory New)",
+      "keyword": "M9"
+    },
+    "8256": {
+      "good_id": "8256",
+      "name": "M9 刺刀（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Crimson Web (Factory New)",
+      "keyword": "M9"
+    },
+    "8288": {
+      "good_id": "8288",
+      "name": "M9 刺刀（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Case Hardened (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "8357": {
+      "good_id": "8357",
+      "name": "M9 刺刀（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Crimson Web (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "8367": {
+      "good_id": "8367",
+      "name": "M9 刺刀（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Ultraviolet (Factory New)",
+      "keyword": "M9"
+    },
+    "8383": {
+      "good_id": "8383",
+      "name": "M9 刺刀（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Safari Mesh (Well-Worn)",
+      "keyword": "M9"
+    },
+    "8391": {
+      "good_id": "8391",
+      "name": "M9 刺刀（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Fade (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "8397": {
+      "good_id": "8397",
+      "name": "M9 刺刀（★ StatTrak™） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Tiger Tooth (Minimal Wear)",
+      "keyword": "M9"
+    },
+    "8412": {
+      "good_id": "8412",
+      "name": "M9 刺刀（★ StatTrak™） | 自动化 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Autotronic (Well-Worn)",
+      "keyword": "M9"
+    },
+    "8431": {
+      "good_id": "8431",
+      "name": "M9 刺刀（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Rust Coat (Well-Worn)",
+      "keyword": "M9"
+    },
+    "10637": {
+      "good_id": "10637",
+      "name": "M9 刺刀（★ StatTrak™） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Black Laminate (Factory New)",
+      "keyword": "M9"
+    },
+    "18964": {
+      "good_id": "18964",
+      "name": "M9 刺刀（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Boreal Forest (Well-Worn)",
+      "keyword": "M9"
+    },
+    "18965": {
+      "good_id": "18965",
+      "name": "M9 刺刀（★ StatTrak™） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Well-Worn)",
+      "keyword": "M9"
+    },
+    "18980": {
+      "good_id": "18980",
+      "name": "M9 刺刀（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Damascus Steel (Well-Worn)",
+      "keyword": "M9"
+    },
+    "18981": {
+      "good_id": "18981",
+      "name": "M9 刺刀（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Damascus Steel (Battle-Scarred)",
+      "keyword": "M9"
+    },
+    "19097": {
+      "good_id": "19097",
+      "name": "M9 刺刀（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Case Hardened (Factory New)",
+      "keyword": "M9"
+    },
+    "19108": {
+      "good_id": "19108",
+      "name": "M9 刺刀（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Scorched (Well-Worn)",
+      "keyword": "M9"
+    },
+    "19109": {
+      "good_id": "19109",
+      "name": "M9 刺刀（★ StatTrak™） | 传说 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Lore (Well-Worn)",
+      "keyword": "M9"
+    },
+    "19156": {
+      "good_id": "19156",
+      "name": "M9 刺刀（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ M9 Bayonet | Blue Steel (Factory New)",
+      "keyword": "M9"
+    },
+    "19211": {
+      "good_id": "19211",
+      "name": "M9 刺刀（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ M9 Bayonet | Forest DDPAT (Factory New)",
+      "keyword": "M9"
+    }
+  }
+}

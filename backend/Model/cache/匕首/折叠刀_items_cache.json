@@ -1,0 +1,1154 @@
+{
+  "knife_type": "折叠刀",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:02:11.750676",
+  "total_items": 191,
+  "items": {
+    "6947": {
+      "good_id": "6947",
+      "name": "折叠刀（★）",
+      "market_hash_name": "★ Flip Knife",
+      "keyword": "折叠刀"
+    },
+    "6948": {
+      "good_id": "6948",
+      "name": "折叠刀（★） | 自动化 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Autotronic (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "6949": {
+      "good_id": "6949",
+      "name": "折叠刀（★） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Autotronic (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "6950": {
+      "good_id": "6950",
+      "name": "折叠刀（★） | 自动化 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Autotronic (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "6951": {
+      "good_id": "6951",
+      "name": "折叠刀（★） | 自动化 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Autotronic (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6952": {
+      "good_id": "6952",
+      "name": "折叠刀（★） | 自动化 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Autotronic (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "6953": {
+      "good_id": "6953",
+      "name": "折叠刀（★） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Black Laminate (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "6954": {
+      "good_id": "6954",
+      "name": "折叠刀（★） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Black Laminate (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "6955": {
+      "good_id": "6955",
+      "name": "折叠刀（★） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Black Laminate (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "6956": {
+      "good_id": "6956",
+      "name": "折叠刀（★） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Black Laminate (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6957": {
+      "good_id": "6957",
+      "name": "折叠刀（★） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Black Laminate (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "6958": {
+      "good_id": "6958",
+      "name": "折叠刀（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "6959": {
+      "good_id": "6959",
+      "name": "折叠刀（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Blue Steel (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "6960": {
+      "good_id": "6960",
+      "name": "折叠刀（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Blue Steel (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "6961": {
+      "good_id": "6961",
+      "name": "折叠刀（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Blue Steel (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6962": {
+      "good_id": "6962",
+      "name": "折叠刀（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Blue Steel (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "6963": {
+      "good_id": "6963",
+      "name": "折叠刀（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "6964": {
+      "good_id": "6964",
+      "name": "折叠刀（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Boreal Forest (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "6965": {
+      "good_id": "6965",
+      "name": "折叠刀（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6966": {
+      "good_id": "6966",
+      "name": "折叠刀（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Boreal Forest (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "6967": {
+      "good_id": "6967",
+      "name": "折叠刀（★） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Bright Water (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "6968": {
+      "good_id": "6968",
+      "name": "折叠刀（★） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Bright Water (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "6969": {
+      "good_id": "6969",
+      "name": "折叠刀（★） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Bright Water (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6970": {
+      "good_id": "6970",
+      "name": "折叠刀（★） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Bright Water (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "6971": {
+      "good_id": "6971",
+      "name": "折叠刀（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "6972": {
+      "good_id": "6972",
+      "name": "折叠刀（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Case Hardened (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "6973": {
+      "good_id": "6973",
+      "name": "折叠刀（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Case Hardened (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "6974": {
+      "good_id": "6974",
+      "name": "折叠刀（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Case Hardened (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6975": {
+      "good_id": "6975",
+      "name": "折叠刀（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Case Hardened (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "6976": {
+      "good_id": "6976",
+      "name": "折叠刀（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "6977": {
+      "good_id": "6977",
+      "name": "折叠刀（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Crimson Web (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "6978": {
+      "good_id": "6978",
+      "name": "折叠刀（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Crimson Web (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6979": {
+      "good_id": "6979",
+      "name": "折叠刀（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "6980": {
+      "good_id": "6980",
+      "name": "折叠刀（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Damascus Steel (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "6981": {
+      "good_id": "6981",
+      "name": "折叠刀（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Damascus Steel (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "6982": {
+      "good_id": "6982",
+      "name": "折叠刀（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6983": {
+      "good_id": "6983",
+      "name": "折叠刀（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Damascus Steel (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "6984": {
+      "good_id": "6984",
+      "name": "折叠刀（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Doppler (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "6985": {
+      "good_id": "6985",
+      "name": "折叠刀（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Doppler (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6986": {
+      "good_id": "6986",
+      "name": "折叠刀（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Fade (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "6987": {
+      "good_id": "6987",
+      "name": "折叠刀（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Fade (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6988": {
+      "good_id": "6988",
+      "name": "折叠刀（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "6989": {
+      "good_id": "6989",
+      "name": "折叠刀（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "6990": {
+      "good_id": "6990",
+      "name": "折叠刀（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6991": {
+      "good_id": "6991",
+      "name": "折叠刀（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "6992": {
+      "good_id": "6992",
+      "name": "折叠刀（★） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Freehand (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "6993": {
+      "good_id": "6993",
+      "name": "折叠刀（★） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Freehand (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "6994": {
+      "good_id": "6994",
+      "name": "折叠刀（★） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Freehand (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "6995": {
+      "good_id": "6995",
+      "name": "折叠刀（★） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Freehand (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6996": {
+      "good_id": "6996",
+      "name": "折叠刀（★） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Freehand (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "6997": {
+      "good_id": "6997",
+      "name": "折叠刀（★） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Gamma Doppler (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "6998": {
+      "good_id": "6998",
+      "name": "折叠刀（★） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Gamma Doppler (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "6999": {
+      "good_id": "6999",
+      "name": "折叠刀（★） | 传说 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Lore (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7000": {
+      "good_id": "7000",
+      "name": "折叠刀（★） | 传说 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Lore (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7001": {
+      "good_id": "7001",
+      "name": "折叠刀（★） | 传说 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Lore (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7002": {
+      "good_id": "7002",
+      "name": "折叠刀（★） | 传说 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Lore (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7003": {
+      "good_id": "7003",
+      "name": "折叠刀（★） | 传说 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Lore (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7004": {
+      "good_id": "7004",
+      "name": "折叠刀（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Marble Fade (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7005": {
+      "good_id": "7005",
+      "name": "折叠刀（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Marble Fade (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7006": {
+      "good_id": "7006",
+      "name": "折叠刀（★） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Night (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7007": {
+      "good_id": "7007",
+      "name": "折叠刀（★） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Night (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7008": {
+      "good_id": "7008",
+      "name": "折叠刀（★） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Night (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7009": {
+      "good_id": "7009",
+      "name": "折叠刀（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7010": {
+      "good_id": "7010",
+      "name": "折叠刀（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Rust Coat (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7011": {
+      "good_id": "7011",
+      "name": "折叠刀（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7012": {
+      "good_id": "7012",
+      "name": "折叠刀（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Safari Mesh (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7013": {
+      "good_id": "7013",
+      "name": "折叠刀（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Safari Mesh (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7014": {
+      "good_id": "7014",
+      "name": "折叠刀（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7015": {
+      "good_id": "7015",
+      "name": "折叠刀（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Safari Mesh (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7016": {
+      "good_id": "7016",
+      "name": "折叠刀（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Scorched (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7017": {
+      "good_id": "7017",
+      "name": "折叠刀（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Scorched (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7018": {
+      "good_id": "7018",
+      "name": "折叠刀（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Scorched (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7019": {
+      "good_id": "7019",
+      "name": "折叠刀（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Scorched (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7020": {
+      "good_id": "7020",
+      "name": "折叠刀（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Scorched (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7021": {
+      "good_id": "7021",
+      "name": "折叠刀（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Slaughter (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7022": {
+      "good_id": "7022",
+      "name": "折叠刀（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Slaughter (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7023": {
+      "good_id": "7023",
+      "name": "折叠刀（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Slaughter (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7024": {
+      "good_id": "7024",
+      "name": "折叠刀（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Stained (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7025": {
+      "good_id": "7025",
+      "name": "折叠刀（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Stained (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7026": {
+      "good_id": "7026",
+      "name": "折叠刀（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Stained (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7027": {
+      "good_id": "7027",
+      "name": "折叠刀（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Stained (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7028": {
+      "good_id": "7028",
+      "name": "折叠刀（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Stained (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7029": {
+      "good_id": "7029",
+      "name": "折叠刀（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Tiger Tooth (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7030": {
+      "good_id": "7030",
+      "name": "折叠刀（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7031": {
+      "good_id": "7031",
+      "name": "折叠刀（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7032": {
+      "good_id": "7032",
+      "name": "折叠刀（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Ultraviolet (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7033": {
+      "good_id": "7033",
+      "name": "折叠刀（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7034": {
+      "good_id": "7034",
+      "name": "折叠刀（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7035": {
+      "good_id": "7035",
+      "name": "折叠刀（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Flip Knife | Urban Masked (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7036": {
+      "good_id": "7036",
+      "name": "折叠刀（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Flip Knife | Urban Masked (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7037": {
+      "good_id": "7037",
+      "name": "折叠刀（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Urban Masked (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7670": {
+      "good_id": "7670",
+      "name": "折叠刀（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Flip Knife",
+      "keyword": "折叠刀"
+    },
+    "7671": {
+      "good_id": "7671",
+      "name": "折叠刀（★ StatTrak™） | 自动化 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Autotronic (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7672": {
+      "good_id": "7672",
+      "name": "折叠刀（★ StatTrak™） | 自动化 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Autotronic (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7673": {
+      "good_id": "7673",
+      "name": "折叠刀（★ StatTrak™） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7674": {
+      "good_id": "7674",
+      "name": "折叠刀（★ StatTrak™） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7675": {
+      "good_id": "7675",
+      "name": "折叠刀（★ StatTrak™） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7676": {
+      "good_id": "7676",
+      "name": "折叠刀（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7677": {
+      "good_id": "7677",
+      "name": "折叠刀（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Blue Steel (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7678": {
+      "good_id": "7678",
+      "name": "折叠刀（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Blue Steel (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7679": {
+      "good_id": "7679",
+      "name": "折叠刀（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7680": {
+      "good_id": "7680",
+      "name": "折叠刀（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Boreal Forest (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7681": {
+      "good_id": "7681",
+      "name": "折叠刀（★ StatTrak™） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Bright Water (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7682": {
+      "good_id": "7682",
+      "name": "折叠刀（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Case Hardened (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7683": {
+      "good_id": "7683",
+      "name": "折叠刀（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Case Hardened (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7684": {
+      "good_id": "7684",
+      "name": "折叠刀（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Case Hardened (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7685": {
+      "good_id": "7685",
+      "name": "折叠刀（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Case Hardened (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7686": {
+      "good_id": "7686",
+      "name": "折叠刀（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7687": {
+      "good_id": "7687",
+      "name": "折叠刀（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Crimson Web (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7688": {
+      "good_id": "7688",
+      "name": "折叠刀（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Crimson Web (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7689": {
+      "good_id": "7689",
+      "name": "折叠刀（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Damascus Steel (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7690": {
+      "good_id": "7690",
+      "name": "折叠刀（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Damascus Steel (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7691": {
+      "good_id": "7691",
+      "name": "折叠刀（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7692": {
+      "good_id": "7692",
+      "name": "折叠刀（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Doppler (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7693": {
+      "good_id": "7693",
+      "name": "折叠刀（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Fade (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7694": {
+      "good_id": "7694",
+      "name": "折叠刀（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Fade (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7695": {
+      "good_id": "7695",
+      "name": "折叠刀（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7696": {
+      "good_id": "7696",
+      "name": "折叠刀（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7697": {
+      "good_id": "7697",
+      "name": "折叠刀（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7698": {
+      "good_id": "7698",
+      "name": "折叠刀（★ StatTrak™） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Freehand (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7699": {
+      "good_id": "7699",
+      "name": "折叠刀（★ StatTrak™） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Gamma Doppler (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7700": {
+      "good_id": "7700",
+      "name": "折叠刀（★ StatTrak™） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Gamma Doppler (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7701": {
+      "good_id": "7701",
+      "name": "折叠刀（★ StatTrak™） | 传说 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Lore (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7702": {
+      "good_id": "7702",
+      "name": "折叠刀（★ StatTrak™） | 传说 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Lore (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7703": {
+      "good_id": "7703",
+      "name": "折叠刀（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Marble Fade (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7704": {
+      "good_id": "7704",
+      "name": "折叠刀（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Marble Fade (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7705": {
+      "good_id": "7705",
+      "name": "折叠刀（★ StatTrak™） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Night (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7706": {
+      "good_id": "7706",
+      "name": "折叠刀（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7707": {
+      "good_id": "7707",
+      "name": "折叠刀（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Safari Mesh (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7708": {
+      "good_id": "7708",
+      "name": "折叠刀（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7709": {
+      "good_id": "7709",
+      "name": "折叠刀（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Scorched (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7710": {
+      "good_id": "7710",
+      "name": "折叠刀（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Scorched (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7711": {
+      "good_id": "7711",
+      "name": "折叠刀（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Scorched (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7712": {
+      "good_id": "7712",
+      "name": "折叠刀（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Scorched (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7713": {
+      "good_id": "7713",
+      "name": "折叠刀（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Slaughter (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7714": {
+      "good_id": "7714",
+      "name": "折叠刀（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Slaughter (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7715": {
+      "good_id": "7715",
+      "name": "折叠刀（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Stained (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7716": {
+      "good_id": "7716",
+      "name": "折叠刀（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Stained (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7717": {
+      "good_id": "7717",
+      "name": "折叠刀（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Tiger Tooth (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "7718": {
+      "good_id": "7718",
+      "name": "折叠刀（★ StatTrak™） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7719": {
+      "good_id": "7719",
+      "name": "折叠刀（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7720": {
+      "good_id": "7720",
+      "name": "折叠刀（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Ultraviolet (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7721": {
+      "good_id": "7721",
+      "name": "折叠刀（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "7722": {
+      "good_id": "7722",
+      "name": "折叠刀（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Ultraviolet (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "7723": {
+      "good_id": "7723",
+      "name": "折叠刀（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "7724": {
+      "good_id": "7724",
+      "name": "折叠刀（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Urban Masked (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "7725": {
+      "good_id": "7725",
+      "name": "折叠刀（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Urban Masked (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "8013": {
+      "good_id": "8013",
+      "name": "折叠刀（★） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Bright Water (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "8026": {
+      "good_id": "8026",
+      "name": "折叠刀（★ StatTrak™） | 自动化 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Autotronic (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "8027": {
+      "good_id": "8027",
+      "name": "折叠刀（★ StatTrak™） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Autotronic (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "8056": {
+      "good_id": "8056",
+      "name": "折叠刀（★ StatTrak™） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Freehand (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "8058": {
+      "good_id": "8058",
+      "name": "折叠刀（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Stained (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "8067": {
+      "good_id": "8067",
+      "name": "折叠刀（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "8257": {
+      "good_id": "8257",
+      "name": "折叠刀（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Crimson Web (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "8331": {
+      "good_id": "8331",
+      "name": "折叠刀（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Crimson Web (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "8376": {
+      "good_id": "8376",
+      "name": "折叠刀（★ StatTrak™） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "8399": {
+      "good_id": "8399",
+      "name": "折叠刀（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Boreal Forest (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "8413": {
+      "good_id": "8413",
+      "name": "折叠刀（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "8423": {
+      "good_id": "8423",
+      "name": "折叠刀（★ StatTrak™） | 传说 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Lore (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "8433": {
+      "good_id": "8433",
+      "name": "折叠刀（★ StatTrak™） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Ultraviolet (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "18898": {
+      "good_id": "18898",
+      "name": "折叠刀（★ StatTrak™） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Bright Water (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "18900": {
+      "good_id": "18900",
+      "name": "折叠刀（★ StatTrak™） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Bright Water (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "18902": {
+      "good_id": "18902",
+      "name": "折叠刀（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Ultraviolet (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "18903": {
+      "good_id": "18903",
+      "name": "折叠刀（★） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ Flip Knife | Night (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "18905": {
+      "good_id": "18905",
+      "name": "折叠刀（★ StatTrak™） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Freehand (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "18907": {
+      "good_id": "18907",
+      "name": "折叠刀（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Flip Knife | Crimson Web (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "18914": {
+      "good_id": "18914",
+      "name": "折叠刀（★ StatTrak™） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "18919": {
+      "good_id": "18919",
+      "name": "折叠刀（★ StatTrak™） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Night (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "18922": {
+      "good_id": "18922",
+      "name": "折叠刀（★ StatTrak™） | 传说 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Lore (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "18938": {
+      "good_id": "18938",
+      "name": "折叠刀（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Ultraviolet (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "18948": {
+      "good_id": "18948",
+      "name": "折叠刀（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Doppler (Minimal Wear)",
+      "keyword": "折叠刀"
+    },
+    "18955": {
+      "good_id": "18955",
+      "name": "折叠刀（★ StatTrak™） | 传说 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Lore (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "18977": {
+      "good_id": "18977",
+      "name": "折叠刀（★ StatTrak™） | 自动化 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Autotronic (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "18984": {
+      "good_id": "18984",
+      "name": "折叠刀（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "18989": {
+      "good_id": "18989",
+      "name": "折叠刀（★） | 噩梦之夜 (崭新出厂)",
+      "market_hash_name": "★ Flip Knife | Night (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "19003": {
+      "good_id": "19003",
+      "name": "折叠刀（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Damascus Steel (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "19004": {
+      "good_id": "19004",
+      "name": "折叠刀（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "19019": {
+      "good_id": "19019",
+      "name": "折叠刀（★ StatTrak™） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Freehand (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "19035": {
+      "good_id": "19035",
+      "name": "折叠刀（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Safari Mesh (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "19036": {
+      "good_id": "19036",
+      "name": "折叠刀（★ StatTrak™） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Bright Water (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "19037": {
+      "good_id": "19037",
+      "name": "折叠刀（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Blue Steel (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "19064": {
+      "good_id": "19064",
+      "name": "折叠刀（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Slaughter (Field-Tested)",
+      "keyword": "折叠刀"
+    },
+    "19084": {
+      "good_id": "19084",
+      "name": "折叠刀（★ StatTrak™） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Night (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "19106": {
+      "good_id": "19106",
+      "name": "折叠刀（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Boreal Forest (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "19117": {
+      "good_id": "19117",
+      "name": "折叠刀（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Stained (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "19118": {
+      "good_id": "19118",
+      "name": "折叠刀（★ StatTrak™） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Night (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "19119": {
+      "good_id": "19119",
+      "name": "折叠刀（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "19165": {
+      "good_id": "19165",
+      "name": "折叠刀（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Rust Coat (Well-Worn)",
+      "keyword": "折叠刀"
+    },
+    "19200": {
+      "good_id": "19200",
+      "name": "折叠刀（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Stained (Factory New)",
+      "keyword": "折叠刀"
+    },
+    "19201": {
+      "good_id": "19201",
+      "name": "折叠刀（★ StatTrak™） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Bright Water (Battle-Scarred)",
+      "keyword": "折叠刀"
+    },
+    "19202": {
+      "good_id": "19202",
+      "name": "折叠刀（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Flip Knife | Blue Steel (Factory New)",
+      "keyword": "折叠刀"
+    }
+  }
+}

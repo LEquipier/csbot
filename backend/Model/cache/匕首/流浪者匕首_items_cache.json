@@ -1,0 +1,842 @@
+{
+  "knife_type": "流浪者匕首",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:07:25.814507",
+  "total_items": 139,
+  "items": {
+    "11739": {
+      "good_id": "11739",
+      "name": "流浪者匕首（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Blue Steel (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "11742": {
+      "good_id": "11742",
+      "name": "流浪者匕首（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11757": {
+      "good_id": "11757",
+      "name": "流浪者匕首（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Case Hardened (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "11764": {
+      "good_id": "11764",
+      "name": "流浪者匕首（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Fade (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "11781": {
+      "good_id": "11781",
+      "name": "流浪者匕首（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Blue Steel (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11787": {
+      "good_id": "11787",
+      "name": "流浪者匕首（★） | 夜色 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Night Stripe (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11789": {
+      "good_id": "11789",
+      "name": "流浪者匕首（★）",
+      "market_hash_name": "★ Nomad Knife",
+      "keyword": "流浪者匕首"
+    },
+    "11802": {
+      "good_id": "11802",
+      "name": "流浪者匕首（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Scorched (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11807": {
+      "good_id": "11807",
+      "name": "流浪者匕首（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Slaughter (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11844": {
+      "good_id": "11844",
+      "name": "流浪者匕首（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Urban Masked (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11846": {
+      "good_id": "11846",
+      "name": "流浪者匕首（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Case Hardened (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11847": {
+      "good_id": "11847",
+      "name": "流浪者匕首（★ StatTrak™） | 夜色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Night Stripe (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11855": {
+      "good_id": "11855",
+      "name": "流浪者匕首（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Stained (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11856": {
+      "good_id": "11856",
+      "name": "流浪者匕首（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Safari Mesh (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "11860": {
+      "good_id": "11860",
+      "name": "流浪者匕首（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Safari Mesh (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11864": {
+      "good_id": "11864",
+      "name": "流浪者匕首（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11865": {
+      "good_id": "11865",
+      "name": "流浪者匕首（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Case Hardened (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "11866": {
+      "good_id": "11866",
+      "name": "流浪者匕首（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Fade (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11867": {
+      "good_id": "11867",
+      "name": "流浪者匕首（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11868": {
+      "good_id": "11868",
+      "name": "流浪者匕首（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11869": {
+      "good_id": "11869",
+      "name": "流浪者匕首（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11870": {
+      "good_id": "11870",
+      "name": "流浪者匕首（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Slaughter (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "11871": {
+      "good_id": "11871",
+      "name": "流浪者匕首（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Stained (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "11872": {
+      "good_id": "11872",
+      "name": "流浪者匕首（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11873": {
+      "good_id": "11873",
+      "name": "流浪者匕首（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Urban Masked (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11874": {
+      "good_id": "11874",
+      "name": "流浪者匕首（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Urban Masked (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "11882": {
+      "good_id": "11882",
+      "name": "流浪者匕首（★） | 夜色 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Night Stripe (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11883": {
+      "good_id": "11883",
+      "name": "流浪者匕首（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Nomad Knife",
+      "keyword": "流浪者匕首"
+    },
+    "11884": {
+      "good_id": "11884",
+      "name": "流浪者匕首（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Case Hardened (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11885": {
+      "good_id": "11885",
+      "name": "流浪者匕首（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Fade (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "11886": {
+      "good_id": "11886",
+      "name": "流浪者匕首（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Slaughter (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "11905": {
+      "good_id": "11905",
+      "name": "流浪者匕首（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Crimson Web (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11907": {
+      "good_id": "11907",
+      "name": "流浪者匕首（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Stained (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11910": {
+      "good_id": "11910",
+      "name": "流浪者匕首（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Scorched (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11911": {
+      "good_id": "11911",
+      "name": "流浪者匕首（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Scorched (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "11917": {
+      "good_id": "11917",
+      "name": "流浪者匕首（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11918": {
+      "good_id": "11918",
+      "name": "流浪者匕首（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Boreal Forest (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11921": {
+      "good_id": "11921",
+      "name": "流浪者匕首（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Crimson Web (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "11924": {
+      "good_id": "11924",
+      "name": "流浪者匕首（★） | 夜色 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11929": {
+      "good_id": "11929",
+      "name": "流浪者匕首（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11939": {
+      "good_id": "11939",
+      "name": "流浪者匕首（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11944": {
+      "good_id": "11944",
+      "name": "流浪者匕首（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11945": {
+      "good_id": "11945",
+      "name": "流浪者匕首（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Crimson Web (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11948": {
+      "good_id": "11948",
+      "name": "流浪者匕首（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Stained (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11949": {
+      "good_id": "11949",
+      "name": "流浪者匕首（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Case Hardened (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11951": {
+      "good_id": "11951",
+      "name": "流浪者匕首（★） | 夜色 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Night Stripe (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "11953": {
+      "good_id": "11953",
+      "name": "流浪者匕首（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Slaughter (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11955": {
+      "good_id": "11955",
+      "name": "流浪者匕首（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11956": {
+      "good_id": "11956",
+      "name": "流浪者匕首（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11957": {
+      "good_id": "11957",
+      "name": "流浪者匕首（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Slaughter (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11958": {
+      "good_id": "11958",
+      "name": "流浪者匕首（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Scorched (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11962": {
+      "good_id": "11962",
+      "name": "流浪者匕首（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11964": {
+      "good_id": "11964",
+      "name": "流浪者匕首（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "11975": {
+      "good_id": "11975",
+      "name": "流浪者匕首（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Stained (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11977": {
+      "good_id": "11977",
+      "name": "流浪者匕首（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Blue Steel (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11979": {
+      "good_id": "11979",
+      "name": "流浪者匕首（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11981": {
+      "good_id": "11981",
+      "name": "流浪者匕首（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Scorched (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11983": {
+      "good_id": "11983",
+      "name": "流浪者匕首（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "11984": {
+      "good_id": "11984",
+      "name": "流浪者匕首（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11985": {
+      "good_id": "11985",
+      "name": "流浪者匕首（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11986": {
+      "good_id": "11986",
+      "name": "流浪者匕首（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11990": {
+      "good_id": "11990",
+      "name": "流浪者匕首（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Stained (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "11993": {
+      "good_id": "11993",
+      "name": "流浪者匕首（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Slaughter (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11994": {
+      "good_id": "11994",
+      "name": "流浪者匕首（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Stained (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11996": {
+      "good_id": "11996",
+      "name": "流浪者匕首（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "11997": {
+      "good_id": "11997",
+      "name": "流浪者匕首（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Case Hardened (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "11998": {
+      "good_id": "11998",
+      "name": "流浪者匕首（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "11999": {
+      "good_id": "11999",
+      "name": "流浪者匕首（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Scorched (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "12016": {
+      "good_id": "12016",
+      "name": "流浪者匕首（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Blue Steel (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "12023": {
+      "good_id": "12023",
+      "name": "流浪者匕首（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Blue Steel (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "12025": {
+      "good_id": "12025",
+      "name": "流浪者匕首（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Boreal Forest (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "12026": {
+      "good_id": "12026",
+      "name": "流浪者匕首（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "12027": {
+      "good_id": "12027",
+      "name": "流浪者匕首（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Case Hardened (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "12028": {
+      "good_id": "12028",
+      "name": "流浪者匕首（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Crimson Web (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "12029": {
+      "good_id": "12029",
+      "name": "流浪者匕首（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "12039": {
+      "good_id": "12039",
+      "name": "流浪者匕首（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Case Hardened (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "12051": {
+      "good_id": "12051",
+      "name": "流浪者匕首（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Crimson Web (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "12065": {
+      "good_id": "12065",
+      "name": "流浪者匕首（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "12069": {
+      "good_id": "12069",
+      "name": "流浪者匕首（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "12094": {
+      "good_id": "12094",
+      "name": "流浪者匕首（★ StatTrak™） | 夜色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "12096": {
+      "good_id": "12096",
+      "name": "流浪者匕首（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "12099": {
+      "good_id": "12099",
+      "name": "流浪者匕首（★ StatTrak™） | 夜色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Night Stripe (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "12106": {
+      "good_id": "12106",
+      "name": "流浪者匕首（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Crimson Web (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "12107": {
+      "good_id": "12107",
+      "name": "流浪者匕首（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "12108": {
+      "good_id": "12108",
+      "name": "流浪者匕首（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Stained (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "12111": {
+      "good_id": "12111",
+      "name": "流浪者匕首（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Crimson Web (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "12112": {
+      "good_id": "12112",
+      "name": "流浪者匕首（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "12122": {
+      "good_id": "12122",
+      "name": "流浪者匕首（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Blue Steel (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "12123": {
+      "good_id": "12123",
+      "name": "流浪者匕首（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Safari Mesh (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "12129": {
+      "good_id": "12129",
+      "name": "流浪者匕首（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Scorched (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "12131": {
+      "good_id": "12131",
+      "name": "流浪者匕首（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "12135": {
+      "good_id": "12135",
+      "name": "流浪者匕首（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Scorched (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "12145": {
+      "good_id": "12145",
+      "name": "流浪者匕首（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Blue Steel (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "12146": {
+      "good_id": "12146",
+      "name": "流浪者匕首（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "12148": {
+      "good_id": "12148",
+      "name": "流浪者匕首（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Boreal Forest (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "12149": {
+      "good_id": "12149",
+      "name": "流浪者匕首（★ StatTrak™） | 夜色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Night Stripe (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "12150": {
+      "good_id": "12150",
+      "name": "流浪者匕首（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Stained (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "12154": {
+      "good_id": "12154",
+      "name": "流浪者匕首（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "12159": {
+      "good_id": "12159",
+      "name": "流浪者匕首（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Blue Steel (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "12160": {
+      "good_id": "12160",
+      "name": "流浪者匕首（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Urban Masked (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "12166": {
+      "good_id": "12166",
+      "name": "流浪者匕首（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Scorched (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "12167": {
+      "good_id": "12167",
+      "name": "流浪者匕首（★） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Night Stripe (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "12184": {
+      "good_id": "12184",
+      "name": "流浪者匕首（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Fade (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "13040": {
+      "good_id": "13040",
+      "name": "流浪者匕首（★ StatTrak™） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "13145": {
+      "good_id": "13145",
+      "name": "流浪者匕首（★ StatTrak™） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "13304": {
+      "good_id": "13304",
+      "name": "流浪者匕首（★ StatTrak™） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Forest DDPAT (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "19012": {
+      "good_id": "19012",
+      "name": "流浪者匕首（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Stained (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "19077": {
+      "good_id": "19077",
+      "name": "流浪者匕首（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Forest DDPAT (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "19125": {
+      "good_id": "19125",
+      "name": "流浪者匕首（★ StatTrak™） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Night Stripe (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "19132": {
+      "good_id": "19132",
+      "name": "流浪者匕首（★ StatTrak™） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "21772": {
+      "good_id": "21772",
+      "name": "流浪者匕首（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Rust Coat (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "21773": {
+      "good_id": "21773",
+      "name": "流浪者匕首（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "21774": {
+      "good_id": "21774",
+      "name": "流浪者匕首（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "21775": {
+      "good_id": "21775",
+      "name": "流浪者匕首（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Rust Coat (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "21776": {
+      "good_id": "21776",
+      "name": "流浪者匕首（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Doppler (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "21777": {
+      "good_id": "21777",
+      "name": "流浪者匕首（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Damascus Steel (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "21778": {
+      "good_id": "21778",
+      "name": "流浪者匕首（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "21779": {
+      "good_id": "21779",
+      "name": "流浪者匕首（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Damascus Steel (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "21780": {
+      "good_id": "21780",
+      "name": "流浪者匕首（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Damascus Steel (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "21781": {
+      "good_id": "21781",
+      "name": "流浪者匕首（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Marble Fade (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "21782": {
+      "good_id": "21782",
+      "name": "流浪者匕首（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Ultraviolet (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "21783": {
+      "good_id": "21783",
+      "name": "流浪者匕首（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "21784": {
+      "good_id": "21784",
+      "name": "流浪者匕首（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Nomad Knife | Tiger Tooth (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "21785": {
+      "good_id": "21785",
+      "name": "流浪者匕首（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "21786": {
+      "good_id": "21786",
+      "name": "流浪者匕首（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Tiger Tooth (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "21879": {
+      "good_id": "21879",
+      "name": "流浪者匕首（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Doppler (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "21880": {
+      "good_id": "21880",
+      "name": "流浪者匕首（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Doppler (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "21881": {
+      "good_id": "21881",
+      "name": "流浪者匕首（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "21882": {
+      "good_id": "21882",
+      "name": "流浪者匕首（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Damascus Steel (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "21941": {
+      "good_id": "21941",
+      "name": "流浪者匕首（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Doppler (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "22219": {
+      "good_id": "22219",
+      "name": "流浪者匕首（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Nomad Knife | Marble Fade (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "22220": {
+      "good_id": "22220",
+      "name": "流浪者匕首（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Marble Fade (Factory New)",
+      "keyword": "流浪者匕首"
+    },
+    "22221": {
+      "good_id": "22221",
+      "name": "流浪者匕首（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Nomad Knife | Ultraviolet (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "22222": {
+      "good_id": "22222",
+      "name": "流浪者匕首（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Nomad Knife | Ultraviolet (Well-Worn)",
+      "keyword": "流浪者匕首"
+    },
+    "22223": {
+      "good_id": "22223",
+      "name": "流浪者匕首（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Nomad Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "22224": {
+      "good_id": "22224",
+      "name": "流浪者匕首（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "流浪者匕首"
+    },
+    "22225": {
+      "good_id": "22225",
+      "name": "流浪者匕首（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "流浪者匕首"
+    },
+    "22226": {
+      "good_id": "22226",
+      "name": "流浪者匕首（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Field-Tested)",
+      "keyword": "流浪者匕首"
+    },
+    "22227": {
+      "good_id": "22227",
+      "name": "流浪者匕首（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Well-Worn)",
+      "keyword": "流浪者匕首"
+    }
+  }
+}

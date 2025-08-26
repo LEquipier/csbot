@@ -1,0 +1,908 @@
+{
+  "knife_type": "短剑",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:05:11.881952",
+  "total_items": 150,
+  "items": {
+    "8559": {
+      "good_id": "8559",
+      "name": "短剑（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Case Hardened (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8591": {
+      "good_id": "8591",
+      "name": "短剑（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8592": {
+      "good_id": "8592",
+      "name": "短剑（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8595": {
+      "good_id": "8595",
+      "name": "短剑（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Blue Steel (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8596": {
+      "good_id": "8596",
+      "name": "短剑（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Slaughter (Factory New)",
+      "keyword": "短剑"
+    },
+    "8597": {
+      "good_id": "8597",
+      "name": "短剑（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Urban Masked (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8630": {
+      "good_id": "8630",
+      "name": "短剑（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Blue Steel (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8631": {
+      "good_id": "8631",
+      "name": "短剑（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Scorched (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8632": {
+      "good_id": "8632",
+      "name": "短剑（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8633": {
+      "good_id": "8633",
+      "name": "短剑（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Blue Steel (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8634": {
+      "good_id": "8634",
+      "name": "短剑（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Crimson Web (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8635": {
+      "good_id": "8635",
+      "name": "短剑（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Safari Mesh (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8636": {
+      "good_id": "8636",
+      "name": "短剑（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8637": {
+      "good_id": "8637",
+      "name": "短剑（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Scorched (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8638": {
+      "good_id": "8638",
+      "name": "短剑（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Stained (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8659": {
+      "good_id": "8659",
+      "name": "短剑（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8661": {
+      "good_id": "8661",
+      "name": "短剑（★）",
+      "market_hash_name": "★ Stiletto Knife",
+      "keyword": "短剑"
+    },
+    "8662": {
+      "good_id": "8662",
+      "name": "短剑（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Boreal Forest (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8663": {
+      "good_id": "8663",
+      "name": "短剑（★） | 夜色 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Night Stripe (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8664": {
+      "good_id": "8664",
+      "name": "短剑（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Scorched (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8665": {
+      "good_id": "8665",
+      "name": "短剑（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Scorched (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8666": {
+      "good_id": "8666",
+      "name": "短剑（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Slaughter (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8667": {
+      "good_id": "8667",
+      "name": "短剑（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Stained (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8668": {
+      "good_id": "8668",
+      "name": "短剑（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Urban Masked (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8683": {
+      "good_id": "8683",
+      "name": "短剑（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Case Hardened (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8694": {
+      "good_id": "8694",
+      "name": "短剑（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Fade (Factory New)",
+      "keyword": "短剑"
+    },
+    "8695": {
+      "good_id": "8695",
+      "name": "短剑（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8696": {
+      "good_id": "8696",
+      "name": "短剑（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8697": {
+      "good_id": "8697",
+      "name": "短剑（★） | 夜色 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Night Stripe (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8698": {
+      "good_id": "8698",
+      "name": "短剑（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Slaughter (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8733": {
+      "good_id": "8733",
+      "name": "短剑（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife",
+      "keyword": "短剑"
+    },
+    "8738": {
+      "good_id": "8738",
+      "name": "短剑（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8739": {
+      "good_id": "8739",
+      "name": "短剑（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Crimson Web (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8740": {
+      "good_id": "8740",
+      "name": "短剑（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8741": {
+      "good_id": "8741",
+      "name": "短剑（★） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Night Stripe (Factory New)",
+      "keyword": "短剑"
+    },
+    "8742": {
+      "good_id": "8742",
+      "name": "短剑（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8748": {
+      "good_id": "8748",
+      "name": "短剑（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Scorched (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8759": {
+      "good_id": "8759",
+      "name": "短剑（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8760": {
+      "good_id": "8760",
+      "name": "短剑（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8761": {
+      "good_id": "8761",
+      "name": "短剑（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Case Hardened (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8762": {
+      "good_id": "8762",
+      "name": "短剑（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Stained (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8763": {
+      "good_id": "8763",
+      "name": "短剑（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Stained (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8772": {
+      "good_id": "8772",
+      "name": "短剑（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Blue Steel (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8773": {
+      "good_id": "8773",
+      "name": "短剑（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Crimson Web (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8783": {
+      "good_id": "8783",
+      "name": "短剑（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8785": {
+      "good_id": "8785",
+      "name": "短剑（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8788": {
+      "good_id": "8788",
+      "name": "短剑（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Boreal Forest (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8789": {
+      "good_id": "8789",
+      "name": "短剑（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Urban Masked (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8795": {
+      "good_id": "8795",
+      "name": "短剑（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8799": {
+      "good_id": "8799",
+      "name": "短剑（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8805": {
+      "good_id": "8805",
+      "name": "短剑（★ StatTrak™） | 夜色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8809": {
+      "good_id": "8809",
+      "name": "短剑（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Blue Steel (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8810": {
+      "good_id": "8810",
+      "name": "短剑（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Safari Mesh (Factory New)",
+      "keyword": "短剑"
+    },
+    "8813": {
+      "good_id": "8813",
+      "name": "短剑（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Case Hardened (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8814": {
+      "good_id": "8814",
+      "name": "短剑（★） | 夜色 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Night Stripe (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8818": {
+      "good_id": "8818",
+      "name": "短剑（★ StatTrak™） | 夜色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "8819": {
+      "good_id": "8819",
+      "name": "短剑（★） | 夜色 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8820": {
+      "good_id": "8820",
+      "name": "短剑（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Scorched (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8831": {
+      "good_id": "8831",
+      "name": "短剑（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8836": {
+      "good_id": "8836",
+      "name": "短剑（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8838": {
+      "good_id": "8838",
+      "name": "短剑（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Stained (Factory New)",
+      "keyword": "短剑"
+    },
+    "8840": {
+      "good_id": "8840",
+      "name": "短剑（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Case Hardened (Factory New)",
+      "keyword": "短剑"
+    },
+    "8843": {
+      "good_id": "8843",
+      "name": "短剑（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Slaughter (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "8850": {
+      "good_id": "8850",
+      "name": "短剑（★ StatTrak™） | 夜色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "8853": {
+      "good_id": "8853",
+      "name": "短剑（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Crimson Web (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8854": {
+      "good_id": "8854",
+      "name": "短剑（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Safari Mesh (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8857": {
+      "good_id": "8857",
+      "name": "短剑（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Crimson Web (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "8858": {
+      "good_id": "8858",
+      "name": "短剑（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "9292": {
+      "good_id": "9292",
+      "name": "短剑（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "9293": {
+      "good_id": "9293",
+      "name": "短剑（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Case Hardened (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "9294": {
+      "good_id": "9294",
+      "name": "短剑（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Slaughter (Factory New)",
+      "keyword": "短剑"
+    },
+    "9295": {
+      "good_id": "9295",
+      "name": "短剑（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "9318": {
+      "good_id": "9318",
+      "name": "短剑（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Slaughter (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "9319": {
+      "good_id": "9319",
+      "name": "短剑（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Crimson Web (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "9380": {
+      "good_id": "9380",
+      "name": "短剑（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Safari Mesh (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "9381": {
+      "good_id": "9381",
+      "name": "短剑（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Case Hardened (Factory New)",
+      "keyword": "短剑"
+    },
+    "9382": {
+      "good_id": "9382",
+      "name": "短剑（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Case Hardened (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "9428": {
+      "good_id": "9428",
+      "name": "短剑（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Stained (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "9483": {
+      "good_id": "9483",
+      "name": "短剑（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Urban Masked (Factory New)",
+      "keyword": "短剑"
+    },
+    "9485": {
+      "good_id": "9485",
+      "name": "短剑（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Fade (Factory New)",
+      "keyword": "短剑"
+    },
+    "9488": {
+      "good_id": "9488",
+      "name": "短剑（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "9489": {
+      "good_id": "9489",
+      "name": "短剑（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Stained (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "9497": {
+      "good_id": "9497",
+      "name": "短剑（★ StatTrak™） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Factory New)",
+      "keyword": "短剑"
+    },
+    "9498": {
+      "good_id": "9498",
+      "name": "短剑（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Forest DDPAT (Factory New)",
+      "keyword": "短剑"
+    },
+    "9503": {
+      "good_id": "9503",
+      "name": "短剑（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Stained (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "9505": {
+      "good_id": "9505",
+      "name": "短剑（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Blue Steel (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "9506": {
+      "good_id": "9506",
+      "name": "短剑（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Scorched (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "9509": {
+      "good_id": "9509",
+      "name": "短剑（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "9510": {
+      "good_id": "9510",
+      "name": "短剑（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "9669": {
+      "good_id": "9669",
+      "name": "短剑（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Boreal Forest (Factory New)",
+      "keyword": "短剑"
+    },
+    "9671": {
+      "good_id": "9671",
+      "name": "短剑（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Safari Mesh (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "9678": {
+      "good_id": "9678",
+      "name": "短剑（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Blue Steel (Factory New)",
+      "keyword": "短剑"
+    },
+    "9679": {
+      "good_id": "9679",
+      "name": "短剑（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Scorched (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "9680": {
+      "good_id": "9680",
+      "name": "短剑（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Fade (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "9682": {
+      "good_id": "9682",
+      "name": "短剑（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Blue Steel (Factory New)",
+      "keyword": "短剑"
+    },
+    "9683": {
+      "good_id": "9683",
+      "name": "短剑（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "9684": {
+      "good_id": "9684",
+      "name": "短剑（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Stained (Factory New)",
+      "keyword": "短剑"
+    },
+    "9853": {
+      "good_id": "9853",
+      "name": "短剑（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "9866": {
+      "good_id": "9866",
+      "name": "短剑（★ StatTrak™） | 夜色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "9875": {
+      "good_id": "9875",
+      "name": "短剑（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "10325": {
+      "good_id": "10325",
+      "name": "短剑（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Scorched (Factory New)",
+      "keyword": "短剑"
+    },
+    "10336": {
+      "good_id": "10336",
+      "name": "短剑（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "10465": {
+      "good_id": "10465",
+      "name": "短剑（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Damascus Steel (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "10472": {
+      "good_id": "10472",
+      "name": "短剑（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Doppler (Factory New)",
+      "keyword": "短剑"
+    },
+    "10487": {
+      "good_id": "10487",
+      "name": "短剑（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Marble Fade (Factory New)",
+      "keyword": "短剑"
+    },
+    "10488": {
+      "good_id": "10488",
+      "name": "短剑（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Tiger Tooth (Factory New)",
+      "keyword": "短剑"
+    },
+    "10498": {
+      "good_id": "10498",
+      "name": "短剑（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Damascus Steel (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "10499": {
+      "good_id": "10499",
+      "name": "短剑（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "10500": {
+      "good_id": "10500",
+      "name": "短剑（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Doppler (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "10501": {
+      "good_id": "10501",
+      "name": "短剑（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "10504": {
+      "good_id": "10504",
+      "name": "短剑（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "10510": {
+      "good_id": "10510",
+      "name": "短剑（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "10511": {
+      "good_id": "10511",
+      "name": "短剑（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Rust Coat (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "10512": {
+      "good_id": "10512",
+      "name": "短剑（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Stiletto Knife | Ultraviolet (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "10517": {
+      "good_id": "10517",
+      "name": "短剑（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "10518": {
+      "good_id": "10518",
+      "name": "短剑（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Stiletto Knife | Ultraviolet (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "10525": {
+      "good_id": "10525",
+      "name": "短剑（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Ultraviolet (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "10528": {
+      "good_id": "10528",
+      "name": "短剑（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "10531": {
+      "good_id": "10531",
+      "name": "短剑（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Stiletto Knife | Marble Fade (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "10532": {
+      "good_id": "10532",
+      "name": "短剑（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Stiletto Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "10550": {
+      "good_id": "10550",
+      "name": "短剑（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Doppler (Factory New)",
+      "keyword": "短剑"
+    },
+    "10551": {
+      "good_id": "10551",
+      "name": "短剑（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Crimson Web (Factory New)",
+      "keyword": "短剑"
+    },
+    "10554": {
+      "good_id": "10554",
+      "name": "短剑（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "10555": {
+      "good_id": "10555",
+      "name": "短剑（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Tiger Tooth (Factory New)",
+      "keyword": "短剑"
+    },
+    "10556": {
+      "good_id": "10556",
+      "name": "短剑（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Ultraviolet (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "10557": {
+      "good_id": "10557",
+      "name": "短剑（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Damascus Steel (Factory New)",
+      "keyword": "短剑"
+    },
+    "10561": {
+      "good_id": "10561",
+      "name": "短剑（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "10570": {
+      "good_id": "10570",
+      "name": "短剑（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "10573": {
+      "good_id": "10573",
+      "name": "短剑（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Factory New)",
+      "keyword": "短剑"
+    },
+    "10598": {
+      "good_id": "10598",
+      "name": "短剑（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Rust Coat (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "10607": {
+      "good_id": "10607",
+      "name": "短剑（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Marble Fade (Factory New)",
+      "keyword": "短剑"
+    },
+    "10623": {
+      "good_id": "10623",
+      "name": "短剑（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "10626": {
+      "good_id": "10626",
+      "name": "短剑（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "10633": {
+      "good_id": "10633",
+      "name": "短剑（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Stiletto Knife | Ultraviolet (Factory New)",
+      "keyword": "短剑"
+    },
+    "10634": {
+      "good_id": "10634",
+      "name": "短剑（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Doppler (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "10636": {
+      "good_id": "10636",
+      "name": "短剑（★ StatTrak™） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "10638": {
+      "good_id": "10638",
+      "name": "短剑（★ StatTrak™） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Scorched (Factory New)",
+      "keyword": "短剑"
+    },
+    "10660": {
+      "good_id": "10660",
+      "name": "短剑（★ StatTrak™） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Factory New)",
+      "keyword": "短剑"
+    },
+    "11137": {
+      "good_id": "11137",
+      "name": "短剑（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "12147": {
+      "good_id": "12147",
+      "name": "短剑（★ StatTrak™） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Factory New)",
+      "keyword": "短剑"
+    },
+    "18379": {
+      "good_id": "18379",
+      "name": "MAG-7 | 五指短剑 (略有磨损)",
+      "market_hash_name": "MAG-7 | Cinquedea (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "18388": {
+      "good_id": "18388",
+      "name": "MAG-7 | 五指短剑 (崭新出厂)",
+      "market_hash_name": "MAG-7 | Cinquedea (Factory New)",
+      "keyword": "短剑"
+    },
+    "18394": {
+      "good_id": "18394",
+      "name": "MAG-7 | 五指短剑 (久经沙场)",
+      "market_hash_name": "MAG-7 | Cinquedea (Field-Tested)",
+      "keyword": "短剑"
+    },
+    "18445": {
+      "good_id": "18445",
+      "name": "MAG-7 | 五指短剑 (破损不堪)",
+      "market_hash_name": "MAG-7 | Cinquedea (Well-Worn)",
+      "keyword": "短剑"
+    },
+    "18447": {
+      "good_id": "18447",
+      "name": "MAG-7 | 五指短剑 (战痕累累)",
+      "market_hash_name": "MAG-7 | Cinquedea (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "18939": {
+      "good_id": "18939",
+      "name": "短剑（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "18959": {
+      "good_id": "18959",
+      "name": "短剑（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Stained (Battle-Scarred)",
+      "keyword": "短剑"
+    },
+    "18996": {
+      "good_id": "18996",
+      "name": "短剑（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Fade (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "19017": {
+      "good_id": "19017",
+      "name": "短剑（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Marble Fade (Minimal Wear)",
+      "keyword": "短剑"
+    },
+    "19146": {
+      "good_id": "19146",
+      "name": "短剑（★ StatTrak™） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Stiletto Knife | Safari Mesh (Factory New)",
+      "keyword": "短剑"
+    }
+  }
+}

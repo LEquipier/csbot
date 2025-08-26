@@ -1,0 +1,368 @@
+{
+  "knife_type": "摩托手套",
+  "category": "手套",
+  "cache_time": "2025-08-25T01:27:48.123915",
+  "total_items": 60,
+  "items": {
+    "7364": {
+      "good_id": "7364",
+      "name": "摩托手套（★） | *嘣！* (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | Boom! (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "7365": {
+      "good_id": "7365",
+      "name": "摩托手套（★） | *嘣！* (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | Boom! (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "7366": {
+      "good_id": "7366",
+      "name": "摩托手套（★） | *嘣！* (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | Boom! (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "7367": {
+      "good_id": "7367",
+      "name": "摩托手套（★） | *嘣！* (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | Boom! (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "7368": {
+      "good_id": "7368",
+      "name": "摩托手套（★） | 清凉薄荷 (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | Cool Mint (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "7369": {
+      "good_id": "7369",
+      "name": "摩托手套（★） | 清凉薄荷 (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | Cool Mint (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "7370": {
+      "good_id": "7370",
+      "name": "摩托手套（★） | 清凉薄荷 (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "7371": {
+      "good_id": "7371",
+      "name": "摩托手套（★） | 清凉薄荷 (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | Cool Mint (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "7372": {
+      "good_id": "7372",
+      "name": "摩托手套（★） | 日蚀 (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | Eclipse (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "7373": {
+      "good_id": "7373",
+      "name": "摩托手套（★） | 日蚀 (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | Eclipse (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "7374": {
+      "good_id": "7374",
+      "name": "摩托手套（★） | 日蚀 (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | Eclipse (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "7375": {
+      "good_id": "7375",
+      "name": "摩托手套（★） | 日蚀 (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | Eclipse (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "7376": {
+      "good_id": "7376",
+      "name": "摩托手套（★） | 薄荷 (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | Spearmint (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "7377": {
+      "good_id": "7377",
+      "name": "摩托手套（★） | 薄荷 (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | Spearmint (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "7378": {
+      "good_id": "7378",
+      "name": "摩托手套（★） | 薄荷 (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | Spearmint (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "7379": {
+      "good_id": "7379",
+      "name": "摩托手套（★） | 薄荷 (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | Spearmint (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "8084": {
+      "good_id": "8084",
+      "name": "摩托手套（★） | *嘣！* (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | Boom! (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "8225": {
+      "good_id": "8225",
+      "name": "摩托手套（★） | 交运 (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | Transport (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "8241": {
+      "good_id": "8241",
+      "name": "摩托手套（★） | 嘭！ (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | POW! (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "8259": {
+      "good_id": "8259",
+      "name": "摩托手套（★） | 薄荷 (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | Spearmint (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "8273": {
+      "good_id": "8273",
+      "name": "摩托手套（★） | 多边形 (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | Polygon (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "8277": {
+      "good_id": "8277",
+      "name": "摩托手套（★） | 多边形 (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | Polygon (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "8278": {
+      "good_id": "8278",
+      "name": "摩托手套（★） | 玳瑁 (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | Turtle (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "8279": {
+      "good_id": "8279",
+      "name": "摩托手套（★） | 玳瑁 (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | Turtle (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "8283": {
+      "good_id": "8283",
+      "name": "摩托手套（★） | 交运 (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | Transport (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "8285": {
+      "good_id": "8285",
+      "name": "摩托手套（★） | 嘭！ (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | POW! (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "8304": {
+      "good_id": "8304",
+      "name": "摩托手套（★） | 多边形 (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | Polygon (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "8320": {
+      "good_id": "8320",
+      "name": "摩托手套（★） | 多边形 (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | Polygon (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "8321": {
+      "good_id": "8321",
+      "name": "摩托手套（★） | 交运 (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | Transport (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "8322": {
+      "good_id": "8322",
+      "name": "摩托手套（★） | 玳瑁 (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | Turtle (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "8335": {
+      "good_id": "8335",
+      "name": "摩托手套（★） | 交运 (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | Transport (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "8336": {
+      "good_id": "8336",
+      "name": "摩托手套（★） | 玳瑁 (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | Turtle (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "8345": {
+      "good_id": "8345",
+      "name": "摩托手套（★） | 嘭！ (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | POW! (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "8370": {
+      "good_id": "8370",
+      "name": "摩托手套（★） | 嘭！ (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | POW! (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "8411": {
+      "good_id": "8411",
+      "name": "摩托手套（★） | 日蚀 (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | Eclipse (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "8422": {
+      "good_id": "8422",
+      "name": "摩托手套（★） | 清凉薄荷 (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | Cool Mint (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "8430": {
+      "good_id": "8430",
+      "name": "摩托手套（★） | 玳瑁 (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | Turtle (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "8439": {
+      "good_id": "8439",
+      "name": "摩托手套（★） | 多边形 (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | Polygon (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "8442": {
+      "good_id": "8442",
+      "name": "摩托手套（★） | 嘭！ (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | POW! (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "9676": {
+      "good_id": "9676",
+      "name": "摩托手套（★） | 交运 (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | Transport (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "12764": {
+      "good_id": "12764",
+      "name": "摩托手套（★） | 小心烟雾弹 (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | Smoke Out (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "12775": {
+      "good_id": "12775",
+      "name": "摩托手套（★） | 血压 (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | Blood Pressure (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "12825": {
+      "good_id": "12825",
+      "name": "摩托手套（★） | 第三特种兵连 (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | 3rd Commando Company (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "12881": {
+      "good_id": "12881",
+      "name": "摩托手套（★） | 终点线 (久经沙场)",
+      "market_hash_name": "★ Moto Gloves | Finish Line (Field-Tested)",
+      "keyword": "摩托手套"
+    },
+    "12933": {
+      "good_id": "12933",
+      "name": "摩托手套（★） | 终点线 (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | Finish Line (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "12950": {
+      "good_id": "12950",
+      "name": "摩托手套（★） | 小心烟雾弹 (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | Smoke Out (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "12954": {
+      "good_id": "12954",
+      "name": "摩托手套（★） | 第三特种兵连 (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "12973": {
+      "good_id": "12973",
+      "name": "摩托手套（★） | 小心烟雾弹 (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | Smoke Out (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "12975": {
+      "good_id": "12975",
+      "name": "摩托手套（★） | 终点线 (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | Finish Line (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "12989": {
+      "good_id": "12989",
+      "name": "摩托手套（★） | 血压 (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | Blood Pressure (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "12990": {
+      "good_id": "12990",
+      "name": "摩托手套（★） | 第三特种兵连 (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | 3rd Commando Company (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "12995": {
+      "good_id": "12995",
+      "name": "摩托手套（★） | 血压 (略有磨损)",
+      "market_hash_name": "★ Moto Gloves | Blood Pressure (Minimal Wear)",
+      "keyword": "摩托手套"
+    },
+    "13008": {
+      "good_id": "13008",
+      "name": "摩托手套（★） | 终点线 (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | Finish Line (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "13009": {
+      "good_id": "13009",
+      "name": "摩托手套（★） | 血压 (战痕累累)",
+      "market_hash_name": "★ Moto Gloves | Blood Pressure (Battle-Scarred)",
+      "keyword": "摩托手套"
+    },
+    "13011": {
+      "good_id": "13011",
+      "name": "摩托手套（★） | 第三特种兵连 (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | 3rd Commando Company (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "13014": {
+      "good_id": "13014",
+      "name": "摩托手套（★） | 小心烟雾弹 (破损不堪)",
+      "market_hash_name": "★ Moto Gloves | Smoke Out (Well-Worn)",
+      "keyword": "摩托手套"
+    },
+    "13023": {
+      "good_id": "13023",
+      "name": "摩托手套（★） | 血压 (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | Blood Pressure (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "13025": {
+      "good_id": "13025",
+      "name": "摩托手套（★） | 终点线 (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | Finish Line (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "13032": {
+      "good_id": "13032",
+      "name": "摩托手套（★） | 第三特种兵连 (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | 3rd Commando Company (Factory New)",
+      "keyword": "摩托手套"
+    },
+    "13042": {
+      "good_id": "13042",
+      "name": "摩托手套（★） | 小心烟雾弹 (崭新出厂)",
+      "market_hash_name": "★ Moto Gloves | Smoke Out (Factory New)",
+      "keyword": "摩托手套"
+    }
+  }
+}

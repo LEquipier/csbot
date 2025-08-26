@@ -1,0 +1,2750 @@
+{
+  "knife_type": "AK-47",
+  "category": "步枪",
+  "cache_time": "2025-08-25T01:23:55.830427",
+  "total_items": 457,
+  "items": {
+    "30": {
+      "good_id": "30",
+      "name": "AK-47 | 精英之作 (战痕累累)",
+      "market_hash_name": "AK-47 | Elite Build (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "35": {
+      "good_id": "35",
+      "name": "AK-47 | 卡特尔 (久经沙场)",
+      "market_hash_name": "AK-47 | Cartel (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "37": {
+      "good_id": "37",
+      "name": "AK-47 | 深海复仇 (战痕累累)",
+      "market_hash_name": "AK-47 | Aquamarine Revenge (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "38": {
+      "good_id": "38",
+      "name": "AK-47 | 深海复仇 (崭新出厂)",
+      "market_hash_name": "AK-47 | Aquamarine Revenge (Factory New)",
+      "keyword": "AK-47"
+    },
+    "39": {
+      "good_id": "39",
+      "name": "AK-47 | 深海复仇 (久经沙场)",
+      "market_hash_name": "AK-47 | Aquamarine Revenge (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "40": {
+      "good_id": "40",
+      "name": "AK-47 | 深海复仇 (破损不堪)",
+      "market_hash_name": "AK-47 | Aquamarine Revenge (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "41": {
+      "good_id": "41",
+      "name": "AK-47 | 黑色层压板 (战痕累累)",
+      "market_hash_name": "AK-47 | Black Laminate (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "42": {
+      "good_id": "42",
+      "name": "AK-47 | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "AK-47 | Black Laminate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "43": {
+      "good_id": "43",
+      "name": "AK-47 | 黑色层压板 (久经沙场)",
+      "market_hash_name": "AK-47 | Black Laminate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "44": {
+      "good_id": "44",
+      "name": "AK-47 | 黑色层压板 (略有磨损)",
+      "market_hash_name": "AK-47 | Black Laminate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "45": {
+      "good_id": "45",
+      "name": "AK-47 | 黑色层压板 (破损不堪)",
+      "market_hash_name": "AK-47 | Black Laminate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "46": {
+      "good_id": "46",
+      "name": "AK-47 | 血腥运动 (崭新出厂)",
+      "market_hash_name": "AK-47 | Bloodsport (Factory New)",
+      "keyword": "AK-47"
+    },
+    "47": {
+      "good_id": "47",
+      "name": "AK-47 | 血腥运动 (久经沙场)",
+      "market_hash_name": "AK-47 | Bloodsport (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "48": {
+      "good_id": "48",
+      "name": "AK-47 | 血腥运动 (略有磨损)",
+      "market_hash_name": "AK-47 | Bloodsport (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "49": {
+      "good_id": "49",
+      "name": "AK-47 | 血腥运动 (破损不堪)",
+      "market_hash_name": "AK-47 | Bloodsport (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "50": {
+      "good_id": "50",
+      "name": "AK-47 | 蓝色层压板 (崭新出厂)",
+      "market_hash_name": "AK-47 | Blue Laminate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "51": {
+      "good_id": "51",
+      "name": "AK-47 | 蓝色层压板 (久经沙场)",
+      "market_hash_name": "AK-47 | Blue Laminate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "52": {
+      "good_id": "52",
+      "name": "AK-47 | 蓝色层压板 (略有磨损)",
+      "market_hash_name": "AK-47 | Blue Laminate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "53": {
+      "good_id": "53",
+      "name": "AK-47 | 蓝色层压板 (破损不堪)",
+      "market_hash_name": "AK-47 | Blue Laminate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "54": {
+      "good_id": "54",
+      "name": "AK-47 | 卡特尔 (战痕累累)",
+      "market_hash_name": "AK-47 | Cartel (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "55": {
+      "good_id": "55",
+      "name": "AK-47 | 卡特尔 (崭新出厂)",
+      "market_hash_name": "AK-47 | Cartel (Factory New)",
+      "keyword": "AK-47"
+    },
+    "56": {
+      "good_id": "56",
+      "name": "AK-47 | 卡特尔 (破损不堪)",
+      "market_hash_name": "AK-47 | Cartel (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "57": {
+      "good_id": "57",
+      "name": "AK-47 | 表面淬火 (战痕累累)",
+      "market_hash_name": "AK-47 | Case Hardened (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "58": {
+      "good_id": "58",
+      "name": "AK-47 | 表面淬火 (崭新出厂)",
+      "market_hash_name": "AK-47 | Case Hardened (Factory New)",
+      "keyword": "AK-47"
+    },
+    "59": {
+      "good_id": "59",
+      "name": "AK-47 | 表面淬火 (久经沙场)",
+      "market_hash_name": "AK-47 | Case Hardened (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "60": {
+      "good_id": "60",
+      "name": "AK-47 | 表面淬火 (略有磨损)",
+      "market_hash_name": "AK-47 | Case Hardened (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "61": {
+      "good_id": "61",
+      "name": "AK-47 | 表面淬火 (破损不堪)",
+      "market_hash_name": "AK-47 | Case Hardened (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "62": {
+      "good_id": "62",
+      "name": "AK-47 | 精英之作 (崭新出厂)",
+      "market_hash_name": "AK-47 | Elite Build (Factory New)",
+      "keyword": "AK-47"
+    },
+    "63": {
+      "good_id": "63",
+      "name": "AK-47 | 精英之作 (久经沙场)",
+      "market_hash_name": "AK-47 | Elite Build (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "64": {
+      "good_id": "64",
+      "name": "AK-47 | 精英之作 (略有磨损)",
+      "market_hash_name": "AK-47 | Elite Build (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "65": {
+      "good_id": "65",
+      "name": "AK-47 | 精英之作 (破损不堪)",
+      "market_hash_name": "AK-47 | Elite Build (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "66": {
+      "good_id": "66",
+      "name": "AK-47 | 翡翠细条纹 (战痕累累)",
+      "market_hash_name": "AK-47 | Emerald Pinstripe (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "67": {
+      "good_id": "67",
+      "name": "AK-47 | 翡翠细条纹 (崭新出厂)",
+      "market_hash_name": "AK-47 | Emerald Pinstripe (Factory New)",
+      "keyword": "AK-47"
+    },
+    "68": {
+      "good_id": "68",
+      "name": "AK-47 | 翡翠细条纹 (久经沙场)",
+      "market_hash_name": "AK-47 | Emerald Pinstripe (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "69": {
+      "good_id": "69",
+      "name": "AK-47 | 翡翠细条纹 (略有磨损)",
+      "market_hash_name": "AK-47 | Emerald Pinstripe (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "70": {
+      "good_id": "70",
+      "name": "AK-47 | 翡翠细条纹 (破损不堪)",
+      "market_hash_name": "AK-47 | Emerald Pinstripe (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "71": {
+      "good_id": "71",
+      "name": "AK-47 | 火蛇 (战痕累累)",
+      "market_hash_name": "AK-47 | Fire Serpent (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "72": {
+      "good_id": "72",
+      "name": "AK-47 | 火蛇 (崭新出厂)",
+      "market_hash_name": "AK-47 | Fire Serpent (Factory New)",
+      "keyword": "AK-47"
+    },
+    "73": {
+      "good_id": "73",
+      "name": "AK-47 | 火蛇 (久经沙场)",
+      "market_hash_name": "AK-47 | Fire Serpent (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "74": {
+      "good_id": "74",
+      "name": "AK-47 | 火蛇 (略有磨损)",
+      "market_hash_name": "AK-47 | Fire Serpent (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "75": {
+      "good_id": "75",
+      "name": "AK-47 | 火蛇 (破损不堪)",
+      "market_hash_name": "AK-47 | Fire Serpent (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "76": {
+      "good_id": "76",
+      "name": "AK-47 | 至高皮革 (战痕累累)",
+      "market_hash_name": "AK-47 | First Class (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "77": {
+      "good_id": "77",
+      "name": "AK-47 | 至高皮革 (崭新出厂)",
+      "market_hash_name": "AK-47 | First Class (Factory New)",
+      "keyword": "AK-47"
+    },
+    "78": {
+      "good_id": "78",
+      "name": "AK-47 | 至高皮革 (久经沙场)",
+      "market_hash_name": "AK-47 | First Class (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "79": {
+      "good_id": "79",
+      "name": "AK-47 | 至高皮革 (略有磨损)",
+      "market_hash_name": "AK-47 | First Class (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "80": {
+      "good_id": "80",
+      "name": "AK-47 | 至高皮革 (破损不堪)",
+      "market_hash_name": "AK-47 | First Class (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "81": {
+      "good_id": "81",
+      "name": "AK-47 | 前线迷雾 (战痕累累)",
+      "market_hash_name": "AK-47 | Frontside Misty (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "82": {
+      "good_id": "82",
+      "name": "AK-47 | 前线迷雾 (崭新出厂)",
+      "market_hash_name": "AK-47 | Frontside Misty (Factory New)",
+      "keyword": "AK-47"
+    },
+    "83": {
+      "good_id": "83",
+      "name": "AK-47 | 前线迷雾 (略有磨损)",
+      "market_hash_name": "AK-47 | Frontside Misty (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "84": {
+      "good_id": "84",
+      "name": "AK-47 | 前线迷雾 (破损不堪)",
+      "market_hash_name": "AK-47 | Frontside Misty (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "85": {
+      "good_id": "85",
+      "name": "AK-47 | 燃料喷射器 (战痕累累)",
+      "market_hash_name": "AK-47 | Fuel Injector (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "86": {
+      "good_id": "86",
+      "name": "AK-47 | 燃料喷射器 (崭新出厂)",
+      "market_hash_name": "AK-47 | Fuel Injector (Factory New)",
+      "keyword": "AK-47"
+    },
+    "87": {
+      "good_id": "87",
+      "name": "AK-47 | 燃料喷射器 (久经沙场)",
+      "market_hash_name": "AK-47 | Fuel Injector (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "88": {
+      "good_id": "88",
+      "name": "AK-47 | 燃料喷射器 (略有磨损)",
+      "market_hash_name": "AK-47 | Fuel Injector (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "89": {
+      "good_id": "89",
+      "name": "AK-47 | 燃料喷射器 (破损不堪)",
+      "market_hash_name": "AK-47 | Fuel Injector (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "90": {
+      "good_id": "90",
+      "name": "AK-47 | 水栽竹 (战痕累累)",
+      "market_hash_name": "AK-47 | Hydroponic (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "91": {
+      "good_id": "91",
+      "name": "AK-47 | 水栽竹 (崭新出厂)",
+      "market_hash_name": "AK-47 | Hydroponic (Factory New)",
+      "keyword": "AK-47"
+    },
+    "92": {
+      "good_id": "92",
+      "name": "AK-47 | 水栽竹 (久经沙场)",
+      "market_hash_name": "AK-47 | Hydroponic (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "93": {
+      "good_id": "93",
+      "name": "AK-47 | 水栽竹 (略有磨损)",
+      "market_hash_name": "AK-47 | Hydroponic (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "94": {
+      "good_id": "94",
+      "name": "AK-47 | 水栽竹 (破损不堪)",
+      "market_hash_name": "AK-47 | Hydroponic (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "95": {
+      "good_id": "95",
+      "name": "AK-47 | 美洲猛虎 (战痕累累)",
+      "market_hash_name": "AK-47 | Jaguar (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "96": {
+      "good_id": "96",
+      "name": "AK-47 | 美洲猛虎 (崭新出厂)",
+      "market_hash_name": "AK-47 | Jaguar (Factory New)",
+      "keyword": "AK-47"
+    },
+    "97": {
+      "good_id": "97",
+      "name": "AK-47 | 美洲猛虎 (久经沙场)",
+      "market_hash_name": "AK-47 | Jaguar (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "98": {
+      "good_id": "98",
+      "name": "AK-47 | 美洲猛虎 (略有磨损)",
+      "market_hash_name": "AK-47 | Jaguar (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "99": {
+      "good_id": "99",
+      "name": "AK-47 | 美洲猛虎 (破损不堪)",
+      "market_hash_name": "AK-47 | Jaguar (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "105": {
+      "good_id": "105",
+      "name": "AK-47 | 丛林涂装 (战痕累累)",
+      "market_hash_name": "AK-47 | Jungle Spray (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "106": {
+      "good_id": "106",
+      "name": "AK-47 | 丛林涂装 (崭新出厂)",
+      "market_hash_name": "AK-47 | Jungle Spray (Factory New)",
+      "keyword": "AK-47"
+    },
+    "107": {
+      "good_id": "107",
+      "name": "AK-47 | 丛林涂装 (久经沙场)",
+      "market_hash_name": "AK-47 | Jungle Spray (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "108": {
+      "good_id": "108",
+      "name": "AK-47 | 丛林涂装 (略有磨损)",
+      "market_hash_name": "AK-47 | Jungle Spray (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "109": {
+      "good_id": "109",
+      "name": "AK-47 | 丛林涂装 (破损不堪)",
+      "market_hash_name": "AK-47 | Jungle Spray (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "110": {
+      "good_id": "110",
+      "name": "AK-47 | 霓虹革命 (战痕累累)",
+      "market_hash_name": "AK-47 | Neon Revolution (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "111": {
+      "good_id": "111",
+      "name": "AK-47 | 霓虹革命 (崭新出厂)",
+      "market_hash_name": "AK-47 | Neon Revolution (Factory New)",
+      "keyword": "AK-47"
+    },
+    "112": {
+      "good_id": "112",
+      "name": "AK-47 | 霓虹革命 (久经沙场)",
+      "market_hash_name": "AK-47 | Neon Revolution (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "113": {
+      "good_id": "113",
+      "name": "AK-47 | 霓虹革命 (略有磨损)",
+      "market_hash_name": "AK-47 | Neon Revolution (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "114": {
+      "good_id": "114",
+      "name": "AK-47 | 霓虹革命 (破损不堪)",
+      "market_hash_name": "AK-47 | Neon Revolution (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "115": {
+      "good_id": "115",
+      "name": "AK-47 | 轨道 Mk01 (战痕累累)",
+      "market_hash_name": "AK-47 | Orbit Mk01 (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "116": {
+      "good_id": "116",
+      "name": "AK-47 | 轨道 Mk01 (久经沙场)",
+      "market_hash_name": "AK-47 | Orbit Mk01 (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "117": {
+      "good_id": "117",
+      "name": "AK-47 | 轨道 Mk01 (略有磨损)",
+      "market_hash_name": "AK-47 | Orbit Mk01 (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "118": {
+      "good_id": "118",
+      "name": "AK-47 | 轨道 Mk01 (破损不堪)",
+      "market_hash_name": "AK-47 | Orbit Mk01 (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "119": {
+      "good_id": "119",
+      "name": "AK-47 | 混沌点阵 (战痕累累)",
+      "market_hash_name": "AK-47 | Point Disarray (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "120": {
+      "good_id": "120",
+      "name": "AK-47 | 混沌点阵 (崭新出厂)",
+      "market_hash_name": "AK-47 | Point Disarray (Factory New)",
+      "keyword": "AK-47"
+    },
+    "121": {
+      "good_id": "121",
+      "name": "AK-47 | 混沌点阵 (久经沙场)",
+      "market_hash_name": "AK-47 | Point Disarray (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "122": {
+      "good_id": "122",
+      "name": "AK-47 | 混沌点阵 (略有磨损)",
+      "market_hash_name": "AK-47 | Point Disarray (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "123": {
+      "good_id": "123",
+      "name": "AK-47 | 混沌点阵 (破损不堪)",
+      "market_hash_name": "AK-47 | Point Disarray (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "124": {
+      "good_id": "124",
+      "name": "AK-47 | 捕食者 (战痕累累)",
+      "market_hash_name": "AK-47 | Predator (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "125": {
+      "good_id": "125",
+      "name": "AK-47 | 捕食者 (崭新出厂)",
+      "market_hash_name": "AK-47 | Predator (Factory New)",
+      "keyword": "AK-47"
+    },
+    "126": {
+      "good_id": "126",
+      "name": "AK-47 | 捕食者 (久经沙场)",
+      "market_hash_name": "AK-47 | Predator (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "127": {
+      "good_id": "127",
+      "name": "AK-47 | 捕食者 (略有磨损)",
+      "market_hash_name": "AK-47 | Predator (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "128": {
+      "good_id": "128",
+      "name": "AK-47 | 捕食者 (破损不堪)",
+      "market_hash_name": "AK-47 | Predator (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "129": {
+      "good_id": "129",
+      "name": "AK-47 | 红色层压板 (战痕累累)",
+      "market_hash_name": "AK-47 | Red Laminate (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "130": {
+      "good_id": "130",
+      "name": "AK-47 | 红色层压板 (崭新出厂)",
+      "market_hash_name": "AK-47 | Red Laminate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "131": {
+      "good_id": "131",
+      "name": "AK-47 | 红色层压板 (久经沙场)",
+      "market_hash_name": "AK-47 | Red Laminate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "132": {
+      "good_id": "132",
+      "name": "AK-47 | 红色层压板 (略有磨损)",
+      "market_hash_name": "AK-47 | Red Laminate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "133": {
+      "good_id": "133",
+      "name": "AK-47 | 红色层压板 (破损不堪)",
+      "market_hash_name": "AK-47 | Red Laminate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "134": {
+      "good_id": "134",
+      "name": "AK-47 | 红线 (战痕累累)",
+      "market_hash_name": "AK-47 | Redline (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "135": {
+      "good_id": "135",
+      "name": "AK-47 | 红线 (久经沙场)",
+      "market_hash_name": "AK-47 | Redline (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "136": {
+      "good_id": "136",
+      "name": "AK-47 | 红线 (略有磨损)",
+      "market_hash_name": "AK-47 | Redline (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "137": {
+      "good_id": "137",
+      "name": "AK-47 | 红线 (破损不堪)",
+      "market_hash_name": "AK-47 | Redline (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "138": {
+      "good_id": "138",
+      "name": "AK-47 | 狩猎网格 (战痕累累)",
+      "market_hash_name": "AK-47 | Safari Mesh (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "139": {
+      "good_id": "139",
+      "name": "AK-47 | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "AK-47 | Safari Mesh (Factory New)",
+      "keyword": "AK-47"
+    },
+    "140": {
+      "good_id": "140",
+      "name": "AK-47 | 狩猎网格 (久经沙场)",
+      "market_hash_name": "AK-47 | Safari Mesh (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "141": {
+      "good_id": "141",
+      "name": "AK-47 | 狩猎网格 (略有磨损)",
+      "market_hash_name": "AK-47 | Safari Mesh (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "142": {
+      "good_id": "142",
+      "name": "AK-47 | 狩猎网格 (破损不堪)",
+      "market_hash_name": "AK-47 | Safari Mesh (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "143": {
+      "good_id": "143",
+      "name": "AK-47 | 皇后 (战痕累累)",
+      "market_hash_name": "AK-47 | The Empress (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "144": {
+      "good_id": "144",
+      "name": "AK-47 | 皇后 (崭新出厂)",
+      "market_hash_name": "AK-47 | The Empress (Factory New)",
+      "keyword": "AK-47"
+    },
+    "145": {
+      "good_id": "145",
+      "name": "AK-47 | 皇后 (久经沙场)",
+      "market_hash_name": "AK-47 | The Empress (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "146": {
+      "good_id": "146",
+      "name": "AK-47 | 皇后 (略有磨损)",
+      "market_hash_name": "AK-47 | The Empress (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "147": {
+      "good_id": "147",
+      "name": "AK-47 | 皇后 (破损不堪)",
+      "market_hash_name": "AK-47 | The Empress (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "148": {
+      "good_id": "148",
+      "name": "AK-47 | 火神 (战痕累累)",
+      "market_hash_name": "AK-47 | Vulcan (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "149": {
+      "good_id": "149",
+      "name": "AK-47 | 火神 (崭新出厂)",
+      "market_hash_name": "AK-47 | Vulcan (Factory New)",
+      "keyword": "AK-47"
+    },
+    "150": {
+      "good_id": "150",
+      "name": "AK-47 | 火神 (久经沙场)",
+      "market_hash_name": "AK-47 | Vulcan (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "151": {
+      "good_id": "151",
+      "name": "AK-47 | 火神 (略有磨损)",
+      "market_hash_name": "AK-47 | Vulcan (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "152": {
+      "good_id": "152",
+      "name": "AK-47 | 火神 (破损不堪)",
+      "market_hash_name": "AK-47 | Vulcan (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "153": {
+      "good_id": "153",
+      "name": "AK-47 | 荒野反叛 (战痕累累)",
+      "market_hash_name": "AK-47 | Wasteland Rebel (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "154": {
+      "good_id": "154",
+      "name": "AK-47 | 荒野反叛 (崭新出厂)",
+      "market_hash_name": "AK-47 | Wasteland Rebel (Factory New)",
+      "keyword": "AK-47"
+    },
+    "155": {
+      "good_id": "155",
+      "name": "AK-47 | 荒野反叛 (久经沙场)",
+      "market_hash_name": "AK-47 | Wasteland Rebel (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "156": {
+      "good_id": "156",
+      "name": "AK-47 | 荒野反叛 (略有磨损)",
+      "market_hash_name": "AK-47 | Wasteland Rebel (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "157": {
+      "good_id": "157",
+      "name": "AK-47 | 荒野反叛 (破损不堪)",
+      "market_hash_name": "AK-47 | Wasteland Rebel (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2359": {
+      "good_id": "2359",
+      "name": "AK-47（纪念品） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "Souvenir AK-47 | Safari Mesh (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2360": {
+      "good_id": "2360",
+      "name": "AK-47（纪念品） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "Souvenir AK-47 | Safari Mesh (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2361": {
+      "good_id": "2361",
+      "name": "AK-47（纪念品） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "Souvenir AK-47 | Safari Mesh (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2362": {
+      "good_id": "2362",
+      "name": "AK-47（纪念品） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "Souvenir AK-47 | Safari Mesh (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2363": {
+      "good_id": "2363",
+      "name": "AK-47（纪念品） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "Souvenir AK-47 | Safari Mesh (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2850": {
+      "good_id": "2850",
+      "name": "AK-47（StatTrak™） | 深海复仇 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Aquamarine Revenge (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2851": {
+      "good_id": "2851",
+      "name": "AK-47（StatTrak™） | 深海复仇 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Aquamarine Revenge (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2852": {
+      "good_id": "2852",
+      "name": "AK-47（StatTrak™） | 深海复仇 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Aquamarine Revenge (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2853": {
+      "good_id": "2853",
+      "name": "AK-47（StatTrak™） | 深海复仇 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Aquamarine Revenge (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2854": {
+      "good_id": "2854",
+      "name": "AK-47（StatTrak™） | 深海复仇 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Aquamarine Revenge (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2855": {
+      "good_id": "2855",
+      "name": "AK-47（StatTrak™） | 血腥运动 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Bloodsport (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2856": {
+      "good_id": "2856",
+      "name": "AK-47（StatTrak™） | 血腥运动 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Bloodsport (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2857": {
+      "good_id": "2857",
+      "name": "AK-47（StatTrak™） | 血腥运动 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Bloodsport (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2858": {
+      "good_id": "2858",
+      "name": "AK-47（StatTrak™） | 血腥运动 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Bloodsport (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2859": {
+      "good_id": "2859",
+      "name": "AK-47（StatTrak™） | 蓝色层压板 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2860": {
+      "good_id": "2860",
+      "name": "AK-47（StatTrak™） | 蓝色层压板 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2861": {
+      "good_id": "2861",
+      "name": "AK-47（StatTrak™） | 蓝色层压板 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2862": {
+      "good_id": "2862",
+      "name": "AK-47（StatTrak™） | 蓝色层压板 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2863": {
+      "good_id": "2863",
+      "name": "AK-47（StatTrak™） | 卡特尔 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Cartel (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2864": {
+      "good_id": "2864",
+      "name": "AK-47（StatTrak™） | 卡特尔 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Cartel (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2865": {
+      "good_id": "2865",
+      "name": "AK-47（StatTrak™） | 卡特尔 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Cartel (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2866": {
+      "good_id": "2866",
+      "name": "AK-47（StatTrak™） | 卡特尔 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Cartel (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2867": {
+      "good_id": "2867",
+      "name": "AK-47（StatTrak™） | 卡特尔 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Cartel (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2868": {
+      "good_id": "2868",
+      "name": "AK-47（StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2869": {
+      "good_id": "2869",
+      "name": "AK-47（StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2870": {
+      "good_id": "2870",
+      "name": "AK-47（StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2871": {
+      "good_id": "2871",
+      "name": "AK-47（StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2872": {
+      "good_id": "2872",
+      "name": "AK-47（StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2873": {
+      "good_id": "2873",
+      "name": "AK-47（StatTrak™） | 精英之作 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Elite Build (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2874": {
+      "good_id": "2874",
+      "name": "AK-47（StatTrak™） | 精英之作 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Elite Build (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2875": {
+      "good_id": "2875",
+      "name": "AK-47（StatTrak™） | 精英之作 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Elite Build (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2876": {
+      "good_id": "2876",
+      "name": "AK-47（StatTrak™） | 精英之作 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Elite Build (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2877": {
+      "good_id": "2877",
+      "name": "AK-47（StatTrak™） | 精英之作 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Elite Build (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2878": {
+      "good_id": "2878",
+      "name": "AK-47（StatTrak™） | 火蛇 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2879": {
+      "good_id": "2879",
+      "name": "AK-47（StatTrak™） | 火蛇 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2880": {
+      "good_id": "2880",
+      "name": "AK-47（StatTrak™） | 火蛇 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2881": {
+      "good_id": "2881",
+      "name": "AK-47（StatTrak™） | 火蛇 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2882": {
+      "good_id": "2882",
+      "name": "AK-47（StatTrak™） | 前线迷雾 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2883": {
+      "good_id": "2883",
+      "name": "AK-47（StatTrak™） | 前线迷雾 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2884": {
+      "good_id": "2884",
+      "name": "AK-47（StatTrak™） | 前线迷雾 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2885": {
+      "good_id": "2885",
+      "name": "AK-47（StatTrak™） | 前线迷雾 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2886": {
+      "good_id": "2886",
+      "name": "AK-47（StatTrak™） | 前线迷雾 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2887": {
+      "good_id": "2887",
+      "name": "AK-47（StatTrak™） | 燃料喷射器 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2888": {
+      "good_id": "2888",
+      "name": "AK-47（StatTrak™） | 燃料喷射器 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2889": {
+      "good_id": "2889",
+      "name": "AK-47（StatTrak™） | 燃料喷射器 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2890": {
+      "good_id": "2890",
+      "name": "AK-47（StatTrak™） | 燃料喷射器 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2891": {
+      "good_id": "2891",
+      "name": "AK-47（StatTrak™） | 燃料喷射器 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2892": {
+      "good_id": "2892",
+      "name": "AK-47（StatTrak™） | 美洲猛虎 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Jaguar (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2893": {
+      "good_id": "2893",
+      "name": "AK-47（StatTrak™） | 美洲猛虎 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Jaguar (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2894": {
+      "good_id": "2894",
+      "name": "AK-47（StatTrak™） | 美洲猛虎 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Jaguar (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2895": {
+      "good_id": "2895",
+      "name": "AK-47（StatTrak™） | 美洲猛虎 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Jaguar (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2896": {
+      "good_id": "2896",
+      "name": "AK-47（StatTrak™） | 美洲猛虎 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Jaguar (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2897": {
+      "good_id": "2897",
+      "name": "AK-47（StatTrak™） | 霓虹革命 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2898": {
+      "good_id": "2898",
+      "name": "AK-47（StatTrak™） | 霓虹革命 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2899": {
+      "good_id": "2899",
+      "name": "AK-47（StatTrak™） | 霓虹革命 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2900": {
+      "good_id": "2900",
+      "name": "AK-47（StatTrak™） | 轨道 Mk01 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2901": {
+      "good_id": "2901",
+      "name": "AK-47（StatTrak™） | 轨道 Mk01 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2902": {
+      "good_id": "2902",
+      "name": "AK-47（StatTrak™） | 轨道 Mk01 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2903": {
+      "good_id": "2903",
+      "name": "AK-47（StatTrak™） | 轨道 Mk01 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2904": {
+      "good_id": "2904",
+      "name": "AK-47（StatTrak™） | 轨道 Mk01 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2905": {
+      "good_id": "2905",
+      "name": "AK-47（StatTrak™） | 混沌点阵 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2906": {
+      "good_id": "2906",
+      "name": "AK-47（StatTrak™） | 混沌点阵 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2907": {
+      "good_id": "2907",
+      "name": "AK-47（StatTrak™） | 混沌点阵 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2908": {
+      "good_id": "2908",
+      "name": "AK-47（StatTrak™） | 混沌点阵 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2909": {
+      "good_id": "2909",
+      "name": "AK-47（StatTrak™） | 混沌点阵 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2910": {
+      "good_id": "2910",
+      "name": "AK-47（StatTrak™） | 红色层压板 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Red Laminate (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2911": {
+      "good_id": "2911",
+      "name": "AK-47（StatTrak™） | 红色层压板 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Red Laminate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2912": {
+      "good_id": "2912",
+      "name": "AK-47（StatTrak™） | 红色层压板 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Red Laminate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2913": {
+      "good_id": "2913",
+      "name": "AK-47（StatTrak™） | 红色层压板 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Red Laminate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2914": {
+      "good_id": "2914",
+      "name": "AK-47（StatTrak™） | 红色层压板 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Red Laminate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2915": {
+      "good_id": "2915",
+      "name": "AK-47（StatTrak™） | 红线 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Redline (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2916": {
+      "good_id": "2916",
+      "name": "AK-47（StatTrak™） | 红线 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Redline (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2917": {
+      "good_id": "2917",
+      "name": "AK-47（StatTrak™） | 红线 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Redline (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2918": {
+      "good_id": "2918",
+      "name": "AK-47（StatTrak™） | 红线 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Redline (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2919": {
+      "good_id": "2919",
+      "name": "AK-47（StatTrak™） | 皇后 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | The Empress (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2920": {
+      "good_id": "2920",
+      "name": "AK-47（StatTrak™） | 皇后 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | The Empress (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2921": {
+      "good_id": "2921",
+      "name": "AK-47（StatTrak™） | 皇后 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | The Empress (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2922": {
+      "good_id": "2922",
+      "name": "AK-47（StatTrak™） | 皇后 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | The Empress (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2923": {
+      "good_id": "2923",
+      "name": "AK-47（StatTrak™） | 皇后 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | The Empress (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2924": {
+      "good_id": "2924",
+      "name": "AK-47（StatTrak™） | 火神 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Vulcan (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2925": {
+      "good_id": "2925",
+      "name": "AK-47（StatTrak™） | 火神 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Vulcan (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2926": {
+      "good_id": "2926",
+      "name": "AK-47（StatTrak™） | 火神 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Vulcan (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2927": {
+      "good_id": "2927",
+      "name": "AK-47（StatTrak™） | 火神 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Vulcan (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2928": {
+      "good_id": "2928",
+      "name": "AK-47（StatTrak™） | 火神 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Vulcan (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "2929": {
+      "good_id": "2929",
+      "name": "AK-47（StatTrak™） | 荒野反叛 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "2930": {
+      "good_id": "2930",
+      "name": "AK-47（StatTrak™） | 荒野反叛 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Factory New)",
+      "keyword": "AK-47"
+    },
+    "2931": {
+      "good_id": "2931",
+      "name": "AK-47（StatTrak™） | 荒野反叛 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "2932": {
+      "good_id": "2932",
+      "name": "AK-47（StatTrak™） | 荒野反叛 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "2933": {
+      "good_id": "2933",
+      "name": "AK-47（StatTrak™） | 荒野反叛 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "8073": {
+      "good_id": "8073",
+      "name": "AK-47（StatTrak™） | 火蛇 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Factory New)",
+      "keyword": "AK-47"
+    },
+    "8480": {
+      "good_id": "8480",
+      "name": "AK-47 | 霓虹骑士 (战痕累累)",
+      "market_hash_name": "AK-47 | Neon Rider (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "8481": {
+      "good_id": "8481",
+      "name": "AK-47 | 霓虹骑士 (略有磨损)",
+      "market_hash_name": "AK-47 | Neon Rider (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "8563": {
+      "good_id": "8563",
+      "name": "AK-47 | 霓虹骑士 (久经沙场)",
+      "market_hash_name": "AK-47 | Neon Rider (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "8566": {
+      "good_id": "8566",
+      "name": "AK-47 | 霓虹骑士 (崭新出厂)",
+      "market_hash_name": "AK-47 | Neon Rider (Factory New)",
+      "keyword": "AK-47"
+    },
+    "8568": {
+      "good_id": "8568",
+      "name": "AK-47（StatTrak™） | 霓虹骑士 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "8569": {
+      "good_id": "8569",
+      "name": "AK-47（StatTrak™） | 霓虹骑士 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "8613": {
+      "good_id": "8613",
+      "name": "AK-47（StatTrak™） | 霓虹骑士 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "8650": {
+      "good_id": "8650",
+      "name": "AK-47 | 霓虹骑士 (破损不堪)",
+      "market_hash_name": "AK-47 | Neon Rider (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "8651": {
+      "good_id": "8651",
+      "name": "AK-47（StatTrak™） | 霓虹骑士 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "8684": {
+      "good_id": "8684",
+      "name": "AK-47（StatTrak™） | 霓虹骑士 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Factory New)",
+      "keyword": "AK-47"
+    },
+    "9358": {
+      "good_id": "9358",
+      "name": "AK-47（纪念品） | 安全网 (久经沙场)",
+      "market_hash_name": "Souvenir AK-47 | Safety Net (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "9359": {
+      "good_id": "9359",
+      "name": "AK-47（纪念品） | 安全网 (崭新出厂)",
+      "market_hash_name": "Souvenir AK-47 | Safety Net (Factory New)",
+      "keyword": "AK-47"
+    },
+    "9396": {
+      "good_id": "9396",
+      "name": "AK-47（纪念品） | 安全网 (战痕累累)",
+      "market_hash_name": "Souvenir AK-47 | Safety Net (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "9397": {
+      "good_id": "9397",
+      "name": "AK-47（纪念品） | 安全网 (破损不堪)",
+      "market_hash_name": "Souvenir AK-47 | Safety Net (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "9432": {
+      "good_id": "9432",
+      "name": "AK-47（纪念品） | 安全网 (略有磨损)",
+      "market_hash_name": "Souvenir AK-47 | Safety Net (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "9558": {
+      "good_id": "9558",
+      "name": "AK-47 | 安全网 (战痕累累)",
+      "market_hash_name": "AK-47 | Safety Net (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "9559": {
+      "good_id": "9559",
+      "name": "AK-47 | 安全网 (久经沙场)",
+      "market_hash_name": "AK-47 | Safety Net (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "9560": {
+      "good_id": "9560",
+      "name": "AK-47 | 安全网 (破损不堪)",
+      "market_hash_name": "AK-47 | Safety Net (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "9612": {
+      "good_id": "9612",
+      "name": "AK-47 | 安全网 (崭新出厂)",
+      "market_hash_name": "AK-47 | Safety Net (Factory New)",
+      "keyword": "AK-47"
+    },
+    "9646": {
+      "good_id": "9646",
+      "name": "AK-47 | 安全网 (略有磨损)",
+      "market_hash_name": "AK-47 | Safety Net (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "9720": {
+      "good_id": "9720",
+      "name": "AK-47 | 二西莫夫 (久经沙场)",
+      "market_hash_name": "AK-47 | Asiimov (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "9787": {
+      "good_id": "9787",
+      "name": "AK-47 | 二西莫夫 (战痕累累)",
+      "market_hash_name": "AK-47 | Asiimov (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "9789": {
+      "good_id": "9789",
+      "name": "AK-47（StatTrak™） | 二西莫夫 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Asiimov (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "9839": {
+      "good_id": "9839",
+      "name": "AK-47 | 二西莫夫 (崭新出厂)",
+      "market_hash_name": "AK-47 | Asiimov (Factory New)",
+      "keyword": "AK-47"
+    },
+    "9842": {
+      "good_id": "9842",
+      "name": "AK-47（StatTrak™） | 二西莫夫 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Asiimov (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "9845": {
+      "good_id": "9845",
+      "name": "AK-47（StatTrak™） | 二西莫夫 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Asiimov (Factory New)",
+      "keyword": "AK-47"
+    },
+    "9846": {
+      "good_id": "9846",
+      "name": "AK-47（StatTrak™） | 二西莫夫 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Asiimov (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "9855": {
+      "good_id": "9855",
+      "name": "AK-47 | 二西莫夫 (破损不堪)",
+      "market_hash_name": "AK-47 | Asiimov (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "9856": {
+      "good_id": "9856",
+      "name": "AK-47（StatTrak™） | 二西莫夫 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Asiimov (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "10338": {
+      "good_id": "10338",
+      "name": "AK-47 | 迷踪秘境 (久经沙场)",
+      "market_hash_name": "AK-47 | Uncharted (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "10347": {
+      "good_id": "10347",
+      "name": "AK-47 | 迷踪秘境 (略有磨损)",
+      "market_hash_name": "AK-47 | Uncharted (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "10365": {
+      "good_id": "10365",
+      "name": "AK-47 | 迷踪秘境 (崭新出厂)",
+      "market_hash_name": "AK-47 | Uncharted (Factory New)",
+      "keyword": "AK-47"
+    },
+    "10375": {
+      "good_id": "10375",
+      "name": "AK-47（StatTrak™） | 迷踪秘境 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Uncharted (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "10387": {
+      "good_id": "10387",
+      "name": "AK-47（StatTrak™） | 迷踪秘境 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Uncharted (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "10388": {
+      "good_id": "10388",
+      "name": "AK-47（StatTrak™） | 迷踪秘境 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Uncharted (Factory New)",
+      "keyword": "AK-47"
+    },
+    "10389": {
+      "good_id": "10389",
+      "name": "AK-47 | 迷踪秘境 (战痕累累)",
+      "market_hash_name": "AK-47 | Uncharted (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "10397": {
+      "good_id": "10397",
+      "name": "AK-47 | 迷踪秘境 (破损不堪)",
+      "market_hash_name": "AK-47 | Uncharted (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "10411": {
+      "good_id": "10411",
+      "name": "AK-47（StatTrak™） | 迷踪秘境 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Uncharted (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "10438": {
+      "good_id": "10438",
+      "name": "AK-47（StatTrak™） | 迷踪秘境 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Uncharted (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "11116": {
+      "good_id": "11116",
+      "name": "AK-47（纪念品） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "Souvenir AK-47 | Black Laminate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "11118": {
+      "good_id": "11118",
+      "name": "AK-47（纪念品） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "Souvenir AK-47 | Black Laminate (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "11120": {
+      "good_id": "11120",
+      "name": "AK-47（纪念品） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "Souvenir AK-47 | Black Laminate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "11121": {
+      "good_id": "11121",
+      "name": "AK-47（纪念品） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "Souvenir AK-47 | Black Laminate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "11127": {
+      "good_id": "11127",
+      "name": "AK-47（纪念品） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "Souvenir AK-47 | Black Laminate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "11470": {
+      "good_id": "11470",
+      "name": "AK-47 | 巴洛克之紫 (久经沙场)",
+      "market_hash_name": "AK-47 | Baroque Purple (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "11520": {
+      "good_id": "11520",
+      "name": "AK-47（StatTrak™） | 复古浪潮 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "11530": {
+      "good_id": "11530",
+      "name": "AK-47 | 巴洛克之紫 (战痕累累)",
+      "market_hash_name": "AK-47 | Baroque Purple (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "11531": {
+      "good_id": "11531",
+      "name": "AK-47 | 复古浪潮 (久经沙场)",
+      "market_hash_name": "AK-47 | Rat Rod (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "11543": {
+      "good_id": "11543",
+      "name": "AK-47 | 复古浪潮 (崭新出厂)",
+      "market_hash_name": "AK-47 | Rat Rod (Factory New)",
+      "keyword": "AK-47"
+    },
+    "11576": {
+      "good_id": "11576",
+      "name": "AK-47（StatTrak™） | 复古浪潮 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "11598": {
+      "good_id": "11598",
+      "name": "AK-47 | 复古浪潮 (战痕累累)",
+      "market_hash_name": "AK-47 | Rat Rod (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "11601": {
+      "good_id": "11601",
+      "name": "AK-47 | 复古浪潮 (略有磨损)",
+      "market_hash_name": "AK-47 | Rat Rod (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "11617": {
+      "good_id": "11617",
+      "name": "AK-47 | 复古浪潮 (破损不堪)",
+      "market_hash_name": "AK-47 | Rat Rod (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "11652": {
+      "good_id": "11652",
+      "name": "AK-47 | 巴洛克之紫 (破损不堪)",
+      "market_hash_name": "AK-47 | Baroque Purple (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "11661": {
+      "good_id": "11661",
+      "name": "AK-47 | 巴洛克之紫 (崭新出厂)",
+      "market_hash_name": "AK-47 | Baroque Purple (Factory New)",
+      "keyword": "AK-47"
+    },
+    "11662": {
+      "good_id": "11662",
+      "name": "AK-47（StatTrak™） | 复古浪潮 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "11672": {
+      "good_id": "11672",
+      "name": "AK-47 | 巴洛克之紫 (略有磨损)",
+      "market_hash_name": "AK-47 | Baroque Purple (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "11689": {
+      "good_id": "11689",
+      "name": "AK-47（StatTrak™） | 复古浪潮 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "11768": {
+      "good_id": "11768",
+      "name": "AK-47 | 野荷 (久经沙场)",
+      "market_hash_name": "AK-47 | Wild Lotus (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "11774": {
+      "good_id": "11774",
+      "name": "AK-47（StatTrak™） | 复古浪潮 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Factory New)",
+      "keyword": "AK-47"
+    },
+    "11782": {
+      "good_id": "11782",
+      "name": "AK-47 | 野荷 (略有磨损)",
+      "market_hash_name": "AK-47 | Wild Lotus (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "11784": {
+      "good_id": "11784",
+      "name": "AK-47 | 野荷 (破损不堪)",
+      "market_hash_name": "AK-47 | Wild Lotus (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "11904": {
+      "good_id": "11904",
+      "name": "AK-47 | 野荷 (崭新出厂)",
+      "market_hash_name": "AK-47 | Wild Lotus (Factory New)",
+      "keyword": "AK-47"
+    },
+    "11934": {
+      "good_id": "11934",
+      "name": "AK-47 | 野荷 (战痕累累)",
+      "market_hash_name": "AK-47 | Wild Lotus (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "12202": {
+      "good_id": "12202",
+      "name": "AK-47 | 幻影破坏者 (略有磨损)",
+      "market_hash_name": "AK-47 | Phantom Disruptor (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "12204": {
+      "good_id": "12204",
+      "name": "AK-47 | 幻影破坏者 (久经沙场)",
+      "market_hash_name": "AK-47 | Phantom Disruptor (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "12248": {
+      "good_id": "12248",
+      "name": "AK-47 | 幻影破坏者 (崭新出厂)",
+      "market_hash_name": "AK-47 | Phantom Disruptor (Factory New)",
+      "keyword": "AK-47"
+    },
+    "12268": {
+      "good_id": "12268",
+      "name": "AK-47（StatTrak™） | 幻影破坏者 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Phantom Disruptor (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "12270": {
+      "good_id": "12270",
+      "name": "AK-47 | 幻影破坏者 (战痕累累)",
+      "market_hash_name": "AK-47 | Phantom Disruptor (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "12276": {
+      "good_id": "12276",
+      "name": "AK-47 | 幻影破坏者 (破损不堪)",
+      "market_hash_name": "AK-47 | Phantom Disruptor (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "12277": {
+      "good_id": "12277",
+      "name": "AK-47（StatTrak™） | 幻影破坏者 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Phantom Disruptor (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "12310": {
+      "good_id": "12310",
+      "name": "AK-47（StatTrak™） | 幻影破坏者 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Phantom Disruptor (Factory New)",
+      "keyword": "AK-47"
+    },
+    "12312": {
+      "good_id": "12312",
+      "name": "AK-47（StatTrak™） | 幻影破坏者 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Phantom Disruptor (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "12323": {
+      "good_id": "12323",
+      "name": "AK-47（StatTrak™） | 幻影破坏者 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Phantom Disruptor (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "12397": {
+      "good_id": "12397",
+      "name": "AK-47 | 阿努比斯军团 (战痕累累)",
+      "market_hash_name": "AK-47 | Legion of Anubis (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "12446": {
+      "good_id": "12446",
+      "name": "AK-47 | 阿努比斯军团 (崭新出厂)",
+      "market_hash_name": "AK-47 | Legion of Anubis (Factory New)",
+      "keyword": "AK-47"
+    },
+    "12452": {
+      "good_id": "12452",
+      "name": "AK-47 | 阿努比斯军团 (略有磨损)",
+      "market_hash_name": "AK-47 | Legion of Anubis (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "12462": {
+      "good_id": "12462",
+      "name": "AK-47 | 阿努比斯军团 (久经沙场)",
+      "market_hash_name": "AK-47 | Legion of Anubis (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "12473": {
+      "good_id": "12473",
+      "name": "AK-47（StatTrak™） | 阿努比斯军团 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Legion of Anubis (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "12474": {
+      "good_id": "12474",
+      "name": "AK-47（StatTrak™） | 阿努比斯军团 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Legion of Anubis (Factory New)",
+      "keyword": "AK-47"
+    },
+    "12487": {
+      "good_id": "12487",
+      "name": "AK-47 | 阿努比斯军团 (破损不堪)",
+      "market_hash_name": "AK-47 | Legion of Anubis (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "12488": {
+      "good_id": "12488",
+      "name": "AK-47（StatTrak™） | 阿努比斯军团 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Legion of Anubis (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "12492": {
+      "good_id": "12492",
+      "name": "AK-47（StatTrak™） | 阿努比斯军团 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Legion of Anubis (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "12500": {
+      "good_id": "12500",
+      "name": "AK-47（StatTrak™） | 阿努比斯军团 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Legion of Anubis (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "12799": {
+      "good_id": "12799",
+      "name": "AK-47 | X 射线 (略有磨损)",
+      "market_hash_name": "AK-47 | X-Ray (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "12834": {
+      "good_id": "12834",
+      "name": "AK-47 | X 射线 (战痕累累)",
+      "market_hash_name": "AK-47 | X-Ray (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "12835": {
+      "good_id": "12835",
+      "name": "AK-47 | 美洲豹 (崭新出厂)",
+      "market_hash_name": "AK-47 | Panthera onca (Factory New)",
+      "keyword": "AK-47"
+    },
+    "12839": {
+      "good_id": "12839",
+      "name": "AK-47 | 美洲豹 (略有磨损)",
+      "market_hash_name": "AK-47 | Panthera onca (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "12869": {
+      "good_id": "12869",
+      "name": "AK-47 | 美洲豹 (战痕累累)",
+      "market_hash_name": "AK-47 | Panthera onca (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "12875": {
+      "good_id": "12875",
+      "name": "AK-47 | X 射线 (破损不堪)",
+      "market_hash_name": "AK-47 | X-Ray (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "12921": {
+      "good_id": "12921",
+      "name": "AK-47 | 美洲豹 (破损不堪)",
+      "market_hash_name": "AK-47 | Panthera onca (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "12935": {
+      "good_id": "12935",
+      "name": "AK-47 | 美洲豹 (久经沙场)",
+      "market_hash_name": "AK-47 | Panthera onca (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "12967": {
+      "good_id": "12967",
+      "name": "AK-47 | X 射线 (久经沙场)",
+      "market_hash_name": "AK-47 | X-Ray (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "13031": {
+      "good_id": "13031",
+      "name": "AK-47 | X 射线 (崭新出厂)",
+      "market_hash_name": "AK-47 | X-Ray (Factory New)",
+      "keyword": "AK-47"
+    },
+    "13183": {
+      "good_id": "13183",
+      "name": "AK-47 | 墨岩 (略有磨损)",
+      "market_hash_name": "AK-47 | Slate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "13193": {
+      "good_id": "13193",
+      "name": "AK-47 | 墨岩 (久经沙场)",
+      "market_hash_name": "AK-47 | Slate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "13197": {
+      "good_id": "13197",
+      "name": "AK-47 | 墨岩 (战痕累累)",
+      "market_hash_name": "AK-47 | Slate (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "13199": {
+      "good_id": "13199",
+      "name": "AK-47 | 墨岩 (破损不堪)",
+      "market_hash_name": "AK-47 | Slate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "13239": {
+      "good_id": "13239",
+      "name": "AK-47（StatTrak™） | 墨岩 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Slate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "13246": {
+      "good_id": "13246",
+      "name": "AK-47（StatTrak™） | 墨岩 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Slate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "13257": {
+      "good_id": "13257",
+      "name": "AK-47 | 墨岩 (崭新出厂)",
+      "market_hash_name": "AK-47 | Slate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "13278": {
+      "good_id": "13278",
+      "name": "AK-47（StatTrak™） | 墨岩 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Slate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "13279": {
+      "good_id": "13279",
+      "name": "AK-47（StatTrak™） | 墨岩 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Slate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "13289": {
+      "good_id": "13289",
+      "name": "AK-47（StatTrak™） | 墨岩 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Slate (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "13363": {
+      "good_id": "13363",
+      "name": "AK-47 | 抽象派 1337 (略有磨损)",
+      "market_hash_name": "AK-47 | Leet Museo (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "13493": {
+      "good_id": "13493",
+      "name": "AK-47 | 抽象派 1337 (崭新出厂)",
+      "market_hash_name": "AK-47 | Leet Museo (Factory New)",
+      "keyword": "AK-47"
+    },
+    "13575": {
+      "good_id": "13575",
+      "name": "AK-47 | 抽象派 1337 (久经沙场)",
+      "market_hash_name": "AK-47 | Leet Museo (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "13589": {
+      "good_id": "13589",
+      "name": "AK-47 | 抽象派 1337 (战痕累累)",
+      "market_hash_name": "AK-47 | Leet Museo (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "13715": {
+      "good_id": "13715",
+      "name": "AK-47 | 绿色层压板 (久经沙场)",
+      "market_hash_name": "AK-47 | Green Laminate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "13718": {
+      "good_id": "13718",
+      "name": "AK-47 | 黄金藤蔓 (久经沙场)",
+      "market_hash_name": "AK-47 | Gold Arabesque (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "13733": {
+      "good_id": "13733",
+      "name": "AK-47 | 黄金藤蔓 (略有磨损)",
+      "market_hash_name": "AK-47 | Gold Arabesque (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "13740": {
+      "good_id": "13740",
+      "name": "AK-47 | 绿色层压板 (崭新出厂)",
+      "market_hash_name": "AK-47 | Green Laminate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "13791": {
+      "good_id": "13791",
+      "name": "AK-47 | 黄金藤蔓 (崭新出厂)",
+      "market_hash_name": "AK-47 | Gold Arabesque (Factory New)",
+      "keyword": "AK-47"
+    },
+    "13793": {
+      "good_id": "13793",
+      "name": "AK-47 | 绿色层压板 (略有磨损)",
+      "market_hash_name": "AK-47 | Green Laminate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "13817": {
+      "good_id": "13817",
+      "name": "AK-47 | 黄金藤蔓 (战痕累累)",
+      "market_hash_name": "AK-47 | Gold Arabesque (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "13823": {
+      "good_id": "13823",
+      "name": "AK-47（StatTrak™） | 抽象派 1337 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Leet Museo (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "13852": {
+      "good_id": "13852",
+      "name": "AK-47（StatTrak™） | 抽象派 1337 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Leet Museo (Factory New)",
+      "keyword": "AK-47"
+    },
+    "13872": {
+      "good_id": "13872",
+      "name": "AK-47（StatTrak™） | 抽象派 1337 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Leet Museo (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "13938": {
+      "good_id": "13938",
+      "name": "AK-47 | 抽象派 1337 (破损不堪)",
+      "market_hash_name": "AK-47 | Leet Museo (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "13952": {
+      "good_id": "13952",
+      "name": "AK-47（StatTrak™） | 抽象派 1337 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Leet Museo (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "13961": {
+      "good_id": "13961",
+      "name": "AK-47 | 黄金藤蔓 (破损不堪)",
+      "market_hash_name": "AK-47 | Gold Arabesque (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "13976": {
+      "good_id": "13976",
+      "name": "AK-47（StatTrak™） | 抽象派 1337 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Leet Museo (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "14006": {
+      "good_id": "14006",
+      "name": "AK-47 | 绿色层压板 (破损不堪)",
+      "market_hash_name": "AK-47 | Green Laminate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "14305": {
+      "good_id": "14305",
+      "name": "AK-47（纪念品） | 绿色层压板 (崭新出厂)",
+      "market_hash_name": "Souvenir AK-47 | Green Laminate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "14331": {
+      "good_id": "14331",
+      "name": "AK-47（纪念品） | 绿色层压板 (久经沙场)",
+      "market_hash_name": "Souvenir AK-47 | Green Laminate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "14339": {
+      "good_id": "14339",
+      "name": "AK-47（纪念品） | 绿色层压板 (略有磨损)",
+      "market_hash_name": "Souvenir AK-47 | Green Laminate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "14350": {
+      "good_id": "14350",
+      "name": "AK-47（纪念品） | 美洲豹 (久经沙场)",
+      "market_hash_name": "Souvenir AK-47 | Panthera onca (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "14404": {
+      "good_id": "14404",
+      "name": "AK-47（纪念品） | 绿色层压板 (破损不堪)",
+      "market_hash_name": "Souvenir AK-47 | Green Laminate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "14412": {
+      "good_id": "14412",
+      "name": "AK-47（纪念品） | 美洲豹 (破损不堪)",
+      "market_hash_name": "Souvenir AK-47 | Panthera onca (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "14414": {
+      "good_id": "14414",
+      "name": "AK-47（纪念品） | 美洲豹 (略有磨损)",
+      "market_hash_name": "Souvenir AK-47 | Panthera onca (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "14417": {
+      "good_id": "14417",
+      "name": "AK-47（纪念品） | 美洲豹 (战痕累累)",
+      "market_hash_name": "Souvenir AK-47 | Panthera onca (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "14439": {
+      "good_id": "14439",
+      "name": "AK-47（纪念品） | 美洲豹 (崭新出厂)",
+      "market_hash_name": "Souvenir AK-47 | Panthera onca (Factory New)",
+      "keyword": "AK-47"
+    },
+    "14502": {
+      "good_id": "14502",
+      "name": "AK-47（纪念品） | 黄金藤蔓 (略有磨损)",
+      "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "14507": {
+      "good_id": "14507",
+      "name": "AK-47（纪念品） | 黄金藤蔓 (崭新出厂)",
+      "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Factory New)",
+      "keyword": "AK-47"
+    },
+    "14509": {
+      "good_id": "14509",
+      "name": "AK-47（纪念品） | 黄金藤蔓 (久经沙场)",
+      "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "14511": {
+      "good_id": "14511",
+      "name": "AK-47（纪念品） | 黄金藤蔓 (战痕累累)",
+      "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "14528": {
+      "good_id": "14528",
+      "name": "AK-47（纪念品） | 黄金藤蔓 (破损不堪)",
+      "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "14730": {
+      "good_id": "14730",
+      "name": "AK-47 | 夜愿 (略有磨损)",
+      "market_hash_name": "AK-47 | Nightwish (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "14738": {
+      "good_id": "14738",
+      "name": "AK-47 | 夜愿 (久经沙场)",
+      "market_hash_name": "AK-47 | Nightwish (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "14765": {
+      "good_id": "14765",
+      "name": "AK-47 | 夜愿 (破损不堪)",
+      "market_hash_name": "AK-47 | Nightwish (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "14772": {
+      "good_id": "14772",
+      "name": "AK-47 | 夜愿 (战痕累累)",
+      "market_hash_name": "AK-47 | Nightwish (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "14787": {
+      "good_id": "14787",
+      "name": "AK-47（StatTrak™） | 夜愿 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Nightwish (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "14788": {
+      "good_id": "14788",
+      "name": "AK-47（StatTrak™） | 夜愿 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Nightwish (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "14797": {
+      "good_id": "14797",
+      "name": "AK-47 | 夜愿 (崭新出厂)",
+      "market_hash_name": "AK-47 | Nightwish (Factory New)",
+      "keyword": "AK-47"
+    },
+    "14799": {
+      "good_id": "14799",
+      "name": "AK-47（StatTrak™） | 夜愿 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Nightwish (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "14806": {
+      "good_id": "14806",
+      "name": "AK-47（StatTrak™） | 夜愿 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Nightwish (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "14808": {
+      "good_id": "14808",
+      "name": "AK-47（StatTrak™） | 夜愿 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Nightwish (Factory New)",
+      "keyword": "AK-47"
+    },
+    "15459": {
+      "good_id": "15459",
+      "name": "AK-47 | 可燃冰 (略有磨损)",
+      "market_hash_name": "AK-47 | Ice Coaled (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "15475": {
+      "good_id": "15475",
+      "name": "AK-47 | 可燃冰 (久经沙场)",
+      "market_hash_name": "AK-47 | Ice Coaled (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "15487": {
+      "good_id": "15487",
+      "name": "AK-47 | 可燃冰 (崭新出厂)",
+      "market_hash_name": "AK-47 | Ice Coaled (Factory New)",
+      "keyword": "AK-47"
+    },
+    "15505": {
+      "good_id": "15505",
+      "name": "AK-47 | 可燃冰 (破损不堪)",
+      "market_hash_name": "AK-47 | Ice Coaled (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "15524": {
+      "good_id": "15524",
+      "name": "AK-47 | 可燃冰 (战痕累累)",
+      "market_hash_name": "AK-47 | Ice Coaled (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "15530": {
+      "good_id": "15530",
+      "name": "AK-47（StatTrak™） | 可燃冰 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "15566": {
+      "good_id": "15566",
+      "name": "AK-47（StatTrak™） | 可燃冰 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "15572": {
+      "good_id": "15572",
+      "name": "AK-47（StatTrak™） | 可燃冰 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "15573": {
+      "good_id": "15573",
+      "name": "AK-47（StatTrak™） | 可燃冰 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Factory New)",
+      "keyword": "AK-47"
+    },
+    "15575": {
+      "good_id": "15575",
+      "name": "AK-47（StatTrak™） | 可燃冰 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "16318": {
+      "good_id": "16318",
+      "name": "AK-47 | 一发入魂 (战痕累累)",
+      "market_hash_name": "AK-47 | Head Shot (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "16339": {
+      "good_id": "16339",
+      "name": "AK-47 | 一发入魂 (略有磨损)",
+      "market_hash_name": "AK-47 | Head Shot (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "16399": {
+      "good_id": "16399",
+      "name": "AK-47 | 一发入魂 (破损不堪)",
+      "market_hash_name": "AK-47 | Head Shot (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "16408": {
+      "good_id": "16408",
+      "name": "AK-47 | 一发入魂 (久经沙场)",
+      "market_hash_name": "AK-47 | Head Shot (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "16422": {
+      "good_id": "16422",
+      "name": "AK-47 | 一发入魂 (崭新出厂)",
+      "market_hash_name": "AK-47 | Head Shot (Factory New)",
+      "keyword": "AK-47"
+    },
+    "16437": {
+      "good_id": "16437",
+      "name": "AK-47（StatTrak™） | 一发入魂 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Head Shot (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "16440": {
+      "good_id": "16440",
+      "name": "AK-47（StatTrak™） | 一发入魂 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Head Shot (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "16444": {
+      "good_id": "16444",
+      "name": "AK-47（StatTrak™） | 一发入魂 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Head Shot (Factory New)",
+      "keyword": "AK-47"
+    },
+    "16447": {
+      "good_id": "16447",
+      "name": "AK-47（StatTrak™） | 一发入魂 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Head Shot (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "16449": {
+      "good_id": "16449",
+      "name": "AK-47（StatTrak™） | 一发入魂 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Head Shot (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "16492": {
+      "good_id": "16492",
+      "name": "AK-47 | 钢铁三角洲 (略有磨损)",
+      "market_hash_name": "AK-47 | Steel Delta (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "16498": {
+      "good_id": "16498",
+      "name": "AK-47 | 钢铁三角洲 (崭新出厂)",
+      "market_hash_name": "AK-47 | Steel Delta (Factory New)",
+      "keyword": "AK-47"
+    },
+    "16509": {
+      "good_id": "16509",
+      "name": "AK-47 | 钢铁三角洲 (久经沙场)",
+      "market_hash_name": "AK-47 | Steel Delta (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "16519": {
+      "good_id": "16519",
+      "name": "AK-47 | 钢铁三角洲 (战痕累累)",
+      "market_hash_name": "AK-47 | Steel Delta (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "16553": {
+      "good_id": "16553",
+      "name": "AK-47 | 钢铁三角洲 (破损不堪)",
+      "market_hash_name": "AK-47 | Steel Delta (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "17195": {
+      "good_id": "17195",
+      "name": "AK-47（纪念品） | 钢铁三角洲 (略有磨损)",
+      "market_hash_name": "Souvenir AK-47 | Steel Delta (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "17212": {
+      "good_id": "17212",
+      "name": "AK-47（纪念品） | 钢铁三角洲 (战痕累累)",
+      "market_hash_name": "Souvenir AK-47 | Steel Delta (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "17213": {
+      "good_id": "17213",
+      "name": "AK-47（纪念品） | 钢铁三角洲 (久经沙场)",
+      "market_hash_name": "Souvenir AK-47 | Steel Delta (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "17224": {
+      "good_id": "17224",
+      "name": "AK-47（纪念品） | 钢铁三角洲 (崭新出厂)",
+      "market_hash_name": "Souvenir AK-47 | Steel Delta (Factory New)",
+      "keyword": "AK-47"
+    },
+    "17232": {
+      "good_id": "17232",
+      "name": "AK-47（纪念品） | 钢铁三角洲 (破损不堪)",
+      "market_hash_name": "Souvenir AK-47 | Steel Delta (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "17244": {
+      "good_id": "17244",
+      "name": "AK-47 | 二西莫夫 (略有磨损)",
+      "market_hash_name": "AK-47 | Asiimov (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "18812": {
+      "good_id": "18812",
+      "name": "AK-47 | 卡特尔 (略有磨损)",
+      "market_hash_name": "AK-47 | Cartel (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "18814": {
+      "good_id": "18814",
+      "name": "AK-47 | 前线迷雾 (久经沙场)",
+      "market_hash_name": "AK-47 | Frontside Misty (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "18817": {
+      "good_id": "18817",
+      "name": "AK-47 | 深海复仇 (略有磨损)",
+      "market_hash_name": "AK-47 | Aquamarine Revenge (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "19357": {
+      "good_id": "19357",
+      "name": "AK-47 | 轨道 Mk01 (崭新出厂)",
+      "market_hash_name": "AK-47 | Orbit Mk01 (Factory New)",
+      "keyword": "AK-47"
+    },
+    "19370": {
+      "good_id": "19370",
+      "name": "AK-47（StatTrak™） | 霓虹革命 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "19377": {
+      "good_id": "19377",
+      "name": "AK-47（StatTrak™） | 霓虹革命 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "19606": {
+      "good_id": "19606",
+      "name": "AK-47 | 传承 (战痕累累)",
+      "market_hash_name": "AK-47 | Inheritance (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "19609": {
+      "good_id": "19609",
+      "name": "AK-47 | 传承 (久经沙场)",
+      "market_hash_name": "AK-47 | Inheritance (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "19612": {
+      "good_id": "19612",
+      "name": "AK-47 | 传承 (破损不堪)",
+      "market_hash_name": "AK-47 | Inheritance (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "19615": {
+      "good_id": "19615",
+      "name": "AK-47（StatTrak™） | 传承 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Inheritance (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "19616": {
+      "good_id": "19616",
+      "name": "AK-47（StatTrak™） | 传承 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Inheritance (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "19619": {
+      "good_id": "19619",
+      "name": "AK-47 | 传承 (略有磨损)",
+      "market_hash_name": "AK-47 | Inheritance (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "19620": {
+      "good_id": "19620",
+      "name": "AK-47（StatTrak™） | 传承 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Inheritance (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "19653": {
+      "good_id": "19653",
+      "name": "AK-47 | 传承 (崭新出厂)",
+      "market_hash_name": "AK-47 | Inheritance (Factory New)",
+      "keyword": "AK-47"
+    },
+    "19654": {
+      "good_id": "19654",
+      "name": "AK-47（StatTrak™） | 传承 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Inheritance (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "19679": {
+      "good_id": "19679",
+      "name": "AK-47（StatTrak™） | 传承 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Inheritance (Factory New)",
+      "keyword": "AK-47"
+    },
+    "20329": {
+      "good_id": "20329",
+      "name": "AK-47 | 局外人 (崭新出厂)",
+      "market_hash_name": "AK-47 | The Outsiders (Factory New)",
+      "keyword": "AK-47"
+    },
+    "20330": {
+      "good_id": "20330",
+      "name": "AK-47 | 局外人 (略有磨损)",
+      "market_hash_name": "AK-47 | The Outsiders (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "20331": {
+      "good_id": "20331",
+      "name": "AK-47 | 局外人 (久经沙场)",
+      "market_hash_name": "AK-47 | The Outsiders (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "20332": {
+      "good_id": "20332",
+      "name": "AK-47 | 局外人 (破损不堪)",
+      "market_hash_name": "AK-47 | The Outsiders (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "20333": {
+      "good_id": "20333",
+      "name": "AK-47 | 局外人 (战痕累累)",
+      "market_hash_name": "AK-47 | The Outsiders (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "20334": {
+      "good_id": "20334",
+      "name": "AK-47（StatTrak™） | 局外人 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | The Outsiders (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "20335": {
+      "good_id": "20335",
+      "name": "AK-47（StatTrak™） | 局外人 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | The Outsiders (Factory New)",
+      "keyword": "AK-47"
+    },
+    "20336": {
+      "good_id": "20336",
+      "name": "AK-47（StatTrak™） | 局外人 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | The Outsiders (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "20337": {
+      "good_id": "20337",
+      "name": "AK-47（StatTrak™） | 局外人 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | The Outsiders (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "20338": {
+      "good_id": "20338",
+      "name": "AK-47（StatTrak™） | 局外人 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | The Outsiders (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "20489": {
+      "good_id": "20489",
+      "name": "AK-47 | 交叉渐变 (崭新出厂)",
+      "market_hash_name": "AK-47 | Crossfade (Factory New)",
+      "keyword": "AK-47"
+    },
+    "20490": {
+      "good_id": "20490",
+      "name": "AK-47 | 交叉渐变 (略有磨损)",
+      "market_hash_name": "AK-47 | Crossfade (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "20491": {
+      "good_id": "20491",
+      "name": "AK-47 | 交叉渐变 (久经沙场)",
+      "market_hash_name": "AK-47 | Crossfade (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "20492": {
+      "good_id": "20492",
+      "name": "AK-47 | 交叉渐变 (破损不堪)",
+      "market_hash_name": "AK-47 | Crossfade (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "20493": {
+      "good_id": "20493",
+      "name": "AK-47 | 交叉渐变 (战痕累累)",
+      "market_hash_name": "AK-47 | Crossfade (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "20535": {
+      "good_id": "20535",
+      "name": "AK-47 | 怪兽在B (崭新出厂)",
+      "market_hash_name": "AK-47 | B the Monster (Factory New)",
+      "keyword": "AK-47"
+    },
+    "20536": {
+      "good_id": "20536",
+      "name": "AK-47 | 怪兽在B (略有磨损)",
+      "market_hash_name": "AK-47 | B the Monster (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "20537": {
+      "good_id": "20537",
+      "name": "AK-47 | 怪兽在B (久经沙场)",
+      "market_hash_name": "AK-47 | B the Monster (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "20538": {
+      "good_id": "20538",
+      "name": "AK-47 | 怪兽在B (破损不堪)",
+      "market_hash_name": "AK-47 | B the Monster (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "20539": {
+      "good_id": "20539",
+      "name": "AK-47 | 怪兽在B (战痕累累)",
+      "market_hash_name": "AK-47 | B the Monster (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "20653": {
+      "good_id": "20653",
+      "name": "AK-47 | 橄榄迷彩 (崭新出厂)",
+      "market_hash_name": "AK-47 | Olive Polycam (Factory New)",
+      "keyword": "AK-47"
+    },
+    "20654": {
+      "good_id": "20654",
+      "name": "AK-47 | 橄榄迷彩 (略有磨损)",
+      "market_hash_name": "AK-47 | Olive Polycam (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "20655": {
+      "good_id": "20655",
+      "name": "AK-47 | 橄榄迷彩 (久经沙场)",
+      "market_hash_name": "AK-47 | Olive Polycam (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "20656": {
+      "good_id": "20656",
+      "name": "AK-47 | 橄榄迷彩 (破损不堪)",
+      "market_hash_name": "AK-47 | Olive Polycam (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "20657": {
+      "good_id": "20657",
+      "name": "AK-47 | 橄榄迷彩 (战痕累累)",
+      "market_hash_name": "AK-47 | Olive Polycam (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "21495": {
+      "good_id": "21495",
+      "name": "AK-47 | 寒翠 (崭新出厂)",
+      "market_hash_name": "AK-47 | Wintergreen (Factory New)",
+      "keyword": "AK-47"
+    },
+    "21496": {
+      "good_id": "21496",
+      "name": "AK-47 | 寒翠 (略有磨损)",
+      "market_hash_name": "AK-47 | Wintergreen (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "21497": {
+      "good_id": "21497",
+      "name": "AK-47 | 寒翠 (久经沙场)",
+      "market_hash_name": "AK-47 | Wintergreen (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "21498": {
+      "good_id": "21498",
+      "name": "AK-47 | 寒翠 (破损不堪)",
+      "market_hash_name": "AK-47 | Wintergreen (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "21499": {
+      "good_id": "21499",
+      "name": "AK-47 | 寒翠 (战痕累累)",
+      "market_hash_name": "AK-47 | Wintergreen (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "21519": {
+      "good_id": "21519",
+      "name": "AK-47 | 灰变迷彩 (崭新出厂)",
+      "market_hash_name": "AK-47 | VariCamo Grey (Factory New)",
+      "keyword": "AK-47"
+    },
+    "21520": {
+      "good_id": "21520",
+      "name": "AK-47 | 灰变迷彩 (略有磨损)",
+      "market_hash_name": "AK-47 | VariCamo Grey (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "21521": {
+      "good_id": "21521",
+      "name": "AK-47 | 灰变迷彩 (久经沙场)",
+      "market_hash_name": "AK-47 | VariCamo Grey (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "21522": {
+      "good_id": "21522",
+      "name": "AK-47 | 灰变迷彩 (破损不堪)",
+      "market_hash_name": "AK-47 | VariCamo Grey (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "21523": {
+      "good_id": "21523",
+      "name": "AK-47 | 灰变迷彩 (战痕累累)",
+      "market_hash_name": "AK-47 | VariCamo Grey (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "21577": {
+      "good_id": "21577",
+      "name": "AK-47 | 午夜层压板 (崭新出厂)",
+      "market_hash_name": "AK-47 | Midnight Laminate (Factory New)",
+      "keyword": "AK-47"
+    },
+    "21578": {
+      "good_id": "21578",
+      "name": "AK-47 | 午夜层压板 (略有磨损)",
+      "market_hash_name": "AK-47 | Midnight Laminate (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "21631": {
+      "good_id": "21631",
+      "name": "AK-47 | 新红浪潮 (崭新出厂)",
+      "market_hash_name": "AK-47 | Nouveau Rouge (Factory New)",
+      "keyword": "AK-47"
+    },
+    "21632": {
+      "good_id": "21632",
+      "name": "AK-47 | 新红浪潮 (略有磨损)",
+      "market_hash_name": "AK-47 | Nouveau Rouge (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "21633": {
+      "good_id": "21633",
+      "name": "AK-47 | 新红浪潮 (久经沙场)",
+      "market_hash_name": "AK-47 | Nouveau Rouge (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "21730": {
+      "good_id": "21730",
+      "name": "AK-47 | 灼心怒焰 (崭新出厂)",
+      "market_hash_name": "AK-47 | Searing Rage (Factory New)",
+      "keyword": "AK-47"
+    },
+    "21947": {
+      "good_id": "21947",
+      "name": "AK-47 | 午夜层压板 (久经沙场)",
+      "market_hash_name": "AK-47 | Midnight Laminate (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "21948": {
+      "good_id": "21948",
+      "name": "AK-47 | 午夜层压板 (破损不堪)",
+      "market_hash_name": "AK-47 | Midnight Laminate (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "21971": {
+      "good_id": "21971",
+      "name": "AK-47 | 午夜层压板 (战痕累累)",
+      "market_hash_name": "AK-47 | Midnight Laminate (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "22013": {
+      "good_id": "22013",
+      "name": "AK-47 | 新红浪潮 (破损不堪)",
+      "market_hash_name": "AK-47 | Nouveau Rouge (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "22014": {
+      "good_id": "22014",
+      "name": "AK-47 | 新红浪潮 (战痕累累)",
+      "market_hash_name": "AK-47 | Nouveau Rouge (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "22105": {
+      "good_id": "22105",
+      "name": "AK-47 | 灼心怒焰 (略有磨损)",
+      "market_hash_name": "AK-47 | Searing Rage (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "22106": {
+      "good_id": "22106",
+      "name": "AK-47 | 灼心怒焰 (久经沙场)",
+      "market_hash_name": "AK-47 | Searing Rage (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "22107": {
+      "good_id": "22107",
+      "name": "AK-47 | 灼心怒焰 (破损不堪)",
+      "market_hash_name": "AK-47 | Searing Rage (Well-Worn)",
+      "keyword": "AK-47"
+    },
+    "22108": {
+      "good_id": "22108",
+      "name": "AK-47 | 灼心怒焰 (战痕累累)",
+      "market_hash_name": "AK-47 | Searing Rage (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "22109": {
+      "good_id": "22109",
+      "name": "AK-47（StatTrak™） | 灼心怒焰 (战痕累累)",
+      "market_hash_name": "StatTrak™ AK-47 | Searing Rage (Battle-Scarred)",
+      "keyword": "AK-47"
+    },
+    "22110": {
+      "good_id": "22110",
+      "name": "AK-47（StatTrak™） | 灼心怒焰 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AK-47 | Searing Rage (Factory New)",
+      "keyword": "AK-47"
+    },
+    "22111": {
+      "good_id": "22111",
+      "name": "AK-47（StatTrak™） | 灼心怒焰 (略有磨损)",
+      "market_hash_name": "StatTrak™ AK-47 | Searing Rage (Minimal Wear)",
+      "keyword": "AK-47"
+    },
+    "22112": {
+      "good_id": "22112",
+      "name": "AK-47（StatTrak™） | 灼心怒焰 (久经沙场)",
+      "market_hash_name": "StatTrak™ AK-47 | Searing Rage (Field-Tested)",
+      "keyword": "AK-47"
+    },
+    "22113": {
+      "good_id": "22113",
+      "name": "AK-47（StatTrak™） | 灼心怒焰 (破损不堪)",
+      "market_hash_name": "StatTrak™ AK-47 | Searing Rage (Well-Worn)",
+      "keyword": "AK-47"
+    }
+  }
+}

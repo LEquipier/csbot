@@ -1,0 +1,2018 @@
+{
+  "knife_type": "USP 消音版",
+  "category": "手枪",
+  "cache_time": "2025-08-25T01:34:31.283664",
+  "total_items": 335,
+  "items": {
+    "21": {
+      "good_id": "21",
+      "name": "USP 消音版 | 力矩 (崭新出厂)",
+      "market_hash_name": "USP-S | Torque (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "2832": {
+      "good_id": "2832",
+      "name": "USP 消音版（纪念品） | 森林之叶 (久经沙场)",
+      "market_hash_name": "Souvenir USP-S | Forest Leaves (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "2833": {
+      "good_id": "2833",
+      "name": "USP 消音版（纪念品） | 森林之叶 (略有磨损)",
+      "market_hash_name": "Souvenir USP-S | Forest Leaves (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "2834": {
+      "good_id": "2834",
+      "name": "USP 消音版（纪念品） | 森林之叶 (破损不堪)",
+      "market_hash_name": "Souvenir USP-S | Forest Leaves (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "2835": {
+      "good_id": "2835",
+      "name": "USP 消音版（纪念品） | 午夜行动 (崭新出厂)",
+      "market_hash_name": "Souvenir USP-S | Night Ops (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "2836": {
+      "good_id": "2836",
+      "name": "USP 消音版（纪念品） | 午夜行动 (久经沙场)",
+      "market_hash_name": "Souvenir USP-S | Night Ops (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "2837": {
+      "good_id": "2837",
+      "name": "USP 消音版（纪念品） | 午夜行动 (略有磨损)",
+      "market_hash_name": "Souvenir USP-S | Night Ops (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "2838": {
+      "good_id": "2838",
+      "name": "USP 消音版（纪念品） | 公路杀手 (战痕累累)",
+      "market_hash_name": "Souvenir USP-S | Road Rash (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "2839": {
+      "good_id": "2839",
+      "name": "USP 消音版（纪念品） | 公路杀手 (崭新出厂)",
+      "market_hash_name": "Souvenir USP-S | Road Rash (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "2840": {
+      "good_id": "2840",
+      "name": "USP 消音版（纪念品） | 公路杀手 (久经沙场)",
+      "market_hash_name": "Souvenir USP-S | Road Rash (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "2841": {
+      "good_id": "2841",
+      "name": "USP 消音版（纪念品） | 公路杀手 (略有磨损)",
+      "market_hash_name": "Souvenir USP-S | Road Rash (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "2842": {
+      "good_id": "2842",
+      "name": "USP 消音版（纪念品） | 公路杀手 (破损不堪)",
+      "market_hash_name": "Souvenir USP-S | Road Rash (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "2843": {
+      "good_id": "2843",
+      "name": "USP 消音版（纪念品） | 宝蓝之色 (战痕累累)",
+      "market_hash_name": "Souvenir USP-S | Royal Blue (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "2844": {
+      "good_id": "2844",
+      "name": "USP 消音版（纪念品） | 宝蓝之色 (崭新出厂)",
+      "market_hash_name": "Souvenir USP-S | Royal Blue (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "2845": {
+      "good_id": "2845",
+      "name": "USP 消音版（纪念品） | 宝蓝之色 (久经沙场)",
+      "market_hash_name": "Souvenir USP-S | Royal Blue (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "2846": {
+      "good_id": "2846",
+      "name": "USP 消音版（纪念品） | 宝蓝之色 (略有磨损)",
+      "market_hash_name": "Souvenir USP-S | Royal Blue (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "2847": {
+      "good_id": "2847",
+      "name": "USP 消音版（纪念品） | 宝蓝之色 (破损不堪)",
+      "market_hash_name": "Souvenir USP-S | Royal Blue (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "4187": {
+      "good_id": "4187",
+      "name": "USP 消音版（StatTrak™） | 血虎 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Blood Tiger (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4188": {
+      "good_id": "4188",
+      "name": "USP 消音版（StatTrak™） | 血虎 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Blood Tiger (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4189": {
+      "good_id": "4189",
+      "name": "USP 消音版（StatTrak™） | 血虎 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Blood Tiger (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4190": {
+      "good_id": "4190",
+      "name": "USP 消音版（StatTrak™） | 蓝图 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Blueprint (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "4191": {
+      "good_id": "4191",
+      "name": "USP 消音版（StatTrak™） | 蓝图 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Blueprint (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4192": {
+      "good_id": "4192",
+      "name": "USP 消音版（StatTrak™） | 蓝图 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Blueprint (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4193": {
+      "good_id": "4193",
+      "name": "USP 消音版（StatTrak™） | 蓝图 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Blueprint (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4194": {
+      "good_id": "4194",
+      "name": "USP 消音版（StatTrak™） | 蓝图 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Blueprint (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "4195": {
+      "good_id": "4195",
+      "name": "USP 消音版（StatTrak™） | 凯门鳄 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Caiman (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4196": {
+      "good_id": "4196",
+      "name": "USP 消音版（StatTrak™） | 凯门鳄 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Caiman (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4197": {
+      "good_id": "4197",
+      "name": "USP 消音版（StatTrak™） | 凯门鳄 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Caiman (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4198": {
+      "good_id": "4198",
+      "name": "USP 消音版（StatTrak™） | 次时代 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Cyrex (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "4199": {
+      "good_id": "4199",
+      "name": "USP 消音版（StatTrak™） | 次时代 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Cyrex (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4200": {
+      "good_id": "4200",
+      "name": "USP 消音版（StatTrak™） | 次时代 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Cyrex (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4201": {
+      "good_id": "4201",
+      "name": "USP 消音版（StatTrak™） | 次时代 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Cyrex (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4202": {
+      "good_id": "4202",
+      "name": "USP 消音版（StatTrak™） | 次时代 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Cyrex (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "4203": {
+      "good_id": "4203",
+      "name": "USP 消音版（StatTrak™） | 黑水 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Dark Water (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4204": {
+      "good_id": "4204",
+      "name": "USP 消音版（StatTrak™） | 黑水 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Dark Water (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4205": {
+      "good_id": "4205",
+      "name": "USP 消音版（StatTrak™） | 守护者 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Guardian (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4206": {
+      "good_id": "4206",
+      "name": "USP 消音版（StatTrak™） | 守护者 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Guardian (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4207": {
+      "good_id": "4207",
+      "name": "USP 消音版（StatTrak™） | 守护者 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Guardian (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4208": {
+      "good_id": "4208",
+      "name": "USP 消音版（StatTrak™） | 枪响人亡 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Kill Confirmed (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "4209": {
+      "good_id": "4209",
+      "name": "USP 消音版（StatTrak™） | 枪响人亡 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Kill Confirmed (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4210": {
+      "good_id": "4210",
+      "name": "USP 消音版（StatTrak™） | 枪响人亡 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Kill Confirmed (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4211": {
+      "good_id": "4211",
+      "name": "USP 消音版（StatTrak™） | 枪响人亡 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Kill Confirmed (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4212": {
+      "good_id": "4212",
+      "name": "USP 消音版（StatTrak™） | 枪响人亡 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Kill Confirmed (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "4213": {
+      "good_id": "4213",
+      "name": "USP 消音版（StatTrak™） | 铅管 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Lead Conduit (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "4214": {
+      "good_id": "4214",
+      "name": "USP 消音版（StatTrak™） | 铅管 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Lead Conduit (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4215": {
+      "good_id": "4215",
+      "name": "USP 消音版（StatTrak™） | 铅管 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Lead Conduit (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4216": {
+      "good_id": "4216",
+      "name": "USP 消音版（StatTrak™） | 铅管 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Lead Conduit (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4217": {
+      "good_id": "4217",
+      "name": "USP 消音版（StatTrak™） | 铅管 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Lead Conduit (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "4218": {
+      "good_id": "4218",
+      "name": "USP 消音版（StatTrak™） | 黑色魅影 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Neo-Noir (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "4219": {
+      "good_id": "4219",
+      "name": "USP 消音版（StatTrak™） | 黑色魅影 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Neo-Noir (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4220": {
+      "good_id": "4220",
+      "name": "USP 消音版（StatTrak™） | 黑色魅影 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Neo-Noir (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4221": {
+      "good_id": "4221",
+      "name": "USP 消音版（StatTrak™） | 黑色魅影 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Neo-Noir (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4222": {
+      "good_id": "4222",
+      "name": "USP 消音版（StatTrak™） | 猎户 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Orion (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4223": {
+      "good_id": "4223",
+      "name": "USP 消音版（StatTrak™） | 猎户 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Orion (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4224": {
+      "good_id": "4224",
+      "name": "USP 消音版（StatTrak™） | 疯狂蔓延 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Overgrowth (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "4225": {
+      "good_id": "4225",
+      "name": "USP 消音版（StatTrak™） | 疯狂蔓延 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Overgrowth (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4226": {
+      "good_id": "4226",
+      "name": "USP 消音版（StatTrak™） | 疯狂蔓延 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Overgrowth (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4227": {
+      "good_id": "4227",
+      "name": "USP 消音版（StatTrak™） | 疯狂蔓延 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Overgrowth (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4228": {
+      "good_id": "4228",
+      "name": "USP 消音版（StatTrak™） | 疯狂蔓延 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Overgrowth (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "4229": {
+      "good_id": "4229",
+      "name": "USP 消音版（StatTrak™） | 血清 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Serum (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4230": {
+      "good_id": "4230",
+      "name": "USP 消音版（StatTrak™） | 血清 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Serum (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4231": {
+      "good_id": "4231",
+      "name": "USP 消音版（StatTrak™） | 血清 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Serum (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4232": {
+      "good_id": "4232",
+      "name": "USP 消音版（StatTrak™） | 不锈钢 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Stainless (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "4233": {
+      "good_id": "4233",
+      "name": "USP 消音版（StatTrak™） | 不锈钢 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Stainless (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4234": {
+      "good_id": "4234",
+      "name": "USP 消音版（StatTrak™） | 不锈钢 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Stainless (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4235": {
+      "good_id": "4235",
+      "name": "USP 消音版（StatTrak™） | 不锈钢 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Stainless (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4236": {
+      "good_id": "4236",
+      "name": "USP 消音版（StatTrak™） | 不锈钢 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Stainless (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "4237": {
+      "good_id": "4237",
+      "name": "USP 消音版（StatTrak™） | 力矩 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Torque (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "4238": {
+      "good_id": "4238",
+      "name": "USP 消音版（StatTrak™） | 力矩 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Torque (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "4239": {
+      "good_id": "4239",
+      "name": "USP 消音版（StatTrak™） | 力矩 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Torque (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "4240": {
+      "good_id": "4240",
+      "name": "USP 消音版（StatTrak™） | 力矩 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Torque (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "4241": {
+      "good_id": "4241",
+      "name": "USP 消音版（StatTrak™） | 力矩 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Torque (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6526": {
+      "good_id": "6526",
+      "name": "USP 消音版 | 血虎 (崭新出厂)",
+      "market_hash_name": "USP-S | Blood Tiger (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6527": {
+      "good_id": "6527",
+      "name": "USP 消音版 | 血虎 (久经沙场)",
+      "market_hash_name": "USP-S | Blood Tiger (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6528": {
+      "good_id": "6528",
+      "name": "USP 消音版 | 血虎 (略有磨损)",
+      "market_hash_name": "USP-S | Blood Tiger (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6529": {
+      "good_id": "6529",
+      "name": "USP 消音版 | 蓝图 (战痕累累)",
+      "market_hash_name": "USP-S | Blueprint (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6530": {
+      "good_id": "6530",
+      "name": "USP 消音版 | 蓝图 (崭新出厂)",
+      "market_hash_name": "USP-S | Blueprint (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6531": {
+      "good_id": "6531",
+      "name": "USP 消音版 | 蓝图 (略有磨损)",
+      "market_hash_name": "USP-S | Blueprint (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6532": {
+      "good_id": "6532",
+      "name": "USP 消音版 | 蓝图 (破损不堪)",
+      "market_hash_name": "USP-S | Blueprint (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6533": {
+      "good_id": "6533",
+      "name": "USP 消音版 | 商业皮革 (战痕累累)",
+      "market_hash_name": "USP-S | Business Class (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6534": {
+      "good_id": "6534",
+      "name": "USP 消音版 | 商业皮革 (崭新出厂)",
+      "market_hash_name": "USP-S | Business Class (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6535": {
+      "good_id": "6535",
+      "name": "USP 消音版 | 商业皮革 (久经沙场)",
+      "market_hash_name": "USP-S | Business Class (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6536": {
+      "good_id": "6536",
+      "name": "USP 消音版 | 商业皮革 (略有磨损)",
+      "market_hash_name": "USP-S | Business Class (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6537": {
+      "good_id": "6537",
+      "name": "USP 消音版 | 商业皮革 (破损不堪)",
+      "market_hash_name": "USP-S | Business Class (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6538": {
+      "good_id": "6538",
+      "name": "USP 消音版 | 凯门鳄 (崭新出厂)",
+      "market_hash_name": "USP-S | Caiman (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6539": {
+      "good_id": "6539",
+      "name": "USP 消音版 | 凯门鳄 (久经沙场)",
+      "market_hash_name": "USP-S | Caiman (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6540": {
+      "good_id": "6540",
+      "name": "USP 消音版 | 凯门鳄 (略有磨损)",
+      "market_hash_name": "USP-S | Caiman (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6541": {
+      "good_id": "6541",
+      "name": "USP 消音版 | 凯门鳄 (破损不堪)",
+      "market_hash_name": "USP-S | Caiman (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6542": {
+      "good_id": "6542",
+      "name": "USP 消音版 | 次时代 (战痕累累)",
+      "market_hash_name": "USP-S | Cyrex (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6543": {
+      "good_id": "6543",
+      "name": "USP 消音版 | 次时代 (崭新出厂)",
+      "market_hash_name": "USP-S | Cyrex (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6544": {
+      "good_id": "6544",
+      "name": "USP 消音版 | 次时代 (久经沙场)",
+      "market_hash_name": "USP-S | Cyrex (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6545": {
+      "good_id": "6545",
+      "name": "USP 消音版 | 次时代 (略有磨损)",
+      "market_hash_name": "USP-S | Cyrex (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6546": {
+      "good_id": "6546",
+      "name": "USP 消音版 | 次时代 (破损不堪)",
+      "market_hash_name": "USP-S | Cyrex (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6547": {
+      "good_id": "6547",
+      "name": "USP 消音版 | 黑水 (久经沙场)",
+      "market_hash_name": "USP-S | Dark Water (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6548": {
+      "good_id": "6548",
+      "name": "USP 消音版 | 黑水 (略有磨损)",
+      "market_hash_name": "USP-S | Dark Water (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6549": {
+      "good_id": "6549",
+      "name": "USP 消音版 | 森林之叶 (战痕累累)",
+      "market_hash_name": "USP-S | Forest Leaves (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6550": {
+      "good_id": "6550",
+      "name": "USP 消音版 | 森林之叶 (崭新出厂)",
+      "market_hash_name": "USP-S | Forest Leaves (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6551": {
+      "good_id": "6551",
+      "name": "USP 消音版 | 森林之叶 (久经沙场)",
+      "market_hash_name": "USP-S | Forest Leaves (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6552": {
+      "good_id": "6552",
+      "name": "USP 消音版 | 森林之叶 (略有磨损)",
+      "market_hash_name": "USP-S | Forest Leaves (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6553": {
+      "good_id": "6553",
+      "name": "USP 消音版 | 森林之叶 (破损不堪)",
+      "market_hash_name": "USP-S | Forest Leaves (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6554": {
+      "good_id": "6554",
+      "name": "USP 消音版 | 守护者 (崭新出厂)",
+      "market_hash_name": "USP-S | Guardian (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6555": {
+      "good_id": "6555",
+      "name": "USP 消音版 | 守护者 (久经沙场)",
+      "market_hash_name": "USP-S | Guardian (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6556": {
+      "good_id": "6556",
+      "name": "USP 消音版 | 守护者 (略有磨损)",
+      "market_hash_name": "USP-S | Guardian (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6557": {
+      "good_id": "6557",
+      "name": "USP 消音版 | 枪响人亡 (战痕累累)",
+      "market_hash_name": "USP-S | Kill Confirmed (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6558": {
+      "good_id": "6558",
+      "name": "USP 消音版 | 枪响人亡 (崭新出厂)",
+      "market_hash_name": "USP-S | Kill Confirmed (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6559": {
+      "good_id": "6559",
+      "name": "USP 消音版 | 枪响人亡 (久经沙场)",
+      "market_hash_name": "USP-S | Kill Confirmed (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6560": {
+      "good_id": "6560",
+      "name": "USP 消音版 | 枪响人亡 (略有磨损)",
+      "market_hash_name": "USP-S | Kill Confirmed (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6561": {
+      "good_id": "6561",
+      "name": "USP 消音版 | 枪响人亡 (破损不堪)",
+      "market_hash_name": "USP-S | Kill Confirmed (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6562": {
+      "good_id": "6562",
+      "name": "USP 消音版 | 铅管 (战痕累累)",
+      "market_hash_name": "USP-S | Lead Conduit (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6563": {
+      "good_id": "6563",
+      "name": "USP 消音版 | 铅管 (崭新出厂)",
+      "market_hash_name": "USP-S | Lead Conduit (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6564": {
+      "good_id": "6564",
+      "name": "USP 消音版 | 铅管 (久经沙场)",
+      "market_hash_name": "USP-S | Lead Conduit (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6565": {
+      "good_id": "6565",
+      "name": "USP 消音版 | 铅管 (略有磨损)",
+      "market_hash_name": "USP-S | Lead Conduit (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6566": {
+      "good_id": "6566",
+      "name": "USP 消音版 | 铅管 (破损不堪)",
+      "market_hash_name": "USP-S | Lead Conduit (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6567": {
+      "good_id": "6567",
+      "name": "USP 消音版 | 黑色魅影 (战痕累累)",
+      "market_hash_name": "USP-S | Neo-Noir (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6568": {
+      "good_id": "6568",
+      "name": "USP 消音版 | 黑色魅影 (崭新出厂)",
+      "market_hash_name": "USP-S | Neo-Noir (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6569": {
+      "good_id": "6569",
+      "name": "USP 消音版 | 黑色魅影 (久经沙场)",
+      "market_hash_name": "USP-S | Neo-Noir (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6570": {
+      "good_id": "6570",
+      "name": "USP 消音版 | 黑色魅影 (略有磨损)",
+      "market_hash_name": "USP-S | Neo-Noir (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6571": {
+      "good_id": "6571",
+      "name": "USP 消音版 | 黑色魅影 (破损不堪)",
+      "market_hash_name": "USP-S | Neo-Noir (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6572": {
+      "good_id": "6572",
+      "name": "USP 消音版 | 午夜行动 (战痕累累)",
+      "market_hash_name": "USP-S | Night Ops (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6573": {
+      "good_id": "6573",
+      "name": "USP 消音版 | 午夜行动 (崭新出厂)",
+      "market_hash_name": "USP-S | Night Ops (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6574": {
+      "good_id": "6574",
+      "name": "USP 消音版 | 午夜行动 (久经沙场)",
+      "market_hash_name": "USP-S | Night Ops (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6575": {
+      "good_id": "6575",
+      "name": "USP 消音版 | 午夜行动 (略有磨损)",
+      "market_hash_name": "USP-S | Night Ops (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6576": {
+      "good_id": "6576",
+      "name": "USP 消音版 | 午夜行动 (破损不堪)",
+      "market_hash_name": "USP-S | Night Ops (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6577": {
+      "good_id": "6577",
+      "name": "USP 消音版 | 猎户 (战痕累累)",
+      "market_hash_name": "USP-S | Orion (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6578": {
+      "good_id": "6578",
+      "name": "USP 消音版 | 猎户 (崭新出厂)",
+      "market_hash_name": "USP-S | Orion (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6579": {
+      "good_id": "6579",
+      "name": "USP 消音版 | 猎户 (久经沙场)",
+      "market_hash_name": "USP-S | Orion (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6580": {
+      "good_id": "6580",
+      "name": "USP 消音版 | 猎户 (略有磨损)",
+      "market_hash_name": "USP-S | Orion (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6581": {
+      "good_id": "6581",
+      "name": "USP 消音版 | 猎户 (破损不堪)",
+      "market_hash_name": "USP-S | Orion (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6582": {
+      "good_id": "6582",
+      "name": "USP 消音版 | 疯狂蔓延 (战痕累累)",
+      "market_hash_name": "USP-S | Overgrowth (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6583": {
+      "good_id": "6583",
+      "name": "USP 消音版 | 疯狂蔓延 (崭新出厂)",
+      "market_hash_name": "USP-S | Overgrowth (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6584": {
+      "good_id": "6584",
+      "name": "USP 消音版 | 疯狂蔓延 (久经沙场)",
+      "market_hash_name": "USP-S | Overgrowth (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6585": {
+      "good_id": "6585",
+      "name": "USP 消音版 | 疯狂蔓延 (略有磨损)",
+      "market_hash_name": "USP-S | Overgrowth (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6586": {
+      "good_id": "6586",
+      "name": "USP 消音版 | 疯狂蔓延 (破损不堪)",
+      "market_hash_name": "USP-S | Overgrowth (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6587": {
+      "good_id": "6587",
+      "name": "USP 消音版 | 绿色伞兵 (战痕累累)",
+      "market_hash_name": "USP-S | Para Green (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6588": {
+      "good_id": "6588",
+      "name": "USP 消音版 | 绿色伞兵 (崭新出厂)",
+      "market_hash_name": "USP-S | Para Green (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6589": {
+      "good_id": "6589",
+      "name": "USP 消音版 | 绿色伞兵 (久经沙场)",
+      "market_hash_name": "USP-S | Para Green (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6590": {
+      "good_id": "6590",
+      "name": "USP 消音版 | 绿色伞兵 (略有磨损)",
+      "market_hash_name": "USP-S | Para Green (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6591": {
+      "good_id": "6591",
+      "name": "USP 消音版 | 绿色伞兵 (破损不堪)",
+      "market_hash_name": "USP-S | Para Green (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6592": {
+      "good_id": "6592",
+      "name": "USP 消音版 | 公路杀手 (战痕累累)",
+      "market_hash_name": "USP-S | Road Rash (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6593": {
+      "good_id": "6593",
+      "name": "USP 消音版 | 公路杀手 (崭新出厂)",
+      "market_hash_name": "USP-S | Road Rash (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6594": {
+      "good_id": "6594",
+      "name": "USP 消音版 | 公路杀手 (久经沙场)",
+      "market_hash_name": "USP-S | Road Rash (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6595": {
+      "good_id": "6595",
+      "name": "USP 消音版 | 公路杀手 (略有磨损)",
+      "market_hash_name": "USP-S | Road Rash (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6596": {
+      "good_id": "6596",
+      "name": "USP 消音版 | 公路杀手 (破损不堪)",
+      "market_hash_name": "USP-S | Road Rash (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6597": {
+      "good_id": "6597",
+      "name": "USP 消音版 | 宝蓝之色 (战痕累累)",
+      "market_hash_name": "USP-S | Royal Blue (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6598": {
+      "good_id": "6598",
+      "name": "USP 消音版 | 宝蓝之色 (崭新出厂)",
+      "market_hash_name": "USP-S | Royal Blue (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6599": {
+      "good_id": "6599",
+      "name": "USP 消音版 | 宝蓝之色 (久经沙场)",
+      "market_hash_name": "USP-S | Royal Blue (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6600": {
+      "good_id": "6600",
+      "name": "USP 消音版 | 宝蓝之色 (略有磨损)",
+      "market_hash_name": "USP-S | Royal Blue (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6601": {
+      "good_id": "6601",
+      "name": "USP 消音版 | 宝蓝之色 (破损不堪)",
+      "market_hash_name": "USP-S | Royal Blue (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6602": {
+      "good_id": "6602",
+      "name": "USP 消音版 | 血清 (崭新出厂)",
+      "market_hash_name": "USP-S | Serum (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6603": {
+      "good_id": "6603",
+      "name": "USP 消音版 | 血清 (久经沙场)",
+      "market_hash_name": "USP-S | Serum (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6604": {
+      "good_id": "6604",
+      "name": "USP 消音版 | 血清 (略有磨损)",
+      "market_hash_name": "USP-S | Serum (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6605": {
+      "good_id": "6605",
+      "name": "USP 消音版 | 不锈钢 (战痕累累)",
+      "market_hash_name": "USP-S | Stainless (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6606": {
+      "good_id": "6606",
+      "name": "USP 消音版 | 不锈钢 (崭新出厂)",
+      "market_hash_name": "USP-S | Stainless (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "6607": {
+      "good_id": "6607",
+      "name": "USP 消音版 | 不锈钢 (久经沙场)",
+      "market_hash_name": "USP-S | Stainless (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6608": {
+      "good_id": "6608",
+      "name": "USP 消音版 | 不锈钢 (略有磨损)",
+      "market_hash_name": "USP-S | Stainless (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6609": {
+      "good_id": "6609",
+      "name": "USP 消音版 | 不锈钢 (破损不堪)",
+      "market_hash_name": "USP-S | Stainless (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "6610": {
+      "good_id": "6610",
+      "name": "USP 消音版 | 力矩 (战痕累累)",
+      "market_hash_name": "USP-S | Torque (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "6611": {
+      "good_id": "6611",
+      "name": "USP 消音版 | 力矩 (久经沙场)",
+      "market_hash_name": "USP-S | Torque (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "6612": {
+      "good_id": "6612",
+      "name": "USP 消音版 | 力矩 (略有磨损)",
+      "market_hash_name": "USP-S | Torque (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "6613": {
+      "good_id": "6613",
+      "name": "USP 消音版 | 力矩 (破损不堪)",
+      "market_hash_name": "USP-S | Torque (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "7974": {
+      "good_id": "7974",
+      "name": "USP 消音版（纪念品） | 森林之叶 (战痕累累)",
+      "market_hash_name": "Souvenir USP-S | Forest Leaves (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "7992": {
+      "good_id": "7992",
+      "name": "USP 消音版（StatTrak™） | 猎户 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Orion (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "8038": {
+      "good_id": "8038",
+      "name": "USP 消音版（StatTrak™） | 黑色魅影 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Neo-Noir (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "8042": {
+      "good_id": "8042",
+      "name": "USP 消音版 | 蓝图 (久经沙场)",
+      "market_hash_name": "USP-S | Blueprint (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "8176": {
+      "good_id": "8176",
+      "name": "USP 消音版（StatTrak™） | 脑洞大开 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Cortex (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "8193": {
+      "good_id": "8193",
+      "name": "USP 消音版 | 脑洞大开 (战痕累累)",
+      "market_hash_name": "USP-S | Cortex (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "8194": {
+      "good_id": "8194",
+      "name": "USP 消音版 | 脑洞大开 (崭新出厂)",
+      "market_hash_name": "USP-S | Cortex (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "8195": {
+      "good_id": "8195",
+      "name": "USP 消音版 | 脑洞大开 (久经沙场)",
+      "market_hash_name": "USP-S | Cortex (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "8196": {
+      "good_id": "8196",
+      "name": "USP 消音版 | 脑洞大开 (略有磨损)",
+      "market_hash_name": "USP-S | Cortex (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "8197": {
+      "good_id": "8197",
+      "name": "USP 消音版 | 脑洞大开 (破损不堪)",
+      "market_hash_name": "USP-S | Cortex (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "8217": {
+      "good_id": "8217",
+      "name": "USP 消音版（StatTrak™） | 脑洞大开 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Cortex (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "8236": {
+      "good_id": "8236",
+      "name": "USP 消音版（StatTrak™） | 脑洞大开 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Cortex (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "8269": {
+      "good_id": "8269",
+      "name": "USP 消音版（StatTrak™） | 脑洞大开 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Cortex (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "8292": {
+      "good_id": "8292",
+      "name": "USP 消音版（StatTrak™） | 脑洞大开 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Cortex (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "9350": {
+      "good_id": "9350",
+      "name": "USP 消音版（纪念品） | 引擎故障灯 (久经沙场)",
+      "market_hash_name": "Souvenir USP-S | Check Engine (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "9378": {
+      "good_id": "9378",
+      "name": "USP 消音版（纪念品） | 引擎故障灯 (崭新出厂)",
+      "market_hash_name": "Souvenir USP-S | Check Engine (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "9379": {
+      "good_id": "9379",
+      "name": "USP 消音版（纪念品） | 引擎故障灯 (略有磨损)",
+      "market_hash_name": "Souvenir USP-S | Check Engine (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "9427": {
+      "good_id": "9427",
+      "name": "USP 消音版（纪念品） | 引擎故障灯 (战痕累累)",
+      "market_hash_name": "Souvenir USP-S | Check Engine (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "9449": {
+      "good_id": "9449",
+      "name": "USP 消音版（纪念品） | 引擎故障灯 (破损不堪)",
+      "market_hash_name": "Souvenir USP-S | Check Engine (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "9538": {
+      "good_id": "9538",
+      "name": "USP 消音版 | 引擎故障灯 (久经沙场)",
+      "market_hash_name": "USP-S | Check Engine (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "9606": {
+      "good_id": "9606",
+      "name": "USP 消音版 | 引擎故障灯 (战痕累累)",
+      "market_hash_name": "USP-S | Check Engine (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "9607": {
+      "good_id": "9607",
+      "name": "USP 消音版 | 引擎故障灯 (崭新出厂)",
+      "market_hash_name": "USP-S | Check Engine (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "9608": {
+      "good_id": "9608",
+      "name": "USP 消音版 | 引擎故障灯 (略有磨损)",
+      "market_hash_name": "USP-S | Check Engine (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "9658": {
+      "good_id": "9658",
+      "name": "USP 消音版 | 引擎故障灯 (破损不堪)",
+      "market_hash_name": "USP-S | Check Engine (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "9724": {
+      "good_id": "9724",
+      "name": "USP 消音版 | 闪回 (略有磨损)",
+      "market_hash_name": "USP-S | Flashback (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "9729": {
+      "good_id": "9729",
+      "name": "USP 消音版 | 闪回 (崭新出厂)",
+      "market_hash_name": "USP-S | Flashback (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "9730": {
+      "good_id": "9730",
+      "name": "USP 消音版 | 闪回 (久经沙场)",
+      "market_hash_name": "USP-S | Flashback (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "9748": {
+      "good_id": "9748",
+      "name": "USP 消音版（StatTrak™） | 闪回 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Flashback (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "9773": {
+      "good_id": "9773",
+      "name": "USP 消音版（StatTrak™） | 闪回 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Flashback (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "9774": {
+      "good_id": "9774",
+      "name": "USP 消音版（StatTrak™） | 闪回 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Flashback (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "9783": {
+      "good_id": "9783",
+      "name": "USP 消音版 | 闪回 (战痕累累)",
+      "market_hash_name": "USP-S | Flashback (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "9791": {
+      "good_id": "9791",
+      "name": "USP 消音版（StatTrak™） | 闪回 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Flashback (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "9797": {
+      "good_id": "9797",
+      "name": "USP 消音版 | 闪回 (破损不堪)",
+      "market_hash_name": "USP-S | Flashback (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "9854": {
+      "good_id": "9854",
+      "name": "USP 消音版（StatTrak™） | 闪回 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Flashback (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "11519": {
+      "good_id": "11519",
+      "name": "USP 消音版 | 寻路者 (崭新出厂)",
+      "market_hash_name": "USP-S | Pathfinder (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "11522": {
+      "good_id": "11522",
+      "name": "USP 消音版 | 寻路者 (久经沙场)",
+      "market_hash_name": "USP-S | Pathfinder (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "11547": {
+      "good_id": "11547",
+      "name": "USP 消音版 | 寻路者 (略有磨损)",
+      "market_hash_name": "USP-S | Pathfinder (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "12661": {
+      "good_id": "12661",
+      "name": "USP 消音版（StatTrak™） | 小绿怪 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Monster Mashup (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "12687": {
+      "good_id": "12687",
+      "name": "USP 消音版 | 小绿怪 (略有磨损)",
+      "market_hash_name": "USP-S | Monster Mashup (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "12688": {
+      "good_id": "12688",
+      "name": "USP 消音版 | 小绿怪 (久经沙场)",
+      "market_hash_name": "USP-S | Monster Mashup (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "12708": {
+      "good_id": "12708",
+      "name": "USP 消音版（StatTrak™） | 小绿怪 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Monster Mashup (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "12716": {
+      "good_id": "12716",
+      "name": "USP 消音版 | 小绿怪 (崭新出厂)",
+      "market_hash_name": "USP-S | Monster Mashup (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "12757": {
+      "good_id": "12757",
+      "name": "USP 消音版 | 锁定 (略有磨损)",
+      "market_hash_name": "USP-S | Target Acquired (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "12762": {
+      "good_id": "12762",
+      "name": "USP 消音版 | 锁定 (久经沙场)",
+      "market_hash_name": "USP-S | Target Acquired (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "12780": {
+      "good_id": "12780",
+      "name": "USP 消音版 | 锁定 (崭新出厂)",
+      "market_hash_name": "USP-S | Target Acquired (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "12794": {
+      "good_id": "12794",
+      "name": "USP 消音版 | 小绿怪 (战痕累累)",
+      "market_hash_name": "USP-S | Monster Mashup (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "12818": {
+      "good_id": "12818",
+      "name": "USP 消音版（StatTrak™） | 小绿怪 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Monster Mashup (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "12845": {
+      "good_id": "12845",
+      "name": "USP 消音版 | 远古幻想 (略有磨损)",
+      "market_hash_name": "USP-S | Ancient Visions (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "12848": {
+      "good_id": "12848",
+      "name": "USP 消音版 | 小绿怪 (破损不堪)",
+      "market_hash_name": "USP-S | Monster Mashup (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "12857": {
+      "good_id": "12857",
+      "name": "USP 消音版 | 远古幻想 (久经沙场)",
+      "market_hash_name": "USP-S | Ancient Visions (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "12871": {
+      "good_id": "12871",
+      "name": "USP 消音版 | 远古幻想 (崭新出厂)",
+      "market_hash_name": "USP-S | Ancient Visions (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "12906": {
+      "good_id": "12906",
+      "name": "USP 消音版 | 锁定 (破损不堪)",
+      "market_hash_name": "USP-S | Target Acquired (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "12911": {
+      "good_id": "12911",
+      "name": "USP 消音版（StatTrak™） | 小绿怪 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Monster Mashup (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "12941": {
+      "good_id": "12941",
+      "name": "USP 消音版（StatTrak™） | 小绿怪 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Monster Mashup (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "12979": {
+      "good_id": "12979",
+      "name": "USP 消音版 | 锁定 (战痕累累)",
+      "market_hash_name": "USP-S | Target Acquired (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "13005": {
+      "good_id": "13005",
+      "name": "USP 消音版 | 远古幻想 (破损不堪)",
+      "market_hash_name": "USP-S | Ancient Visions (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "13174": {
+      "good_id": "13174",
+      "name": "USP 消音版 | 倒吊人 (破损不堪)",
+      "market_hash_name": "USP-S | The Traitor (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "13232": {
+      "good_id": "13232",
+      "name": "USP 消音版 | 倒吊人 (久经沙场)",
+      "market_hash_name": "USP-S | The Traitor (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "13249": {
+      "good_id": "13249",
+      "name": "USP 消音版 | 倒吊人 (战痕累累)",
+      "market_hash_name": "USP-S | The Traitor (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "13270": {
+      "good_id": "13270",
+      "name": "USP 消音版 | 倒吊人 (略有磨损)",
+      "market_hash_name": "USP-S | The Traitor (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "13281": {
+      "good_id": "13281",
+      "name": "USP 消音版 | 倒吊人 (崭新出厂)",
+      "market_hash_name": "USP-S | The Traitor (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "13282": {
+      "good_id": "13282",
+      "name": "USP 消音版（StatTrak™） | 倒吊人 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | The Traitor (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "13287": {
+      "good_id": "13287",
+      "name": "USP 消音版（StatTrak™） | 倒吊人 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | The Traitor (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "13295": {
+      "good_id": "13295",
+      "name": "USP 消音版（StatTrak™） | 倒吊人 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | The Traitor (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "13300": {
+      "good_id": "13300",
+      "name": "USP 消音版（StatTrak™） | 倒吊人 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | The Traitor (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "13301": {
+      "good_id": "13301",
+      "name": "USP 消音版（StatTrak™） | 倒吊人 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | The Traitor (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "13381": {
+      "good_id": "13381",
+      "name": "USP 消音版 | 银装素裹 (破损不堪)",
+      "market_hash_name": "USP-S | Whiteout (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "13424": {
+      "good_id": "13424",
+      "name": "USP 消音版 | 紫色 DDPAT (战痕累累)",
+      "market_hash_name": "USP-S | Purple DDPAT (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "13429": {
+      "good_id": "13429",
+      "name": "USP 消音版 | 银装素裹 (久经沙场)",
+      "market_hash_name": "USP-S | Whiteout (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "13469": {
+      "good_id": "13469",
+      "name": "USP 消音版 | 银装素裹 (战痕累累)",
+      "market_hash_name": "USP-S | Whiteout (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "13483": {
+      "good_id": "13483",
+      "name": "USP 消音版 | 黑莲花 (久经沙场)",
+      "market_hash_name": "USP-S | Black Lotus (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "13503": {
+      "good_id": "13503",
+      "name": "USP 消音版 | 紫色 DDPAT (略有磨损)",
+      "market_hash_name": "USP-S | Purple DDPAT (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "13506": {
+      "good_id": "13506",
+      "name": "USP 消音版 | 紫色 DDPAT (久经沙场)",
+      "market_hash_name": "USP-S | Purple DDPAT (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "13517": {
+      "good_id": "13517",
+      "name": "USP 消音版 | 黑莲花 (略有磨损)",
+      "market_hash_name": "USP-S | Black Lotus (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "13527": {
+      "good_id": "13527",
+      "name": "USP 消音版 | 黑莲花 (破损不堪)",
+      "market_hash_name": "USP-S | Black Lotus (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "13533": {
+      "good_id": "13533",
+      "name": "USP 消音版（StatTrak™） | 黑莲花 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Black Lotus (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "13540": {
+      "good_id": "13540",
+      "name": "USP 消音版 | 黑莲花 (战痕累累)",
+      "market_hash_name": "USP-S | Black Lotus (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "13544": {
+      "good_id": "13544",
+      "name": "USP 消音版（StatTrak™） | 黑莲花 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Black Lotus (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "13548": {
+      "good_id": "13548",
+      "name": "USP 消音版 | 银装素裹 (略有磨损)",
+      "market_hash_name": "USP-S | Whiteout (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "13558": {
+      "good_id": "13558",
+      "name": "USP 消音版 | 橙红安乐蜥 (久经沙场)",
+      "market_hash_name": "USP-S | Orange Anolis (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "13624": {
+      "good_id": "13624",
+      "name": "USP 消音版 | 橙红安乐蜥 (崭新出厂)",
+      "market_hash_name": "USP-S | Orange Anolis (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "13627": {
+      "good_id": "13627",
+      "name": "USP 消音版 | 黑莲花 (崭新出厂)",
+      "market_hash_name": "USP-S | Black Lotus (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "13648": {
+      "good_id": "13648",
+      "name": "USP 消音版 | 橙红安乐蜥 (略有磨损)",
+      "market_hash_name": "USP-S | Orange Anolis (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "13660": {
+      "good_id": "13660",
+      "name": "USP 消音版 | 紫色 DDPAT (崭新出厂)",
+      "market_hash_name": "USP-S | Purple DDPAT (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "13682": {
+      "good_id": "13682",
+      "name": "USP 消音版（StatTrak™） | 黑莲花 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Black Lotus (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "13705": {
+      "good_id": "13705",
+      "name": "USP 消音版（StatTrak™） | 黑莲花 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Black Lotus (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "13800": {
+      "good_id": "13800",
+      "name": "USP 消音版 | 紫色 DDPAT (破损不堪)",
+      "market_hash_name": "USP-S | Purple DDPAT (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "13812": {
+      "good_id": "13812",
+      "name": "USP 消音版 | 银装素裹 (崭新出厂)",
+      "market_hash_name": "USP-S | Whiteout (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "13846": {
+      "good_id": "13846",
+      "name": "USP 消音版（StatTrak™） | 黑莲花 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Black Lotus (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "14262": {
+      "good_id": "14262",
+      "name": "USP 消音版（纪念品） | 紫色 DDPAT (战痕累累)",
+      "market_hash_name": "Souvenir USP-S | Purple DDPAT (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "14265": {
+      "good_id": "14265",
+      "name": "USP 消音版（纪念品） | 紫色 DDPAT (久经沙场)",
+      "market_hash_name": "Souvenir USP-S | Purple DDPAT (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "14283": {
+      "good_id": "14283",
+      "name": "USP 消音版（纪念品） | 紫色 DDPAT (略有磨损)",
+      "market_hash_name": "Souvenir USP-S | Purple DDPAT (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "14291": {
+      "good_id": "14291",
+      "name": "USP 消音版（纪念品） | 紫色 DDPAT (崭新出厂)",
+      "market_hash_name": "Souvenir USP-S | Purple DDPAT (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "14362": {
+      "good_id": "14362",
+      "name": "USP 消音版（纪念品） | 远古幻想 (略有磨损)",
+      "market_hash_name": "Souvenir USP-S | Ancient Visions (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "14393": {
+      "good_id": "14393",
+      "name": "USP 消音版（纪念品） | 远古幻想 (久经沙场)",
+      "market_hash_name": "Souvenir USP-S | Ancient Visions (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "14403": {
+      "good_id": "14403",
+      "name": "USP 消音版（纪念品） | 紫色 DDPAT (破损不堪)",
+      "market_hash_name": "Souvenir USP-S | Purple DDPAT (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "14419": {
+      "good_id": "14419",
+      "name": "USP 消音版（纪念品） | 远古幻想 (破损不堪)",
+      "market_hash_name": "Souvenir USP-S | Ancient Visions (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "14433": {
+      "good_id": "14433",
+      "name": "USP 消音版（纪念品） | 远古幻想 (崭新出厂)",
+      "market_hash_name": "Souvenir USP-S | Ancient Visions (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "14470": {
+      "good_id": "14470",
+      "name": "USP 消音版（纪念品） | 橙红安乐蜥 (崭新出厂)",
+      "market_hash_name": "Souvenir USP-S | Orange Anolis (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "14479": {
+      "good_id": "14479",
+      "name": "USP 消音版（纪念品） | 橙红安乐蜥 (久经沙场)",
+      "market_hash_name": "Souvenir USP-S | Orange Anolis (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "14491": {
+      "good_id": "14491",
+      "name": "USP 消音版（纪念品） | 橙红安乐蜥 (略有磨损)",
+      "market_hash_name": "Souvenir USP-S | Orange Anolis (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "14698": {
+      "good_id": "14698",
+      "name": "USP 消音版 | 地狱门票 (久经沙场)",
+      "market_hash_name": "USP-S | Ticket to Hell (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "14712": {
+      "good_id": "14712",
+      "name": "USP 消音版 | 地狱门票 (崭新出厂)",
+      "market_hash_name": "USP-S | Ticket to Hell (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "14721": {
+      "good_id": "14721",
+      "name": "USP 消音版 | 地狱门票 (略有磨损)",
+      "market_hash_name": "USP-S | Ticket to Hell (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "14727": {
+      "good_id": "14727",
+      "name": "USP 消音版 | 地狱门票 (战痕累累)",
+      "market_hash_name": "USP-S | Ticket to Hell (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "14729": {
+      "good_id": "14729",
+      "name": "USP 消音版（StatTrak™） | 地狱门票 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Ticket to Hell (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "14731": {
+      "good_id": "14731",
+      "name": "USP 消音版（StatTrak™） | 地狱门票 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "14734": {
+      "good_id": "14734",
+      "name": "USP 消音版（StatTrak™） | 地狱门票 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Ticket to Hell (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "14752": {
+      "good_id": "14752",
+      "name": "USP 消音版 | 地狱门票 (破损不堪)",
+      "market_hash_name": "USP-S | Ticket to Hell (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "14784": {
+      "good_id": "14784",
+      "name": "USP 消音版（StatTrak™） | 地狱门票 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Ticket to Hell (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "14798": {
+      "good_id": "14798",
+      "name": "USP 消音版（StatTrak™） | 地狱门票 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Ticket to Hell (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "16488": {
+      "good_id": "16488",
+      "name": "USP 消音版 | 沙漠战术 (久经沙场)",
+      "market_hash_name": "USP-S | Desert Tactical (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "16490": {
+      "good_id": "16490",
+      "name": "USP 消音版 | 沙漠战术 (战痕累累)",
+      "market_hash_name": "USP-S | Desert Tactical (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "16497": {
+      "good_id": "16497",
+      "name": "USP 消音版 | 沙漠战术 (破损不堪)",
+      "market_hash_name": "USP-S | Desert Tactical (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "16513": {
+      "good_id": "16513",
+      "name": "USP 消音版 | 沙漠战术 (略有磨损)",
+      "market_hash_name": "USP-S | Desert Tactical (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "16518": {
+      "good_id": "16518",
+      "name": "USP 消音版 | 沙漠战术 (崭新出厂)",
+      "market_hash_name": "USP-S | Desert Tactical (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "17151": {
+      "good_id": "17151",
+      "name": "USP 消音版（纪念品） | 沙漠战术 (战痕累累)",
+      "market_hash_name": "Souvenir USP-S | Desert Tactical (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "17166": {
+      "good_id": "17166",
+      "name": "USP 消音版（纪念品） | 沙漠战术 (略有磨损)",
+      "market_hash_name": "Souvenir USP-S | Desert Tactical (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "17186": {
+      "good_id": "17186",
+      "name": "USP 消音版（纪念品） | 沙漠战术 (破损不堪)",
+      "market_hash_name": "Souvenir USP-S | Desert Tactical (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "17187": {
+      "good_id": "17187",
+      "name": "USP 消音版（纪念品） | 沙漠战术 (久经沙场)",
+      "market_hash_name": "Souvenir USP-S | Desert Tactical (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "17200": {
+      "good_id": "17200",
+      "name": "USP 消音版（纪念品） | 沙漠战术 (崭新出厂)",
+      "market_hash_name": "Souvenir USP-S | Desert Tactical (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "19335": {
+      "good_id": "19335",
+      "name": "USP 消音版（StatTrak™） | 猎户 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Orion (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "19339": {
+      "good_id": "19339",
+      "name": "USP 消音版（纪念品） | 午夜行动 (破损不堪)",
+      "market_hash_name": "Souvenir USP-S | Night Ops (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "19341": {
+      "good_id": "19341",
+      "name": "USP 消音版（StatTrak™） | 猎户 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Orion (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "19342": {
+      "good_id": "19342",
+      "name": "USP 消音版（StatTrak™） | 凯门鳄 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Caiman (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "19573": {
+      "good_id": "19573",
+      "name": "USP 消音版 | 破颚者 (破损不堪)",
+      "market_hash_name": "USP-S | Jawbreaker (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "19577": {
+      "good_id": "19577",
+      "name": "USP 消音版 | 破颚者 (战痕累累)",
+      "market_hash_name": "USP-S | Jawbreaker (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "19580": {
+      "good_id": "19580",
+      "name": "USP 消音版 | 破颚者 (久经沙场)",
+      "market_hash_name": "USP-S | Jawbreaker (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "19587": {
+      "good_id": "19587",
+      "name": "USP 消音版 | 破颚者 (略有磨损)",
+      "market_hash_name": "USP-S | Jawbreaker (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "19589": {
+      "good_id": "19589",
+      "name": "USP 消音版（StatTrak™） | 破颚者 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | Jawbreaker (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "19590": {
+      "good_id": "19590",
+      "name": "USP 消音版（StatTrak™） | 破颚者 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | Jawbreaker (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "19592": {
+      "good_id": "19592",
+      "name": "USP 消音版（StatTrak™） | 破颚者 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | Jawbreaker (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "19594": {
+      "good_id": "19594",
+      "name": "USP 消音版 | 破颚者 (崭新出厂)",
+      "market_hash_name": "USP-S | Jawbreaker (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "19600": {
+      "good_id": "19600",
+      "name": "USP 消音版（StatTrak™） | 破颚者 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | Jawbreaker (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "19614": {
+      "good_id": "19614",
+      "name": "USP 消音版（StatTrak™） | 破颚者 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | Jawbreaker (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "20440": {
+      "good_id": "20440",
+      "name": "USP 消音版 | 27 (崭新出厂)",
+      "market_hash_name": "USP-S | 27 (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "20441": {
+      "good_id": "20441",
+      "name": "USP 消音版 | 27 (略有磨损)",
+      "market_hash_name": "USP-S | 27 (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "20442": {
+      "good_id": "20442",
+      "name": "USP 消音版 | 27 (久经沙场)",
+      "market_hash_name": "USP-S | 27 (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "20443": {
+      "good_id": "20443",
+      "name": "USP 消音版 | 27 (破损不堪)",
+      "market_hash_name": "USP-S | 27 (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "20444": {
+      "good_id": "20444",
+      "name": "USP 消音版 | 27 (战痕累累)",
+      "market_hash_name": "USP-S | 27 (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "20445": {
+      "good_id": "20445",
+      "name": "USP 消音版（StatTrak™） | 27 (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | 27 (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "20446": {
+      "good_id": "20446",
+      "name": "USP 消音版（StatTrak™） | 27 (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | 27 (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "20447": {
+      "good_id": "20447",
+      "name": "USP 消音版（StatTrak™） | 27 (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | 27 (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "20448": {
+      "good_id": "20448",
+      "name": "USP 消音版（StatTrak™） | 27 (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | 27 (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "20644": {
+      "good_id": "20644",
+      "name": "USP 消音版 | 阿尔卑斯迷彩 (崭新出厂)",
+      "market_hash_name": "USP-S | Alpine Camo (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "20645": {
+      "good_id": "20645",
+      "name": "USP 消音版 | 阿尔卑斯迷彩 (略有磨损)",
+      "market_hash_name": "USP-S | Alpine Camo (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "20646": {
+      "good_id": "20646",
+      "name": "USP 消音版 | 阿尔卑斯迷彩 (久经沙场)",
+      "market_hash_name": "USP-S | Alpine Camo (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "20647": {
+      "good_id": "20647",
+      "name": "USP 消音版 | 阿尔卑斯迷彩 (破损不堪)",
+      "market_hash_name": "USP-S | Alpine Camo (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "20779": {
+      "good_id": "20779",
+      "name": "USP 消音版 | 阿尔卑斯迷彩 (战痕累累)",
+      "market_hash_name": "USP-S | Alpine Camo (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "20786": {
+      "good_id": "20786",
+      "name": "USP 消音版（StatTrak™） | 27 (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | 27 (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "21510": {
+      "good_id": "21510",
+      "name": "USP 消音版 | 椰风花语 (崭新出厂)",
+      "market_hash_name": "USP-S | Tropical Breeze (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "21511": {
+      "good_id": "21511",
+      "name": "USP 消音版 | 椰风花语 (略有磨损)",
+      "market_hash_name": "USP-S | Tropical Breeze (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "21512": {
+      "good_id": "21512",
+      "name": "USP 消音版 | 椰风花语 (久经沙场)",
+      "market_hash_name": "USP-S | Tropical Breeze (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "21513": {
+      "good_id": "21513",
+      "name": "USP 消音版 | 椰风花语 (破损不堪)",
+      "market_hash_name": "USP-S | Tropical Breeze (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "21579": {
+      "good_id": "21579",
+      "name": "USP 消音版 | 皇家卫队 (崭新出厂)",
+      "market_hash_name": "USP-S | Royal Guard (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "21635": {
+      "good_id": "21635",
+      "name": "USP 消音版 | 血刃 (崭新出厂)",
+      "market_hash_name": "USP-S | Bleeding Edge (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "21754": {
+      "good_id": "21754",
+      "name": "USP 消音版 | PC-GRN (崭新出厂)",
+      "market_hash_name": "USP-S | PC-GRN (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "21808": {
+      "good_id": "21808",
+      "name": "USP 消音版 | 椰风花语 (战痕累累)",
+      "market_hash_name": "USP-S | Tropical Breeze (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "21842": {
+      "good_id": "21842",
+      "name": "USP 消音版 | 皇家卫队 (略有磨损)",
+      "market_hash_name": "USP-S | Royal Guard (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "21843": {
+      "good_id": "21843",
+      "name": "USP 消音版 | 皇家卫队 (久经沙场)",
+      "market_hash_name": "USP-S | Royal Guard (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "21899": {
+      "good_id": "21899",
+      "name": "USP 消音版 | 皇家卫队 (破损不堪)",
+      "market_hash_name": "USP-S | Royal Guard (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "21949": {
+      "good_id": "21949",
+      "name": "USP 消音版 | 皇家卫队 (战痕累累)",
+      "market_hash_name": "USP-S | Royal Guard (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "22018": {
+      "good_id": "22018",
+      "name": "USP 消音版 | 血刃 (略有磨损)",
+      "market_hash_name": "USP-S | Bleeding Edge (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "22019": {
+      "good_id": "22019",
+      "name": "USP 消音版 | 血刃 (久经沙场)",
+      "market_hash_name": "USP-S | Bleeding Edge (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "22020": {
+      "good_id": "22020",
+      "name": "USP 消音版 | 血刃 (破损不堪)",
+      "market_hash_name": "USP-S | Bleeding Edge (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "22021": {
+      "good_id": "22021",
+      "name": "USP 消音版 | 血刃 (战痕累累)",
+      "market_hash_name": "USP-S | Bleeding Edge (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "22198": {
+      "good_id": "22198",
+      "name": "USP 消音版 | PC-GRN (略有磨损)",
+      "market_hash_name": "USP-S | PC-GRN (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "22199": {
+      "good_id": "22199",
+      "name": "USP 消音版 | PC-GRN (久经沙场)",
+      "market_hash_name": "USP-S | PC-GRN (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "22200": {
+      "good_id": "22200",
+      "name": "USP 消音版 | PC-GRN (破损不堪)",
+      "market_hash_name": "USP-S | PC-GRN (Well-Worn)",
+      "keyword": "USP 消音版"
+    },
+    "22201": {
+      "good_id": "22201",
+      "name": "USP 消音版 | PC-GRN (战痕累累)",
+      "market_hash_name": "USP-S | PC-GRN (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "22202": {
+      "good_id": "22202",
+      "name": "USP 消音版（StatTrak™） | PC-GRN (战痕累累)",
+      "market_hash_name": "StatTrak™ USP-S | PC-GRN (Battle-Scarred)",
+      "keyword": "USP 消音版"
+    },
+    "22203": {
+      "good_id": "22203",
+      "name": "USP 消音版（StatTrak™） | PC-GRN (崭新出厂)",
+      "market_hash_name": "StatTrak™ USP-S | PC-GRN (Factory New)",
+      "keyword": "USP 消音版"
+    },
+    "22204": {
+      "good_id": "22204",
+      "name": "USP 消音版（StatTrak™） | PC-GRN (略有磨损)",
+      "market_hash_name": "StatTrak™ USP-S | PC-GRN (Minimal Wear)",
+      "keyword": "USP 消音版"
+    },
+    "22205": {
+      "good_id": "22205",
+      "name": "USP 消音版（StatTrak™） | PC-GRN (久经沙场)",
+      "market_hash_name": "StatTrak™ USP-S | PC-GRN (Field-Tested)",
+      "keyword": "USP 消音版"
+    },
+    "22206": {
+      "good_id": "22206",
+      "name": "USP 消音版（StatTrak™） | PC-GRN (破损不堪)",
+      "market_hash_name": "StatTrak™ USP-S | PC-GRN (Well-Worn)",
+      "keyword": "USP 消音版"
+    }
+  }
+}

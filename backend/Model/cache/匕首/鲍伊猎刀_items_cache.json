@@ -1,0 +1,1100 @@
+{
+  "knife_type": "鲍伊猎刀",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:01:13.538354",
+  "total_items": 182,
+  "items": {
+    "6733": {
+      "good_id": "6733",
+      "name": "鲍伊猎刀（★）",
+      "market_hash_name": "★ Bowie Knife",
+      "keyword": "鲍伊猎刀"
+    },
+    "6734": {
+      "good_id": "6734",
+      "name": "鲍伊猎刀（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6735": {
+      "good_id": "6735",
+      "name": "鲍伊猎刀（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Blue Steel (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6736": {
+      "good_id": "6736",
+      "name": "鲍伊猎刀（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Blue Steel (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6737": {
+      "good_id": "6737",
+      "name": "鲍伊猎刀（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Blue Steel (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6738": {
+      "good_id": "6738",
+      "name": "鲍伊猎刀（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6739": {
+      "good_id": "6739",
+      "name": "鲍伊猎刀（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Boreal Forest (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6740": {
+      "good_id": "6740",
+      "name": "鲍伊猎刀（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6741": {
+      "good_id": "6741",
+      "name": "鲍伊猎刀（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Boreal Forest (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6742": {
+      "good_id": "6742",
+      "name": "鲍伊猎刀（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6743": {
+      "good_id": "6743",
+      "name": "鲍伊猎刀（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Case Hardened (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6744": {
+      "good_id": "6744",
+      "name": "鲍伊猎刀（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Case Hardened (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6745": {
+      "good_id": "6745",
+      "name": "鲍伊猎刀（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Case Hardened (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6746": {
+      "good_id": "6746",
+      "name": "鲍伊猎刀（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Case Hardened (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6747": {
+      "good_id": "6747",
+      "name": "鲍伊猎刀（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6748": {
+      "good_id": "6748",
+      "name": "鲍伊猎刀（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Crimson Web (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6749": {
+      "good_id": "6749",
+      "name": "鲍伊猎刀（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Crimson Web (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6750": {
+      "good_id": "6750",
+      "name": "鲍伊猎刀（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Crimson Web (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6751": {
+      "good_id": "6751",
+      "name": "鲍伊猎刀（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6752": {
+      "good_id": "6752",
+      "name": "鲍伊猎刀（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Damascus Steel (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6753": {
+      "good_id": "6753",
+      "name": "鲍伊猎刀（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Damascus Steel (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6754": {
+      "good_id": "6754",
+      "name": "鲍伊猎刀（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6755": {
+      "good_id": "6755",
+      "name": "鲍伊猎刀（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Doppler (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6756": {
+      "good_id": "6756",
+      "name": "鲍伊猎刀（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Doppler (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6757": {
+      "good_id": "6757",
+      "name": "鲍伊猎刀（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Fade (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6758": {
+      "good_id": "6758",
+      "name": "鲍伊猎刀（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Fade (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6759": {
+      "good_id": "6759",
+      "name": "鲍伊猎刀（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6760": {
+      "good_id": "6760",
+      "name": "鲍伊猎刀（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Forest DDPAT (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6761": {
+      "good_id": "6761",
+      "name": "鲍伊猎刀（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6762": {
+      "good_id": "6762",
+      "name": "鲍伊猎刀（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6763": {
+      "good_id": "6763",
+      "name": "鲍伊猎刀（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6764": {
+      "good_id": "6764",
+      "name": "鲍伊猎刀（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Marble Fade (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6765": {
+      "good_id": "6765",
+      "name": "鲍伊猎刀（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Marble Fade (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6766": {
+      "good_id": "6766",
+      "name": "鲍伊猎刀（★） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Night (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6767": {
+      "good_id": "6767",
+      "name": "鲍伊猎刀（★） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Night (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6768": {
+      "good_id": "6768",
+      "name": "鲍伊猎刀（★） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Night (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6769": {
+      "good_id": "6769",
+      "name": "鲍伊猎刀（★） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Night (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6770": {
+      "good_id": "6770",
+      "name": "鲍伊猎刀（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6771": {
+      "good_id": "6771",
+      "name": "鲍伊猎刀（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6772": {
+      "good_id": "6772",
+      "name": "鲍伊猎刀（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Safari Mesh (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6773": {
+      "good_id": "6773",
+      "name": "鲍伊猎刀（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6774": {
+      "good_id": "6774",
+      "name": "鲍伊猎刀（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Scorched (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6775": {
+      "good_id": "6775",
+      "name": "鲍伊猎刀（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Scorched (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6776": {
+      "good_id": "6776",
+      "name": "鲍伊猎刀（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Scorched (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6777": {
+      "good_id": "6777",
+      "name": "鲍伊猎刀（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Scorched (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6778": {
+      "good_id": "6778",
+      "name": "鲍伊猎刀（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Slaughter (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6779": {
+      "good_id": "6779",
+      "name": "鲍伊猎刀（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Slaughter (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6780": {
+      "good_id": "6780",
+      "name": "鲍伊猎刀（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Slaughter (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6781": {
+      "good_id": "6781",
+      "name": "鲍伊猎刀（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Stained (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6782": {
+      "good_id": "6782",
+      "name": "鲍伊猎刀（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Stained (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6783": {
+      "good_id": "6783",
+      "name": "鲍伊猎刀（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Stained (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6784": {
+      "good_id": "6784",
+      "name": "鲍伊猎刀（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Stained (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6785": {
+      "good_id": "6785",
+      "name": "鲍伊猎刀（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Stained (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6786": {
+      "good_id": "6786",
+      "name": "鲍伊猎刀（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Tiger Tooth (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6787": {
+      "good_id": "6787",
+      "name": "鲍伊猎刀（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6788": {
+      "good_id": "6788",
+      "name": "鲍伊猎刀（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6789": {
+      "good_id": "6789",
+      "name": "鲍伊猎刀（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Ultraviolet (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6790": {
+      "good_id": "6790",
+      "name": "鲍伊猎刀（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6791": {
+      "good_id": "6791",
+      "name": "鲍伊猎刀（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Ultraviolet (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6792": {
+      "good_id": "6792",
+      "name": "鲍伊猎刀（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6793": {
+      "good_id": "6793",
+      "name": "鲍伊猎刀（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Urban Masked (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6794": {
+      "good_id": "6794",
+      "name": "鲍伊猎刀（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Urban Masked (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "6795": {
+      "good_id": "6795",
+      "name": "鲍伊猎刀（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Urban Masked (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7541": {
+      "good_id": "7541",
+      "name": "鲍伊猎刀（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Bowie Knife",
+      "keyword": "鲍伊猎刀"
+    },
+    "7542": {
+      "good_id": "7542",
+      "name": "鲍伊猎刀（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7543": {
+      "good_id": "7543",
+      "name": "鲍伊猎刀（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Blue Steel (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7544": {
+      "good_id": "7544",
+      "name": "鲍伊猎刀（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Boreal Forest (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7545": {
+      "good_id": "7545",
+      "name": "鲍伊猎刀（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Case Hardened (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7546": {
+      "good_id": "7546",
+      "name": "鲍伊猎刀（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Case Hardened (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7547": {
+      "good_id": "7547",
+      "name": "鲍伊猎刀（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Case Hardened (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7548": {
+      "good_id": "7548",
+      "name": "鲍伊猎刀（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7549": {
+      "good_id": "7549",
+      "name": "鲍伊猎刀（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Crimson Web (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7550": {
+      "good_id": "7550",
+      "name": "鲍伊猎刀（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Crimson Web (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7551": {
+      "good_id": "7551",
+      "name": "鲍伊猎刀（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Damascus Steel (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7552": {
+      "good_id": "7552",
+      "name": "鲍伊猎刀（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Damascus Steel (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7553": {
+      "good_id": "7553",
+      "name": "鲍伊猎刀（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7554": {
+      "good_id": "7554",
+      "name": "鲍伊猎刀（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Doppler (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7555": {
+      "good_id": "7555",
+      "name": "鲍伊猎刀（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Doppler (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7556": {
+      "good_id": "7556",
+      "name": "鲍伊猎刀（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Fade (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7557": {
+      "good_id": "7557",
+      "name": "鲍伊猎刀（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7558": {
+      "good_id": "7558",
+      "name": "鲍伊猎刀（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7559": {
+      "good_id": "7559",
+      "name": "鲍伊猎刀（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Marble Fade (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7560": {
+      "good_id": "7560",
+      "name": "鲍伊猎刀（★ StatTrak™） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Night (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7561": {
+      "good_id": "7561",
+      "name": "鲍伊猎刀（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7562": {
+      "good_id": "7562",
+      "name": "鲍伊猎刀（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Rust Coat (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7563": {
+      "good_id": "7563",
+      "name": "鲍伊猎刀（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Safari Mesh (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7564": {
+      "good_id": "7564",
+      "name": "鲍伊猎刀（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7565": {
+      "good_id": "7565",
+      "name": "鲍伊猎刀（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Scorched (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7566": {
+      "good_id": "7566",
+      "name": "鲍伊猎刀（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Scorched (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7567": {
+      "good_id": "7567",
+      "name": "鲍伊猎刀（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Slaughter (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7568": {
+      "good_id": "7568",
+      "name": "鲍伊猎刀（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Tiger Tooth (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7569": {
+      "good_id": "7569",
+      "name": "鲍伊猎刀（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Ultraviolet (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7570": {
+      "good_id": "7570",
+      "name": "鲍伊猎刀（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7571": {
+      "good_id": "7571",
+      "name": "鲍伊猎刀（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Ultraviolet (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7572": {
+      "good_id": "7572",
+      "name": "鲍伊猎刀（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Urban Masked (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "7573": {
+      "good_id": "7573",
+      "name": "鲍伊猎刀（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Urban Masked (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "8023": {
+      "good_id": "8023",
+      "name": "鲍伊猎刀（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "8048": {
+      "good_id": "8048",
+      "name": "鲍伊猎刀（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "8057": {
+      "good_id": "8057",
+      "name": "鲍伊猎刀（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "8260": {
+      "good_id": "8260",
+      "name": "鲍伊猎刀（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Crimson Web (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "8351": {
+      "good_id": "8351",
+      "name": "鲍伊猎刀（★ StatTrak™） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Scorched (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "8441": {
+      "good_id": "8441",
+      "name": "鲍伊猎刀（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Ultraviolet (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "9385": {
+      "good_id": "9385",
+      "name": "鲍伊猎刀（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Blue Steel (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "9877": {
+      "good_id": "9877",
+      "name": "鲍伊猎刀（★ StatTrak™） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Ultraviolet (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13522": {
+      "good_id": "13522",
+      "name": "鲍伊猎刀（★） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Bright Water (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13738": {
+      "good_id": "13738",
+      "name": "鲍伊猎刀（★） | 自动化 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Autotronic (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13750": {
+      "good_id": "13750",
+      "name": "鲍伊猎刀（★） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Freehand (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13821": {
+      "good_id": "13821",
+      "name": "鲍伊猎刀（★） | 自动化 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Autotronic (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13850": {
+      "good_id": "13850",
+      "name": "鲍伊猎刀（★） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Bright Water (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13859": {
+      "good_id": "13859",
+      "name": "鲍伊猎刀（★） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Gamma Doppler (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13869": {
+      "good_id": "13869",
+      "name": "鲍伊猎刀（★ StatTrak™） | 传说 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Lore (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13882": {
+      "good_id": "13882",
+      "name": "鲍伊猎刀（★） | 自动化 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Autotronic (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13887": {
+      "good_id": "13887",
+      "name": "鲍伊猎刀（★） | 传说 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Lore (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13905": {
+      "good_id": "13905",
+      "name": "鲍伊猎刀（★） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Autotronic (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13907": {
+      "good_id": "13907",
+      "name": "鲍伊猎刀（★ StatTrak™） | 自动化 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Autotronic (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13911": {
+      "good_id": "13911",
+      "name": "鲍伊猎刀（★） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Black Laminate (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13916": {
+      "good_id": "13916",
+      "name": "鲍伊猎刀（★） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Black Laminate (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13920": {
+      "good_id": "13920",
+      "name": "鲍伊猎刀（★） | 传说 (久经沙场)",
+      "market_hash_name": "★ Bowie Knife | Lore (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13921": {
+      "good_id": "13921",
+      "name": "鲍伊猎刀（★ StatTrak™） | 自动化 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Autotronic (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13928": {
+      "good_id": "13928",
+      "name": "鲍伊猎刀（★） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Black Laminate (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13929": {
+      "good_id": "13929",
+      "name": "鲍伊猎刀（★） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Bright Water (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13933": {
+      "good_id": "13933",
+      "name": "鲍伊猎刀（★） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Freehand (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13934": {
+      "good_id": "13934",
+      "name": "鲍伊猎刀（★ StatTrak™） | 自动化 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Autotronic (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13942": {
+      "good_id": "13942",
+      "name": "鲍伊猎刀（★ StatTrak™） | 传说 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Lore (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13943": {
+      "good_id": "13943",
+      "name": "鲍伊猎刀（★ StatTrak™） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Black Laminate (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13946": {
+      "good_id": "13946",
+      "name": "鲍伊猎刀（★） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Freehand (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13949": {
+      "good_id": "13949",
+      "name": "鲍伊猎刀（★ StatTrak™） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Gamma Doppler (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13956": {
+      "good_id": "13956",
+      "name": "鲍伊猎刀（★） | 传说 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Lore (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13957": {
+      "good_id": "13957",
+      "name": "鲍伊猎刀（★） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Freehand (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13969": {
+      "good_id": "13969",
+      "name": "鲍伊猎刀（★ StatTrak™） | 传说 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Lore (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13984": {
+      "good_id": "13984",
+      "name": "鲍伊猎刀（★ StatTrak™） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Bright Water (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "13993": {
+      "good_id": "13993",
+      "name": "鲍伊猎刀（★ StatTrak™） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Freehand (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14002": {
+      "good_id": "14002",
+      "name": "鲍伊猎刀（★ StatTrak™） | 传说 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Lore (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14010": {
+      "good_id": "14010",
+      "name": "鲍伊猎刀（★） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Bright Water (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14014": {
+      "good_id": "14014",
+      "name": "鲍伊猎刀（★） | 传说 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Lore (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14019": {
+      "good_id": "14019",
+      "name": "鲍伊猎刀（★） | 自动化 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Autotronic (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14024": {
+      "good_id": "14024",
+      "name": "鲍伊猎刀（★） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Black Laminate (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14025": {
+      "good_id": "14025",
+      "name": "鲍伊猎刀（★） | 传说 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Lore (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14029": {
+      "good_id": "14029",
+      "name": "鲍伊猎刀（★ StatTrak™） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Bright Water (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14030": {
+      "good_id": "14030",
+      "name": "鲍伊猎刀（★ StatTrak™） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Freehand (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14040": {
+      "good_id": "14040",
+      "name": "鲍伊猎刀（★ StatTrak™） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Bright Water (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14041": {
+      "good_id": "14041",
+      "name": "鲍伊猎刀（★ StatTrak™） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Freehand (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14042": {
+      "good_id": "14042",
+      "name": "鲍伊猎刀（★ StatTrak™） | 传说 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Lore (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14049": {
+      "good_id": "14049",
+      "name": "鲍伊猎刀（★） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Bright Water (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14051": {
+      "good_id": "14051",
+      "name": "鲍伊猎刀（★） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Black Laminate (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14062": {
+      "good_id": "14062",
+      "name": "鲍伊猎刀（★ StatTrak™） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Black Laminate (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14072": {
+      "good_id": "14072",
+      "name": "鲍伊猎刀（★） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Gamma Doppler (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14081": {
+      "good_id": "14081",
+      "name": "鲍伊猎刀（★） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ Bowie Knife | Freehand (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14084": {
+      "good_id": "14084",
+      "name": "鲍伊猎刀（★ StatTrak™） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Black Laminate (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14088": {
+      "good_id": "14088",
+      "name": "鲍伊猎刀（★ StatTrak™） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Gamma Doppler (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14093": {
+      "good_id": "14093",
+      "name": "鲍伊猎刀（★ StatTrak™） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Black Laminate (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14102": {
+      "good_id": "14102",
+      "name": "鲍伊猎刀（★ StatTrak™） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Autotronic (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14110": {
+      "good_id": "14110",
+      "name": "鲍伊猎刀（★ StatTrak™） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Freehand (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14113": {
+      "good_id": "14113",
+      "name": "鲍伊猎刀（★ StatTrak™） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Bright Water (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "14673": {
+      "good_id": "14673",
+      "name": "鲍伊猎刀（★ StatTrak™） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Bright Water (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "18915": {
+      "good_id": "18915",
+      "name": "鲍伊猎刀（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Rust Coat (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "18920": {
+      "good_id": "18920",
+      "name": "鲍伊猎刀（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Bowie Knife | Blue Steel (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "18942": {
+      "good_id": "18942",
+      "name": "鲍伊猎刀（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Safari Mesh (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "18950": {
+      "good_id": "18950",
+      "name": "鲍伊猎刀（★ StatTrak™） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Black Laminate (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "18957": {
+      "good_id": "18957",
+      "name": "鲍伊猎刀（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Bowie Knife | Damascus Steel (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "18985": {
+      "good_id": "18985",
+      "name": "鲍伊猎刀（★ StatTrak™） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Night (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19018": {
+      "good_id": "19018",
+      "name": "鲍伊猎刀（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Urban Masked (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19039": {
+      "good_id": "19039",
+      "name": "鲍伊猎刀（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Stained (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19065": {
+      "good_id": "19065",
+      "name": "鲍伊猎刀（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Stained (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19066": {
+      "good_id": "19066",
+      "name": "鲍伊猎刀（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Slaughter (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19067": {
+      "good_id": "19067",
+      "name": "鲍伊猎刀（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Blue Steel (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19073": {
+      "good_id": "19073",
+      "name": "鲍伊猎刀（★ StatTrak™） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Freehand (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19091": {
+      "good_id": "19091",
+      "name": "鲍伊猎刀（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Boreal Forest (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19095": {
+      "good_id": "19095",
+      "name": "鲍伊猎刀（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19098": {
+      "good_id": "19098",
+      "name": "鲍伊猎刀（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19104": {
+      "good_id": "19104",
+      "name": "鲍伊猎刀（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19122": {
+      "good_id": "19122",
+      "name": "鲍伊猎刀（★ StatTrak™） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Night (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19126": {
+      "good_id": "19126",
+      "name": "鲍伊猎刀（★ StatTrak™） | 自动化 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Autotronic (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19163": {
+      "good_id": "19163",
+      "name": "鲍伊猎刀（★） | 噩梦之夜 (崭新出厂)",
+      "market_hash_name": "★ Bowie Knife | Night (Factory New)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19164": {
+      "good_id": "19164",
+      "name": "鲍伊猎刀（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19176": {
+      "good_id": "19176",
+      "name": "鲍伊猎刀（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Stained (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19204": {
+      "good_id": "19204",
+      "name": "鲍伊猎刀（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Urban Masked (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19205": {
+      "good_id": "19205",
+      "name": "鲍伊猎刀（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19206": {
+      "good_id": "19206",
+      "name": "鲍伊猎刀（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Slaughter (Field-Tested)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19207": {
+      "good_id": "19207",
+      "name": "鲍伊猎刀（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Scorched (Battle-Scarred)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19208": {
+      "good_id": "19208",
+      "name": "鲍伊猎刀（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Fade (Minimal Wear)",
+      "keyword": "鲍伊猎刀"
+    },
+    "19209": {
+      "good_id": "19209",
+      "name": "鲍伊猎刀（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bowie Knife | Damascus Steel (Well-Worn)",
+      "keyword": "鲍伊猎刀"
+    }
+  }
+}

@@ -1,0 +1,824 @@
+{
+  "knife_type": "骷髅匕首",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:07:50.815347",
+  "total_items": 136,
+  "items": {
+    "11699": {
+      "good_id": "11699",
+      "name": "骷髅匕首（★）",
+      "market_hash_name": "★ Skeleton Knife",
+      "keyword": "骷髅匕首"
+    },
+    "11737": {
+      "good_id": "11737",
+      "name": "骷髅匕首（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Case Hardened (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "11738": {
+      "good_id": "11738",
+      "name": "骷髅匕首（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Urban Masked (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "11783": {
+      "good_id": "11783",
+      "name": "骷髅匕首（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "11801": {
+      "good_id": "11801",
+      "name": "骷髅匕首（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Case Hardened (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "11805": {
+      "good_id": "11805",
+      "name": "骷髅匕首（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Fade (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "11817": {
+      "good_id": "11817",
+      "name": "骷髅匕首（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Fade (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "11821": {
+      "good_id": "11821",
+      "name": "骷髅匕首（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Crimson Web (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "11823": {
+      "good_id": "11823",
+      "name": "骷髅匕首（★） | 夜色 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Night Stripe (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "11827": {
+      "good_id": "11827",
+      "name": "骷髅匕首（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Stained (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "11831": {
+      "good_id": "11831",
+      "name": "骷髅匕首（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "11834": {
+      "good_id": "11834",
+      "name": "骷髅匕首（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Safari Mesh (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "11838": {
+      "good_id": "11838",
+      "name": "骷髅匕首（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Blue Steel (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "11843": {
+      "good_id": "11843",
+      "name": "骷髅匕首（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Slaughter (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "11845": {
+      "good_id": "11845",
+      "name": "骷髅匕首（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "11881": {
+      "good_id": "11881",
+      "name": "骷髅匕首（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Scorched (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "11889": {
+      "good_id": "11889",
+      "name": "骷髅匕首（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "11890": {
+      "good_id": "11890",
+      "name": "骷髅匕首（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "11891": {
+      "good_id": "11891",
+      "name": "骷髅匕首（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "11892": {
+      "good_id": "11892",
+      "name": "骷髅匕首（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "11893": {
+      "good_id": "11893",
+      "name": "骷髅匕首（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Stained (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "11903": {
+      "good_id": "11903",
+      "name": "骷髅匕首（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Scorched (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "11908": {
+      "good_id": "11908",
+      "name": "骷髅匕首（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "11909": {
+      "good_id": "11909",
+      "name": "骷髅匕首（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Case Hardened (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "11920": {
+      "good_id": "11920",
+      "name": "骷髅匕首（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "11928": {
+      "good_id": "11928",
+      "name": "骷髅匕首（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Case Hardened (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "11933": {
+      "good_id": "11933",
+      "name": "骷髅匕首（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Case Hardened (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "11936": {
+      "good_id": "11936",
+      "name": "骷髅匕首（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "11937": {
+      "good_id": "11937",
+      "name": "骷髅匕首（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Scorched (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "11960": {
+      "good_id": "11960",
+      "name": "骷髅匕首（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "11969": {
+      "good_id": "11969",
+      "name": "骷髅匕首（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Blue Steel (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "11973": {
+      "good_id": "11973",
+      "name": "骷髅匕首（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "11974": {
+      "good_id": "11974",
+      "name": "骷髅匕首（★） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Night Stripe (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "11992": {
+      "good_id": "11992",
+      "name": "骷髅匕首（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Crimson Web (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "12005": {
+      "good_id": "12005",
+      "name": "骷髅匕首（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "12017": {
+      "good_id": "12017",
+      "name": "骷髅匕首（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "12018": {
+      "good_id": "12018",
+      "name": "骷髅匕首（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Slaughter (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "12031": {
+      "good_id": "12031",
+      "name": "骷髅匕首（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "12040": {
+      "good_id": "12040",
+      "name": "骷髅匕首（★ StatTrak™） | 夜色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Night Stripe (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "12044": {
+      "good_id": "12044",
+      "name": "骷髅匕首（★ StatTrak™） | 夜色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "12046": {
+      "good_id": "12046",
+      "name": "骷髅匕首（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Safari Mesh (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "12054": {
+      "good_id": "12054",
+      "name": "骷髅匕首（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Crimson Web (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "12056": {
+      "good_id": "12056",
+      "name": "骷髅匕首（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "12064": {
+      "good_id": "12064",
+      "name": "骷髅匕首（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Stained (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "12088": {
+      "good_id": "12088",
+      "name": "骷髅匕首（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "12095": {
+      "good_id": "12095",
+      "name": "骷髅匕首（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "12098": {
+      "good_id": "12098",
+      "name": "骷髅匕首（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Urban Masked (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "12100": {
+      "good_id": "12100",
+      "name": "骷髅匕首（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Slaughter (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "12104": {
+      "good_id": "12104",
+      "name": "骷髅匕首（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Case Hardened (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "12113": {
+      "good_id": "12113",
+      "name": "骷髅匕首（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "12114": {
+      "good_id": "12114",
+      "name": "骷髅匕首（★ StatTrak™） | 夜色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Night Stripe (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "12120": {
+      "good_id": "12120",
+      "name": "骷髅匕首（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Boreal Forest (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "12125": {
+      "good_id": "12125",
+      "name": "骷髅匕首（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Stained (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "12128": {
+      "good_id": "12128",
+      "name": "骷髅匕首（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Safari Mesh (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "12139": {
+      "good_id": "12139",
+      "name": "骷髅匕首（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Forest DDPAT (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "12142": {
+      "good_id": "12142",
+      "name": "骷髅匕首（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Crimson Web (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "12156": {
+      "good_id": "12156",
+      "name": "骷髅匕首（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "12161": {
+      "good_id": "12161",
+      "name": "骷髅匕首（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Scorched (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "12162": {
+      "good_id": "12162",
+      "name": "骷髅匕首（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "12163": {
+      "good_id": "12163",
+      "name": "骷髅匕首（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Stained (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "12164": {
+      "good_id": "12164",
+      "name": "骷髅匕首（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "12165": {
+      "good_id": "12165",
+      "name": "骷髅匕首（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Fade (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "13319": {
+      "good_id": "13319",
+      "name": "骷髅匕首（★ StatTrak™） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Safari Mesh (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "15668": {
+      "good_id": "15668",
+      "name": "骷髅匕首（★ StatTrak™） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Forest DDPAT (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "18851": {
+      "good_id": "18851",
+      "name": "骷髅匕首（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Boreal Forest (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "18852": {
+      "good_id": "18852",
+      "name": "骷髅匕首（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Slaughter (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "18853": {
+      "good_id": "18853",
+      "name": "骷髅匕首（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "18856": {
+      "good_id": "18856",
+      "name": "骷髅匕首（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Crimson Web (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "18858": {
+      "good_id": "18858",
+      "name": "骷髅匕首（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Slaughter (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "18861": {
+      "good_id": "18861",
+      "name": "骷髅匕首（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Urban Masked (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "18862": {
+      "good_id": "18862",
+      "name": "骷髅匕首（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "18863": {
+      "good_id": "18863",
+      "name": "骷髅匕首（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Stained (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "18864": {
+      "good_id": "18864",
+      "name": "骷髅匕首（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Blue Steel (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18865": {
+      "good_id": "18865",
+      "name": "骷髅匕首（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Stained (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18866": {
+      "good_id": "18866",
+      "name": "骷髅匕首（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "18867": {
+      "good_id": "18867",
+      "name": "骷髅匕首（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Fade (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "18869": {
+      "good_id": "18869",
+      "name": "骷髅匕首（★） | 夜色 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "18871": {
+      "good_id": "18871",
+      "name": "骷髅匕首（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Scorched (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "18872": {
+      "good_id": "18872",
+      "name": "骷髅匕首（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "18873": {
+      "good_id": "18873",
+      "name": "骷髅匕首（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "18874": {
+      "good_id": "18874",
+      "name": "骷髅匕首（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "18876": {
+      "good_id": "18876",
+      "name": "骷髅匕首（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Stained (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "18877": {
+      "good_id": "18877",
+      "name": "骷髅匕首（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Crimson Web (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18878": {
+      "good_id": "18878",
+      "name": "骷髅匕首（★） | 夜色 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Night Stripe (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "18879": {
+      "good_id": "18879",
+      "name": "骷髅匕首（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Slaughter (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "18880": {
+      "good_id": "18880",
+      "name": "骷髅匕首（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "18881": {
+      "good_id": "18881",
+      "name": "骷髅匕首（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Safari Mesh (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18882": {
+      "good_id": "18882",
+      "name": "骷髅匕首（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife",
+      "keyword": "骷髅匕首"
+    },
+    "18883": {
+      "good_id": "18883",
+      "name": "骷髅匕首（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Urban Masked (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18885": {
+      "good_id": "18885",
+      "name": "骷髅匕首（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Safari Mesh (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "18886": {
+      "good_id": "18886",
+      "name": "骷髅匕首（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Boreal Forest (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18887": {
+      "good_id": "18887",
+      "name": "骷髅匕首（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Case Hardened (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "18889": {
+      "good_id": "18889",
+      "name": "骷髅匕首（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Boreal Forest (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "18890": {
+      "good_id": "18890",
+      "name": "骷髅匕首（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Crimson Web (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "18891": {
+      "good_id": "18891",
+      "name": "骷髅匕首（★） | 夜色 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Night Stripe (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18892": {
+      "good_id": "18892",
+      "name": "骷髅匕首（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18894": {
+      "good_id": "18894",
+      "name": "骷髅匕首（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "18895": {
+      "good_id": "18895",
+      "name": "骷髅匕首（★ StatTrak™） | 夜色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Night Stripe (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "18897": {
+      "good_id": "18897",
+      "name": "骷髅匕首（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "18906": {
+      "good_id": "18906",
+      "name": "骷髅匕首（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Stained (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "18908": {
+      "good_id": "18908",
+      "name": "骷髅匕首（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Case Hardened (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18911": {
+      "good_id": "18911",
+      "name": "骷髅匕首（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Blue Steel (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "18912": {
+      "good_id": "18912",
+      "name": "骷髅匕首（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "18925": {
+      "good_id": "18925",
+      "name": "骷髅匕首（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Stained (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18936": {
+      "good_id": "18936",
+      "name": "骷髅匕首（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "18972": {
+      "good_id": "18972",
+      "name": "骷髅匕首（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Boreal Forest (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "19043": {
+      "good_id": "19043",
+      "name": "骷髅匕首（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "19133": {
+      "good_id": "19133",
+      "name": "骷髅匕首（★ StatTrak™） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "21796": {
+      "good_id": "21796",
+      "name": "骷髅匕首（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Rust Coat (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "21797": {
+      "good_id": "21797",
+      "name": "骷髅匕首（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Doppler (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "21798": {
+      "good_id": "21798",
+      "name": "骷髅匕首（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Doppler (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "21799": {
+      "good_id": "21799",
+      "name": "骷髅匕首（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Damascus Steel (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "21800": {
+      "good_id": "21800",
+      "name": "骷髅匕首（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "21801": {
+      "good_id": "21801",
+      "name": "骷髅匕首（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Marble Fade (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "21802": {
+      "good_id": "21802",
+      "name": "骷髅匕首（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Ultraviolet (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "21803": {
+      "good_id": "21803",
+      "name": "骷髅匕首（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "21804": {
+      "good_id": "21804",
+      "name": "骷髅匕首（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Ultraviolet (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "21805": {
+      "good_id": "21805",
+      "name": "骷髅匕首（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Ultraviolet (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "21806": {
+      "good_id": "21806",
+      "name": "骷髅匕首（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "21807": {
+      "good_id": "21807",
+      "name": "骷髅匕首（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Skeleton Knife | Tiger Tooth (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "21883": {
+      "good_id": "21883",
+      "name": "骷髅匕首（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Skeleton Knife | Damascus Steel (Field-Tested)",
+      "keyword": "骷髅匕首"
+    },
+    "21884": {
+      "good_id": "21884",
+      "name": "骷髅匕首（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Skeleton Knife | Damascus Steel (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "21885": {
+      "good_id": "21885",
+      "name": "骷髅匕首（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "21886": {
+      "good_id": "21886",
+      "name": "骷髅匕首（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "21887": {
+      "good_id": "21887",
+      "name": "骷髅匕首（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Damascus Steel (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "21943": {
+      "good_id": "21943",
+      "name": "骷髅匕首（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Skeleton Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "21944": {
+      "good_id": "21944",
+      "name": "骷髅匕首（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Marble Fade (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "21945": {
+      "good_id": "21945",
+      "name": "骷髅匕首（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Marble Fade (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "22250": {
+      "good_id": "22250",
+      "name": "骷髅匕首（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Rust Coat (Well-Worn)",
+      "keyword": "骷髅匕首"
+    },
+    "22251": {
+      "good_id": "22251",
+      "name": "骷髅匕首（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "骷髅匕首"
+    },
+    "22252": {
+      "good_id": "22252",
+      "name": "骷髅匕首（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Doppler (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "22253": {
+      "good_id": "22253",
+      "name": "骷髅匕首（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Doppler (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "22254": {
+      "good_id": "22254",
+      "name": "骷髅匕首（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Marble Fade (Factory New)",
+      "keyword": "骷髅匕首"
+    },
+    "22255": {
+      "good_id": "22255",
+      "name": "骷髅匕首（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Skeleton Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "22256": {
+      "good_id": "22256",
+      "name": "骷髅匕首（★ StatTrak™） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "骷髅匕首"
+    },
+    "22257": {
+      "good_id": "22257",
+      "name": "骷髅匕首（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Skeleton Knife | Tiger Tooth (Factory New)",
+      "keyword": "骷髅匕首"
+    }
+  }
+}

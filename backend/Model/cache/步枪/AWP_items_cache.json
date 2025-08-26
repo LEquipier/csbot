@@ -1,0 +1,2054 @@
+{
+  "knife_type": "AWP",
+  "category": "步枪",
+  "cache_time": "2025-08-25T01:26:29.176372",
+  "total_items": 341,
+  "items": {
+    "234": {
+      "good_id": "234",
+      "name": "AWP | 二西莫夫 (战痕累累)",
+      "market_hash_name": "AWP | Asiimov (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "235": {
+      "good_id": "235",
+      "name": "AWP | 二西莫夫 (久经沙场)",
+      "market_hash_name": "AWP | Asiimov (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "236": {
+      "good_id": "236",
+      "name": "AWP | 二西莫夫 (破损不堪)",
+      "market_hash_name": "AWP | Asiimov (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "237": {
+      "good_id": "237",
+      "name": "AWP | *嘣* (崭新出厂)",
+      "market_hash_name": "AWP | BOOM (Factory New)",
+      "keyword": "AWP"
+    },
+    "238": {
+      "good_id": "238",
+      "name": "AWP | *嘣* (久经沙场)",
+      "market_hash_name": "AWP | BOOM (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "239": {
+      "good_id": "239",
+      "name": "AWP | *嘣* (略有磨损)",
+      "market_hash_name": "AWP | BOOM (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "240": {
+      "good_id": "240",
+      "name": "AWP | 珊瑚树 (崭新出厂)",
+      "market_hash_name": "AWP | Corticera (Factory New)",
+      "keyword": "AWP"
+    },
+    "241": {
+      "good_id": "241",
+      "name": "AWP | 珊瑚树 (久经沙场)",
+      "market_hash_name": "AWP | Corticera (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "242": {
+      "good_id": "242",
+      "name": "AWP | 珊瑚树 (略有磨损)",
+      "market_hash_name": "AWP | Corticera (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "243": {
+      "good_id": "243",
+      "name": "AWP | 巨龙传说 (战痕累累)",
+      "market_hash_name": "AWP | Dragon Lore (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "244": {
+      "good_id": "244",
+      "name": "AWP | 巨龙传说 (久经沙场)",
+      "market_hash_name": "AWP | Dragon Lore (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "245": {
+      "good_id": "245",
+      "name": "AWP | 巨龙传说 (略有磨损)",
+      "market_hash_name": "AWP | Dragon Lore (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "246": {
+      "good_id": "246",
+      "name": "AWP | 电子蜂巢 (崭新出厂)",
+      "market_hash_name": "AWP | Electric Hive (Factory New)",
+      "keyword": "AWP"
+    },
+    "247": {
+      "good_id": "247",
+      "name": "AWP | 电子蜂巢 (久经沙场)",
+      "market_hash_name": "AWP | Electric Hive (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "248": {
+      "good_id": "248",
+      "name": "AWP | 电子蜂巢 (略有磨损)",
+      "market_hash_name": "AWP | Electric Hive (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "249": {
+      "good_id": "249",
+      "name": "AWP | 电子蜂巢 (破损不堪)",
+      "market_hash_name": "AWP | Electric Hive (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "250": {
+      "good_id": "250",
+      "name": "AWP | 精英之作 (战痕累累)",
+      "market_hash_name": "AWP | Elite Build (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "251": {
+      "good_id": "251",
+      "name": "AWP | 精英之作 (久经沙场)",
+      "market_hash_name": "AWP | Elite Build (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "252": {
+      "good_id": "252",
+      "name": "AWP | 精英之作 (略有磨损)",
+      "market_hash_name": "AWP | Elite Build (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "253": {
+      "good_id": "253",
+      "name": "AWP | 精英之作 (破损不堪)",
+      "market_hash_name": "AWP | Elite Build (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "254": {
+      "good_id": "254",
+      "name": "AWP | 浮生如梦 (战痕累累)",
+      "market_hash_name": "AWP | Fever Dream (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "255": {
+      "good_id": "255",
+      "name": "AWP | 浮生如梦 (崭新出厂)",
+      "market_hash_name": "AWP | Fever Dream (Factory New)",
+      "keyword": "AWP"
+    },
+    "256": {
+      "good_id": "256",
+      "name": "AWP | 浮生如梦 (久经沙场)",
+      "market_hash_name": "AWP | Fever Dream (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "257": {
+      "good_id": "257",
+      "name": "AWP | 浮生如梦 (略有磨损)",
+      "market_hash_name": "AWP | Fever Dream (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "258": {
+      "good_id": "258",
+      "name": "AWP | 浮生如梦 (破损不堪)",
+      "market_hash_name": "AWP | Fever Dream (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "259": {
+      "good_id": "259",
+      "name": "AWP | 石墨黑 (崭新出厂)",
+      "market_hash_name": "AWP | Graphite (Factory New)",
+      "keyword": "AWP"
+    },
+    "260": {
+      "good_id": "260",
+      "name": "AWP | 石墨黑 (略有磨损)",
+      "market_hash_name": "AWP | Graphite (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "261": {
+      "good_id": "261",
+      "name": "AWP | 暴怒野兽 (战痕累累)",
+      "market_hash_name": "AWP | Hyper Beast (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "262": {
+      "good_id": "262",
+      "name": "AWP | 暴怒野兽 (崭新出厂)",
+      "market_hash_name": "AWP | Hyper Beast (Factory New)",
+      "keyword": "AWP"
+    },
+    "263": {
+      "good_id": "263",
+      "name": "AWP | 暴怒野兽 (久经沙场)",
+      "market_hash_name": "AWP | Hyper Beast (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "264": {
+      "good_id": "264",
+      "name": "AWP | 暴怒野兽 (略有磨损)",
+      "market_hash_name": "AWP | Hyper Beast (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "265": {
+      "good_id": "265",
+      "name": "AWP | 暴怒野兽 (破损不堪)",
+      "market_hash_name": "AWP | Hyper Beast (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "266": {
+      "good_id": "266",
+      "name": "AWP | 雷击 (崭新出厂)",
+      "market_hash_name": "AWP | Lightning Strike (Factory New)",
+      "keyword": "AWP"
+    },
+    "267": {
+      "good_id": "267",
+      "name": "AWP | 雷击 (略有磨损)",
+      "market_hash_name": "AWP | Lightning Strike (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "268": {
+      "good_id": "268",
+      "name": "AWP | 无畏战神 (久经沙场)",
+      "market_hash_name": "AWP | Man-o'-war (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "269": {
+      "good_id": "269",
+      "name": "AWP | 无畏战神 (略有磨损)",
+      "market_hash_name": "AWP | Man-o'-war (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "270": {
+      "good_id": "270",
+      "name": "AWP | 美杜莎 (战痕累累)",
+      "market_hash_name": "AWP | Medusa (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "271": {
+      "good_id": "271",
+      "name": "AWP | 美杜莎 (久经沙场)",
+      "market_hash_name": "AWP | Medusa (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "272": {
+      "good_id": "272",
+      "name": "AWP | 美杜莎 (略有磨损)",
+      "market_hash_name": "AWP | Medusa (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "273": {
+      "good_id": "273",
+      "name": "AWP | 美杜莎 (破损不堪)",
+      "market_hash_name": "AWP | Medusa (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "274": {
+      "good_id": "274",
+      "name": "AWP | 鬼退治 (战痕累累)",
+      "market_hash_name": "AWP | Oni Taiji (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "275": {
+      "good_id": "275",
+      "name": "AWP | 鬼退治 (崭新出厂)",
+      "market_hash_name": "AWP | Oni Taiji (Factory New)",
+      "keyword": "AWP"
+    },
+    "276": {
+      "good_id": "276",
+      "name": "AWP | 鬼退治 (久经沙场)",
+      "market_hash_name": "AWP | Oni Taiji (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "277": {
+      "good_id": "277",
+      "name": "AWP | 鬼退治 (略有磨损)",
+      "market_hash_name": "AWP | Oni Taiji (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "278": {
+      "good_id": "278",
+      "name": "AWP | 鬼退治 (破损不堪)",
+      "market_hash_name": "AWP | Oni Taiji (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "279": {
+      "good_id": "279",
+      "name": "AWP | 火卫一 (崭新出厂)",
+      "market_hash_name": "AWP | Phobos (Factory New)",
+      "keyword": "AWP"
+    },
+    "280": {
+      "good_id": "280",
+      "name": "AWP | 火卫一 (久经沙场)",
+      "market_hash_name": "AWP | Phobos (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "281": {
+      "good_id": "281",
+      "name": "AWP | 火卫一 (略有磨损)",
+      "market_hash_name": "AWP | Phobos (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "282": {
+      "good_id": "282",
+      "name": "AWP | 火卫一 (破损不堪)",
+      "market_hash_name": "AWP | Phobos (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "283": {
+      "good_id": "283",
+      "name": "AWP | 粉红 DDPAT (战痕累累)",
+      "market_hash_name": "AWP | Pink DDPAT (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "284": {
+      "good_id": "284",
+      "name": "AWP | 粉红 DDPAT (崭新出厂)",
+      "market_hash_name": "AWP | Pink DDPAT (Factory New)",
+      "keyword": "AWP"
+    },
+    "285": {
+      "good_id": "285",
+      "name": "AWP | 粉红 DDPAT (久经沙场)",
+      "market_hash_name": "AWP | Pink DDPAT (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "286": {
+      "good_id": "286",
+      "name": "AWP | 粉红 DDPAT (略有磨损)",
+      "market_hash_name": "AWP | Pink DDPAT (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "287": {
+      "good_id": "287",
+      "name": "AWP | 粉红 DDPAT (破损不堪)",
+      "market_hash_name": "AWP | Pink DDPAT (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "288": {
+      "good_id": "288",
+      "name": "AWP | 响尾蛇 (战痕累累)",
+      "market_hash_name": "AWP | Pit Viper (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "289": {
+      "good_id": "289",
+      "name": "AWP | 响尾蛇 (久经沙场)",
+      "market_hash_name": "AWP | Pit Viper (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "290": {
+      "good_id": "290",
+      "name": "AWP | 响尾蛇 (略有磨损)",
+      "market_hash_name": "AWP | Pit Viper (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "291": {
+      "good_id": "291",
+      "name": "AWP | 响尾蛇 (破损不堪)",
+      "market_hash_name": "AWP | Pit Viper (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "292": {
+      "good_id": "292",
+      "name": "AWP | 红线 (久经沙场)",
+      "market_hash_name": "AWP | Redline (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "293": {
+      "good_id": "293",
+      "name": "AWP | 红线 (略有磨损)",
+      "market_hash_name": "AWP | Redline (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "294": {
+      "good_id": "294",
+      "name": "AWP | 红线 (破损不堪)",
+      "market_hash_name": "AWP | Redline (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "295": {
+      "good_id": "295",
+      "name": "AWP | 狩猎网格 (战痕累累)",
+      "market_hash_name": "AWP | Safari Mesh (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "296": {
+      "good_id": "296",
+      "name": "AWP | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "AWP | Safari Mesh (Factory New)",
+      "keyword": "AWP"
+    },
+    "297": {
+      "good_id": "297",
+      "name": "AWP | 狩猎网格 (久经沙场)",
+      "market_hash_name": "AWP | Safari Mesh (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "298": {
+      "good_id": "298",
+      "name": "AWP | 狩猎网格 (略有磨损)",
+      "market_hash_name": "AWP | Safari Mesh (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "299": {
+      "good_id": "299",
+      "name": "AWP | 狩猎网格 (破损不堪)",
+      "market_hash_name": "AWP | Safari Mesh (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "300": {
+      "good_id": "300",
+      "name": "AWP | 蝮蛇迷彩 (战痕累累)",
+      "market_hash_name": "AWP | Snake Camo (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "301": {
+      "good_id": "301",
+      "name": "AWP | 蝮蛇迷彩 (崭新出厂)",
+      "market_hash_name": "AWP | Snake Camo (Factory New)",
+      "keyword": "AWP"
+    },
+    "302": {
+      "good_id": "302",
+      "name": "AWP | 蝮蛇迷彩 (久经沙场)",
+      "market_hash_name": "AWP | Snake Camo (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "303": {
+      "good_id": "303",
+      "name": "AWP | 蝮蛇迷彩 (略有磨损)",
+      "market_hash_name": "AWP | Snake Camo (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "304": {
+      "good_id": "304",
+      "name": "AWP | 蝮蛇迷彩 (破损不堪)",
+      "market_hash_name": "AWP | Snake Camo (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "305": {
+      "good_id": "305",
+      "name": "AWP | 狮子之日 (战痕累累)",
+      "market_hash_name": "AWP | Sun in Leo (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "306": {
+      "good_id": "306",
+      "name": "AWP | 狮子之日 (崭新出厂)",
+      "market_hash_name": "AWP | Sun in Leo (Factory New)",
+      "keyword": "AWP"
+    },
+    "307": {
+      "good_id": "307",
+      "name": "AWP | 狮子之日 (久经沙场)",
+      "market_hash_name": "AWP | Sun in Leo (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "308": {
+      "good_id": "308",
+      "name": "AWP | 狮子之日 (略有磨损)",
+      "market_hash_name": "AWP | Sun in Leo (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "309": {
+      "good_id": "309",
+      "name": "AWP | 狮子之日 (破损不堪)",
+      "market_hash_name": "AWP | Sun in Leo (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "310": {
+      "good_id": "310",
+      "name": "AWP | 蠕虫之神 (崭新出厂)",
+      "market_hash_name": "AWP | Worm God (Factory New)",
+      "keyword": "AWP"
+    },
+    "311": {
+      "good_id": "311",
+      "name": "AWP | 蠕虫之神 (久经沙场)",
+      "market_hash_name": "AWP | Worm God (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "312": {
+      "good_id": "312",
+      "name": "AWP | 蠕虫之神 (略有磨损)",
+      "market_hash_name": "AWP | Worm God (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "313": {
+      "good_id": "313",
+      "name": "AWP | 蠕虫之神 (破损不堪)",
+      "market_hash_name": "AWP | Worm God (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "2384": {
+      "good_id": "2384",
+      "name": "AWP（纪念品） | 粉红 DDPAT (战痕累累)",
+      "market_hash_name": "Souvenir AWP | Pink DDPAT (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "2385": {
+      "good_id": "2385",
+      "name": "AWP（纪念品） | 粉红 DDPAT (久经沙场)",
+      "market_hash_name": "Souvenir AWP | Pink DDPAT (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "2386": {
+      "good_id": "2386",
+      "name": "AWP（纪念品） | 粉红 DDPAT (略有磨损)",
+      "market_hash_name": "Souvenir AWP | Pink DDPAT (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "2387": {
+      "good_id": "2387",
+      "name": "AWP（纪念品） | 粉红 DDPAT (破损不堪)",
+      "market_hash_name": "Souvenir AWP | Pink DDPAT (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "2388": {
+      "good_id": "2388",
+      "name": "AWP（纪念品） | 响尾蛇 (久经沙场)",
+      "market_hash_name": "Souvenir AWP | Pit Viper (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "2389": {
+      "good_id": "2389",
+      "name": "AWP（纪念品） | 响尾蛇 (略有磨损)",
+      "market_hash_name": "Souvenir AWP | Pit Viper (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "2390": {
+      "good_id": "2390",
+      "name": "AWP（纪念品） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "Souvenir AWP | Safari Mesh (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "2391": {
+      "good_id": "2391",
+      "name": "AWP（纪念品） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "Souvenir AWP | Safari Mesh (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "2392": {
+      "good_id": "2392",
+      "name": "AWP（纪念品） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "Souvenir AWP | Safari Mesh (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "2393": {
+      "good_id": "2393",
+      "name": "AWP（纪念品） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "Souvenir AWP | Safari Mesh (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "2974": {
+      "good_id": "2974",
+      "name": "AWP（StatTrak™） | 二西莫夫 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Asiimov (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "2975": {
+      "good_id": "2975",
+      "name": "AWP（StatTrak™） | 二西莫夫 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Asiimov (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "2976": {
+      "good_id": "2976",
+      "name": "AWP（StatTrak™） | 二西莫夫 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Asiimov (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "2977": {
+      "good_id": "2977",
+      "name": "AWP（StatTrak™） | *嘣* (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | BOOM (Factory New)",
+      "keyword": "AWP"
+    },
+    "2978": {
+      "good_id": "2978",
+      "name": "AWP（StatTrak™） | *嘣* (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | BOOM (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "2979": {
+      "good_id": "2979",
+      "name": "AWP（StatTrak™） | *嘣* (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | BOOM (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "2980": {
+      "good_id": "2980",
+      "name": "AWP（StatTrak™） | 珊瑚树 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Corticera (Factory New)",
+      "keyword": "AWP"
+    },
+    "2981": {
+      "good_id": "2981",
+      "name": "AWP（StatTrak™） | 珊瑚树 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Corticera (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "2982": {
+      "good_id": "2982",
+      "name": "AWP（StatTrak™） | 珊瑚树 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Corticera (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "2983": {
+      "good_id": "2983",
+      "name": "AWP（StatTrak™） | 电子蜂巢 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Electric Hive (Factory New)",
+      "keyword": "AWP"
+    },
+    "2984": {
+      "good_id": "2984",
+      "name": "AWP（StatTrak™） | 电子蜂巢 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Electric Hive (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "2985": {
+      "good_id": "2985",
+      "name": "AWP（StatTrak™） | 电子蜂巢 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Electric Hive (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "2986": {
+      "good_id": "2986",
+      "name": "AWP（StatTrak™） | 电子蜂巢 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Electric Hive (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "2987": {
+      "good_id": "2987",
+      "name": "AWP（StatTrak™） | 精英之作 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Elite Build (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "2988": {
+      "good_id": "2988",
+      "name": "AWP（StatTrak™） | 精英之作 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Elite Build (Factory New)",
+      "keyword": "AWP"
+    },
+    "2989": {
+      "good_id": "2989",
+      "name": "AWP（StatTrak™） | 精英之作 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Elite Build (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "2990": {
+      "good_id": "2990",
+      "name": "AWP（StatTrak™） | 精英之作 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Elite Build (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "2991": {
+      "good_id": "2991",
+      "name": "AWP（StatTrak™） | 精英之作 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Elite Build (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "2992": {
+      "good_id": "2992",
+      "name": "AWP（StatTrak™） | 浮生如梦 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Fever Dream (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "2993": {
+      "good_id": "2993",
+      "name": "AWP（StatTrak™） | 浮生如梦 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Fever Dream (Factory New)",
+      "keyword": "AWP"
+    },
+    "2994": {
+      "good_id": "2994",
+      "name": "AWP（StatTrak™） | 浮生如梦 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Fever Dream (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "2995": {
+      "good_id": "2995",
+      "name": "AWP（StatTrak™） | 浮生如梦 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Fever Dream (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "2996": {
+      "good_id": "2996",
+      "name": "AWP（StatTrak™） | 浮生如梦 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Fever Dream (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "2997": {
+      "good_id": "2997",
+      "name": "AWP（StatTrak™） | 石墨黑 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Graphite (Factory New)",
+      "keyword": "AWP"
+    },
+    "2998": {
+      "good_id": "2998",
+      "name": "AWP（StatTrak™） | 石墨黑 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Graphite (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "2999": {
+      "good_id": "2999",
+      "name": "AWP（StatTrak™） | 暴怒野兽 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Hyper Beast (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "3000": {
+      "good_id": "3000",
+      "name": "AWP（StatTrak™） | 暴怒野兽 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Hyper Beast (Factory New)",
+      "keyword": "AWP"
+    },
+    "3001": {
+      "good_id": "3001",
+      "name": "AWP（StatTrak™） | 暴怒野兽 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Hyper Beast (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "3002": {
+      "good_id": "3002",
+      "name": "AWP（StatTrak™） | 暴怒野兽 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Hyper Beast (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "3003": {
+      "good_id": "3003",
+      "name": "AWP（StatTrak™） | 暴怒野兽 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Hyper Beast (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "3004": {
+      "good_id": "3004",
+      "name": "AWP（StatTrak™） | 雷击 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Lightning Strike (Factory New)",
+      "keyword": "AWP"
+    },
+    "3005": {
+      "good_id": "3005",
+      "name": "AWP（StatTrak™） | 雷击 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Lightning Strike (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "3006": {
+      "good_id": "3006",
+      "name": "AWP（StatTrak™） | 无畏战神 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Man-o'-war (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "3007": {
+      "good_id": "3007",
+      "name": "AWP（StatTrak™） | 鬼退治 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Oni Taiji (Factory New)",
+      "keyword": "AWP"
+    },
+    "3008": {
+      "good_id": "3008",
+      "name": "AWP（StatTrak™） | 鬼退治 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Oni Taiji (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "3009": {
+      "good_id": "3009",
+      "name": "AWP（StatTrak™） | 鬼退治 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Oni Taiji (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "3010": {
+      "good_id": "3010",
+      "name": "AWP（StatTrak™） | 火卫一 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Phobos (Factory New)",
+      "keyword": "AWP"
+    },
+    "3011": {
+      "good_id": "3011",
+      "name": "AWP（StatTrak™） | 火卫一 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Phobos (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "3012": {
+      "good_id": "3012",
+      "name": "AWP（StatTrak™） | 火卫一 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Phobos (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "3013": {
+      "good_id": "3013",
+      "name": "AWP（StatTrak™） | 火卫一 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Phobos (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "3014": {
+      "good_id": "3014",
+      "name": "AWP（StatTrak™） | 红线 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Redline (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "3015": {
+      "good_id": "3015",
+      "name": "AWP（StatTrak™） | 红线 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Redline (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "3016": {
+      "good_id": "3016",
+      "name": "AWP（StatTrak™） | 红线 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Redline (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "3017": {
+      "good_id": "3017",
+      "name": "AWP（StatTrak™） | 蠕虫之神 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Worm God (Factory New)",
+      "keyword": "AWP"
+    },
+    "3018": {
+      "good_id": "3018",
+      "name": "AWP（StatTrak™） | 蠕虫之神 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Worm God (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "3019": {
+      "good_id": "3019",
+      "name": "AWP（StatTrak™） | 蠕虫之神 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Worm God (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "3020": {
+      "good_id": "3020",
+      "name": "AWP（StatTrak™） | 蠕虫之神 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Worm God (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "6614": {
+      "good_id": "6614",
+      "name": "AWP（StatTrak™） | 死神 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Mortis (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "7975": {
+      "good_id": "7975",
+      "name": "AWP（StatTrak™） | 无畏战神 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Man-o'-war (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "8062": {
+      "good_id": "8062",
+      "name": "AWP | 巨龙传说 (崭新出厂)",
+      "market_hash_name": "AWP | Dragon Lore (Factory New)",
+      "keyword": "AWP"
+    },
+    "8063": {
+      "good_id": "8063",
+      "name": "AWP（StatTrak™） | 鬼退治 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Oni Taiji (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "8069": {
+      "good_id": "8069",
+      "name": "AWP | 美杜莎 (崭新出厂)",
+      "market_hash_name": "AWP | Medusa (Factory New)",
+      "keyword": "AWP"
+    },
+    "8087": {
+      "good_id": "8087",
+      "name": "AWP（纪念品） | 巨龙传说 (久经沙场)",
+      "market_hash_name": "Souvenir AWP | Dragon Lore (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "8094": {
+      "good_id": "8094",
+      "name": "AWP（StatTrak™） | 鬼退治 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Oni Taiji (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "8105": {
+      "good_id": "8105",
+      "name": "AWP | 死神 (崭新出厂)",
+      "market_hash_name": "AWP | Mortis (Factory New)",
+      "keyword": "AWP"
+    },
+    "8106": {
+      "good_id": "8106",
+      "name": "AWP | 死神 (略有磨损)",
+      "market_hash_name": "AWP | Mortis (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "8107": {
+      "good_id": "8107",
+      "name": "AWP | 死神 (破损不堪)",
+      "market_hash_name": "AWP | Mortis (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "8147": {
+      "good_id": "8147",
+      "name": "AWP（StatTrak™） | 死神 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Mortis (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "8200": {
+      "good_id": "8200",
+      "name": "AWP | 死神 (战痕累累)",
+      "market_hash_name": "AWP | Mortis (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "8201": {
+      "good_id": "8201",
+      "name": "AWP | 死神 (久经沙场)",
+      "market_hash_name": "AWP | Mortis (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "8208": {
+      "good_id": "8208",
+      "name": "AWP（StatTrak™） | 死神 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Mortis (Factory New)",
+      "keyword": "AWP"
+    },
+    "8209": {
+      "good_id": "8209",
+      "name": "AWP（StatTrak™） | 死神 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Mortis (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "8242": {
+      "good_id": "8242",
+      "name": "AWP（StatTrak™） | 死神 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Mortis (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "8264": {
+      "good_id": "8264",
+      "name": "AWP（纪念品） | 巨龙传说 (崭新出厂)",
+      "market_hash_name": "Souvenir AWP | Dragon Lore (Factory New)",
+      "keyword": "AWP"
+    },
+    "8395": {
+      "good_id": "8395",
+      "name": "AWP（纪念品） | 巨龙传说 (略有磨损)",
+      "market_hash_name": "Souvenir AWP | Dragon Lore (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "8419": {
+      "good_id": "8419",
+      "name": "AWP（纪念品） | 粉红 DDPAT (崭新出厂)",
+      "market_hash_name": "Souvenir AWP | Pink DDPAT (Factory New)",
+      "keyword": "AWP"
+    },
+    "8427": {
+      "good_id": "8427",
+      "name": "AWP（纪念品） | 巨龙传说 (战痕累累)",
+      "market_hash_name": "Souvenir AWP | Dragon Lore (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "8457": {
+      "good_id": "8457",
+      "name": "AWP | 猫猫狗狗 (久经沙场)",
+      "market_hash_name": "AWP | PAW (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "8460": {
+      "good_id": "8460",
+      "name": "AWP | 猫猫狗狗 (崭新出厂)",
+      "market_hash_name": "AWP | PAW (Factory New)",
+      "keyword": "AWP"
+    },
+    "8464": {
+      "good_id": "8464",
+      "name": "AWP | 猫猫狗狗 (略有磨损)",
+      "market_hash_name": "AWP | PAW (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "8484": {
+      "good_id": "8484",
+      "name": "AWP | 猫猫狗狗 (战痕累累)",
+      "market_hash_name": "AWP | PAW (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "8520": {
+      "good_id": "8520",
+      "name": "AWP（StatTrak™） | 猫猫狗狗 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | PAW (Factory New)",
+      "keyword": "AWP"
+    },
+    "8521": {
+      "good_id": "8521",
+      "name": "AWP（StatTrak™） | 猫猫狗狗 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | PAW (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "8522": {
+      "good_id": "8522",
+      "name": "AWP（StatTrak™） | 猫猫狗狗 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | PAW (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "8523": {
+      "good_id": "8523",
+      "name": "AWP（StatTrak™） | 猫猫狗狗 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | PAW (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "8608": {
+      "good_id": "8608",
+      "name": "AWP | 猫猫狗狗 (破损不堪)",
+      "market_hash_name": "AWP | PAW (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "8652": {
+      "good_id": "8652",
+      "name": "AWP（StatTrak™） | 猫猫狗狗 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | PAW (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "9398": {
+      "good_id": "9398",
+      "name": "AWP（纪念品） | 冥界之河 (久经沙场)",
+      "market_hash_name": "Souvenir AWP | Acheron (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "9399": {
+      "good_id": "9399",
+      "name": "AWP（纪念品） | 冥界之河 (略有磨损)",
+      "market_hash_name": "Souvenir AWP | Acheron (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "9435": {
+      "good_id": "9435",
+      "name": "AWP（纪念品） | 冥界之河 (战痕累累)",
+      "market_hash_name": "Souvenir AWP | Acheron (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "9436": {
+      "good_id": "9436",
+      "name": "AWP（纪念品） | 冥界之河 (破损不堪)",
+      "market_hash_name": "Souvenir AWP | Acheron (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "9478": {
+      "good_id": "9478",
+      "name": "AWP（纪念品） | 冥界之河 (崭新出厂)",
+      "market_hash_name": "Souvenir AWP | Acheron (Factory New)",
+      "keyword": "AWP"
+    },
+    "9547": {
+      "good_id": "9547",
+      "name": "AWP | 冥界之河 (久经沙场)",
+      "market_hash_name": "AWP | Acheron (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "9563": {
+      "good_id": "9563",
+      "name": "AWP | 冥界之河 (崭新出厂)",
+      "market_hash_name": "AWP | Acheron (Factory New)",
+      "keyword": "AWP"
+    },
+    "9610": {
+      "good_id": "9610",
+      "name": "AWP | 冥界之河 (战痕累累)",
+      "market_hash_name": "AWP | Acheron (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "9624": {
+      "good_id": "9624",
+      "name": "AWP | 冥界之河 (略有磨损)",
+      "market_hash_name": "AWP | Acheron (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "9654": {
+      "good_id": "9654",
+      "name": "AWP | 冥界之河 (破损不堪)",
+      "market_hash_name": "AWP | Acheron (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "9714": {
+      "good_id": "9714",
+      "name": "AWP | 黑色魅影 (崭新出厂)",
+      "market_hash_name": "AWP | Neo-Noir (Factory New)",
+      "keyword": "AWP"
+    },
+    "9767": {
+      "good_id": "9767",
+      "name": "AWP | 黑色魅影 (战痕累累)",
+      "market_hash_name": "AWP | Neo-Noir (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "9779": {
+      "good_id": "9779",
+      "name": "AWP | 黑色魅影 (久经沙场)",
+      "market_hash_name": "AWP | Neo-Noir (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "9814": {
+      "good_id": "9814",
+      "name": "AWP | 黑色魅影 (略有磨损)",
+      "market_hash_name": "AWP | Neo-Noir (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "9816": {
+      "good_id": "9816",
+      "name": "AWP | 黑色魅影 (破损不堪)",
+      "market_hash_name": "AWP | Neo-Noir (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "9824": {
+      "good_id": "9824",
+      "name": "AWP（StatTrak™） | 黑色魅影 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Neo-Noir (Factory New)",
+      "keyword": "AWP"
+    },
+    "9827": {
+      "good_id": "9827",
+      "name": "AWP（StatTrak™） | 黑色魅影 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Neo-Noir (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "9832": {
+      "good_id": "9832",
+      "name": "AWP（StatTrak™） | 黑色魅影 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Neo-Noir (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "9847": {
+      "good_id": "9847",
+      "name": "AWP（StatTrak™） | 黑色魅影 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Neo-Noir (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "9859": {
+      "good_id": "9859",
+      "name": "AWP（StatTrak™） | 黑色魅影 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Neo-Noir (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "10339": {
+      "good_id": "10339",
+      "name": "AWP | 树蝰 (略有磨损)",
+      "market_hash_name": "AWP | Atheris (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "10349": {
+      "good_id": "10349",
+      "name": "AWP | 树蝰 (战痕累累)",
+      "market_hash_name": "AWP | Atheris (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "10363": {
+      "good_id": "10363",
+      "name": "AWP（StatTrak™） | 树蝰 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Atheris (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "10366": {
+      "good_id": "10366",
+      "name": "AWP | 树蝰 (久经沙场)",
+      "market_hash_name": "AWP | Atheris (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "10376": {
+      "good_id": "10376",
+      "name": "AWP | 树蝰 (破损不堪)",
+      "market_hash_name": "AWP | Atheris (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "10377": {
+      "good_id": "10377",
+      "name": "AWP | 树蝰 (崭新出厂)",
+      "market_hash_name": "AWP | Atheris (Factory New)",
+      "keyword": "AWP"
+    },
+    "10434": {
+      "good_id": "10434",
+      "name": "AWP（StatTrak™） | 树蝰 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Atheris (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "10442": {
+      "good_id": "10442",
+      "name": "AWP（StatTrak™） | 树蝰 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Atheris (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "10470": {
+      "good_id": "10470",
+      "name": "AWP（StatTrak™） | 树蝰 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Atheris (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "10473": {
+      "good_id": "10473",
+      "name": "AWP（StatTrak™） | 树蝰 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Atheris (Factory New)",
+      "keyword": "AWP"
+    },
+    "11223": {
+      "good_id": "11223",
+      "name": "AWP | 野火 (战痕累累)",
+      "market_hash_name": "AWP | Wildfire (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "11230": {
+      "good_id": "11230",
+      "name": "AWP | 野火 (久经沙场)",
+      "market_hash_name": "AWP | Wildfire (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "11242": {
+      "good_id": "11242",
+      "name": "AWP（StatTrak™） | 野火 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Wildfire (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "11243": {
+      "good_id": "11243",
+      "name": "AWP | 野火 (崭新出厂)",
+      "market_hash_name": "AWP | Wildfire (Factory New)",
+      "keyword": "AWP"
+    },
+    "11247": {
+      "good_id": "11247",
+      "name": "AWP | 野火 (略有磨损)",
+      "market_hash_name": "AWP | Wildfire (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "11259": {
+      "good_id": "11259",
+      "name": "AWP | 野火 (破损不堪)",
+      "market_hash_name": "AWP | Wildfire (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "11288": {
+      "good_id": "11288",
+      "name": "AWP（StatTrak™） | 野火 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Wildfire (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "11291": {
+      "good_id": "11291",
+      "name": "AWP（StatTrak™） | 野火 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Wildfire (Factory New)",
+      "keyword": "AWP"
+    },
+    "11318": {
+      "good_id": "11318",
+      "name": "AWP（StatTrak™） | 野火 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Wildfire (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "11332": {
+      "good_id": "11332",
+      "name": "AWP（StatTrak™） | 野火 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Wildfire (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "11445": {
+      "good_id": "11445",
+      "name": "AWP | 冲出重围 (破损不堪)",
+      "market_hash_name": "AWP | Containment Breach (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "11585": {
+      "good_id": "11585",
+      "name": "AWP | 冲出重围 (战痕累累)",
+      "market_hash_name": "AWP | Containment Breach (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "11591": {
+      "good_id": "11591",
+      "name": "AWP（StatTrak™） | 冲出重围 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Containment Breach (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "11599": {
+      "good_id": "11599",
+      "name": "AWP | 冲出重围 (久经沙场)",
+      "market_hash_name": "AWP | Containment Breach (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "11608": {
+      "good_id": "11608",
+      "name": "AWP | 冲出重围 (略有磨损)",
+      "market_hash_name": "AWP | Containment Breach (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "11663": {
+      "good_id": "11663",
+      "name": "AWP（StatTrak™） | 冲出重围 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Containment Breach (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "11665": {
+      "good_id": "11665",
+      "name": "AWP | 永恒之枪 (战痕累累)",
+      "market_hash_name": "AWP | Gungnir (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "11671": {
+      "good_id": "11671",
+      "name": "AWP | 冲出重围 (崭新出厂)",
+      "market_hash_name": "AWP | Containment Breach (Factory New)",
+      "keyword": "AWP"
+    },
+    "11673": {
+      "good_id": "11673",
+      "name": "AWP（StatTrak™） | 冲出重围 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Containment Breach (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "11691": {
+      "good_id": "11691",
+      "name": "AWP | 王子 (破损不堪)",
+      "market_hash_name": "AWP | The Prince (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "11713": {
+      "good_id": "11713",
+      "name": "AWP | 永恒之枪 (久经沙场)",
+      "market_hash_name": "AWP | Gungnir (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "11766": {
+      "good_id": "11766",
+      "name": "AWP | 王子 (久经沙场)",
+      "market_hash_name": "AWP | The Prince (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "11775": {
+      "good_id": "11775",
+      "name": "AWP | 永恒之枪 (略有磨损)",
+      "market_hash_name": "AWP | Gungnir (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "11803": {
+      "good_id": "11803",
+      "name": "AWP（StatTrak™） | 冲出重围 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Containment Breach (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "11810": {
+      "good_id": "11810",
+      "name": "AWP（StatTrak™） | 冲出重围 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Containment Breach (Factory New)",
+      "keyword": "AWP"
+    },
+    "11820": {
+      "good_id": "11820",
+      "name": "AWP | 王子 (略有磨损)",
+      "market_hash_name": "AWP | The Prince (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "11828": {
+      "good_id": "11828",
+      "name": "AWP | 永恒之枪 (崭新出厂)",
+      "market_hash_name": "AWP | Gungnir (Factory New)",
+      "keyword": "AWP"
+    },
+    "11850": {
+      "good_id": "11850",
+      "name": "AWP | 永恒之枪 (破损不堪)",
+      "market_hash_name": "AWP | Gungnir (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "11862": {
+      "good_id": "11862",
+      "name": "AWP | 王子 (崭新出厂)",
+      "market_hash_name": "AWP | The Prince (Factory New)",
+      "keyword": "AWP"
+    },
+    "11915": {
+      "good_id": "11915",
+      "name": "AWP | 王子 (战痕累累)",
+      "market_hash_name": "AWP | The Prince (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "12209": {
+      "good_id": "12209",
+      "name": "AWP | 毛细血管 (略有磨损)",
+      "market_hash_name": "AWP | Capillary (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "12214": {
+      "good_id": "12214",
+      "name": "AWP | 毛细血管 (久经沙场)",
+      "market_hash_name": "AWP | Capillary (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "12216": {
+      "good_id": "12216",
+      "name": "AWP（StatTrak™） | 毛细血管 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Capillary (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "12220": {
+      "good_id": "12220",
+      "name": "AWP | 毛细血管 (破损不堪)",
+      "market_hash_name": "AWP | Capillary (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "12246": {
+      "good_id": "12246",
+      "name": "AWP（StatTrak™） | 毛细血管 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Capillary (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "12263": {
+      "good_id": "12263",
+      "name": "AWP | 毛细血管 (战痕累累)",
+      "market_hash_name": "AWP | Capillary (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "12264": {
+      "good_id": "12264",
+      "name": "AWP（StatTrak™） | 毛细血管 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Capillary (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "12279": {
+      "good_id": "12279",
+      "name": "AWP（StatTrak™） | 毛细血管 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Capillary (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "12285": {
+      "good_id": "12285",
+      "name": "AWP | 毛细血管 (崭新出厂)",
+      "market_hash_name": "AWP | Capillary (Factory New)",
+      "keyword": "AWP"
+    },
+    "12303": {
+      "good_id": "12303",
+      "name": "AWP（StatTrak™） | 毛细血管 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Capillary (Factory New)",
+      "keyword": "AWP"
+    },
+    "12563": {
+      "good_id": "12563",
+      "name": "AWP | 渐变之色 (崭新出厂)",
+      "market_hash_name": "AWP | Fade (Factory New)",
+      "keyword": "AWP"
+    },
+    "12599": {
+      "good_id": "12599",
+      "name": "AWP | 亡灵之主 (久经沙场)",
+      "market_hash_name": "AWP | Exoskeleton (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "12625": {
+      "good_id": "12625",
+      "name": "AWP | 亡灵之主 (略有磨损)",
+      "market_hash_name": "AWP | Exoskeleton (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "12677": {
+      "good_id": "12677",
+      "name": "AWP | 亡灵之主 (破损不堪)",
+      "market_hash_name": "AWP | Exoskeleton (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "12710": {
+      "good_id": "12710",
+      "name": "AWP | 亡灵之主 (战痕累累)",
+      "market_hash_name": "AWP | Exoskeleton (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "12779": {
+      "good_id": "12779",
+      "name": "AWP（StatTrak™） | 亡灵之主 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Exoskeleton (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "12789": {
+      "good_id": "12789",
+      "name": "AWP | 亡灵之主 (崭新出厂)",
+      "market_hash_name": "AWP | Exoskeleton (Factory New)",
+      "keyword": "AWP"
+    },
+    "12824": {
+      "good_id": "12824",
+      "name": "AWP（StatTrak™） | 亡灵之主 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Exoskeleton (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "12827": {
+      "good_id": "12827",
+      "name": "AWP | 锦虎 (久经沙场)",
+      "market_hash_name": "AWP | Silk Tiger (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "12843": {
+      "good_id": "12843",
+      "name": "AWP（StatTrak™） | 亡灵之主 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Exoskeleton (Factory New)",
+      "keyword": "AWP"
+    },
+    "12866": {
+      "good_id": "12866",
+      "name": "AWP（StatTrak™） | 亡灵之主 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Exoskeleton (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "12914": {
+      "good_id": "12914",
+      "name": "AWP | 锦虎 (略有磨损)",
+      "market_hash_name": "AWP | Silk Tiger (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "12919": {
+      "good_id": "12919",
+      "name": "AWP | 锦虎 (崭新出厂)",
+      "market_hash_name": "AWP | Silk Tiger (Factory New)",
+      "keyword": "AWP"
+    },
+    "12939": {
+      "good_id": "12939",
+      "name": "AWP | 渐变之色 (略有磨损)",
+      "market_hash_name": "AWP | Fade (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "12969": {
+      "good_id": "12969",
+      "name": "AWP | 锦虎 (破损不堪)",
+      "market_hash_name": "AWP | Silk Tiger (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "12972": {
+      "good_id": "12972",
+      "name": "AWP | 锦虎 (战痕累累)",
+      "market_hash_name": "AWP | Silk Tiger (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "13394": {
+      "good_id": "13394",
+      "name": "AWP | 复古流行 (久经沙场)",
+      "market_hash_name": "AWP | POP AWP (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "13463": {
+      "good_id": "13463",
+      "name": "AWP | 复古流行 (崭新出厂)",
+      "market_hash_name": "AWP | POP AWP (Factory New)",
+      "keyword": "AWP"
+    },
+    "13617": {
+      "good_id": "13617",
+      "name": "AWP | 九头金蛇 (久经沙场)",
+      "market_hash_name": "AWP | Desert Hydra (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "13670": {
+      "good_id": "13670",
+      "name": "AWP | 复古流行 (略有磨损)",
+      "market_hash_name": "AWP | POP AWP (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "13775": {
+      "good_id": "13775",
+      "name": "AWP | 九头金蛇 (略有磨损)",
+      "market_hash_name": "AWP | Desert Hydra (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "13801": {
+      "good_id": "13801",
+      "name": "AWP | 复古流行 (破损不堪)",
+      "market_hash_name": "AWP | POP AWP (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "13815": {
+      "good_id": "13815",
+      "name": "AWP | 九头金蛇 (崭新出厂)",
+      "market_hash_name": "AWP | Desert Hydra (Factory New)",
+      "keyword": "AWP"
+    },
+    "13826": {
+      "good_id": "13826",
+      "name": "AWP | 九头金蛇 (破损不堪)",
+      "market_hash_name": "AWP | Desert Hydra (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "13831": {
+      "good_id": "13831",
+      "name": "AWP | 九头金蛇 (战痕累累)",
+      "market_hash_name": "AWP | Desert Hydra (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "14293": {
+      "good_id": "14293",
+      "name": "AWP（纪念品） | 九头金蛇 (战痕累累)",
+      "market_hash_name": "Souvenir AWP | Desert Hydra (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "14327": {
+      "good_id": "14327",
+      "name": "AWP（纪念品） | 九头金蛇 (久经沙场)",
+      "market_hash_name": "Souvenir AWP | Desert Hydra (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "14429": {
+      "good_id": "14429",
+      "name": "AWP（纪念品） | 九头金蛇 (略有磨损)",
+      "market_hash_name": "Souvenir AWP | Desert Hydra (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "14436": {
+      "good_id": "14436",
+      "name": "AWP（纪念品） | 九头金蛇 (崭新出厂)",
+      "market_hash_name": "Souvenir AWP | Desert Hydra (Factory New)",
+      "keyword": "AWP"
+    },
+    "14526": {
+      "good_id": "14526",
+      "name": "AWP（纪念品） | 九头金蛇 (破损不堪)",
+      "market_hash_name": "Souvenir AWP | Desert Hydra (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "15484": {
+      "good_id": "15484",
+      "name": "AWP | 迷人眼 (略有磨损)",
+      "market_hash_name": "AWP | Chromatic Aberration (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "15514": {
+      "good_id": "15514",
+      "name": "AWP | 迷人眼 (崭新出厂)",
+      "market_hash_name": "AWP | Chromatic Aberration (Factory New)",
+      "keyword": "AWP"
+    },
+    "15526": {
+      "good_id": "15526",
+      "name": "AWP | 迷人眼 (久经沙场)",
+      "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "15550": {
+      "good_id": "15550",
+      "name": "AWP（StatTrak™） | 迷人眼 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Chromatic Aberration (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "15552": {
+      "good_id": "15552",
+      "name": "AWP（StatTrak™） | 迷人眼 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Chromatic Aberration (Factory New)",
+      "keyword": "AWP"
+    },
+    "15554": {
+      "good_id": "15554",
+      "name": "AWP（StatTrak™） | 迷人眼 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Chromatic Aberration (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "15558": {
+      "good_id": "15558",
+      "name": "AWP | 迷人眼 (破损不堪)",
+      "market_hash_name": "AWP | Chromatic Aberration (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "15570": {
+      "good_id": "15570",
+      "name": "AWP | 迷人眼 (战痕累累)",
+      "market_hash_name": "AWP | Chromatic Aberration (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "15580": {
+      "good_id": "15580",
+      "name": "AWP（StatTrak™） | 迷人眼 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Chromatic Aberration (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "15582": {
+      "good_id": "15582",
+      "name": "AWP（StatTrak™） | 迷人眼 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Chromatic Aberration (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "16451": {
+      "good_id": "16451",
+      "name": "AWP（StatTrak™） | 金粉肆蛇 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Duality (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "16452": {
+      "good_id": "16452",
+      "name": "AWP | 金粉肆蛇 (战痕累累)",
+      "market_hash_name": "AWP | Duality (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "16453": {
+      "good_id": "16453",
+      "name": "AWP（StatTrak™） | 金粉肆蛇 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Duality (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "16454": {
+      "good_id": "16454",
+      "name": "AWP | 金粉肆蛇 (崭新出厂)",
+      "market_hash_name": "AWP | Duality (Factory New)",
+      "keyword": "AWP"
+    },
+    "16455": {
+      "good_id": "16455",
+      "name": "AWP | 金粉肆蛇 (略有磨损)",
+      "market_hash_name": "AWP | Duality (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "16456": {
+      "good_id": "16456",
+      "name": "AWP（StatTrak™） | 金粉肆蛇 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Duality (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "16457": {
+      "good_id": "16457",
+      "name": "AWP（StatTrak™） | 金粉肆蛇 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Duality (Factory New)",
+      "keyword": "AWP"
+    },
+    "16459": {
+      "good_id": "16459",
+      "name": "AWP | 金粉肆蛇 (破损不堪)",
+      "market_hash_name": "AWP | Duality (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "16460": {
+      "good_id": "16460",
+      "name": "AWP（StatTrak™） | 金粉肆蛇 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Duality (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "16482": {
+      "good_id": "16482",
+      "name": "AWP | 尼罗河沃土 (略有磨损)",
+      "market_hash_name": "AWP | Black Nile (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "16486": {
+      "good_id": "16486",
+      "name": "AWP | 尼罗河沃土 (久经沙场)",
+      "market_hash_name": "AWP | Black Nile (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "16534": {
+      "good_id": "16534",
+      "name": "AWP | 尼罗河沃土 (崭新出厂)",
+      "market_hash_name": "AWP | Black Nile (Factory New)",
+      "keyword": "AWP"
+    },
+    "16543": {
+      "good_id": "16543",
+      "name": "AWP | 尼罗河沃土 (战痕累累)",
+      "market_hash_name": "AWP | Black Nile (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "16546": {
+      "good_id": "16546",
+      "name": "AWP | 尼罗河沃土 (破损不堪)",
+      "market_hash_name": "AWP | Black Nile (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "17162": {
+      "good_id": "17162",
+      "name": "AWP（纪念品） | 尼罗河沃土 (久经沙场)",
+      "market_hash_name": "Souvenir AWP | Black Nile (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "17174": {
+      "good_id": "17174",
+      "name": "AWP（纪念品） | 尼罗河沃土 (略有磨损)",
+      "market_hash_name": "Souvenir AWP | Black Nile (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "17184": {
+      "good_id": "17184",
+      "name": "AWP（纪念品） | 尼罗河沃土 (战痕累累)",
+      "market_hash_name": "Souvenir AWP | Black Nile (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "17219": {
+      "good_id": "17219",
+      "name": "AWP（纪念品） | 尼罗河沃土 (崭新出厂)",
+      "market_hash_name": "Souvenir AWP | Black Nile (Factory New)",
+      "keyword": "AWP"
+    },
+    "17238": {
+      "good_id": "17238",
+      "name": "AWP（纪念品） | 尼罗河沃土 (破损不堪)",
+      "market_hash_name": "Souvenir AWP | Black Nile (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "18815": {
+      "good_id": "18815",
+      "name": "AWP | 金粉肆蛇 (久经沙场)",
+      "market_hash_name": "AWP | Duality (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "19358": {
+      "good_id": "19358",
+      "name": "AWP（StatTrak™） | 亡灵之主 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Exoskeleton (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "19364": {
+      "good_id": "19364",
+      "name": "AWP | 精英之作 (崭新出厂)",
+      "market_hash_name": "AWP | Elite Build (Factory New)",
+      "keyword": "AWP"
+    },
+    "19430": {
+      "good_id": "19430",
+      "name": "AWP | 巨龙传说 (破损不堪)",
+      "market_hash_name": "AWP | Dragon Lore (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "19432": {
+      "good_id": "19432",
+      "name": "AWP（纪念品） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "Souvenir AWP | Safari Mesh (Factory New)",
+      "keyword": "AWP"
+    },
+    "19601": {
+      "good_id": "19601",
+      "name": "AWP | 镀铬大炮 (战痕累累)",
+      "market_hash_name": "AWP | Chrome Cannon (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "19602": {
+      "good_id": "19602",
+      "name": "AWP | 镀铬大炮 (破损不堪)",
+      "market_hash_name": "AWP | Chrome Cannon (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "19607": {
+      "good_id": "19607",
+      "name": "AWP | 镀铬大炮 (久经沙场)",
+      "market_hash_name": "AWP | Chrome Cannon (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "19610": {
+      "good_id": "19610",
+      "name": "AWP（StatTrak™） | 镀铬大炮 (战痕累累)",
+      "market_hash_name": "StatTrak™ AWP | Chrome Cannon (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "19613": {
+      "good_id": "19613",
+      "name": "AWP（StatTrak™） | 镀铬大炮 (破损不堪)",
+      "market_hash_name": "StatTrak™ AWP | Chrome Cannon (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "19617": {
+      "good_id": "19617",
+      "name": "AWP | 镀铬大炮 (略有磨损)",
+      "market_hash_name": "AWP | Chrome Cannon (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "19618": {
+      "good_id": "19618",
+      "name": "AWP（StatTrak™） | 镀铬大炮 (久经沙场)",
+      "market_hash_name": "StatTrak™ AWP | Chrome Cannon (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "19645": {
+      "good_id": "19645",
+      "name": "AWP | 镀铬大炮 (崭新出厂)",
+      "market_hash_name": "AWP | Chrome Cannon (Factory New)",
+      "keyword": "AWP"
+    },
+    "19648": {
+      "good_id": "19648",
+      "name": "AWP（StatTrak™） | 镀铬大炮 (略有磨损)",
+      "market_hash_name": "StatTrak™ AWP | Chrome Cannon (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "19680": {
+      "good_id": "19680",
+      "name": "AWP（StatTrak™） | 镀铬大炮 (崭新出厂)",
+      "market_hash_name": "StatTrak™ AWP | Chrome Cannon (Factory New)",
+      "keyword": "AWP"
+    },
+    "20459": {
+      "good_id": "20459",
+      "name": "AWP | CMYK (崭新出厂)",
+      "market_hash_name": "AWP | CMYK (Factory New)",
+      "keyword": "AWP"
+    },
+    "20460": {
+      "good_id": "20460",
+      "name": "AWP | CMYK (略有磨损)",
+      "market_hash_name": "AWP | CMYK (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "20461": {
+      "good_id": "20461",
+      "name": "AWP | CMYK (久经沙场)",
+      "market_hash_name": "AWP | CMYK (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "20462": {
+      "good_id": "20462",
+      "name": "AWP | CMYK (破损不堪)",
+      "market_hash_name": "AWP | CMYK (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "20463": {
+      "good_id": "20463",
+      "name": "AWP | CMYK (战痕累累)",
+      "market_hash_name": "AWP | CMYK (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "20540": {
+      "good_id": "20540",
+      "name": "AWP | 克拉考 (崭新出厂)",
+      "market_hash_name": "AWP | Crakow! (Factory New)",
+      "keyword": "AWP"
+    },
+    "20541": {
+      "good_id": "20541",
+      "name": "AWP | 克拉考 (略有磨损)",
+      "market_hash_name": "AWP | Crakow! (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "20542": {
+      "good_id": "20542",
+      "name": "AWP | 克拉考 (久经沙场)",
+      "market_hash_name": "AWP | Crakow! (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "20543": {
+      "good_id": "20543",
+      "name": "AWP | 克拉考 (破损不堪)",
+      "market_hash_name": "AWP | Crakow! (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "20544": {
+      "good_id": "20544",
+      "name": "AWP | 克拉考 (战痕累累)",
+      "market_hash_name": "AWP | Crakow! (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "21480": {
+      "good_id": "21480",
+      "name": "AWP | 一击碧命 (崭新出厂)",
+      "market_hash_name": "AWP | Green Energy (Factory New)",
+      "keyword": "AWP"
+    },
+    "21481": {
+      "good_id": "21481",
+      "name": "AWP | 一击碧命 (略有磨损)",
+      "market_hash_name": "AWP | Green Energy (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "21482": {
+      "good_id": "21482",
+      "name": "AWP | 一击碧命 (久经沙场)",
+      "market_hash_name": "AWP | Green Energy (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "21483": {
+      "good_id": "21483",
+      "name": "AWP | 一击碧命 (破损不堪)",
+      "market_hash_name": "AWP | Green Energy (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "21484": {
+      "good_id": "21484",
+      "name": "AWP | 一击碧命 (战痕累累)",
+      "market_hash_name": "AWP | Green Energy (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "21637": {
+      "good_id": "21637",
+      "name": "AWP | 砷化污染 (崭新出厂)",
+      "market_hash_name": "AWP | Arsenic Spill (Factory New)",
+      "keyword": "AWP"
+    },
+    "21638": {
+      "good_id": "21638",
+      "name": "AWP | 砷化污染 (略有磨损)",
+      "market_hash_name": "AWP | Arsenic Spill (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "21691": {
+      "good_id": "21691",
+      "name": "AWP | 灵缇 (崭新出厂)",
+      "market_hash_name": "AWP | LongDog (Factory New)",
+      "keyword": "AWP"
+    },
+    "21692": {
+      "good_id": "21692",
+      "name": "AWP | 灵缇 (略有磨损)",
+      "market_hash_name": "AWP | LongDog (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "21693": {
+      "good_id": "21693",
+      "name": "AWP | 灵缇 (久经沙场)",
+      "market_hash_name": "AWP | LongDog (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "21925": {
+      "good_id": "21925",
+      "name": "AWP | 灵缇 (破损不堪)",
+      "market_hash_name": "AWP | LongDog (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "22026": {
+      "good_id": "22026",
+      "name": "AWP | 砷化污染 (久经沙场)",
+      "market_hash_name": "AWP | Arsenic Spill (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "22027": {
+      "good_id": "22027",
+      "name": "AWP | 砷化污染 (破损不堪)",
+      "market_hash_name": "AWP | Arsenic Spill (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "22028": {
+      "good_id": "22028",
+      "name": "AWP | 砷化污染 (战痕累累)",
+      "market_hash_name": "AWP | Arsenic Spill (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "22062": {
+      "good_id": "22062",
+      "name": "AWP | 灵缇 (战痕累累)",
+      "market_hash_name": "AWP | LongDog (Battle-Scarred)",
+      "keyword": "AWP"
+    },
+    "23129": {
+      "good_id": "23129",
+      "name": "AWP（纪念品） | 灵缇 (崭新出厂)",
+      "market_hash_name": "Souvenir AWP | LongDog (Factory New)",
+      "keyword": "AWP"
+    },
+    "23130": {
+      "good_id": "23130",
+      "name": "AWP（纪念品） | 灵缇 (略有磨损)",
+      "market_hash_name": "Souvenir AWP | LongDog (Minimal Wear)",
+      "keyword": "AWP"
+    },
+    "23131": {
+      "good_id": "23131",
+      "name": "AWP（纪念品） | 灵缇 (久经沙场)",
+      "market_hash_name": "Souvenir AWP | LongDog (Field-Tested)",
+      "keyword": "AWP"
+    },
+    "23132": {
+      "good_id": "23132",
+      "name": "AWP（纪念品） | 灵缇 (破损不堪)",
+      "market_hash_name": "Souvenir AWP | LongDog (Well-Worn)",
+      "keyword": "AWP"
+    },
+    "23133": {
+      "good_id": "23133",
+      "name": "AWP（纪念品） | 灵缇 (战痕累累)",
+      "market_hash_name": "Souvenir AWP | LongDog (Battle-Scarred)",
+      "keyword": "AWP"
+    }
+  }
+}

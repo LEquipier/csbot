@@ -1,0 +1,866 @@
+{
+  "knife_type": "熊刀",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:05:28.052636",
+  "total_items": 143,
+  "items": {
+    "8594": {
+      "good_id": "8594",
+      "name": "熊刀（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Stained (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8602": {
+      "good_id": "8602",
+      "name": "熊刀（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Crimson Web (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8603": {
+      "good_id": "8603",
+      "name": "熊刀（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Scorched (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8604": {
+      "good_id": "8604",
+      "name": "熊刀（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Stained (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8605": {
+      "good_id": "8605",
+      "name": "熊刀（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Stained (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8606": {
+      "good_id": "8606",
+      "name": "熊刀（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Urban Masked (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8607": {
+      "good_id": "8607",
+      "name": "熊刀（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Urban Masked (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8610": {
+      "good_id": "8610",
+      "name": "熊刀（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Crimson Web (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8640": {
+      "good_id": "8640",
+      "name": "熊刀（★）",
+      "market_hash_name": "★ Ursus Knife",
+      "keyword": "熊刀"
+    },
+    "8641": {
+      "good_id": "8641",
+      "name": "熊刀（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8642": {
+      "good_id": "8642",
+      "name": "熊刀（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Fade (Factory New)",
+      "keyword": "熊刀"
+    },
+    "8643": {
+      "good_id": "8643",
+      "name": "熊刀（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8644": {
+      "good_id": "8644",
+      "name": "熊刀（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Scorched (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8645": {
+      "good_id": "8645",
+      "name": "熊刀（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Stained (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8646": {
+      "good_id": "8646",
+      "name": "熊刀（★） | 夜色 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Night Stripe (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8647": {
+      "good_id": "8647",
+      "name": "熊刀（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Case Hardened (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8649": {
+      "good_id": "8649",
+      "name": "熊刀（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Boreal Forest (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8660": {
+      "good_id": "8660",
+      "name": "熊刀（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Safari Mesh (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8675": {
+      "good_id": "8675",
+      "name": "熊刀（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Blue Steel (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8676": {
+      "good_id": "8676",
+      "name": "熊刀（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8677": {
+      "good_id": "8677",
+      "name": "熊刀（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Case Hardened (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8678": {
+      "good_id": "8678",
+      "name": "熊刀（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8679": {
+      "good_id": "8679",
+      "name": "熊刀（★） | 夜色 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Night Stripe (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8680": {
+      "good_id": "8680",
+      "name": "熊刀（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Safari Mesh (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8681": {
+      "good_id": "8681",
+      "name": "熊刀（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Scorched (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8682": {
+      "good_id": "8682",
+      "name": "熊刀（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Slaughter (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8706": {
+      "good_id": "8706",
+      "name": "熊刀（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8707": {
+      "good_id": "8707",
+      "name": "熊刀（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Case Hardened (Factory New)",
+      "keyword": "熊刀"
+    },
+    "8708": {
+      "good_id": "8708",
+      "name": "熊刀（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8709": {
+      "good_id": "8709",
+      "name": "熊刀（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8719": {
+      "good_id": "8719",
+      "name": "熊刀（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Blue Steel (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8720": {
+      "good_id": "8720",
+      "name": "熊刀（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Boreal Forest (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8721": {
+      "good_id": "8721",
+      "name": "熊刀（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Case Hardened (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8722": {
+      "good_id": "8722",
+      "name": "熊刀（★） | 夜色 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Night Stripe (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8723": {
+      "good_id": "8723",
+      "name": "熊刀（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8728": {
+      "good_id": "8728",
+      "name": "熊刀（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Ursus Knife",
+      "keyword": "熊刀"
+    },
+    "8745": {
+      "good_id": "8745",
+      "name": "熊刀（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Blue Steel (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8749": {
+      "good_id": "8749",
+      "name": "熊刀（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Blue Steel (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8750": {
+      "good_id": "8750",
+      "name": "熊刀（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Scorched (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8753": {
+      "good_id": "8753",
+      "name": "熊刀（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Crimson Web (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8754": {
+      "good_id": "8754",
+      "name": "熊刀（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8767": {
+      "good_id": "8767",
+      "name": "熊刀（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8768": {
+      "good_id": "8768",
+      "name": "熊刀（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Stained (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8769": {
+      "good_id": "8769",
+      "name": "熊刀（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Urban Masked (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8770": {
+      "good_id": "8770",
+      "name": "熊刀（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Boreal Forest (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8774": {
+      "good_id": "8774",
+      "name": "熊刀（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Fade (Factory New)",
+      "keyword": "熊刀"
+    },
+    "8775": {
+      "good_id": "8775",
+      "name": "熊刀（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Scorched (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8776": {
+      "good_id": "8776",
+      "name": "熊刀（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Urban Masked (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8778": {
+      "good_id": "8778",
+      "name": "熊刀（★） | 夜色 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8779": {
+      "good_id": "8779",
+      "name": "熊刀（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Safari Mesh (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8780": {
+      "good_id": "8780",
+      "name": "熊刀（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Slaughter (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8796": {
+      "good_id": "8796",
+      "name": "熊刀（★ StatTrak™） | 夜色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Night Stripe (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "8797": {
+      "good_id": "8797",
+      "name": "熊刀（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Stained (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8798": {
+      "good_id": "8798",
+      "name": "熊刀（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Blue Steel (Factory New)",
+      "keyword": "熊刀"
+    },
+    "8801": {
+      "good_id": "8801",
+      "name": "熊刀（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Slaughter (Factory New)",
+      "keyword": "熊刀"
+    },
+    "8808": {
+      "good_id": "8808",
+      "name": "熊刀（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Blue Steel (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8830": {
+      "good_id": "8830",
+      "name": "熊刀（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Stained (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "8833": {
+      "good_id": "8833",
+      "name": "熊刀（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8837": {
+      "good_id": "8837",
+      "name": "熊刀（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Scorched (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8839": {
+      "good_id": "8839",
+      "name": "熊刀（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8841": {
+      "good_id": "8841",
+      "name": "熊刀（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8846": {
+      "good_id": "8846",
+      "name": "熊刀（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Crimson Web (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "8848": {
+      "good_id": "8848",
+      "name": "熊刀（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8852": {
+      "good_id": "8852",
+      "name": "熊刀（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "8862": {
+      "good_id": "8862",
+      "name": "熊刀（★ StatTrak™） | 夜色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Night Stripe (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "9213": {
+      "good_id": "9213",
+      "name": "熊刀（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Slaughter (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "9296": {
+      "good_id": "9296",
+      "name": "熊刀（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Crimson Web (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "9297": {
+      "good_id": "9297",
+      "name": "熊刀（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "9429": {
+      "good_id": "9429",
+      "name": "熊刀（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Case Hardened (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "9464": {
+      "good_id": "9464",
+      "name": "熊刀（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Case Hardened (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "9480": {
+      "good_id": "9480",
+      "name": "熊刀（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "9482": {
+      "good_id": "9482",
+      "name": "熊刀（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Stained (Factory New)",
+      "keyword": "熊刀"
+    },
+    "9491": {
+      "good_id": "9491",
+      "name": "熊刀（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Slaughter (Factory New)",
+      "keyword": "熊刀"
+    },
+    "9499": {
+      "good_id": "9499",
+      "name": "熊刀（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Forest DDPAT (Factory New)",
+      "keyword": "熊刀"
+    },
+    "9504": {
+      "good_id": "9504",
+      "name": "熊刀（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "9511": {
+      "good_id": "9511",
+      "name": "熊刀（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Crimson Web (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "9652": {
+      "good_id": "9652",
+      "name": "熊刀（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Case Hardened (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "9653": {
+      "good_id": "9653",
+      "name": "熊刀（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Scorched (Factory New)",
+      "keyword": "熊刀"
+    },
+    "9660": {
+      "good_id": "9660",
+      "name": "熊刀（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Fade (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "9662": {
+      "good_id": "9662",
+      "name": "熊刀（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Urban Masked (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "9664": {
+      "good_id": "9664",
+      "name": "熊刀（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Urban Masked (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "9668": {
+      "good_id": "9668",
+      "name": "熊刀（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Blue Steel (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "9704": {
+      "good_id": "9704",
+      "name": "熊刀（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Case Hardened (Factory New)",
+      "keyword": "熊刀"
+    },
+    "9860": {
+      "good_id": "9860",
+      "name": "熊刀（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "9861": {
+      "good_id": "9861",
+      "name": "熊刀（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "9865": {
+      "good_id": "9865",
+      "name": "熊刀（★ StatTrak™） | 夜色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "9867": {
+      "good_id": "9867",
+      "name": "熊刀（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Slaughter (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "9868": {
+      "good_id": "9868",
+      "name": "熊刀（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Safari Mesh (Factory New)",
+      "keyword": "熊刀"
+    },
+    "9874": {
+      "good_id": "9874",
+      "name": "熊刀（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Blue Steel (Factory New)",
+      "keyword": "熊刀"
+    },
+    "9878": {
+      "good_id": "9878",
+      "name": "熊刀（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "9879": {
+      "good_id": "9879",
+      "name": "熊刀（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Boreal Forest (Factory New)",
+      "keyword": "熊刀"
+    },
+    "9880": {
+      "good_id": "9880",
+      "name": "熊刀（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Urban Masked (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10326": {
+      "good_id": "10326",
+      "name": "熊刀（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Crimson Web (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10334": {
+      "good_id": "10334",
+      "name": "熊刀（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "10443": {
+      "good_id": "10443",
+      "name": "熊刀（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "10464": {
+      "good_id": "10464",
+      "name": "熊刀（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Doppler (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10466": {
+      "good_id": "10466",
+      "name": "熊刀（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Tiger Tooth (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10467": {
+      "good_id": "10467",
+      "name": "熊刀（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "10493": {
+      "good_id": "10493",
+      "name": "熊刀（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Marble Fade (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10494": {
+      "good_id": "10494",
+      "name": "熊刀（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Ultraviolet (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "10515": {
+      "good_id": "10515",
+      "name": "熊刀（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "10516": {
+      "good_id": "10516",
+      "name": "熊刀（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Damascus Steel (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10520": {
+      "good_id": "10520",
+      "name": "熊刀（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Ursus Knife | Damascus Steel (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "10521": {
+      "good_id": "10521",
+      "name": "熊刀（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "10523": {
+      "good_id": "10523",
+      "name": "熊刀（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Doppler (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "10530": {
+      "good_id": "10530",
+      "name": "熊刀（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Marble Fade (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10534": {
+      "good_id": "10534",
+      "name": "熊刀（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "10546": {
+      "good_id": "10546",
+      "name": "熊刀（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Rust Coat (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "10552": {
+      "good_id": "10552",
+      "name": "熊刀（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Tiger Tooth (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10559": {
+      "good_id": "10559",
+      "name": "熊刀（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "10560": {
+      "good_id": "10560",
+      "name": "熊刀（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Doppler (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10565": {
+      "good_id": "10565",
+      "name": "熊刀（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Damascus Steel (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "10568": {
+      "good_id": "10568",
+      "name": "熊刀（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "10569": {
+      "good_id": "10569",
+      "name": "熊刀（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Ursus Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "10572": {
+      "good_id": "10572",
+      "name": "熊刀（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Ursus Knife | Ultraviolet (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "10599": {
+      "good_id": "10599",
+      "name": "熊刀（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Ultraviolet (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "10600": {
+      "good_id": "10600",
+      "name": "熊刀（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Ursus Knife | Marble Fade (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "10609": {
+      "good_id": "10609",
+      "name": "熊刀（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Damascus Steel (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "10611": {
+      "good_id": "10611",
+      "name": "熊刀（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Doppler (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "10615": {
+      "good_id": "10615",
+      "name": "熊刀（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Damascus Steel (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10616": {
+      "good_id": "10616",
+      "name": "熊刀（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "10619": {
+      "good_id": "10619",
+      "name": "熊刀（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Damascus Steel (Field-Tested)",
+      "keyword": "熊刀"
+    },
+    "10621": {
+      "good_id": "10621",
+      "name": "熊刀（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "10624": {
+      "good_id": "10624",
+      "name": "熊刀（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Ultraviolet (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "10629": {
+      "good_id": "10629",
+      "name": "熊刀（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Ultraviolet (Factory New)",
+      "keyword": "熊刀"
+    },
+    "10630": {
+      "good_id": "10630",
+      "name": "熊刀（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "10631": {
+      "good_id": "10631",
+      "name": "熊刀（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Rust Coat (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "11138": {
+      "good_id": "11138",
+      "name": "熊刀（★ StatTrak™） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Scorched (Factory New)",
+      "keyword": "熊刀"
+    },
+    "12501": {
+      "good_id": "12501",
+      "name": "熊刀（★ StatTrak™） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Crimson Web (Factory New)",
+      "keyword": "熊刀"
+    },
+    "18943": {
+      "good_id": "18943",
+      "name": "熊刀（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Safari Mesh (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "18944": {
+      "good_id": "18944",
+      "name": "熊刀（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Stained (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "18953": {
+      "good_id": "18953",
+      "name": "熊刀（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "18960": {
+      "good_id": "18960",
+      "name": "熊刀（★ StatTrak™） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "18974": {
+      "good_id": "18974",
+      "name": "熊刀（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Scorched (Battle-Scarred)",
+      "keyword": "熊刀"
+    },
+    "18975": {
+      "good_id": "18975",
+      "name": "熊刀（★） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ Ursus Knife | Night Stripe (Factory New)",
+      "keyword": "熊刀"
+    },
+    "18976": {
+      "good_id": "18976",
+      "name": "熊刀（★ StatTrak™） | 夜色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Night Stripe (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "19021": {
+      "good_id": "19021",
+      "name": "熊刀（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Stained (Factory New)",
+      "keyword": "熊刀"
+    },
+    "19023": {
+      "good_id": "19023",
+      "name": "熊刀（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Scorched (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "19050": {
+      "good_id": "19050",
+      "name": "熊刀（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Boreal Forest (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "19083": {
+      "good_id": "19083",
+      "name": "熊刀（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Marble Fade (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "19085": {
+      "good_id": "19085",
+      "name": "熊刀（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "熊刀"
+    },
+    "19086": {
+      "good_id": "19086",
+      "name": "熊刀（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Fade (Minimal Wear)",
+      "keyword": "熊刀"
+    },
+    "19145": {
+      "good_id": "19145",
+      "name": "熊刀（★ StatTrak™） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Ursus Knife | Safari Mesh (Factory New)",
+      "keyword": "熊刀"
+    }
+  }
+}

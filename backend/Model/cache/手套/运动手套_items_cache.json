@@ -1,0 +1,368 @@
+{
+  "knife_type": "运动手套",
+  "category": "手套",
+  "cache_time": "2025-08-25T01:27:04.712529",
+  "total_items": 60,
+  "items": {
+    "1": {
+      "good_id": "1",
+      "name": "运动手套（★） | 迈阿密风云 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Vice (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "6618": {
+      "good_id": "6618",
+      "name": "运动手套（★） | 双栖 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Amphibious (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "7464": {
+      "good_id": "7464",
+      "name": "运动手套（★） | 干旱 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Arid (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "7465": {
+      "good_id": "7465",
+      "name": "运动手套（★） | 干旱 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Arid (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "7466": {
+      "good_id": "7466",
+      "name": "运动手套（★） | 干旱 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Arid (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "7467": {
+      "good_id": "7467",
+      "name": "运动手套（★） | 干旱 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Arid (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "7468": {
+      "good_id": "7468",
+      "name": "运动手套（★） | 干旱 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Arid (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "7469": {
+      "good_id": "7469",
+      "name": "运动手套（★） | 树篱迷宫 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Hedge Maze (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "7470": {
+      "good_id": "7470",
+      "name": "运动手套（★） | 树篱迷宫 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Hedge Maze (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "7471": {
+      "good_id": "7471",
+      "name": "运动手套（★） | 树篱迷宫 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Hedge Maze (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "7472": {
+      "good_id": "7472",
+      "name": "运动手套（★） | 树篱迷宫 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Hedge Maze (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "7473": {
+      "good_id": "7473",
+      "name": "运动手套（★） | 潘多拉之盒 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Pandora's Box (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "7474": {
+      "good_id": "7474",
+      "name": "运动手套（★） | 潘多拉之盒 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "7475": {
+      "good_id": "7475",
+      "name": "运动手套（★） | 潘多拉之盒 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Pandora's Box (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "7476": {
+      "good_id": "7476",
+      "name": "运动手套（★） | 超导体 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Superconductor (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "7477": {
+      "good_id": "7477",
+      "name": "运动手套（★） | 超导体 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Superconductor (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "7478": {
+      "good_id": "7478",
+      "name": "运动手套（★） | 超导体 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Superconductor (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "7479": {
+      "good_id": "7479",
+      "name": "运动手套（★） | 超导体 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Superconductor (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "8090": {
+      "good_id": "8090",
+      "name": "运动手套（★） | 潘多拉之盒 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Pandora's Box (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "8227": {
+      "good_id": "8227",
+      "name": "运动手套（★） | 青铜形态 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Bronze Morph (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "8246": {
+      "good_id": "8246",
+      "name": "运动手套（★） | 双栖 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Amphibious (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "8247": {
+      "good_id": "8247",
+      "name": "运动手套（★） | 青铜形态 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Bronze Morph (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "8254": {
+      "good_id": "8254",
+      "name": "运动手套（★） | 双栖 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Amphibious (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "8287": {
+      "good_id": "8287",
+      "name": "运动手套（★） | 欧米伽 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Omega (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "8298": {
+      "good_id": "8298",
+      "name": "运动手套（★） | 欧米伽 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Omega (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "8328": {
+      "good_id": "8328",
+      "name": "运动手套（★） | 青铜形态 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Bronze Morph (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "8329": {
+      "good_id": "8329",
+      "name": "运动手套（★） | 欧米伽 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Omega (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "8337": {
+      "good_id": "8337",
+      "name": "运动手套（★） | 迈阿密风云 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Vice (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "8341": {
+      "good_id": "8341",
+      "name": "运动手套（★） | 双栖 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Amphibious (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "8346": {
+      "good_id": "8346",
+      "name": "运动手套（★） | 青铜形态 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Bronze Morph (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "8358": {
+      "good_id": "8358",
+      "name": "运动手套（★） | 迈阿密风云 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Vice (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "8364": {
+      "good_id": "8364",
+      "name": "运动手套（★） | 迈阿密风云 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Vice (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "8371": {
+      "good_id": "8371",
+      "name": "运动手套（★） | 欧米伽 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Omega (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "8386": {
+      "good_id": "8386",
+      "name": "运动手套（★） | 潘多拉之盒 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Pandora's Box (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "8394": {
+      "good_id": "8394",
+      "name": "运动手套（★） | 迈阿密风云 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Vice (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "8403": {
+      "good_id": "8403",
+      "name": "运动手套（★） | 超导体 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Superconductor (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "8428": {
+      "good_id": "8428",
+      "name": "运动手套（★） | 欧米伽 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Omega (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "8429": {
+      "good_id": "8429",
+      "name": "运动手套（★） | 树篱迷宫 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Hedge Maze (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "8436": {
+      "good_id": "8436",
+      "name": "运动手套（★） | 双栖 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Amphibious (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "9873": {
+      "good_id": "9873",
+      "name": "运动手套（★） | 青铜形态 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Bronze Morph (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "12730": {
+      "good_id": "12730",
+      "name": "运动手套（★） | 弹弓 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Slingshot (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "12865": {
+      "good_id": "12865",
+      "name": "运动手套（★） | 弹弓 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Slingshot (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "12867": {
+      "good_id": "12867",
+      "name": "运动手套（★） | 夜行衣 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Nocts (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "12876": {
+      "good_id": "12876",
+      "name": "运动手套（★） | 猩红头巾 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Scarlet Shamagh (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "12886": {
+      "good_id": "12886",
+      "name": "运动手套（★） | 大型猎物 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Big Game (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "12916": {
+      "good_id": "12916",
+      "name": "运动手套（★） | 大型猎物 (久经沙场)",
+      "market_hash_name": "★ Sport Gloves | Big Game (Field-Tested)",
+      "keyword": "Sport Gloves"
+    },
+    "12923": {
+      "good_id": "12923",
+      "name": "运动手套（★） | 夜行衣 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Nocts (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "12958": {
+      "good_id": "12958",
+      "name": "运动手套（★） | 大型猎物 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Big Game (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "12960": {
+      "good_id": "12960",
+      "name": "运动手套（★） | 猩红头巾 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Scarlet Shamagh (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "12964": {
+      "good_id": "12964",
+      "name": "运动手套（★） | 猩红头巾 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Scarlet Shamagh (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "12966": {
+      "good_id": "12966",
+      "name": "运动手套（★） | 大型猎物 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Big Game (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "12971": {
+      "good_id": "12971",
+      "name": "运动手套（★） | 弹弓 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Slingshot (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "12976": {
+      "good_id": "12976",
+      "name": "运动手套（★） | 猩红头巾 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Scarlet Shamagh (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "12981": {
+      "good_id": "12981",
+      "name": "运动手套（★） | 夜行衣 (略有磨损)",
+      "market_hash_name": "★ Sport Gloves | Nocts (Minimal Wear)",
+      "keyword": "Sport Gloves"
+    },
+    "12986": {
+      "good_id": "12986",
+      "name": "运动手套（★） | 夜行衣 (破损不堪)",
+      "market_hash_name": "★ Sport Gloves | Nocts (Well-Worn)",
+      "keyword": "Sport Gloves"
+    },
+    "12987": {
+      "good_id": "12987",
+      "name": "运动手套（★） | 弹弓 (战痕累累)",
+      "market_hash_name": "★ Sport Gloves | Slingshot (Battle-Scarred)",
+      "keyword": "Sport Gloves"
+    },
+    "13030": {
+      "good_id": "13030",
+      "name": "运动手套（★） | 大型猎物 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Big Game (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "13034": {
+      "good_id": "13034",
+      "name": "运动手套（★） | 猩红头巾 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Scarlet Shamagh (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "13035": {
+      "good_id": "13035",
+      "name": "运动手套（★） | 夜行衣 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Nocts (Factory New)",
+      "keyword": "Sport Gloves"
+    },
+    "13036": {
+      "good_id": "13036",
+      "name": "运动手套（★） | 弹弓 (崭新出厂)",
+      "market_hash_name": "★ Sport Gloves | Slingshot (Factory New)",
+      "keyword": "Sport Gloves"
+    }
+  }
+}

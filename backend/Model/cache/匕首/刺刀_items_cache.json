@@ -1,0 +1,1160 @@
+{
+  "knife_type": "刺刀",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:04:00.918555",
+  "total_items": 192,
+  "items": {
+    "6622": {
+      "good_id": "6622",
+      "name": "刺刀（★）",
+      "market_hash_name": "★ Bayonet",
+      "keyword": "刺刀"
+    },
+    "6623": {
+      "good_id": "6623",
+      "name": "刺刀（★） | 自动化 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Autotronic (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6624": {
+      "good_id": "6624",
+      "name": "刺刀（★） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Autotronic (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6625": {
+      "good_id": "6625",
+      "name": "刺刀（★） | 自动化 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Autotronic (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6626": {
+      "good_id": "6626",
+      "name": "刺刀（★） | 自动化 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Autotronic (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6627": {
+      "good_id": "6627",
+      "name": "刺刀（★） | 自动化 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Autotronic (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6628": {
+      "good_id": "6628",
+      "name": "刺刀（★） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Black Laminate (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6629": {
+      "good_id": "6629",
+      "name": "刺刀（★） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Black Laminate (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6630": {
+      "good_id": "6630",
+      "name": "刺刀（★） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Black Laminate (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6631": {
+      "good_id": "6631",
+      "name": "刺刀（★） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Black Laminate (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6632": {
+      "good_id": "6632",
+      "name": "刺刀（★） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Black Laminate (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6633": {
+      "good_id": "6633",
+      "name": "刺刀（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Blue Steel (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6634": {
+      "good_id": "6634",
+      "name": "刺刀（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Blue Steel (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6635": {
+      "good_id": "6635",
+      "name": "刺刀（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Blue Steel (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6636": {
+      "good_id": "6636",
+      "name": "刺刀（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Blue Steel (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6637": {
+      "good_id": "6637",
+      "name": "刺刀（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Blue Steel (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6638": {
+      "good_id": "6638",
+      "name": "刺刀（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Boreal Forest (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6639": {
+      "good_id": "6639",
+      "name": "刺刀（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Boreal Forest (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6640": {
+      "good_id": "6640",
+      "name": "刺刀（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Boreal Forest (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6641": {
+      "good_id": "6641",
+      "name": "刺刀（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Boreal Forest (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6642": {
+      "good_id": "6642",
+      "name": "刺刀（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Boreal Forest (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6643": {
+      "good_id": "6643",
+      "name": "刺刀（★） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Bright Water (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6644": {
+      "good_id": "6644",
+      "name": "刺刀（★） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Bright Water (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6645": {
+      "good_id": "6645",
+      "name": "刺刀（★） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Bright Water (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6646": {
+      "good_id": "6646",
+      "name": "刺刀（★） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Bright Water (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6647": {
+      "good_id": "6647",
+      "name": "刺刀（★） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Bright Water (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6648": {
+      "good_id": "6648",
+      "name": "刺刀（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Case Hardened (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6649": {
+      "good_id": "6649",
+      "name": "刺刀（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Case Hardened (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6650": {
+      "good_id": "6650",
+      "name": "刺刀（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Case Hardened (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6651": {
+      "good_id": "6651",
+      "name": "刺刀（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Case Hardened (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6652": {
+      "good_id": "6652",
+      "name": "刺刀（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Case Hardened (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6653": {
+      "good_id": "6653",
+      "name": "刺刀（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Crimson Web (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6654": {
+      "good_id": "6654",
+      "name": "刺刀（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Crimson Web (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6655": {
+      "good_id": "6655",
+      "name": "刺刀（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Crimson Web (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6656": {
+      "good_id": "6656",
+      "name": "刺刀（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Crimson Web (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6657": {
+      "good_id": "6657",
+      "name": "刺刀（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Damascus Steel (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6658": {
+      "good_id": "6658",
+      "name": "刺刀（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Damascus Steel (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6659": {
+      "good_id": "6659",
+      "name": "刺刀（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Damascus Steel (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6660": {
+      "good_id": "6660",
+      "name": "刺刀（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Damascus Steel (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6661": {
+      "good_id": "6661",
+      "name": "刺刀（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Damascus Steel (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6662": {
+      "good_id": "6662",
+      "name": "刺刀（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Doppler (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6663": {
+      "good_id": "6663",
+      "name": "刺刀（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Doppler (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6664": {
+      "good_id": "6664",
+      "name": "刺刀（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Fade (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6665": {
+      "good_id": "6665",
+      "name": "刺刀（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Fade (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6666": {
+      "good_id": "6666",
+      "name": "刺刀（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Bayonet | Forest DDPAT (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6667": {
+      "good_id": "6667",
+      "name": "刺刀（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Bayonet | Forest DDPAT (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6668": {
+      "good_id": "6668",
+      "name": "刺刀（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Bayonet | Forest DDPAT (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6669": {
+      "good_id": "6669",
+      "name": "刺刀（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Bayonet | Forest DDPAT (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6670": {
+      "good_id": "6670",
+      "name": "刺刀（★） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Freehand (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6671": {
+      "good_id": "6671",
+      "name": "刺刀（★） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Freehand (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6672": {
+      "good_id": "6672",
+      "name": "刺刀（★） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Freehand (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6673": {
+      "good_id": "6673",
+      "name": "刺刀（★） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Freehand (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6674": {
+      "good_id": "6674",
+      "name": "刺刀（★） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Freehand (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6675": {
+      "good_id": "6675",
+      "name": "刺刀（★） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Gamma Doppler (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6676": {
+      "good_id": "6676",
+      "name": "刺刀（★） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Gamma Doppler (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6677": {
+      "good_id": "6677",
+      "name": "刺刀（★） | 传说 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Lore (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6678": {
+      "good_id": "6678",
+      "name": "刺刀（★） | 传说 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Lore (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6679": {
+      "good_id": "6679",
+      "name": "刺刀（★） | 传说 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Lore (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6680": {
+      "good_id": "6680",
+      "name": "刺刀（★） | 传说 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Lore (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6681": {
+      "good_id": "6681",
+      "name": "刺刀（★） | 传说 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Lore (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6682": {
+      "good_id": "6682",
+      "name": "刺刀（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Marble Fade (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6683": {
+      "good_id": "6683",
+      "name": "刺刀（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Marble Fade (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6684": {
+      "good_id": "6684",
+      "name": "刺刀（★） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Night (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6685": {
+      "good_id": "6685",
+      "name": "刺刀（★） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Night (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6686": {
+      "good_id": "6686",
+      "name": "刺刀（★） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Night (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6687": {
+      "good_id": "6687",
+      "name": "刺刀（★） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Night (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6688": {
+      "good_id": "6688",
+      "name": "刺刀（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Rust Coat (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6689": {
+      "good_id": "6689",
+      "name": "刺刀（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Rust Coat (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6690": {
+      "good_id": "6690",
+      "name": "刺刀（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Safari Mesh (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6691": {
+      "good_id": "6691",
+      "name": "刺刀（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Safari Mesh (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6692": {
+      "good_id": "6692",
+      "name": "刺刀（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Safari Mesh (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6693": {
+      "good_id": "6693",
+      "name": "刺刀（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Safari Mesh (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6694": {
+      "good_id": "6694",
+      "name": "刺刀（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Scorched (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6695": {
+      "good_id": "6695",
+      "name": "刺刀（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Scorched (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6696": {
+      "good_id": "6696",
+      "name": "刺刀（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Scorched (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6697": {
+      "good_id": "6697",
+      "name": "刺刀（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Scorched (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6698": {
+      "good_id": "6698",
+      "name": "刺刀（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Slaughter (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6699": {
+      "good_id": "6699",
+      "name": "刺刀（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Slaughter (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6700": {
+      "good_id": "6700",
+      "name": "刺刀（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Slaughter (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6701": {
+      "good_id": "6701",
+      "name": "刺刀（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Stained (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6702": {
+      "good_id": "6702",
+      "name": "刺刀（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Stained (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6703": {
+      "good_id": "6703",
+      "name": "刺刀（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Stained (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6704": {
+      "good_id": "6704",
+      "name": "刺刀（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Stained (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6705": {
+      "good_id": "6705",
+      "name": "刺刀（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Stained (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6706": {
+      "good_id": "6706",
+      "name": "刺刀（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Tiger Tooth (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6707": {
+      "good_id": "6707",
+      "name": "刺刀（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Tiger Tooth (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6708": {
+      "good_id": "6708",
+      "name": "刺刀（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Ultraviolet (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6709": {
+      "good_id": "6709",
+      "name": "刺刀（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Ultraviolet (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6710": {
+      "good_id": "6710",
+      "name": "刺刀（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Ultraviolet (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6711": {
+      "good_id": "6711",
+      "name": "刺刀（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Ultraviolet (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6712": {
+      "good_id": "6712",
+      "name": "刺刀（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Ultraviolet (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "6713": {
+      "good_id": "6713",
+      "name": "刺刀（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Bayonet | Urban Masked (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "6714": {
+      "good_id": "6714",
+      "name": "刺刀（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Urban Masked (Factory New)",
+      "keyword": "刺刀"
+    },
+    "6715": {
+      "good_id": "6715",
+      "name": "刺刀（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Bayonet | Urban Masked (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "6716": {
+      "good_id": "6716",
+      "name": "刺刀（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Bayonet | Urban Masked (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "6717": {
+      "good_id": "6717",
+      "name": "刺刀（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Bayonet | Urban Masked (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "7480": {
+      "good_id": "7480",
+      "name": "刺刀（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Bayonet",
+      "keyword": "刺刀"
+    },
+    "7481": {
+      "good_id": "7481",
+      "name": "刺刀（★ StatTrak™） | 自动化 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Autotronic (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7482": {
+      "good_id": "7482",
+      "name": "刺刀（★ StatTrak™） | 自动化 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Autotronic (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7483": {
+      "good_id": "7483",
+      "name": "刺刀（★ StatTrak™） | 自动化 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Autotronic (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "7484": {
+      "good_id": "7484",
+      "name": "刺刀（★ StatTrak™） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Black Laminate (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7485": {
+      "good_id": "7485",
+      "name": "刺刀（★ StatTrak™） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Black Laminate (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7486": {
+      "good_id": "7486",
+      "name": "刺刀（★ StatTrak™） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Black Laminate (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "7487": {
+      "good_id": "7487",
+      "name": "刺刀（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Blue Steel (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "7488": {
+      "good_id": "7488",
+      "name": "刺刀（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Blue Steel (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7489": {
+      "good_id": "7489",
+      "name": "刺刀（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Blue Steel (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7490": {
+      "good_id": "7490",
+      "name": "刺刀（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Boreal Forest (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "7491": {
+      "good_id": "7491",
+      "name": "刺刀（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Boreal Forest (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7492": {
+      "good_id": "7492",
+      "name": "刺刀（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Boreal Forest (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "7493": {
+      "good_id": "7493",
+      "name": "刺刀（★ StatTrak™） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Bright Water (Factory New)",
+      "keyword": "刺刀"
+    },
+    "7494": {
+      "good_id": "7494",
+      "name": "刺刀（★ StatTrak™） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Bright Water (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7495": {
+      "good_id": "7495",
+      "name": "刺刀（★ StatTrak™） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Bright Water (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7496": {
+      "good_id": "7496",
+      "name": "刺刀（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Case Hardened (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7497": {
+      "good_id": "7497",
+      "name": "刺刀（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Case Hardened (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7498": {
+      "good_id": "7498",
+      "name": "刺刀（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Case Hardened (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "7499": {
+      "good_id": "7499",
+      "name": "刺刀（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Crimson Web (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "7500": {
+      "good_id": "7500",
+      "name": "刺刀（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Crimson Web (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7501": {
+      "good_id": "7501",
+      "name": "刺刀（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Crimson Web (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7502": {
+      "good_id": "7502",
+      "name": "刺刀（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Damascus Steel (Factory New)",
+      "keyword": "刺刀"
+    },
+    "7503": {
+      "good_id": "7503",
+      "name": "刺刀（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Damascus Steel (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7504": {
+      "good_id": "7504",
+      "name": "刺刀（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Damascus Steel (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7505": {
+      "good_id": "7505",
+      "name": "刺刀（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Doppler (Factory New)",
+      "keyword": "刺刀"
+    },
+    "7506": {
+      "good_id": "7506",
+      "name": "刺刀（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Doppler (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7507": {
+      "good_id": "7507",
+      "name": "刺刀（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Fade (Factory New)",
+      "keyword": "刺刀"
+    },
+    "7508": {
+      "good_id": "7508",
+      "name": "刺刀（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Forest DDPAT (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7509": {
+      "good_id": "7509",
+      "name": "刺刀（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Forest DDPAT (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7510": {
+      "good_id": "7510",
+      "name": "刺刀（★ StatTrak™） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Freehand (Factory New)",
+      "keyword": "刺刀"
+    },
+    "7511": {
+      "good_id": "7511",
+      "name": "刺刀（★ StatTrak™） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Freehand (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7512": {
+      "good_id": "7512",
+      "name": "刺刀（★ StatTrak™） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Freehand (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7513": {
+      "good_id": "7513",
+      "name": "刺刀（★ StatTrak™） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Gamma Doppler (Factory New)",
+      "keyword": "刺刀"
+    },
+    "7514": {
+      "good_id": "7514",
+      "name": "刺刀（★ StatTrak™） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Gamma Doppler (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7515": {
+      "good_id": "7515",
+      "name": "刺刀（★ StatTrak™） | 传说 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Lore (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "7516": {
+      "good_id": "7516",
+      "name": "刺刀（★ StatTrak™） | 传说 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Lore (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7517": {
+      "good_id": "7517",
+      "name": "刺刀（★ StatTrak™） | 传说 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Lore (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7518": {
+      "good_id": "7518",
+      "name": "刺刀（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Marble Fade (Factory New)",
+      "keyword": "刺刀"
+    },
+    "7519": {
+      "good_id": "7519",
+      "name": "刺刀（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Marble Fade (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7520": {
+      "good_id": "7520",
+      "name": "刺刀（★ StatTrak™） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Night (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "7521": {
+      "good_id": "7521",
+      "name": "刺刀（★ StatTrak™） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Night (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7522": {
+      "good_id": "7522",
+      "name": "刺刀（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Rust Coat (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "7523": {
+      "good_id": "7523",
+      "name": "刺刀（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Safari Mesh (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "7524": {
+      "good_id": "7524",
+      "name": "刺刀（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Safari Mesh (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7525": {
+      "good_id": "7525",
+      "name": "刺刀（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Safari Mesh (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7526": {
+      "good_id": "7526",
+      "name": "刺刀（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Scorched (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "7527": {
+      "good_id": "7527",
+      "name": "刺刀（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Scorched (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7528": {
+      "good_id": "7528",
+      "name": "刺刀（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Scorched (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7529": {
+      "good_id": "7529",
+      "name": "刺刀（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Slaughter (Factory New)",
+      "keyword": "刺刀"
+    },
+    "7530": {
+      "good_id": "7530",
+      "name": "刺刀（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Slaughter (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7531": {
+      "good_id": "7531",
+      "name": "刺刀（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Stained (Factory New)",
+      "keyword": "刺刀"
+    },
+    "7532": {
+      "good_id": "7532",
+      "name": "刺刀（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Stained (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7533": {
+      "good_id": "7533",
+      "name": "刺刀（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Stained (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7534": {
+      "good_id": "7534",
+      "name": "刺刀（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Stained (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "7535": {
+      "good_id": "7535",
+      "name": "刺刀（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Tiger Tooth (Factory New)",
+      "keyword": "刺刀"
+    },
+    "7536": {
+      "good_id": "7536",
+      "name": "刺刀（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Ultraviolet (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7537": {
+      "good_id": "7537",
+      "name": "刺刀（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Ultraviolet (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "7538": {
+      "good_id": "7538",
+      "name": "刺刀（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Ultraviolet (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "7539": {
+      "good_id": "7539",
+      "name": "刺刀（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Urban Masked (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "7540": {
+      "good_id": "7540",
+      "name": "刺刀（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Urban Masked (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "8018": {
+      "good_id": "8018",
+      "name": "刺刀（★ StatTrak™） | 自动化 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Autotronic (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "8019": {
+      "good_id": "8019",
+      "name": "刺刀（★ StatTrak™） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Autotronic (Factory New)",
+      "keyword": "刺刀"
+    },
+    "8020": {
+      "good_id": "8020",
+      "name": "刺刀（★ StatTrak™） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Black Laminate (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "8021": {
+      "good_id": "8021",
+      "name": "刺刀（★ StatTrak™） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Black Laminate (Factory New)",
+      "keyword": "刺刀"
+    },
+    "8022": {
+      "good_id": "8022",
+      "name": "刺刀（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Ultraviolet (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "8043": {
+      "good_id": "8043",
+      "name": "刺刀（★） | 噩梦之夜 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Night (Factory New)",
+      "keyword": "刺刀"
+    },
+    "8065": {
+      "good_id": "8065",
+      "name": "刺刀（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Boreal Forest (Field-Tested)",
+      "keyword": "刺刀"
+    },
+    "8066": {
+      "good_id": "8066",
+      "name": "刺刀（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Stained (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "8074": {
+      "good_id": "8074",
+      "name": "刺刀（★ StatTrak™） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Bright Water (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "8088": {
+      "good_id": "8088",
+      "name": "刺刀（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Damascus Steel (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "8092": {
+      "good_id": "8092",
+      "name": "刺刀（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Urban Masked (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "8262": {
+      "good_id": "8262",
+      "name": "刺刀（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Crimson Web (Factory New)",
+      "keyword": "刺刀"
+    },
+    "8352": {
+      "good_id": "8352",
+      "name": "刺刀（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Forest DDPAT (Factory New)",
+      "keyword": "刺刀"
+    },
+    "8366": {
+      "good_id": "8366",
+      "name": "刺刀（★ StatTrak™） | 传说 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Lore (Factory New)",
+      "keyword": "刺刀"
+    },
+    "8381": {
+      "good_id": "8381",
+      "name": "刺刀（★ StatTrak™） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Night (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "8388": {
+      "good_id": "8388",
+      "name": "刺刀（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Case Hardened (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "8393": {
+      "good_id": "8393",
+      "name": "刺刀（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Damascus Steel (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "8421": {
+      "good_id": "8421",
+      "name": "刺刀（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Fade (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "8438": {
+      "good_id": "8438",
+      "name": "刺刀（★ StatTrak™） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Bright Water (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "17309": {
+      "good_id": "17309",
+      "name": "布章 | 刺刀青蛙",
+      "market_hash_name": "Patch | Bayonet Frog",
+      "keyword": "刺刀"
+    },
+    "18945": {
+      "good_id": "18945",
+      "name": "刺刀（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Scorched (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "18969": {
+      "good_id": "18969",
+      "name": "刺刀（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Slaughter (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "18986": {
+      "good_id": "18986",
+      "name": "刺刀（★ StatTrak™） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Night (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "18987": {
+      "good_id": "18987",
+      "name": "刺刀（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Forest DDPAT (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "19006": {
+      "good_id": "19006",
+      "name": "刺刀（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Crimson Web (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "19009": {
+      "good_id": "19009",
+      "name": "刺刀（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Safari Mesh (Factory New)",
+      "keyword": "刺刀"
+    },
+    "19040": {
+      "good_id": "19040",
+      "name": "刺刀（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Blue Steel (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "19068": {
+      "good_id": "19068",
+      "name": "刺刀（★ StatTrak™） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Tiger Tooth (Minimal Wear)",
+      "keyword": "刺刀"
+    },
+    "19069": {
+      "good_id": "19069",
+      "name": "刺刀（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Rust Coat (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "19094": {
+      "good_id": "19094",
+      "name": "刺刀（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Bayonet | Scorched (Factory New)",
+      "keyword": "刺刀"
+    },
+    "19100": {
+      "good_id": "19100",
+      "name": "刺刀（★ StatTrak™） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Freehand (Battle-Scarred)",
+      "keyword": "刺刀"
+    },
+    "19141": {
+      "good_id": "19141",
+      "name": "刺刀（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Safari Mesh (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "19162": {
+      "good_id": "19162",
+      "name": "刺刀（★ StatTrak™） | 传说 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Lore (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "19169": {
+      "good_id": "19169",
+      "name": "刺刀（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Urban Masked (Well-Worn)",
+      "keyword": "刺刀"
+    },
+    "19210": {
+      "good_id": "19210",
+      "name": "刺刀（★ StatTrak™） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Bayonet | Freehand (Well-Worn)",
+      "keyword": "刺刀"
+    }
+  }
+}

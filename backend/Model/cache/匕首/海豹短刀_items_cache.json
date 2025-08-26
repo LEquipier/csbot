@@ -1,0 +1,650 @@
+{
+  "knife_type": "海豹短刀",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:06:31.888122",
+  "total_items": 107,
+  "items": {
+    "11187": {
+      "good_id": "11187",
+      "name": "海豹短刀（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Scorched (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11206": {
+      "good_id": "11206",
+      "name": "海豹短刀（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Crimson Web (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11228": {
+      "good_id": "11228",
+      "name": "海豹短刀（★）",
+      "market_hash_name": "★ Classic Knife",
+      "keyword": "海豹短刀"
+    },
+    "11233": {
+      "good_id": "11233",
+      "name": "海豹短刀（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Fade (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11248": {
+      "good_id": "11248",
+      "name": "海豹短刀（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Fade (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11254": {
+      "good_id": "11254",
+      "name": "海豹短刀（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Slaughter (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11258": {
+      "good_id": "11258",
+      "name": "海豹短刀（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Blue Steel (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11261": {
+      "good_id": "11261",
+      "name": "海豹短刀（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Case Hardened (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11262": {
+      "good_id": "11262",
+      "name": "海豹短刀（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Crimson Web (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11282": {
+      "good_id": "11282",
+      "name": "海豹短刀（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Slaughter (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11284": {
+      "good_id": "11284",
+      "name": "海豹短刀（★ StatTrak™） | 夜色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Night Stripe (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11286": {
+      "good_id": "11286",
+      "name": "海豹短刀（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Classic Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11295": {
+      "good_id": "11295",
+      "name": "海豹短刀（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Classic Knife | Stained (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11297": {
+      "good_id": "11297",
+      "name": "海豹短刀（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Boreal Forest (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11299": {
+      "good_id": "11299",
+      "name": "海豹短刀（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Safari Mesh (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11305": {
+      "good_id": "11305",
+      "name": "海豹短刀（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Blue Steel (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11306": {
+      "good_id": "11306",
+      "name": "海豹短刀（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11309": {
+      "good_id": "11309",
+      "name": "海豹短刀（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Urban Masked (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11311": {
+      "good_id": "11311",
+      "name": "海豹短刀（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11313": {
+      "good_id": "11313",
+      "name": "海豹短刀（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Urban Masked (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11315": {
+      "good_id": "11315",
+      "name": "海豹短刀（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11317": {
+      "good_id": "11317",
+      "name": "海豹短刀（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Urban Masked (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11319": {
+      "good_id": "11319",
+      "name": "海豹短刀（★） | 夜色 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Night Stripe (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11320": {
+      "good_id": "11320",
+      "name": "海豹短刀（★） | 夜色 (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Night Stripe (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11327": {
+      "good_id": "11327",
+      "name": "海豹短刀（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Classic Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11328": {
+      "good_id": "11328",
+      "name": "海豹短刀（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Case Hardened (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11329": {
+      "good_id": "11329",
+      "name": "海豹短刀（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Classic Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11330": {
+      "good_id": "11330",
+      "name": "海豹短刀（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Slaughter (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11334": {
+      "good_id": "11334",
+      "name": "海豹短刀（★） | 夜色 (战痕累累)",
+      "market_hash_name": "★ Classic Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11335": {
+      "good_id": "11335",
+      "name": "海豹短刀（★） | 夜色 (破损不堪)",
+      "market_hash_name": "★ Classic Knife | Night Stripe (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11336": {
+      "good_id": "11336",
+      "name": "海豹短刀（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Classic Knife | Scorched (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11337": {
+      "good_id": "11337",
+      "name": "海豹短刀（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Classic Knife | Scorched (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11338": {
+      "good_id": "11338",
+      "name": "海豹短刀（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Case Hardened (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11339": {
+      "good_id": "11339",
+      "name": "海豹短刀（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11340": {
+      "good_id": "11340",
+      "name": "海豹短刀（★ StatTrak™） | 夜色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Night Stripe (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11341": {
+      "good_id": "11341",
+      "name": "海豹短刀（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Scorched (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11342": {
+      "good_id": "11342",
+      "name": "海豹短刀（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Scorched (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11343": {
+      "good_id": "11343",
+      "name": "海豹短刀（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Classic Knife | Boreal Forest (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11344": {
+      "good_id": "11344",
+      "name": "海豹短刀（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Classic Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11345": {
+      "good_id": "11345",
+      "name": "海豹短刀（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Classic Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11346": {
+      "good_id": "11346",
+      "name": "海豹短刀（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Classic Knife | Stained (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11349": {
+      "good_id": "11349",
+      "name": "海豹短刀（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Classic Knife | Blue Steel (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11350": {
+      "good_id": "11350",
+      "name": "海豹短刀（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Crimson Web (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11351": {
+      "good_id": "11351",
+      "name": "海豹短刀（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Classic Knife | Crimson Web (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11352": {
+      "good_id": "11352",
+      "name": "海豹短刀（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Fade (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11353": {
+      "good_id": "11353",
+      "name": "海豹短刀（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Classic Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11354": {
+      "good_id": "11354",
+      "name": "海豹短刀（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Classic Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11355": {
+      "good_id": "11355",
+      "name": "海豹短刀（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Scorched (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11356": {
+      "good_id": "11356",
+      "name": "海豹短刀（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Stained (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11357": {
+      "good_id": "11357",
+      "name": "海豹短刀（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Stained (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11358": {
+      "good_id": "11358",
+      "name": "海豹短刀（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Classic Knife | Stained (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11359": {
+      "good_id": "11359",
+      "name": "海豹短刀（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Boreal Forest (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11360": {
+      "good_id": "11360",
+      "name": "海豹短刀（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11361": {
+      "good_id": "11361",
+      "name": "海豹短刀（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11362": {
+      "good_id": "11362",
+      "name": "海豹短刀（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Urban Masked (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11363": {
+      "good_id": "11363",
+      "name": "海豹短刀（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11364": {
+      "good_id": "11364",
+      "name": "海豹短刀（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Classic Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11365": {
+      "good_id": "11365",
+      "name": "海豹短刀（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11366": {
+      "good_id": "11366",
+      "name": "海豹短刀（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11367": {
+      "good_id": "11367",
+      "name": "海豹短刀（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11368": {
+      "good_id": "11368",
+      "name": "海豹短刀（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Classic Knife | Case Hardened (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11369": {
+      "good_id": "11369",
+      "name": "海豹短刀（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Blue Steel (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11370": {
+      "good_id": "11370",
+      "name": "海豹短刀（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11371": {
+      "good_id": "11371",
+      "name": "海豹短刀（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Slaughter (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11372": {
+      "good_id": "11372",
+      "name": "海豹短刀（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Crimson Web (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11373": {
+      "good_id": "11373",
+      "name": "海豹短刀（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Classic Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11374": {
+      "good_id": "11374",
+      "name": "海豹短刀（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Classic Knife | Urban Masked (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11376": {
+      "good_id": "11376",
+      "name": "海豹短刀（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Safari Mesh (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11377": {
+      "good_id": "11377",
+      "name": "海豹短刀（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Crimson Web (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11378": {
+      "good_id": "11378",
+      "name": "海豹短刀（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Case Hardened (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11380": {
+      "good_id": "11380",
+      "name": "海豹短刀（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Case Hardened (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11381": {
+      "good_id": "11381",
+      "name": "海豹短刀（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Classic Knife | Safari Mesh (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11382": {
+      "good_id": "11382",
+      "name": "海豹短刀（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11383": {
+      "good_id": "11383",
+      "name": "海豹短刀（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Case Hardened (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11384": {
+      "good_id": "11384",
+      "name": "海豹短刀（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11385": {
+      "good_id": "11385",
+      "name": "海豹短刀（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11386": {
+      "good_id": "11386",
+      "name": "海豹短刀（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Urban Masked (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11387": {
+      "good_id": "11387",
+      "name": "海豹短刀（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Stained (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11388": {
+      "good_id": "11388",
+      "name": "海豹短刀（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Crimson Web (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11389": {
+      "good_id": "11389",
+      "name": "海豹短刀（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Classic Knife",
+      "keyword": "海豹短刀"
+    },
+    "11390": {
+      "good_id": "11390",
+      "name": "海豹短刀（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Stained (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11391": {
+      "good_id": "11391",
+      "name": "海豹短刀（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Safari Mesh (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11392": {
+      "good_id": "11392",
+      "name": "海豹短刀（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Case Hardened (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11393": {
+      "good_id": "11393",
+      "name": "海豹短刀（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Boreal Forest (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11394": {
+      "good_id": "11394",
+      "name": "海豹短刀（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Scorched (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11395": {
+      "good_id": "11395",
+      "name": "海豹短刀（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Fade (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11396": {
+      "good_id": "11396",
+      "name": "海豹短刀（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Scorched (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11397": {
+      "good_id": "11397",
+      "name": "海豹短刀（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Stained (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11398": {
+      "good_id": "11398",
+      "name": "海豹短刀（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11400": {
+      "good_id": "11400",
+      "name": "海豹短刀（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Urban Masked (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11401": {
+      "good_id": "11401",
+      "name": "海豹短刀（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Boreal Forest (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "11402": {
+      "good_id": "11402",
+      "name": "海豹短刀（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Stained (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11403": {
+      "good_id": "11403",
+      "name": "海豹短刀（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11404": {
+      "good_id": "11404",
+      "name": "海豹短刀（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "海豹短刀"
+    },
+    "11405": {
+      "good_id": "11405",
+      "name": "海豹短刀（★ StatTrak™） | 夜色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "11406": {
+      "good_id": "11406",
+      "name": "海豹短刀（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Slaughter (Field-Tested)",
+      "keyword": "海豹短刀"
+    },
+    "11407": {
+      "good_id": "11407",
+      "name": "海豹短刀（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Safari Mesh (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "11408": {
+      "good_id": "11408",
+      "name": "海豹短刀（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Stained (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "12061": {
+      "good_id": "12061",
+      "name": "海豹短刀（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Scorched (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "12119": {
+      "good_id": "12119",
+      "name": "海豹短刀（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Forest DDPAT (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "18937": {
+      "good_id": "18937",
+      "name": "海豹短刀（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Slaughter (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "19015": {
+      "good_id": "19015",
+      "name": "海豹短刀（★） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ Classic Knife | Night Stripe (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "19016": {
+      "good_id": "19016",
+      "name": "海豹短刀（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "海豹短刀"
+    },
+    "19046": {
+      "good_id": "19046",
+      "name": "海豹短刀（★ StatTrak™） | 夜色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Night Stripe (Well-Worn)",
+      "keyword": "海豹短刀"
+    },
+    "19082": {
+      "good_id": "19082",
+      "name": "海豹短刀（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "19136": {
+      "good_id": "19136",
+      "name": "海豹短刀（★ StatTrak™） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Scorched (Factory New)",
+      "keyword": "海豹短刀"
+    },
+    "19137": {
+      "good_id": "19137",
+      "name": "海豹短刀（★ StatTrak™） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Classic Knife | Forest DDPAT (Factory New)",
+      "keyword": "海豹短刀"
+    }
+  }
+}

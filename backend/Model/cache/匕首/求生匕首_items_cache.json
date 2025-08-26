@@ -1,0 +1,830 @@
+{
+  "knife_type": "求生匕首",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:07:09.647940",
+  "total_items": 137,
+  "items": {
+    "11726": {
+      "good_id": "11726",
+      "name": "求生匕首（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Blue Steel (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11752": {
+      "good_id": "11752",
+      "name": "求生匕首（★）",
+      "market_hash_name": "★ Survival Knife",
+      "keyword": "求生匕首"
+    },
+    "11756": {
+      "good_id": "11756",
+      "name": "求生匕首（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Case Hardened (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "11760": {
+      "good_id": "11760",
+      "name": "求生匕首（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11779": {
+      "good_id": "11779",
+      "name": "求生匕首（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Blue Steel (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "11785": {
+      "good_id": "11785",
+      "name": "求生匕首（★ StatTrak™） | 夜色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11793": {
+      "good_id": "11793",
+      "name": "求生匕首（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Stained (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11797": {
+      "good_id": "11797",
+      "name": "求生匕首（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11799": {
+      "good_id": "11799",
+      "name": "求生匕首（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Crimson Web (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11800": {
+      "good_id": "11800",
+      "name": "求生匕首（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11806": {
+      "good_id": "11806",
+      "name": "求生匕首（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Scorched (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11811": {
+      "good_id": "11811",
+      "name": "求生匕首（★） | 夜色 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Night Stripe (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11818": {
+      "good_id": "11818",
+      "name": "求生匕首（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Boreal Forest (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11819": {
+      "good_id": "11819",
+      "name": "求生匕首（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Scorched (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11824": {
+      "good_id": "11824",
+      "name": "求生匕首（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Slaughter (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11835": {
+      "good_id": "11835",
+      "name": "求生匕首（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11836": {
+      "good_id": "11836",
+      "name": "求生匕首（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11848": {
+      "good_id": "11848",
+      "name": "求生匕首（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Slaughter (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "11849": {
+      "good_id": "11849",
+      "name": "求生匕首（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Safari Mesh (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11853": {
+      "good_id": "11853",
+      "name": "求生匕首（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Case Hardened (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "11854": {
+      "good_id": "11854",
+      "name": "求生匕首（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Scorched (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11861": {
+      "good_id": "11861",
+      "name": "求生匕首（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Fade (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "11894": {
+      "good_id": "11894",
+      "name": "求生匕首（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11895": {
+      "good_id": "11895",
+      "name": "求生匕首（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11896": {
+      "good_id": "11896",
+      "name": "求生匕首（★） | 夜色 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11897": {
+      "good_id": "11897",
+      "name": "求生匕首（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11898": {
+      "good_id": "11898",
+      "name": "求生匕首（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Slaughter (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11899": {
+      "good_id": "11899",
+      "name": "求生匕首（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Stained (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11900": {
+      "good_id": "11900",
+      "name": "求生匕首（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Stained (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "11901": {
+      "good_id": "11901",
+      "name": "求生匕首（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11902": {
+      "good_id": "11902",
+      "name": "求生匕首（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Urban Masked (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11906": {
+      "good_id": "11906",
+      "name": "求生匕首（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11913": {
+      "good_id": "11913",
+      "name": "求生匕首（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Case Hardened (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11916": {
+      "good_id": "11916",
+      "name": "求生匕首（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Case Hardened (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11919": {
+      "good_id": "11919",
+      "name": "求生匕首（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Urban Masked (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11930": {
+      "good_id": "11930",
+      "name": "求生匕首（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Blue Steel (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "11931": {
+      "good_id": "11931",
+      "name": "求生匕首（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11932": {
+      "good_id": "11932",
+      "name": "求生匕首（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11935": {
+      "good_id": "11935",
+      "name": "求生匕首（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "11940": {
+      "good_id": "11940",
+      "name": "求生匕首（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Crimson Web (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11941": {
+      "good_id": "11941",
+      "name": "求生匕首（★ StatTrak™） | 夜色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11946": {
+      "good_id": "11946",
+      "name": "求生匕首（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "11950": {
+      "good_id": "11950",
+      "name": "求生匕首（★） | 夜色 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Night Stripe (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11952": {
+      "good_id": "11952",
+      "name": "求生匕首（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Urban Masked (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "11954": {
+      "good_id": "11954",
+      "name": "求生匕首（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Crimson Web (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "11961": {
+      "good_id": "11961",
+      "name": "求生匕首（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Stained (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "11963": {
+      "good_id": "11963",
+      "name": "求生匕首（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Survival Knife",
+      "keyword": "求生匕首"
+    },
+    "11965": {
+      "good_id": "11965",
+      "name": "求生匕首（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Scorched (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "11967": {
+      "good_id": "11967",
+      "name": "求生匕首（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11980": {
+      "good_id": "11980",
+      "name": "求生匕首（★） | 夜色 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Night Stripe (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "11987": {
+      "good_id": "11987",
+      "name": "求生匕首（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11989": {
+      "good_id": "11989",
+      "name": "求生匕首（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Blue Steel (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "11991": {
+      "good_id": "11991",
+      "name": "求生匕首（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "12006": {
+      "good_id": "12006",
+      "name": "求生匕首（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "12007": {
+      "good_id": "12007",
+      "name": "求生匕首（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "12008": {
+      "good_id": "12008",
+      "name": "求生匕首（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Fade (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "12009": {
+      "good_id": "12009",
+      "name": "求生匕首（★ StatTrak™） | 夜色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "12010": {
+      "good_id": "12010",
+      "name": "求生匕首（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "12011": {
+      "good_id": "12011",
+      "name": "求生匕首（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "12012": {
+      "good_id": "12012",
+      "name": "求生匕首（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Stained (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "12013": {
+      "good_id": "12013",
+      "name": "求生匕首（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Fade (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "12014": {
+      "good_id": "12014",
+      "name": "求生匕首（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "12015": {
+      "good_id": "12015",
+      "name": "求生匕首（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Safari Mesh (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "12019": {
+      "good_id": "12019",
+      "name": "求生匕首（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Slaughter (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "12022": {
+      "good_id": "12022",
+      "name": "求生匕首（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "12024": {
+      "good_id": "12024",
+      "name": "求生匕首（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "12032": {
+      "good_id": "12032",
+      "name": "求生匕首（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "12033": {
+      "good_id": "12033",
+      "name": "求生匕首（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "12034": {
+      "good_id": "12034",
+      "name": "求生匕首（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Stained (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "12035": {
+      "good_id": "12035",
+      "name": "求生匕首（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Boreal Forest (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "12041": {
+      "good_id": "12041",
+      "name": "求生匕首（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "12042": {
+      "good_id": "12042",
+      "name": "求生匕首（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "12043": {
+      "good_id": "12043",
+      "name": "求生匕首（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Urban Masked (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "12045": {
+      "good_id": "12045",
+      "name": "求生匕首（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "12049": {
+      "good_id": "12049",
+      "name": "求生匕首（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "12053": {
+      "good_id": "12053",
+      "name": "求生匕首（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Urban Masked (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "12062": {
+      "good_id": "12062",
+      "name": "求生匕首（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Stained (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "12067": {
+      "good_id": "12067",
+      "name": "求生匕首（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Urban Masked (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "12101": {
+      "good_id": "12101",
+      "name": "求生匕首（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "12103": {
+      "good_id": "12103",
+      "name": "求生匕首（★ StatTrak™） | 夜色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "12105": {
+      "good_id": "12105",
+      "name": "求生匕首（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Scorched (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "12116": {
+      "good_id": "12116",
+      "name": "求生匕首（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "12117": {
+      "good_id": "12117",
+      "name": "求生匕首（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Slaughter (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "12118": {
+      "good_id": "12118",
+      "name": "求生匕首（★） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Night Stripe (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "12121": {
+      "good_id": "12121",
+      "name": "求生匕首（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "12130": {
+      "good_id": "12130",
+      "name": "求生匕首（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "12132": {
+      "good_id": "12132",
+      "name": "求生匕首（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "12134": {
+      "good_id": "12134",
+      "name": "求生匕首（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Urban Masked (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "12138": {
+      "good_id": "12138",
+      "name": "求生匕首（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "12140": {
+      "good_id": "12140",
+      "name": "求生匕首（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Safari Mesh (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "12141": {
+      "good_id": "12141",
+      "name": "求生匕首（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "12143": {
+      "good_id": "12143",
+      "name": "求生匕首（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "12144": {
+      "good_id": "12144",
+      "name": "求生匕首（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "12151": {
+      "good_id": "12151",
+      "name": "求生匕首（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "12153": {
+      "good_id": "12153",
+      "name": "求生匕首（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Crimson Web (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "12360": {
+      "good_id": "12360",
+      "name": "求生匕首（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Boreal Forest (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "13144": {
+      "good_id": "13144",
+      "name": "求生匕首（★ StatTrak™） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "18924": {
+      "good_id": "18924",
+      "name": "求生匕首（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Stained (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "18951": {
+      "good_id": "18951",
+      "name": "求生匕首（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "18992": {
+      "good_id": "18992",
+      "name": "求生匕首（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "18993": {
+      "good_id": "18993",
+      "name": "求生匕首（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "18994": {
+      "good_id": "18994",
+      "name": "求生匕首（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Stained (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "19045": {
+      "good_id": "19045",
+      "name": "求生匕首（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Slaughter (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "19079": {
+      "good_id": "19079",
+      "name": "求生匕首（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Forest DDPAT (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "19124": {
+      "good_id": "19124",
+      "name": "求生匕首（★ StatTrak™） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "19134": {
+      "good_id": "19134",
+      "name": "求生匕首（★ StatTrak™） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "19135": {
+      "good_id": "19135",
+      "name": "求生匕首（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Fade (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "21757": {
+      "good_id": "21757",
+      "name": "求生匕首（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Rust Coat (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "21758": {
+      "good_id": "21758",
+      "name": "求生匕首（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "21759": {
+      "good_id": "21759",
+      "name": "求生匕首（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "21760": {
+      "good_id": "21760",
+      "name": "求生匕首（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Doppler (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "21761": {
+      "good_id": "21761",
+      "name": "求生匕首（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Damascus Steel (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "21762": {
+      "good_id": "21762",
+      "name": "求生匕首（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "21763": {
+      "good_id": "21763",
+      "name": "求生匕首（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Marble Fade (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "21764": {
+      "good_id": "21764",
+      "name": "求生匕首（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Marble Fade (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "21765": {
+      "good_id": "21765",
+      "name": "求生匕首（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Marble Fade (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "21766": {
+      "good_id": "21766",
+      "name": "求生匕首（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Marble Fade (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "21767": {
+      "good_id": "21767",
+      "name": "求生匕首（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "21768": {
+      "good_id": "21768",
+      "name": "求生匕首（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Ultraviolet (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "21769": {
+      "good_id": "21769",
+      "name": "求生匕首（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Ultraviolet (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "21770": {
+      "good_id": "21770",
+      "name": "求生匕首（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Survival Knife | Tiger Tooth (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "21771": {
+      "good_id": "21771",
+      "name": "求生匕首（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "21877": {
+      "good_id": "21877",
+      "name": "求生匕首（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "21878": {
+      "good_id": "21878",
+      "name": "求生匕首（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "21939": {
+      "good_id": "21939",
+      "name": "求生匕首（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "21940": {
+      "good_id": "21940",
+      "name": "求生匕首（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Tiger Tooth (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "22216": {
+      "good_id": "22216",
+      "name": "求生匕首（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Survival Knife | Doppler (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "22217": {
+      "good_id": "22217",
+      "name": "求生匕首（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Doppler (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "22218": {
+      "good_id": "22218",
+      "name": "求生匕首（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Doppler (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "22258": {
+      "good_id": "22258",
+      "name": "求生匕首（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Survival Knife | Damascus Steel (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "22259": {
+      "good_id": "22259",
+      "name": "求生匕首（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Survival Knife | Damascus Steel (Well-Worn)",
+      "keyword": "求生匕首"
+    },
+    "22260": {
+      "good_id": "22260",
+      "name": "求生匕首（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Survival Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "22261": {
+      "good_id": "22261",
+      "name": "求生匕首（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "求生匕首"
+    },
+    "22262": {
+      "good_id": "22262",
+      "name": "求生匕首（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Damascus Steel (Factory New)",
+      "keyword": "求生匕首"
+    },
+    "22263": {
+      "good_id": "22263",
+      "name": "求生匕首（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "求生匕首"
+    },
+    "22264": {
+      "good_id": "22264",
+      "name": "求生匕首（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Damascus Steel (Field-Tested)",
+      "keyword": "求生匕首"
+    },
+    "22265": {
+      "good_id": "22265",
+      "name": "求生匕首（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Survival Knife | Damascus Steel (Well-Worn)",
+      "keyword": "求生匕首"
+    }
+  }
+}

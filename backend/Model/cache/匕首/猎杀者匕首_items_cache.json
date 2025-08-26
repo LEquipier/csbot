@@ -1,0 +1,1076 @@
+{
+  "knife_type": "猎杀者匕首",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:02:58.733443",
+  "total_items": 178,
+  "items": {
+    "7139": {
+      "good_id": "7139",
+      "name": "猎杀者匕首（★）",
+      "market_hash_name": "★ Huntsman Knife",
+      "keyword": "猎杀者匕首"
+    },
+    "7140": {
+      "good_id": "7140",
+      "name": "猎杀者匕首（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7141": {
+      "good_id": "7141",
+      "name": "猎杀者匕首（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Blue Steel (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7142": {
+      "good_id": "7142",
+      "name": "猎杀者匕首（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Blue Steel (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7143": {
+      "good_id": "7143",
+      "name": "猎杀者匕首（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Blue Steel (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7144": {
+      "good_id": "7144",
+      "name": "猎杀者匕首（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Blue Steel (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7145": {
+      "good_id": "7145",
+      "name": "猎杀者匕首（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7146": {
+      "good_id": "7146",
+      "name": "猎杀者匕首（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Boreal Forest (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7147": {
+      "good_id": "7147",
+      "name": "猎杀者匕首（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Boreal Forest (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7148": {
+      "good_id": "7148",
+      "name": "猎杀者匕首（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7149": {
+      "good_id": "7149",
+      "name": "猎杀者匕首（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Case Hardened (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7150": {
+      "good_id": "7150",
+      "name": "猎杀者匕首（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Case Hardened (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7151": {
+      "good_id": "7151",
+      "name": "猎杀者匕首（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7152": {
+      "good_id": "7152",
+      "name": "猎杀者匕首（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Crimson Web (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7153": {
+      "good_id": "7153",
+      "name": "猎杀者匕首（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Crimson Web (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7154": {
+      "good_id": "7154",
+      "name": "猎杀者匕首（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Crimson Web (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7155": {
+      "good_id": "7155",
+      "name": "猎杀者匕首（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7156": {
+      "good_id": "7156",
+      "name": "猎杀者匕首（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Damascus Steel (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7157": {
+      "good_id": "7157",
+      "name": "猎杀者匕首（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Damascus Steel (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7158": {
+      "good_id": "7158",
+      "name": "猎杀者匕首（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7159": {
+      "good_id": "7159",
+      "name": "猎杀者匕首（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Damascus Steel (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7160": {
+      "good_id": "7160",
+      "name": "猎杀者匕首（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Doppler (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7161": {
+      "good_id": "7161",
+      "name": "猎杀者匕首（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Doppler (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7162": {
+      "good_id": "7162",
+      "name": "猎杀者匕首（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Fade (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7163": {
+      "good_id": "7163",
+      "name": "猎杀者匕首（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Fade (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7164": {
+      "good_id": "7164",
+      "name": "猎杀者匕首（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7165": {
+      "good_id": "7165",
+      "name": "猎杀者匕首（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7166": {
+      "good_id": "7166",
+      "name": "猎杀者匕首（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7167": {
+      "good_id": "7167",
+      "name": "猎杀者匕首（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7168": {
+      "good_id": "7168",
+      "name": "猎杀者匕首（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Marble Fade (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7169": {
+      "good_id": "7169",
+      "name": "猎杀者匕首（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Marble Fade (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7170": {
+      "good_id": "7170",
+      "name": "猎杀者匕首（★） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Night (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7171": {
+      "good_id": "7171",
+      "name": "猎杀者匕首（★） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Night (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7172": {
+      "good_id": "7172",
+      "name": "猎杀者匕首（★） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Night (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7173": {
+      "good_id": "7173",
+      "name": "猎杀者匕首（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7174": {
+      "good_id": "7174",
+      "name": "猎杀者匕首（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7175": {
+      "good_id": "7175",
+      "name": "猎杀者匕首（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Safari Mesh (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7176": {
+      "good_id": "7176",
+      "name": "猎杀者匕首（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7177": {
+      "good_id": "7177",
+      "name": "猎杀者匕首（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Safari Mesh (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7178": {
+      "good_id": "7178",
+      "name": "猎杀者匕首（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Scorched (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7179": {
+      "good_id": "7179",
+      "name": "猎杀者匕首（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Scorched (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7180": {
+      "good_id": "7180",
+      "name": "猎杀者匕首（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Scorched (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7181": {
+      "good_id": "7181",
+      "name": "猎杀者匕首（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Scorched (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7182": {
+      "good_id": "7182",
+      "name": "猎杀者匕首（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Slaughter (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7183": {
+      "good_id": "7183",
+      "name": "猎杀者匕首（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Slaughter (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7184": {
+      "good_id": "7184",
+      "name": "猎杀者匕首（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Slaughter (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7185": {
+      "good_id": "7185",
+      "name": "猎杀者匕首（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Stained (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7186": {
+      "good_id": "7186",
+      "name": "猎杀者匕首（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Stained (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7187": {
+      "good_id": "7187",
+      "name": "猎杀者匕首（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Stained (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7188": {
+      "good_id": "7188",
+      "name": "猎杀者匕首（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Stained (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7189": {
+      "good_id": "7189",
+      "name": "猎杀者匕首（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Tiger Tooth (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7190": {
+      "good_id": "7190",
+      "name": "猎杀者匕首（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7191": {
+      "good_id": "7191",
+      "name": "猎杀者匕首（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7192": {
+      "good_id": "7192",
+      "name": "猎杀者匕首（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Ultraviolet (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7193": {
+      "good_id": "7193",
+      "name": "猎杀者匕首（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7194": {
+      "good_id": "7194",
+      "name": "猎杀者匕首（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Ultraviolet (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7195": {
+      "good_id": "7195",
+      "name": "猎杀者匕首（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7196": {
+      "good_id": "7196",
+      "name": "猎杀者匕首（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Urban Masked (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7779": {
+      "good_id": "7779",
+      "name": "猎杀者匕首（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife",
+      "keyword": "猎杀者匕首"
+    },
+    "7780": {
+      "good_id": "7780",
+      "name": "猎杀者匕首（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Blue Steel (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7781": {
+      "good_id": "7781",
+      "name": "猎杀者匕首（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Blue Steel (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7782": {
+      "good_id": "7782",
+      "name": "猎杀者匕首（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7783": {
+      "good_id": "7783",
+      "name": "猎杀者匕首（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Boreal Forest (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7784": {
+      "good_id": "7784",
+      "name": "猎杀者匕首（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Case Hardened (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7785": {
+      "good_id": "7785",
+      "name": "猎杀者匕首（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Case Hardened (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7786": {
+      "good_id": "7786",
+      "name": "猎杀者匕首（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Case Hardened (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "7787": {
+      "good_id": "7787",
+      "name": "猎杀者匕首（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7788": {
+      "good_id": "7788",
+      "name": "猎杀者匕首（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Crimson Web (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7789": {
+      "good_id": "7789",
+      "name": "猎杀者匕首（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Crimson Web (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7790": {
+      "good_id": "7790",
+      "name": "猎杀者匕首（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Damascus Steel (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7791": {
+      "good_id": "7791",
+      "name": "猎杀者匕首（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Damascus Steel (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7792": {
+      "good_id": "7792",
+      "name": "猎杀者匕首（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7793": {
+      "good_id": "7793",
+      "name": "猎杀者匕首（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Doppler (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7794": {
+      "good_id": "7794",
+      "name": "猎杀者匕首（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Doppler (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7795": {
+      "good_id": "7795",
+      "name": "猎杀者匕首（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Fade (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7796": {
+      "good_id": "7796",
+      "name": "猎杀者匕首（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7797": {
+      "good_id": "7797",
+      "name": "猎杀者匕首（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Marble Fade (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7798": {
+      "good_id": "7798",
+      "name": "猎杀者匕首（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7799": {
+      "good_id": "7799",
+      "name": "猎杀者匕首（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Safari Mesh (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7800": {
+      "good_id": "7800",
+      "name": "猎杀者匕首（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "7801": {
+      "good_id": "7801",
+      "name": "猎杀者匕首（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Scorched (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7802": {
+      "good_id": "7802",
+      "name": "猎杀者匕首（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Tiger Tooth (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "7803": {
+      "good_id": "7803",
+      "name": "猎杀者匕首（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Ultraviolet (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "7804": {
+      "good_id": "7804",
+      "name": "猎杀者匕首（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "7805": {
+      "good_id": "7805",
+      "name": "猎杀者匕首（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Urban Masked (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "8029": {
+      "good_id": "8029",
+      "name": "猎杀者匕首（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "8064": {
+      "good_id": "8064",
+      "name": "猎杀者匕首（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Rust Coat (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "8080": {
+      "good_id": "8080",
+      "name": "猎杀者匕首（★） | 噩梦之夜 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Night (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "8342": {
+      "good_id": "8342",
+      "name": "猎杀者匕首（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "8378": {
+      "good_id": "8378",
+      "name": "猎杀者匕首（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Stained (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "8416": {
+      "good_id": "8416",
+      "name": "猎杀者匕首（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Scorched (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "12155": {
+      "good_id": "12155",
+      "name": "猎杀者匕首（★ StatTrak™） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Ultraviolet (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "13754": {
+      "good_id": "13754",
+      "name": "猎杀者匕首（★） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Gamma Doppler (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "13789": {
+      "good_id": "13789",
+      "name": "猎杀者匕首（★） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Black Laminate (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "13840": {
+      "good_id": "13840",
+      "name": "猎杀者匕首（★） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Black Laminate (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "13864": {
+      "good_id": "13864",
+      "name": "猎杀者匕首（★） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Bright Water (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "13868": {
+      "good_id": "13868",
+      "name": "猎杀者匕首（★） | 传说 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Lore (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "13873": {
+      "good_id": "13873",
+      "name": "猎杀者匕首（★） | 自动化 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Autotronic (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "13877": {
+      "good_id": "13877",
+      "name": "猎杀者匕首（★） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Freehand (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "13881": {
+      "good_id": "13881",
+      "name": "猎杀者匕首（★） | 传说 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Lore (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "13885": {
+      "good_id": "13885",
+      "name": "猎杀者匕首（★） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Black Laminate (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "13904": {
+      "good_id": "13904",
+      "name": "猎杀者匕首（★） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Black Laminate (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "13925": {
+      "good_id": "13925",
+      "name": "猎杀者匕首（★） | 自动化 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Autotronic (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "13927": {
+      "good_id": "13927",
+      "name": "猎杀者匕首（★ StatTrak™） | 自动化 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Autotronic (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "13939": {
+      "good_id": "13939",
+      "name": "猎杀者匕首（★） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Freehand (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "13941": {
+      "good_id": "13941",
+      "name": "猎杀者匕首（★ StatTrak™） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Bright Water (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "13955": {
+      "good_id": "13955",
+      "name": "猎杀者匕首（★） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Bright Water (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "13962": {
+      "good_id": "13962",
+      "name": "猎杀者匕首（★） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Freehand (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "13966": {
+      "good_id": "13966",
+      "name": "猎杀者匕首（★ StatTrak™） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Black Laminate (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "13974": {
+      "good_id": "13974",
+      "name": "猎杀者匕首（★ StatTrak™） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Bright Water (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "13978": {
+      "good_id": "13978",
+      "name": "猎杀者匕首（★） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Black Laminate (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "13986": {
+      "good_id": "13986",
+      "name": "猎杀者匕首（★） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Bright Water (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "13992": {
+      "good_id": "13992",
+      "name": "猎杀者匕首（★） | 传说 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Lore (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "13996": {
+      "good_id": "13996",
+      "name": "猎杀者匕首（★ StatTrak™） | 传说 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Lore (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "14013": {
+      "good_id": "14013",
+      "name": "猎杀者匕首（★ StatTrak™） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Gamma Doppler (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "14018": {
+      "good_id": "14018",
+      "name": "猎杀者匕首（★） | 自动化 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Autotronic (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "14022": {
+      "good_id": "14022",
+      "name": "猎杀者匕首（★） | 自动化 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Autotronic (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "14026": {
+      "good_id": "14026",
+      "name": "猎杀者匕首（★） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Bright Water (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "14027": {
+      "good_id": "14027",
+      "name": "猎杀者匕首（★） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Freehand (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "14032": {
+      "good_id": "14032",
+      "name": "猎杀者匕首（★ StatTrak™） | 自动化 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Autotronic (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "14033": {
+      "good_id": "14033",
+      "name": "猎杀者匕首（★ StatTrak™） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Bright Water (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "14045": {
+      "good_id": "14045",
+      "name": "猎杀者匕首（★ StatTrak™） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Freehand (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "14047": {
+      "good_id": "14047",
+      "name": "猎杀者匕首（★） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Autotronic (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "14061": {
+      "good_id": "14061",
+      "name": "猎杀者匕首（★） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Gamma Doppler (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "14068": {
+      "good_id": "14068",
+      "name": "猎杀者匕首（★ StatTrak™） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Gamma Doppler (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "14070": {
+      "good_id": "14070",
+      "name": "猎杀者匕首（★ StatTrak™） | 传说 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Lore (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "14073": {
+      "good_id": "14073",
+      "name": "猎杀者匕首（★） | 传说 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Lore (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "14085": {
+      "good_id": "14085",
+      "name": "猎杀者匕首（★） | 传说 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Lore (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "14094": {
+      "good_id": "14094",
+      "name": "猎杀者匕首（★ StatTrak™） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Black Laminate (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "14097": {
+      "good_id": "14097",
+      "name": "猎杀者匕首（★ StatTrak™） | 传说 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Lore (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "14099": {
+      "good_id": "14099",
+      "name": "猎杀者匕首（★） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Bright Water (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "14100": {
+      "good_id": "14100",
+      "name": "猎杀者匕首（★ StatTrak™） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Bright Water (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "14106": {
+      "good_id": "14106",
+      "name": "猎杀者匕首（★ StatTrak™） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Black Laminate (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "14116": {
+      "good_id": "14116",
+      "name": "猎杀者匕首（★ StatTrak™） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Autotronic (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "14674": {
+      "good_id": "14674",
+      "name": "猎杀者匕首（★ StatTrak™） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Black Laminate (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "18910": {
+      "good_id": "18910",
+      "name": "猎杀者匕首（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Huntsman Knife | Urban Masked (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "18913": {
+      "good_id": "18913",
+      "name": "猎杀者匕首（★） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Freehand (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "18916": {
+      "good_id": "18916",
+      "name": "猎杀者匕首（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "18926": {
+      "good_id": "18926",
+      "name": "猎杀者匕首（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Case Hardened (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "18928": {
+      "good_id": "18928",
+      "name": "猎杀者匕首（★ StatTrak™） | 自动化 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Autotronic (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "18929": {
+      "good_id": "18929",
+      "name": "猎杀者匕首（★ StatTrak™） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Freehand (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "18930": {
+      "good_id": "18930",
+      "name": "猎杀者匕首（★ StatTrak™） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Freehand (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "18931": {
+      "good_id": "18931",
+      "name": "猎杀者匕首（★ StatTrak™） | 传说 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Lore (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "18934": {
+      "good_id": "18934",
+      "name": "猎杀者匕首（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Huntsman Knife | Urban Masked (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "18935": {
+      "good_id": "18935",
+      "name": "猎杀者匕首（★ StatTrak™） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Black Laminate (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "18949": {
+      "good_id": "18949",
+      "name": "猎杀者匕首（★） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ Huntsman Knife | Night (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "18978": {
+      "good_id": "18978",
+      "name": "猎杀者匕首（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Ultraviolet (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "18988": {
+      "good_id": "18988",
+      "name": "猎杀者匕首（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Huntsman Knife | Crimson Web (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "19032": {
+      "good_id": "19032",
+      "name": "猎杀者匕首（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Stained (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "19042": {
+      "good_id": "19042",
+      "name": "猎杀者匕首（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Stained (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "19061": {
+      "good_id": "19061",
+      "name": "猎杀者匕首（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Slaughter (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "19062": {
+      "good_id": "19062",
+      "name": "猎杀者匕首（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Slaughter (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "19063": {
+      "good_id": "19063",
+      "name": "猎杀者匕首（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "19071": {
+      "good_id": "19071",
+      "name": "猎杀者匕首（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Case Hardened (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "19076": {
+      "good_id": "19076",
+      "name": "猎杀者匕首（★ StatTrak™） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Bright Water (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "19093": {
+      "good_id": "19093",
+      "name": "猎杀者匕首（★ StatTrak™） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "19110": {
+      "good_id": "19110",
+      "name": "猎杀者匕首（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Urban Masked (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "19111": {
+      "good_id": "19111",
+      "name": "猎杀者匕首（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Ultraviolet (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "19112": {
+      "good_id": "19112",
+      "name": "猎杀者匕首（★ StatTrak™） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Night (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "19113": {
+      "good_id": "19113",
+      "name": "猎杀者匕首（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Fade (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "19128": {
+      "good_id": "19128",
+      "name": "猎杀者匕首（★ StatTrak™） | 传说 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Lore (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "19129": {
+      "good_id": "19129",
+      "name": "猎杀者匕首（★ StatTrak™） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Freehand (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "19161": {
+      "good_id": "19161",
+      "name": "猎杀者匕首（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Blue Steel (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "19166": {
+      "good_id": "19166",
+      "name": "猎杀者匕首（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Safari Mesh (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "19167": {
+      "good_id": "19167",
+      "name": "猎杀者匕首（★ StatTrak™） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Night (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "19171": {
+      "good_id": "19171",
+      "name": "猎杀者匕首（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Damascus Steel (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "19186": {
+      "good_id": "19186",
+      "name": "猎杀者匕首（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Stained (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "19187": {
+      "good_id": "19187",
+      "name": "猎杀者匕首（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Stained (Field-Tested)",
+      "keyword": "猎杀者匕首"
+    },
+    "19188": {
+      "good_id": "19188",
+      "name": "猎杀者匕首（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Stained (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "19189": {
+      "good_id": "19189",
+      "name": "猎杀者匕首（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Scorched (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "19190": {
+      "good_id": "19190",
+      "name": "猎杀者匕首（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Scorched (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "19191": {
+      "good_id": "19191",
+      "name": "猎杀者匕首（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Scorched (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "19192": {
+      "good_id": "19192",
+      "name": "猎杀者匕首（★ StatTrak™） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Night (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "19193": {
+      "good_id": "19193",
+      "name": "猎杀者匕首（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Boreal Forest (Well-Worn)",
+      "keyword": "猎杀者匕首"
+    },
+    "19194": {
+      "good_id": "19194",
+      "name": "猎杀者匕首（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "猎杀者匕首"
+    },
+    "19195": {
+      "good_id": "19195",
+      "name": "猎杀者匕首（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Huntsman Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "猎杀者匕首"
+    },
+    "19212": {
+      "good_id": "19212",
+      "name": "猎杀者匕首（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Safari Mesh (Factory New)",
+      "keyword": "猎杀者匕首"
+    },
+    "19213": {
+      "good_id": "19213",
+      "name": "猎杀者匕首（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Huntsman Knife | Boreal Forest (Factory New)",
+      "keyword": "猎杀者匕首"
+    }
+  }
+}

@@ -1,0 +1,1124 @@
+{
+  "knife_type": "暗影双匕",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:04:50.366184",
+  "total_items": 186,
+  "items": {
+    "7380": {
+      "good_id": "7380",
+      "name": "暗影双匕（★）",
+      "market_hash_name": "★ Shadow Daggers",
+      "keyword": "暗影双匕"
+    },
+    "7381": {
+      "good_id": "7381",
+      "name": "暗影双匕（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Blue Steel (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7382": {
+      "good_id": "7382",
+      "name": "暗影双匕（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Blue Steel (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7383": {
+      "good_id": "7383",
+      "name": "暗影双匕（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Blue Steel (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7384": {
+      "good_id": "7384",
+      "name": "暗影双匕（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Blue Steel (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7385": {
+      "good_id": "7385",
+      "name": "暗影双匕（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Blue Steel (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7386": {
+      "good_id": "7386",
+      "name": "暗影双匕（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Boreal Forest (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7387": {
+      "good_id": "7387",
+      "name": "暗影双匕（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Boreal Forest (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7388": {
+      "good_id": "7388",
+      "name": "暗影双匕（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Boreal Forest (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7389": {
+      "good_id": "7389",
+      "name": "暗影双匕（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Case Hardened (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7390": {
+      "good_id": "7390",
+      "name": "暗影双匕（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Case Hardened (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7391": {
+      "good_id": "7391",
+      "name": "暗影双匕（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Case Hardened (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7392": {
+      "good_id": "7392",
+      "name": "暗影双匕（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Case Hardened (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7393": {
+      "good_id": "7393",
+      "name": "暗影双匕（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Case Hardened (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7394": {
+      "good_id": "7394",
+      "name": "暗影双匕（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Crimson Web (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7395": {
+      "good_id": "7395",
+      "name": "暗影双匕（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Crimson Web (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7396": {
+      "good_id": "7396",
+      "name": "暗影双匕（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Crimson Web (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7397": {
+      "good_id": "7397",
+      "name": "暗影双匕（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Crimson Web (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7398": {
+      "good_id": "7398",
+      "name": "暗影双匕（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Damascus Steel (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7399": {
+      "good_id": "7399",
+      "name": "暗影双匕（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Damascus Steel (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7400": {
+      "good_id": "7400",
+      "name": "暗影双匕（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Damascus Steel (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7401": {
+      "good_id": "7401",
+      "name": "暗影双匕（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Damascus Steel (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7402": {
+      "good_id": "7402",
+      "name": "暗影双匕（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Damascus Steel (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7403": {
+      "good_id": "7403",
+      "name": "暗影双匕（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Doppler (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7404": {
+      "good_id": "7404",
+      "name": "暗影双匕（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Doppler (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7405": {
+      "good_id": "7405",
+      "name": "暗影双匕（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Fade (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7406": {
+      "good_id": "7406",
+      "name": "暗影双匕（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Fade (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7407": {
+      "good_id": "7407",
+      "name": "暗影双匕（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Forest DDPAT (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7408": {
+      "good_id": "7408",
+      "name": "暗影双匕（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Forest DDPAT (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7409": {
+      "good_id": "7409",
+      "name": "暗影双匕（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Forest DDPAT (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7410": {
+      "good_id": "7410",
+      "name": "暗影双匕（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Forest DDPAT (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7411": {
+      "good_id": "7411",
+      "name": "暗影双匕（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Forest DDPAT (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7412": {
+      "good_id": "7412",
+      "name": "暗影双匕（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Marble Fade (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7413": {
+      "good_id": "7413",
+      "name": "暗影双匕（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Marble Fade (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7414": {
+      "good_id": "7414",
+      "name": "暗影双匕（★） | 噩梦之夜 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Night (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7415": {
+      "good_id": "7415",
+      "name": "暗影双匕（★） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Night (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7416": {
+      "good_id": "7416",
+      "name": "暗影双匕（★） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Night (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7417": {
+      "good_id": "7417",
+      "name": "暗影双匕（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Rust Coat (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7418": {
+      "good_id": "7418",
+      "name": "暗影双匕（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Rust Coat (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7419": {
+      "good_id": "7419",
+      "name": "暗影双匕（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Safari Mesh (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7420": {
+      "good_id": "7420",
+      "name": "暗影双匕（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Safari Mesh (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7421": {
+      "good_id": "7421",
+      "name": "暗影双匕（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Safari Mesh (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7422": {
+      "good_id": "7422",
+      "name": "暗影双匕（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Safari Mesh (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7423": {
+      "good_id": "7423",
+      "name": "暗影双匕（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Safari Mesh (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7424": {
+      "good_id": "7424",
+      "name": "暗影双匕（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Scorched (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7425": {
+      "good_id": "7425",
+      "name": "暗影双匕（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Scorched (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7426": {
+      "good_id": "7426",
+      "name": "暗影双匕（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Scorched (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7427": {
+      "good_id": "7427",
+      "name": "暗影双匕（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Scorched (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7428": {
+      "good_id": "7428",
+      "name": "暗影双匕（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Slaughter (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7429": {
+      "good_id": "7429",
+      "name": "暗影双匕（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Slaughter (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7430": {
+      "good_id": "7430",
+      "name": "暗影双匕（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Slaughter (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7431": {
+      "good_id": "7431",
+      "name": "暗影双匕（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Stained (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7432": {
+      "good_id": "7432",
+      "name": "暗影双匕（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Stained (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7433": {
+      "good_id": "7433",
+      "name": "暗影双匕（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Stained (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7434": {
+      "good_id": "7434",
+      "name": "暗影双匕（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Stained (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7435": {
+      "good_id": "7435",
+      "name": "暗影双匕（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Stained (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7436": {
+      "good_id": "7436",
+      "name": "暗影双匕（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Tiger Tooth (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7437": {
+      "good_id": "7437",
+      "name": "暗影双匕（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Tiger Tooth (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7438": {
+      "good_id": "7438",
+      "name": "暗影双匕（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Ultraviolet (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7439": {
+      "good_id": "7439",
+      "name": "暗影双匕（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Ultraviolet (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7440": {
+      "good_id": "7440",
+      "name": "暗影双匕（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Ultraviolet (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7441": {
+      "good_id": "7441",
+      "name": "暗影双匕（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Ultraviolet (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7442": {
+      "good_id": "7442",
+      "name": "暗影双匕（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Ultraviolet (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7443": {
+      "good_id": "7443",
+      "name": "暗影双匕（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Urban Masked (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7444": {
+      "good_id": "7444",
+      "name": "暗影双匕（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Urban Masked (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7445": {
+      "good_id": "7445",
+      "name": "暗影双匕（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Urban Masked (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7446": {
+      "good_id": "7446",
+      "name": "暗影双匕（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Urban Masked (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7937": {
+      "good_id": "7937",
+      "name": "暗影双匕（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers",
+      "keyword": "暗影双匕"
+    },
+    "7938": {
+      "good_id": "7938",
+      "name": "暗影双匕（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Blue Steel (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7939": {
+      "good_id": "7939",
+      "name": "暗影双匕（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7940": {
+      "good_id": "7940",
+      "name": "暗影双匕（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Case Hardened (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7941": {
+      "good_id": "7941",
+      "name": "暗影双匕（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Case Hardened (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7942": {
+      "good_id": "7942",
+      "name": "暗影双匕（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Case Hardened (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7943": {
+      "good_id": "7943",
+      "name": "暗影双匕（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Case Hardened (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7944": {
+      "good_id": "7944",
+      "name": "暗影双匕（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7945": {
+      "good_id": "7945",
+      "name": "暗影双匕（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7946": {
+      "good_id": "7946",
+      "name": "暗影双匕（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Damascus Steel (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7947": {
+      "good_id": "7947",
+      "name": "暗影双匕（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Damascus Steel (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7948": {
+      "good_id": "7948",
+      "name": "暗影双匕（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Doppler (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7949": {
+      "good_id": "7949",
+      "name": "暗影双匕（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Doppler (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7950": {
+      "good_id": "7950",
+      "name": "暗影双匕（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Fade (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7951": {
+      "good_id": "7951",
+      "name": "暗影双匕（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7952": {
+      "good_id": "7952",
+      "name": "暗影双匕（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7953": {
+      "good_id": "7953",
+      "name": "暗影双匕（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Marble Fade (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7954": {
+      "good_id": "7954",
+      "name": "暗影双匕（★ StatTrak™） | 噩梦之夜 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Night (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7955": {
+      "good_id": "7955",
+      "name": "暗影双匕（★ StatTrak™） | 噩梦之夜 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Night (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7956": {
+      "good_id": "7956",
+      "name": "暗影双匕（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Rust Coat (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7957": {
+      "good_id": "7957",
+      "name": "暗影双匕（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Safari Mesh (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7958": {
+      "good_id": "7958",
+      "name": "暗影双匕（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7959": {
+      "good_id": "7959",
+      "name": "暗影双匕（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7960": {
+      "good_id": "7960",
+      "name": "暗影双匕（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Slaughter (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7961": {
+      "good_id": "7961",
+      "name": "暗影双匕（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Slaughter (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7962": {
+      "good_id": "7962",
+      "name": "暗影双匕（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Slaughter (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7963": {
+      "good_id": "7963",
+      "name": "暗影双匕（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Stained (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7964": {
+      "good_id": "7964",
+      "name": "暗影双匕（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Stained (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7965": {
+      "good_id": "7965",
+      "name": "暗影双匕（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Stained (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7966": {
+      "good_id": "7966",
+      "name": "暗影双匕（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Stained (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "7967": {
+      "good_id": "7967",
+      "name": "暗影双匕（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Tiger Tooth (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "7968": {
+      "good_id": "7968",
+      "name": "暗影双匕（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "7969": {
+      "good_id": "7969",
+      "name": "暗影双匕（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "7970": {
+      "good_id": "7970",
+      "name": "暗影双匕（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "7971": {
+      "good_id": "7971",
+      "name": "暗影双匕（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Urban Masked (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "8033": {
+      "good_id": "8033",
+      "name": "暗影双匕（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Damascus Steel (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "8071": {
+      "good_id": "8071",
+      "name": "暗影双匕（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Damascus Steel (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "8101": {
+      "good_id": "8101",
+      "name": "暗影双匕（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Boreal Forest (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "8228": {
+      "good_id": "8228",
+      "name": "暗影双匕（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Crimson Web (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "8343": {
+      "good_id": "8343",
+      "name": "暗影双匕（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "8409": {
+      "good_id": "8409",
+      "name": "暗影双匕（★ StatTrak™） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Rust Coat (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "8432": {
+      "good_id": "8432",
+      "name": "暗影双匕（★ StatTrak™） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Safari Mesh (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "8434": {
+      "good_id": "8434",
+      "name": "暗影双匕（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Stained (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "8435": {
+      "good_id": "8435",
+      "name": "暗影双匕（★ StatTrak™） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "9496": {
+      "good_id": "9496",
+      "name": "暗影双匕（★ StatTrak™） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "13753": {
+      "good_id": "13753",
+      "name": "暗影双匕（★） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Gamma Doppler (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "13836": {
+      "good_id": "13836",
+      "name": "暗影双匕（★ StatTrak™） | 伽玛多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Gamma Doppler (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "13839": {
+      "good_id": "13839",
+      "name": "暗影双匕（★） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Freehand (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "13841": {
+      "good_id": "13841",
+      "name": "暗影双匕（★） | 传说 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Lore (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "13865": {
+      "good_id": "13865",
+      "name": "暗影双匕（★） | 传说 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Lore (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "13874": {
+      "good_id": "13874",
+      "name": "暗影双匕（★） | 传说 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Lore (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "13883": {
+      "good_id": "13883",
+      "name": "暗影双匕（★） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Bright Water (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "13884": {
+      "good_id": "13884",
+      "name": "暗影双匕（★） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Black Laminate (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "13895": {
+      "good_id": "13895",
+      "name": "暗影双匕（★ StatTrak™） | 自动化 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Autotronic (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "13913": {
+      "good_id": "13913",
+      "name": "暗影双匕（★） | 传说 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Lore (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "13923": {
+      "good_id": "13923",
+      "name": "暗影双匕（★） | 自动化 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Autotronic (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "13937": {
+      "good_id": "13937",
+      "name": "暗影双匕（★） | 传说 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Lore (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "13940": {
+      "good_id": "13940",
+      "name": "暗影双匕（★） | 自动化 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Autotronic (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "13944": {
+      "good_id": "13944",
+      "name": "暗影双匕（★） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Black Laminate (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "13945": {
+      "good_id": "13945",
+      "name": "暗影双匕（★ StatTrak™） | 自由之手 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "13953": {
+      "good_id": "13953",
+      "name": "暗影双匕（★） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Bright Water (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "13970": {
+      "good_id": "13970",
+      "name": "暗影双匕（★） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Black Laminate (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "13971": {
+      "good_id": "13971",
+      "name": "暗影双匕（★） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Freehand (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "13972": {
+      "good_id": "13972",
+      "name": "暗影双匕（★） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ Shadow Daggers | Black Laminate (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "13981": {
+      "good_id": "13981",
+      "name": "暗影双匕（★） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Bright Water (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "13985": {
+      "good_id": "13985",
+      "name": "暗影双匕（★ StatTrak™） | 澄澈之水 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Bright Water (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "13987": {
+      "good_id": "13987",
+      "name": "暗影双匕（★ StatTrak™） | 传说 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Lore (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "13989": {
+      "good_id": "13989",
+      "name": "暗影双匕（★） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Freehand (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "13990": {
+      "good_id": "13990",
+      "name": "暗影双匕（★） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Black Laminate (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "13994": {
+      "good_id": "13994",
+      "name": "暗影双匕（★ StatTrak™） | 自动化 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Autotronic (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "13997": {
+      "good_id": "13997",
+      "name": "暗影双匕（★） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Freehand (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "14007": {
+      "good_id": "14007",
+      "name": "暗影双匕（★） | 自动化 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Autotronic (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "14028": {
+      "good_id": "14028",
+      "name": "暗影双匕（★） | 自动化 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Autotronic (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "14034": {
+      "good_id": "14034",
+      "name": "暗影双匕（★ StatTrak™） | 黑色层压板 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Black Laminate (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "14035": {
+      "good_id": "14035",
+      "name": "暗影双匕（★ StatTrak™） | 澄澈之水 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Bright Water (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "14036": {
+      "good_id": "14036",
+      "name": "暗影双匕（★ StatTrak™） | 自由之手 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "14037": {
+      "good_id": "14037",
+      "name": "暗影双匕（★ StatTrak™） | 传说 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Lore (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "14038": {
+      "good_id": "14038",
+      "name": "暗影双匕（★ StatTrak™） | 自由之手 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "14046": {
+      "good_id": "14046",
+      "name": "暗影双匕（★ StatTrak™） | 黑色层压板 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Black Laminate (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "14048": {
+      "good_id": "14048",
+      "name": "暗影双匕（★） | 澄澈之水 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Bright Water (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "14054": {
+      "good_id": "14054",
+      "name": "暗影双匕（★ StatTrak™） | 传说 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Lore (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "14056": {
+      "good_id": "14056",
+      "name": "暗影双匕（★ StatTrak™） | 黑色层压板 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Black Laminate (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "14064": {
+      "good_id": "14064",
+      "name": "暗影双匕（★） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Freehand (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "14067": {
+      "good_id": "14067",
+      "name": "暗影双匕（★ StatTrak™） | 传说 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Lore (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "14074": {
+      "good_id": "14074",
+      "name": "暗影双匕（★） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Autotronic (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "14075": {
+      "good_id": "14075",
+      "name": "暗影双匕（★） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ Shadow Daggers | Gamma Doppler (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "14080": {
+      "good_id": "14080",
+      "name": "暗影双匕（★ StatTrak™） | 澄澈之水 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Bright Water (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "14087": {
+      "good_id": "14087",
+      "name": "暗影双匕（★ StatTrak™） | 伽玛多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Gamma Doppler (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "14101": {
+      "good_id": "14101",
+      "name": "暗影双匕（★ StatTrak™） | 传说 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Lore (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "14104": {
+      "good_id": "14104",
+      "name": "暗影双匕（★） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ Shadow Daggers | Bright Water (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "14112": {
+      "good_id": "14112",
+      "name": "暗影双匕（★ StatTrak™） | 黑色层压板 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Black Laminate (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "14119": {
+      "good_id": "14119",
+      "name": "暗影双匕（★ StatTrak™） | 澄澈之水 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Bright Water (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "14231": {
+      "good_id": "14231",
+      "name": "暗影双匕（★ StatTrak™） | 自由之手 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "18923": {
+      "good_id": "18923",
+      "name": "暗影双匕（★ StatTrak™） | 自动化 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Autotronic (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "18932": {
+      "good_id": "18932",
+      "name": "暗影双匕（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "18979": {
+      "good_id": "18979",
+      "name": "暗影双匕（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Blue Steel (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "18991": {
+      "good_id": "18991",
+      "name": "暗影双匕（★ StatTrak™） | 自动化 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Autotronic (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "18999": {
+      "good_id": "18999",
+      "name": "暗影双匕（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Safari Mesh (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "19007": {
+      "good_id": "19007",
+      "name": "暗影双匕（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Boreal Forest (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "19010": {
+      "good_id": "19010",
+      "name": "暗影双匕（★ StatTrak™） | 自由之手 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "19011": {
+      "good_id": "19011",
+      "name": "暗影双匕（★ StatTrak™） | 黑色层压板 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Black Laminate (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "19041": {
+      "good_id": "19041",
+      "name": "暗影双匕（★） | 噩梦之夜 (破损不堪)",
+      "market_hash_name": "★ Shadow Daggers | Night (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "19058": {
+      "good_id": "19058",
+      "name": "暗影双匕（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Field-Tested)",
+      "keyword": "暗影双匕"
+    },
+    "19059": {
+      "good_id": "19059",
+      "name": "暗影双匕（★ StatTrak™） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "19060": {
+      "good_id": "19060",
+      "name": "暗影双匕（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "19070": {
+      "good_id": "19070",
+      "name": "暗影双匕（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Urban Masked (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "19105": {
+      "good_id": "19105",
+      "name": "暗影双匕（★ StatTrak™） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Tiger Tooth (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "19107": {
+      "good_id": "19107",
+      "name": "暗影双匕（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "19127": {
+      "good_id": "19127",
+      "name": "暗影双匕（★ StatTrak™） | 自动化 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Autotronic (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "19152": {
+      "good_id": "19152",
+      "name": "暗影双匕（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Fade (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "19172": {
+      "good_id": "19172",
+      "name": "暗影双匕（★） | 噩梦之夜 (崭新出厂)",
+      "market_hash_name": "★ Shadow Daggers | Night (Factory New)",
+      "keyword": "暗影双匕"
+    },
+    "19177": {
+      "good_id": "19177",
+      "name": "暗影双匕（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Urban Masked (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "19178": {
+      "good_id": "19178",
+      "name": "暗影双匕（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Urban Masked (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "19179": {
+      "good_id": "19179",
+      "name": "暗影双匕（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Minimal Wear)",
+      "keyword": "暗影双匕"
+    },
+    "19180": {
+      "good_id": "19180",
+      "name": "暗影双匕（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Safari Mesh (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "19181": {
+      "good_id": "19181",
+      "name": "暗影双匕（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "19182": {
+      "good_id": "19182",
+      "name": "暗影双匕（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    },
+    "19183": {
+      "good_id": "19183",
+      "name": "暗影双匕（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Blue Steel (Well-Worn)",
+      "keyword": "暗影双匕"
+    },
+    "19184": {
+      "good_id": "19184",
+      "name": "暗影双匕（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Shadow Daggers | Blue Steel (Battle-Scarred)",
+      "keyword": "暗影双匕"
+    }
+  }
+}

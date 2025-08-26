@@ -1,0 +1,848 @@
+{
+  "knife_type": "系绳匕首",
+  "category": "匕首",
+  "cache_time": "2025-08-25T01:06:50.053042",
+  "total_items": 140,
+  "items": {
+    "11630": {
+      "good_id": "11630",
+      "name": "系绳匕首（★） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Case Hardened (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11700": {
+      "good_id": "11700",
+      "name": "系绳匕首（★） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Case Hardened (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "11712": {
+      "good_id": "11712",
+      "name": "系绳匕首（★ StatTrak™） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Scorched (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11735": {
+      "good_id": "11735",
+      "name": "系绳匕首（★） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11736": {
+      "good_id": "11736",
+      "name": "系绳匕首（★） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Crimson Web (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11754": {
+      "good_id": "11754",
+      "name": "系绳匕首（★） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Fade (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "11771": {
+      "good_id": "11771",
+      "name": "系绳匕首（★） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11776": {
+      "good_id": "11776",
+      "name": "系绳匕首（★） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Stained (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11792": {
+      "good_id": "11792",
+      "name": "系绳匕首（★ StatTrak™） | 渐变之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Fade (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "11798": {
+      "good_id": "11798",
+      "name": "系绳匕首（★） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11804": {
+      "good_id": "11804",
+      "name": "系绳匕首（★）",
+      "market_hash_name": "★ Paracord Knife",
+      "keyword": "系绳匕首"
+    },
+    "11808": {
+      "good_id": "11808",
+      "name": "系绳匕首（★） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Safari Mesh (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11809": {
+      "good_id": "11809",
+      "name": "系绳匕首（★ StatTrak™）",
+      "market_hash_name": "★ StatTrak™ Paracord Knife",
+      "keyword": "系绳匕首"
+    },
+    "11812": {
+      "good_id": "11812",
+      "name": "系绳匕首（★） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Crimson Web (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11816": {
+      "good_id": "11816",
+      "name": "系绳匕首（★） | 夜色 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11822": {
+      "good_id": "11822",
+      "name": "系绳匕首（★） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Stained (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11829": {
+      "good_id": "11829",
+      "name": "系绳匕首（★） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Scorched (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11830": {
+      "good_id": "11830",
+      "name": "系绳匕首（★ StatTrak™） | 夜色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Night Stripe (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11832": {
+      "good_id": "11832",
+      "name": "系绳匕首（★ StatTrak™） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11833": {
+      "good_id": "11833",
+      "name": "系绳匕首（★） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Stained (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "11837": {
+      "good_id": "11837",
+      "name": "系绳匕首（★） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Urban Masked (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11839": {
+      "good_id": "11839",
+      "name": "系绳匕首（★） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Slaughter (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11842": {
+      "good_id": "11842",
+      "name": "系绳匕首（★） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Stained (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "11852": {
+      "good_id": "11852",
+      "name": "系绳匕首（★） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11857": {
+      "good_id": "11857",
+      "name": "系绳匕首（★） | 枯焦之色 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Scorched (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11858": {
+      "good_id": "11858",
+      "name": "系绳匕首（★） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Boreal Forest (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11859": {
+      "good_id": "11859",
+      "name": "系绳匕首（★） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11863": {
+      "good_id": "11863",
+      "name": "系绳匕首（★） | 夜色 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Night Stripe (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11875": {
+      "good_id": "11875",
+      "name": "系绳匕首（★） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Blue Steel (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11876": {
+      "good_id": "11876",
+      "name": "系绳匕首（★） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Blue Steel (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11877": {
+      "good_id": "11877",
+      "name": "系绳匕首（★） | 森林 DDPAT (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Forest DDPAT (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11878": {
+      "good_id": "11878",
+      "name": "系绳匕首（★） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11879": {
+      "good_id": "11879",
+      "name": "系绳匕首（★） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Scorched (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11880": {
+      "good_id": "11880",
+      "name": "系绳匕首（★） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Slaughter (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "11887": {
+      "good_id": "11887",
+      "name": "系绳匕首（★ StatTrak™） | 蓝钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Blue Steel (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11888": {
+      "good_id": "11888",
+      "name": "系绳匕首（★ StatTrak™） | 枯焦之色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Scorched (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11912": {
+      "good_id": "11912",
+      "name": "系绳匕首（★） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Blue Steel (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "11914": {
+      "good_id": "11914",
+      "name": "系绳匕首（★ StatTrak™） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11925": {
+      "good_id": "11925",
+      "name": "系绳匕首（★） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Crimson Web (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "11926": {
+      "good_id": "11926",
+      "name": "系绳匕首（★） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Slaughter (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11927": {
+      "good_id": "11927",
+      "name": "系绳匕首（★） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Urban Masked (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "11938": {
+      "good_id": "11938",
+      "name": "系绳匕首（★） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Scorched (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "11942": {
+      "good_id": "11942",
+      "name": "系绳匕首（★） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Case Hardened (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11943": {
+      "good_id": "11943",
+      "name": "系绳匕首（★ StatTrak™） | 都市伪装 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Urban Masked (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11947": {
+      "good_id": "11947",
+      "name": "系绳匕首（★ StatTrak™） | 北方森林 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Boreal Forest (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "11959": {
+      "good_id": "11959",
+      "name": "系绳匕首（★） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11966": {
+      "good_id": "11966",
+      "name": "系绳匕首（★） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Urban Masked (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11968": {
+      "good_id": "11968",
+      "name": "系绳匕首（★） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Stained (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11970": {
+      "good_id": "11970",
+      "name": "系绳匕首（★ StatTrak™） | 深红之网 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Crimson Web (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11971": {
+      "good_id": "11971",
+      "name": "系绳匕首（★ StatTrak™） | 森林 DDPAT (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Forest DDPAT (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11972": {
+      "good_id": "11972",
+      "name": "系绳匕首（★） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "11976": {
+      "good_id": "11976",
+      "name": "系绳匕首（★） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Blue Steel (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "11978": {
+      "good_id": "11978",
+      "name": "系绳匕首（★） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "11982": {
+      "good_id": "11982",
+      "name": "系绳匕首（★ StatTrak™） | 屠夫 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Slaughter (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "11988": {
+      "good_id": "11988",
+      "name": "系绳匕首（★） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "11995": {
+      "good_id": "11995",
+      "name": "系绳匕首（★） | 夜色 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Night Stripe (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "12000": {
+      "good_id": "12000",
+      "name": "系绳匕首（★ StatTrak™） | 蓝钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Blue Steel (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "12001": {
+      "good_id": "12001",
+      "name": "系绳匕首（★ StatTrak™） | 森林 DDPAT (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Forest DDPAT (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "12002": {
+      "good_id": "12002",
+      "name": "系绳匕首（★ StatTrak™） | 狩猎网格 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Safari Mesh (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "12003": {
+      "good_id": "12003",
+      "name": "系绳匕首（★ StatTrak™） | 枯焦之色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Scorched (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "12004": {
+      "good_id": "12004",
+      "name": "系绳匕首（★ StatTrak™） | 屠夫 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Slaughter (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "12020": {
+      "good_id": "12020",
+      "name": "系绳匕首（★） | 深红之网 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Crimson Web (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "12021": {
+      "good_id": "12021",
+      "name": "系绳匕首（★ StatTrak™） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Crimson Web (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "12030": {
+      "good_id": "12030",
+      "name": "系绳匕首（★ StatTrak™） | 人工染色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Stained (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "12036": {
+      "good_id": "12036",
+      "name": "系绳匕首（★ StatTrak™） | 深红之网 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Crimson Web (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "12037": {
+      "good_id": "12037",
+      "name": "系绳匕首（★） | 北方森林 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Boreal Forest (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "12038": {
+      "good_id": "12038",
+      "name": "系绳匕首（★） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Case Hardened (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "12047": {
+      "good_id": "12047",
+      "name": "系绳匕首（★ StatTrak™） | 表面淬火 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Case Hardened (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "12048": {
+      "good_id": "12048",
+      "name": "系绳匕首（★） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Safari Mesh (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "12050": {
+      "good_id": "12050",
+      "name": "系绳匕首（★ StatTrak™） | 人工染色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Stained (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "12052": {
+      "good_id": "12052",
+      "name": "系绳匕首（★ StatTrak™） | 表面淬火 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Case Hardened (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "12055": {
+      "good_id": "12055",
+      "name": "系绳匕首（★ StatTrak™） | 狩猎网格 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Safari Mesh (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "12057": {
+      "good_id": "12057",
+      "name": "系绳匕首（★） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Fade (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "12058": {
+      "good_id": "12058",
+      "name": "系绳匕首（★ StatTrak™） | 表面淬火 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Case Hardened (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "12059": {
+      "good_id": "12059",
+      "name": "系绳匕首（★） | 北方森林 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Boreal Forest (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "12060": {
+      "good_id": "12060",
+      "name": "系绳匕首（★ StatTrak™） | 北方森林 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Boreal Forest (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "12063": {
+      "good_id": "12063",
+      "name": "系绳匕首（★） | 夜色 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Night Stripe (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "12066": {
+      "good_id": "12066",
+      "name": "系绳匕首（★ StatTrak™） | 人工染色 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Stained (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "12068": {
+      "good_id": "12068",
+      "name": "系绳匕首（★ StatTrak™） | 都市伪装 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Urban Masked (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "12089": {
+      "good_id": "12089",
+      "name": "系绳匕首（★ StatTrak™） | 都市伪装 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Urban Masked (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "12090": {
+      "good_id": "12090",
+      "name": "系绳匕首（★ StatTrak™） | 夜色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Night Stripe (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "12091": {
+      "good_id": "12091",
+      "name": "系绳匕首（★ StatTrak™） | 狩猎网格 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Safari Mesh (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "12092": {
+      "good_id": "12092",
+      "name": "系绳匕首（★ StatTrak™） | 蓝钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Blue Steel (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "12093": {
+      "good_id": "12093",
+      "name": "系绳匕首（★） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Scorched (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "12097": {
+      "good_id": "12097",
+      "name": "系绳匕首（★ StatTrak™） | 夜色 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Night Stripe (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "12102": {
+      "good_id": "12102",
+      "name": "系绳匕首（★） | 深红之网 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Crimson Web (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "12109": {
+      "good_id": "12109",
+      "name": "系绳匕首（★ StatTrak™） | 表面淬火 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Case Hardened (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "12110": {
+      "good_id": "12110",
+      "name": "系绳匕首（★ StatTrak™） | 表面淬火 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Case Hardened (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "12115": {
+      "good_id": "12115",
+      "name": "系绳匕首（★ StatTrak™） | 蓝钢 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Blue Steel (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "12124": {
+      "good_id": "12124",
+      "name": "系绳匕首（★ StatTrak™） | 枯焦之色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Scorched (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "12136": {
+      "good_id": "12136",
+      "name": "系绳匕首（★） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Forest DDPAT (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "12137": {
+      "good_id": "12137",
+      "name": "系绳匕首（★） | 都市伪装 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Urban Masked (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "12152": {
+      "good_id": "12152",
+      "name": "系绳匕首（★ StatTrak™） | 都市伪装 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Urban Masked (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "12158": {
+      "good_id": "12158",
+      "name": "系绳匕首（★ StatTrak™） | 森林 DDPAT (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Forest DDPAT (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "12324": {
+      "good_id": "12324",
+      "name": "系绳匕首（★ StatTrak™） | 屠夫 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Slaughter (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "12361": {
+      "good_id": "12361",
+      "name": "系绳匕首（★） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Safari Mesh (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "12502": {
+      "good_id": "12502",
+      "name": "系绳匕首（★ StatTrak™） | 人工染色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Stained (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "13147": {
+      "good_id": "13147",
+      "name": "系绳匕首（★ StatTrak™） | 蓝钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Blue Steel (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "18921": {
+      "good_id": "18921",
+      "name": "系绳匕首（★ StatTrak™） | 人工染色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Stained (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "18995": {
+      "good_id": "18995",
+      "name": "系绳匕首（★ StatTrak™） | 北方森林 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Boreal Forest (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "19013": {
+      "good_id": "19013",
+      "name": "系绳匕首（★ StatTrak™） | 狩猎网格 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Safari Mesh (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "19014": {
+      "good_id": "19014",
+      "name": "系绳匕首（★） | 夜色 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Night Stripe (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "19044": {
+      "good_id": "19044",
+      "name": "系绳匕首（★ StatTrak™） | 森林 DDPAT (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Forest DDPAT (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "19078": {
+      "good_id": "19078",
+      "name": "系绳匕首（★ StatTrak™） | 深红之网 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Crimson Web (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "19080": {
+      "good_id": "19080",
+      "name": "系绳匕首（★ StatTrak™） | 渐变之色 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Fade (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "19081": {
+      "good_id": "19081",
+      "name": "系绳匕首（★ StatTrak™） | 夜色 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Night Stripe (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "19130": {
+      "good_id": "19130",
+      "name": "系绳匕首（★ StatTrak™） | 狩猎网格 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Safari Mesh (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "19131": {
+      "good_id": "19131",
+      "name": "系绳匕首（★ StatTrak™） | 枯焦之色 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Scorched (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "21787": {
+      "good_id": "21787",
+      "name": "系绳匕首（★） | 外表生锈 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Rust Coat (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "21788": {
+      "good_id": "21788",
+      "name": "系绳匕首（★） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Doppler (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "21789": {
+      "good_id": "21789",
+      "name": "系绳匕首（★） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Doppler (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "21790": {
+      "good_id": "21790",
+      "name": "系绳匕首（★） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Damascus Steel (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "21791": {
+      "good_id": "21791",
+      "name": "系绳匕首（★） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Marble Fade (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "21792": {
+      "good_id": "21792",
+      "name": "系绳匕首（★） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Marble Fade (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "21793": {
+      "good_id": "21793",
+      "name": "系绳匕首（★） | 致命紫罗兰 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Ultraviolet (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "21794": {
+      "good_id": "21794",
+      "name": "系绳匕首（★） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "21795": {
+      "good_id": "21795",
+      "name": "系绳匕首（★） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ Paracord Knife | Tiger Tooth (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "21942": {
+      "good_id": "21942",
+      "name": "系绳匕首（★） | 虎牙 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Tiger Tooth (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "22228": {
+      "good_id": "22228",
+      "name": "系绳匕首（★） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "22229": {
+      "good_id": "22229",
+      "name": "系绳匕首（★ StatTrak™） | 外表生锈 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Rust Coat (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "22230": {
+      "good_id": "22230",
+      "name": "系绳匕首（★ StatTrak™） | 多普勒 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Doppler (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "22231": {
+      "good_id": "22231",
+      "name": "系绳匕首（★ StatTrak™） | 多普勒 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Doppler (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "22232": {
+      "good_id": "22232",
+      "name": "系绳匕首（★） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ Paracord Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "22233": {
+      "good_id": "22233",
+      "name": "系绳匕首（★） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Damascus Steel (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "22234": {
+      "good_id": "22234",
+      "name": "系绳匕首（★） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Damascus Steel (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "22235": {
+      "good_id": "22235",
+      "name": "系绳匕首（★） | 大马士革钢 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Damascus Steel (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "22236": {
+      "good_id": "22236",
+      "name": "系绳匕首（★ StatTrak™） | 大马士革钢 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Damascus Steel (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "22237": {
+      "good_id": "22237",
+      "name": "系绳匕首（★ StatTrak™） | 大马士革钢 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Damascus Steel (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "22238": {
+      "good_id": "22238",
+      "name": "系绳匕首（★ StatTrak™） | 大马士革钢 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Damascus Steel (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "22239": {
+      "good_id": "22239",
+      "name": "系绳匕首（★ StatTrak™） | 大马士革钢 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Damascus Steel (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "22240": {
+      "good_id": "22240",
+      "name": "系绳匕首（★ StatTrak™） | 渐变大理石 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Marble Fade (Factory New)",
+      "keyword": "系绳匕首"
+    },
+    "22241": {
+      "good_id": "22241",
+      "name": "系绳匕首（★ StatTrak™） | 渐变大理石 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Marble Fade (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "22242": {
+      "good_id": "22242",
+      "name": "系绳匕首（★） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ Paracord Knife | Ultraviolet (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "22243": {
+      "good_id": "22243",
+      "name": "系绳匕首（★） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ Paracord Knife | Ultraviolet (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "22244": {
+      "good_id": "22244",
+      "name": "系绳匕首（★） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ Paracord Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "22245": {
+      "good_id": "22245",
+      "name": "系绳匕首（★ StatTrak™） | 致命紫罗兰 (战痕累累)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Ultraviolet (Battle-Scarred)",
+      "keyword": "系绳匕首"
+    },
+    "22246": {
+      "good_id": "22246",
+      "name": "系绳匕首（★ StatTrak™） | 致命紫罗兰 (略有磨损)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Ultraviolet (Minimal Wear)",
+      "keyword": "系绳匕首"
+    },
+    "22247": {
+      "good_id": "22247",
+      "name": "系绳匕首（★ StatTrak™） | 致命紫罗兰 (久经沙场)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Ultraviolet (Field-Tested)",
+      "keyword": "系绳匕首"
+    },
+    "22248": {
+      "good_id": "22248",
+      "name": "系绳匕首（★ StatTrak™） | 致命紫罗兰 (破损不堪)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Ultraviolet (Well-Worn)",
+      "keyword": "系绳匕首"
+    },
+    "22249": {
+      "good_id": "22249",
+      "name": "系绳匕首（★ StatTrak™） | 虎牙 (崭新出厂)",
+      "market_hash_name": "★ StatTrak™ Paracord Knife | Tiger Tooth (Factory New)",
+      "keyword": "系绳匕首"
+    }
+  }
+}
